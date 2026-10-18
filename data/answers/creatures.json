@@ -1,0 +1,612 @@
+{
+ "id": "creatures",
+ "prompt": "Name a creature, beast or monster",
+ "blurb": "Great beasts, small sprites, and everything that chased the Kings through a dark hallway.",
+ "difficulty": "easy",
+ "gem": "Jopsi",
+ "answerCount": 29,
+ "answers": [
+  {
+   "name": "The Cloister Beast",
+   "aliases": [
+    "Cloister Beast"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 16,
+    "records": 2
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The Tavern Beast",
+   "aliases": [
+    "Tavern Beast",
+    "Great Shelled Beast",
+    "Shelled beast",
+    "Leviathan",
+    "Great Beast"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 14,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…unknown. - Sackbeard's Tavern — The great Shell Tavern built around the carcass of the slain Tavern Beast. Each year the pirates put their differences aside and celebrate together here. - The Cloister…"
+   },
+   "rank": 2,
+   "percentile": 3.6,
+   "score": 1
+  },
+  {
+   "name": "VeilRunner",
+   "aliases": [
+    "Veilrunner",
+    "Veil Runner",
+    "Veilrunners"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 12,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the streets at night by burning slaves alive. His kind had a name for what he had become: a VeilRunner. What Is a VeilRunner? A VeilRunner is a Veilwalker who has turned against the very…"
+   },
+   "rank": 3,
+   "percentile": 7.1,
+   "score": 2
+  },
+  {
+   "name": "Black-boned demons",
+   "aliases": [
+    "bone demons",
+    "demons",
+    "black boned demons"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 1,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drinks 'til he's dead! He's bound by the booze and sworn to the barley — The ale-drinking demon — SHAME-US BONEHARDY! ## A Stronger Pour Buke's mayoral campaign song. In Aleforge town…"
+   },
+   "rank": 4,
+   "percentile": 12.5,
+   "score": 4
+  },
+  {
+   "name": "Dulamon",
+   "aliases": [
+    "Dulamond",
+    "Dulemon"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 0,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Needless to say this wasnt the most welcoming of environments and we were greeted by a chap named Dulemon. He was not there to drink and plunder so I had absolutely nothing in common with this man.…"
+   },
+   "rank": 4,
+   "percentile": 12.5,
+   "score": 4
+  },
+  {
+   "name": "Sackbeard's undead crew",
+   "aliases": [
+    "undead crew",
+    "cursed crew",
+    "Sackbeard's crew"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…navigate very difficult times of economic collapse, political uprisings and the arrival of a cursed crew arriving from the Realm of the Soulless seeking revenge on Gideon Drake. This lead to the…"
+   },
+   "rank": 6,
+   "percentile": 19.6,
+   "score": 9
+  },
+  {
+   "name": "The glowing green frog",
+   "aliases": [
+    "green frog",
+    "frog"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…must've lost a game worse than I did. The old man lifted the cup. No pebble. Just a single frog turd. I blinked. \"That's... not a rock,\" I said, feeling the weight of dozens of eyes pressing…"
+   },
+   "rank": 6,
+   "percentile": 19.6,
+   "score": 9
+  },
+  {
+   "name": "Nymphs",
+   "aliases": [
+    "Nymph"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…pillaged across the earth destroying all semblance of life and nature. The woodland spirits (nymphs, gnomes, fairies and such) could do little against them. So they used their combined magic…"
+   },
+   "rank": 8,
+   "percentile": 25.0,
+   "score": 12
+  },
+  {
+   "name": "Fairies",
+   "aliases": [
+    "Fairy"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the earth destroying all semblance of life and nature. The woodland spirits (nymphs, gnomes, fairies and such) could do little against them. So they used their combined magic to birth \"protectors\"…"
+   },
+   "rank": 9,
+   "percentile": 33.9,
+   "score": 20
+  },
+  {
+   "name": "Gnomes",
+   "aliases": [
+    "Gnome"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…across the earth destroying all semblance of life and nature. The woodland spirits (nymphs, gnomes, fairies and such) could do little against them. So they used their combined magic to birth…"
+   },
+   "rank": 9,
+   "percentile": 33.9,
+   "score": 20
+  },
+  {
+   "name": "Mk. II Autonomous Defense Unit",
+   "aliases": [
+    "Mk II",
+    "security bots",
+    "Autonomous Defense Unit",
+    "defense units"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Address leakages at joints between new and old pipes. [+] Integrate pathfinding nodes for new security bots Cycle 93, Year 3 [+] fuckin hate this job and i don't even think anyone reads these logs.…"
+   },
+   "rank": 9,
+   "percentile": 33.9,
+   "score": 20
+  },
+  {
+   "name": "The Warden",
+   "aliases": [
+    "Warden"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…heretical religious beliefs. What he saw as an asteroid was the egg of a great beast (the warden) which he sought to raise and use as a weapon against the townspeople and eventually the world.…"
+   },
+   "rank": 9,
+   "percentile": 33.9,
+   "score": 20
+  },
+  {
+   "name": "The Whispering Deep",
+   "aliases": [
+    "Whispering Deep",
+    "Whispering Dark",
+    "The Whispering Dark"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…they dug too deep in the mountain, and woke something deep in the earth, known to them as the Whispering Deep. Ever since then it has been slowly hunting them, forcing them to build upwards, now at the…"
+   },
+   "rank": 13,
+   "percentile": 44.6,
+   "score": 30
+  },
+  {
+   "name": "Zombies",
+   "aliases": [
+    "Zombie"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…murder anyone who had a blue bandana on. Our first task, mining. I was brutalized by a few zombies in the mines but eventually just dug down and found diamonds. I was banded upppp. This dumbass…"
+   },
+   "rank": 13,
+   "percentile": 44.6,
+   "score": 30
+  },
+  {
+   "name": "Axolotl",
+   "aliases": [
+    "Little Homie",
+    "Lil Homie"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…funny lookin' creature in a puddle and thought it was a frog. THE FROG Turns out it was an axolotl. Still ain't sure what that is. but I name it little homie #### Taverna After that we wandered…"
+   },
+   "rank": 15,
+   "percentile": 58.9,
+   "score": 45
+  },
+  {
+   "name": "Ender skeletons",
+   "aliases": [
+    "Ender skeleton"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and so much gear. How the hell do i have nothing? Luke and I look around, there's an ender skeleton in a room that he kills for me. Together we teleport to the workshop. Hmmm. This room forsure…"
+   },
+   "rank": 15,
+   "percentile": 58.9,
+   "score": 45
+  },
+  {
+   "name": "Freaky hogs",
+   "aliases": [
+    "Hogs",
+    "Freaky Hog"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the building in an alley way between the estate and the OAM building ##### Freddy Hog's Freaky Hogs Here you can buy the best quality (and the freakiest) hogs in all of Pintland and thats a…"
+   },
+   "rank": 15,
+   "percentile": 58.9,
+   "score": 45
+  },
+  {
+   "name": "Hellish beasts",
+   "aliases": [
+    "Nether beasts",
+    "monstrous beings"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…caution led the scientists to inadvertently breach the Nether, a hellish dimension teeming with monstrous beings. In an instant, the ambitious experiment devolved into catastrophe. Hellish beasts poured…"
+   },
+   "rank": 15,
+   "percentile": 58.9,
+   "score": 45
+  },
+  {
+   "name": "Kraken",
+   "aliases": [
+    "The Kraken"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…We're Desperate or Bored Their fancy brewing tools come wrapped in lace. Ours are built from kraken bone, rusted chain, and spite. We don't want their clean wares or their prayers. We want their…"
+   },
+   "rank": 15,
+   "percentile": 58.9,
+   "score": 45
+  },
+  {
+   "name": "Space critters",
+   "aliases": [
+    "critters"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…I Completion Cycles 63-65: Crawlspace Additions Cycles 66+: Routine maintenance damn critters I've seen more of those damn space critters crawling around again in the maintenance shafts.…"
+   },
+   "rank": 15,
+   "percentile": 58.9,
+   "score": 45
+  },
+  {
+   "name": "Centaurs",
+   "aliases": [
+    "Centaur"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…deeper religious ferocity. He is often heard referring to sprites, nymphs, fauns and even centaurs speaking with him on his farm. Gale has developed a semi religious hierarchy based upon these…"
+   },
+   "rank": 21,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "Fauns",
+   "aliases": [
+    "Faun"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…entered into a deeper religious ferocity. He is often heard referring to sprites, nymphs, fauns and even centaurs speaking with him on his farm. Gale has developed a semi religious hierarchy…"
+   },
+   "rank": 21,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "Iron golems",
+   "aliases": [
+    "Iron golem",
+    "golems"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…into the failsafe and halting the flow of enemies. The rest was history: the 50 iron golems I was shamelessly holding onto did the rest… And now I'm here…in the bathroom…throwing…"
+   },
+   "rank": 21,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "Wither skeletons",
+   "aliases": [
+    "Wither skeleton"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…i was certain it was going to be good for me. Unfortunately i was actually as close to the wither skeleton spawner as you could be, and was killed instantly before i even saw what was there. It was…"
+   },
+   "rank": 21,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "Wolves",
+   "aliases": [
+    "Wolf"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…journey alone with my donkey, Circ. He's a good boy. We crossed shiiiiit icy cliffs, fought off wolves, and huddled by fires until we got there. Hes such a good listener. I love my bvoy circ and…"
+   },
+   "rank": 21,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "Baby kraken",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…easily the most legendary pirate of the eleven seas, first rose to local fame after defeating a baby kraken off the coast of his birth town when he was just a deckhand on a merchant ship. While he would…"
+   },
+   "rank": 26,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "Jopsi",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…major religions in the area, he is deeply superstitious and will do everything he can to avoid Jopsi, a small annoying sprite who is summoned by bad luck. Recently, Gale has entered into a deeper…"
+   },
+   "rank": 26,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "The giant bird",
+   "aliases": [
+    "giant bird",
+    "bird of considerable size",
+    "the bird"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "a bird of considerable size came out of a darkening sky",
+    "note": "It snatched Buke off a beach and carried him for days until his britches gave out."
+   },
+   "rank": 26,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "Werewolf",
+   "aliases": [
+    "Furry",
+    "furry under a full moon"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "by a furry under a full moon",
+    "note": "Something attacked the Kings at the Taverna for nearly an hour under a full moon."
+   },
+   "rank": 29,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

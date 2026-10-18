@@ -1,0 +1,697 @@
+/* Deep Pour: a daily Pintland Isles trivia game. No framework, no build step.
+   Data comes from /data (built by scripts/build.py). Progress lives in localStorage. */
+(() => {
+  "use strict";
+
+  const CFG = window.DEEP_POUR_CONFIG || {};
+  const STATE_PREFIX = "deep-pour:v1:";
+  const NAME_KEY = "deep-pour:name";
+  const TEST_DATE_KEY = "deep-pour:test-date";
+  const MAX_ATTEMPTS = 3; // first try + 2 retries
+  const BLOCKS = "▁▂▃▄▅▆▇█";
+
+  const TIERS = [
+    { min: 0, name: "Sea Foam", line: "Barely past the head. Everyone knows these." },
+    { min: 15, name: "The Whiskey Shallows", line: "Wading depth. A few locals nod along." },
+    { min: 30, name: "Gulf of Aleforge", line: "Harbor water. The pirates have heard of you." },
+    { min: 45, name: "Dead Man Hallows", line: "Down among the wrecks. Scholars take notes." },
+    { min: 60, name: "Bottomless Bay", line: "Past the bridge lights. Hoegaarden wants your library card." },
+    { min: 75, name: "The Labyrinth Below", line: "Under the catacombs. The walls are breathing." },
+    { min: 90, name: "The Pour Eternal", line: "The deepest drop there is. Speak the right name." },
+  ];
+
+  const $ = (sel) => document.querySelector(sel);
+  const main = $("#main");
+  const reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  let prompts = null;
+  let lexicon = {};
+  const answerCache = {};
+  let ctx = null; // { date, dayIndex, picks, cats, state, isToday }
+  let ui = {}; // transient per-prompt UI state
+  let countdownTimer = null;
+
+  /* ---------- storage (never trusted to exist) ---------- */
+  const store = {
+    get(key, fallback = null) {
+      try { const v = localStorage.getItem(key); return v == null ? fallback : JSON.parse(v); } catch { return fallback; }
+    },
+    set(key, value) { try { localStorage.setItem(key, JSON.stringify(value)); } catch { /* private mode */ } },
+    remove(key) { try { localStorage.removeItem(key); } catch { /* ignore */ } },
+  };
+  const session = {
+    get(key) { try { return sessionStorage.getItem(key); } catch { return null; } },
+    set(key, v) { try { sessionStorage.setItem(key, v); } catch { /* ignore */ } },
+  };
+
+  /* ---------- text ---------- */
+  const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+  // Must match normalize() in scripts/lib.py.
+  function normalize(s) {
+    let t = String(s).normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase();
+    t = t.replace(/[‘’`]/g, "'").replace(/'/g, "").replace(/&/g, " and ");
+    t = t.replace(/[^a-z0-9]+/g, " ").trim();
+    for (const art of ["the ", "a ", "an "]) {
+      if (t.startsWith(art) && t.length > art.length) { t = t.slice(art.length); break; }
+    }
+    return t;
+  }
+
+  function levenshtein(a, b) {
+    if (a === b) return 0;
+    let prev = Array.from({ length: b.length + 1 }, (_, i) => i);
+    for (let i = 1; i <= a.length; i++) {
+      const cur = [i];
+      for (let j = 1; j <= b.length; j++) {
+        cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] !== b[j - 1] ? 1 : 0));
+      }
+      prev = cur;
+    }
+    return prev[b.length];
+  }
+  const similarity = (a, b) => 1 - levenshtein(a, b) / Math.max(a.length, b.length, 1);
+
+  /* ---------- dates (the day rolls over at midnight US Eastern) ---------- */
+  function easternParts(date = new Date()) {
+    try {
+      const parts = new Intl.DateTimeFormat("en-US", {
+        timeZone: prompts?.timezone || "America/New_York",
+        year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit", hourCycle: "h23",
+      }).formatToParts(date);
+      const get = (t) => parts.find((p) => p.type === t).value;
+      return { iso: `${get("year")}-${get("month")}-${get("day")}`, h: +get("hour"), m: +get("minute"), s: +get("second") };
+    } catch {
+      const d = date.toISOString();
+      return { iso: d.slice(0, 10), h: date.getUTCHours(), m: date.getUTCMinutes(), s: date.getUTCSeconds() };
+    }
+  }
+  const toUTC = (iso) => { const [y, m, d] = iso.split("-").map(Number); return Date.UTC(y, m - 1, d); };
+  const daysBetween = (a, b) => Math.round((toUTC(b) - toUTC(a)) / 864e5);
+  const addDays = (iso, n) => new Date(toUTC(iso) + n * 864e5).toISOString().slice(0, 10);
+  const prettyDate = (iso) => new Date(toUTC(iso)).toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short", timeZone: "UTC" });
+
+  /* ---------- deterministic daily lineup ---------- */
+  function fnv1a(str) {
+    let h = 0x811c9dc5;
+    for (let i = 0; i < str.length; i++) { h ^= str.charCodeAt(i); h = Math.imul(h, 0x01000193); }
+    return h >>> 0;
+  }
+  function mulberry32(seed) {
+    return () => {
+      seed = (seed + 0x6d2b79f5) | 0;
+      let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+      t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+      return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+    };
+  }
+  function shuffle(arr, rng) {
+    for (let i = arr.length - 1; i > 0; i--) { const j = Math.floor(rng() * (i + 1)); [arr[i], arr[j]] = [arr[j], arr[i]]; }
+    return arr;
+  }
+
+  // Walks forward from the epoch so every day knows what ran before it.
+  // A category sits out for cooldownDays[tier] days after it runs.
+  const schedule = { days: [], lastUsed: {} };
+  function lineupFor(dayIndex) {
+    const { categories, slots, cooldownDays, epoch } = prompts;
+    const tiers = [...new Set(slots)];
+    while (schedule.days.length <= dayIndex) {
+      const d = schedule.days.length;
+      const rng = mulberry32(fnv1a(`deep-pour|${addDays(epoch, d)}`));
+      const lu = schedule.lastUsed;
+      const byTier = {};
+      for (const tier of tiers) {
+        const quota = slots.filter((s) => s === tier).length;
+        const fresh = (id) => lu[id] === undefined || d - lu[id] > (cooldownDays[tier] ?? 0);
+        let pool = shuffle(categories.filter((c) => c.difficulty === tier).map((c) => c.id), rng);
+        if (pool.length < quota) pool = pool.concat(shuffle(categories.map((c) => c.id).filter((id) => !pool.includes(id)), rng));
+        pool.sort((a, b) => {
+          const fa = fresh(a), fb = fresh(b);
+          if (fa !== fb) return fb - fa;
+          return fa ? 0 : (lu[a] ?? -1e9) - (lu[b] ?? -1e9);
+        });
+        byTier[tier] = pool.slice(0, quota);
+      }
+      const picks = slots.map((t) => byTier[t].shift());
+      picks.forEach((id) => { lu[id] = d; });
+      schedule.days.push(picks);
+    }
+    return schedule.days[dayIndex];
+  }
+
+  /* ---------- data ---------- */
+  async function getJSON(path) {
+    const res = await fetch(path, { cache: "no-cache" });
+    if (!res.ok) throw new Error(`${path}: ${res.status}`);
+    return res.json();
+  }
+  async function loadCategory(id) {
+    if (!answerCache[id]) {
+      const cat = await getJSON(`data/answers/${id}.json`);
+      cat.index = new Map();
+      for (const a of cat.answers) {
+        for (const alias of [a.name, ...a.aliases]) {
+          const k = normalize(alias);
+          if (k && !cat.index.has(k)) cat.index.set(k, a);
+        }
+      }
+      answerCache[id] = cat;
+    }
+    return answerCache[id];
+  }
+
+  /* ---------- matching ---------- */
+  function matchAnswer(input, cat) {
+    const n = normalize(input);
+    if (!n) return { type: "empty" };
+    const exact = cat.index.get(n);
+    if (exact) return { type: "exact", answer: exact };
+
+    let best = null, second = null;
+    for (const [key, answer] of cat.index) {
+      let s = similarity(n, key);
+      if (n.length >= 4 && ` ${key} `.includes(` ${n} `)) s = Math.max(s, 0.8); // "thicket" -> "thorny thicket"
+      if (!best || s > best.s) {
+        if (best && best.answer !== answer) second = best;
+        best = { s, answer };
+      } else if (answer !== best.answer && (!second || s > second.s)) {
+        second = { s, answer };
+      }
+    }
+    if (best) {
+      const clear = !second || best.s - second.s >= 0.08;
+      if (best.s >= 0.92 && n.length >= 6 && clear) return { type: "exact", answer: best.answer };
+      if (best.s >= 0.72) return { type: "confirm", answer: best.answer };
+    }
+    if (lexicon[n]) return { type: "wrong" };
+    return { type: "miss" };
+  }
+
+  /* ---------- state ---------- */
+  const stateKey = (date) => STATE_PREFIX + date;
+  function freshState(date, picks) {
+    return { date, picks, started: false, idx: 0, results: [], misses: [0, 0, 0, 0, 0], guesses: [[], [], [], [], []], done: false, posted: false };
+  }
+  function saveState() { store.set(stateKey(ctx.date), ctx.state); }
+
+  const totalScore = (results) => results.reduce((sum, r) => sum + (r ? r.score : 0), 0);
+  const fathomsFor = (total) => Math.round(total / 5);
+  const tierFor = (f) => TIERS.reduce((acc, t) => (f >= t.min ? t : acc), TIERS[0]);
+  const DIFF_LABEL = { easy: "Easy", medium: "Medium", hard: "Hard" };
+
+  /* ---------- small UI helpers ---------- */
+  function announce(text) { const el = $("#announce"); el.textContent = ""; setTimeout(() => { el.textContent = text; }, 30); }
+  function setView(html, focusSel) {
+    clearInterval(countdownTimer);
+    main.innerHTML = html;
+    const target = focusSel ? main.querySelector(focusSel) : null;
+    if (target) target.focus({ preventScroll: false });
+  }
+  function countUp(el, to, ms = 1200) {
+    if (reduceMotion || to === 0) { el.textContent = to; return; }
+    const start = performance.now();
+    const step = (now) => {
+      const p = Math.min(1, (now - start) / ms);
+      el.textContent = Math.round(to * (1 - Math.pow(1 - p, 3)));
+      if (p < 1) requestAnimationFrame(step);
+    };
+    requestAnimationFrame(step);
+  }
+
+  function renderTracker() {
+    const el = $("#tracker");
+    el.innerHTML = ctx.picks.map((_, i) => {
+      const r = ctx.state.results[i];
+      const cls = [r ? "done" : "", r && r.score === 0 ? "miss" : "", !ctx.state.done && i === ctx.state.idx && ctx.state.started ? "current" : ""].join(" ").trim();
+      const label = r ? `Pour ${i + 1}: ${r.score} depth` : `Pour ${i + 1}: not poured yet`;
+      return `<li class="${cls}" aria-label="${esc(label)}"><span class="fill" style="height:${r ? Math.max(4, r.score) : 0}%"></span><span class="num">${r ? r.score : i + 1}</span></li>`;
+    }).join("");
+  }
+
+  function gaugeHTML(fromF, toF) {
+    const ticks = [0, 20, 40, 60, 80, 100].map((v) => {
+      const shift = v === 0 ? "0" : v === 100 ? "-100%" : "-50%";
+      return `<span style="top:${v}%;transform:translateY(${shift})">${v}</span>`;
+    }).join("");
+    const bubbles = reduceMotion ? "" : [18, 46, 70].map((x, i) => `<span class="bubble" style="left:${x}%;animation-delay:${i * 1.1}s"></span>`).join("");
+    return `<div class="gauge${fromF === 0 ? " from-top" : ""}" style="--from:${fromF}%;--to:${toF}%" aria-hidden="true">
+      <div class="ticks">${ticks}</div>
+      <div class="glass"><span class="ghost-mark"></span><span class="line"></span><span class="bob"></span>${bubbles}</div>
+    </div>`;
+  }
+  function sinkGauge(animate) {
+    const g = main.querySelector(".gauge");
+    if (!g) return;
+    if (!animate || reduceMotion) { g.querySelectorAll(".line,.bob").forEach((n) => { n.style.transition = "none"; }); g.classList.add("sunk"); return; }
+    requestAnimationFrame(() => requestAnimationFrame(() => g.classList.add("sunk")));
+  }
+
+  /* ---------- views ---------- */
+  function renderIntro() {
+    const lineup = ctx.cats.map((c) => DIFF_LABEL[c.difficulty]).join(" · ");
+    setView(`
+      <section class="card" aria-labelledby="intro-title">
+        <p class="eyebrow">Pour #${ctx.dayIndex + 1} · ${esc(prettyDate(ctx.date))}</p>
+        <h2 class="title" id="intro-title">How deep do you know the Isles?</h2>
+        <ol class="rules">
+          <li>Five prompts, the same for everyone today. One answer each.</li>
+          <li>Obvious answers barely count. The rarer your answer is in the lore, the deeper it scores.</li>
+          <li>Miss, and you get two more tries. Then the pour scores zero.</li>
+          <li>Each prompt hides one gem. Land it if you can.</li>
+        </ol>
+        <p class="blurb">Today's pours: ${esc(lineup)}.</p>
+        <div class="row"><button type="button" class="btn" id="start">Start pouring</button></div>
+      </section>`);
+    $("#start").addEventListener("click", () => {
+      ctx.state.started = true;
+      saveState();
+      renderTracker();
+      renderPrompt();
+    });
+  }
+
+  function renderPrompt() {
+    const i = ctx.state.idx;
+    const cat = ctx.cats[i];
+    const left = MAX_ATTEMPTS - ctx.state.misses[i];
+    const msg = ui.message ? `<p class="notice" role="alert">${ui.message}</p>` : "";
+    const confirm = ui.confirm ? `
+      <div class="confirm" role="group" aria-labelledby="confirm-q">
+        <p id="confirm-q">Did you mean <strong>${esc(ui.confirm.name)}</strong>?</p>
+        <div class="row">
+          <button type="button" class="btn small" id="confirm-yes">Yes, pour it</button>
+          <button type="button" class="btn ghost small" id="confirm-no">No, let me retype</button>
+        </div>
+      </div>` : "";
+    setView(`
+      <section class="card" aria-labelledby="prompt-title">
+        <p class="eyebrow">Pour ${i + 1} of 5 · ${DIFF_LABEL[cat.difficulty]}</p>
+        <h2 class="prompt" id="prompt-title">${esc(cat.prompt)}</h2>
+        <p class="blurb">${esc(cat.blurb)}</p>
+        <form class="answer-form" id="answer-form" autocomplete="off" novalidate>
+          <label for="answer">Your answer</label>
+          <div class="input-row">
+            <input type="text" id="answer" name="answer" maxlength="80" spellcheck="false" autocapitalize="words" placeholder="Type a name" value="${esc(ui.draft || "")}">
+            <button type="submit" class="btn">Pour</button>
+          </div>
+          <p class="tries">${left === MAX_ATTEMPTS ? "3 tries" : `${left} ${left === 1 ? "try" : "tries"} left`} · ${cat.answerCount} valid answers in the lore</p>
+        </form>
+        ${confirm}
+        ${msg}
+        <button type="button" class="linklike" id="pass">${ui.passArmed ? "Tap again to pass and score 0" : "Pass on this one"}</button>
+      </section>`, ui.confirm ? "#confirm-yes" : "#answer");
+
+    $("#answer-form").addEventListener("submit", (e) => { e.preventDefault(); submitAnswer($("#answer").value); });
+    $("#answer").addEventListener("input", (e) => { ui.draft = e.target.value; });
+    $("#pass").addEventListener("click", () => {
+      if (!ui.passArmed) { ui.passArmed = true; renderPrompt(); clearTimeout(ui.passTimer); ui.passTimer = setTimeout(() => { ui.passArmed = false; if (!ctx.state.results[i]) renderPrompt(); }, 4000); return; }
+      finalize({ status: "passed", answer: null, score: 0, input: "" });
+    });
+    if (ui.confirm) {
+      $("#confirm-yes").addEventListener("click", () => {
+        const a = ui.confirm.answer;
+        finalize({ status: "scored", answer: a.name, score: a.score, input: ui.confirm.input });
+      });
+      $("#confirm-no").addEventListener("click", () => { ui.confirm = null; ui.message = ""; renderPrompt(); });
+    }
+  }
+
+  function submitAnswer(raw) {
+    const i = ctx.state.idx;
+    const cat = ctx.cats[i];
+    const input = raw.trim();
+    ui.confirm = null;
+    ui.passArmed = false;
+    const m = matchAnswer(input, cat);
+    if (m.type === "empty") { ui.message = "Type an answer first."; renderPrompt(); return; }
+    if (m.type === "exact") { finalize({ status: "scored", answer: m.answer.name, score: m.answer.score, input }); return; }
+    if (m.type === "confirm") { ui.confirm = { answer: m.answer, name: m.answer.name, input }; ui.message = ""; renderPrompt(); announce(`Did you mean ${m.answer.name}?`); return; }
+
+    const key = normalize(input);
+    if (ctx.state.guesses[i].includes(key)) { ui.message = "You already tried that one. It doesn't cost a try twice."; renderPrompt(); return; }
+    ctx.state.guesses[i].push(key);
+    ctx.state.misses[i] += 1;
+    saveState();
+    const left = MAX_ATTEMPTS - ctx.state.misses[i];
+    if (left <= 0) { finalize({ status: "missed", answer: null, score: 0, input }); return; }
+    const why = m.type === "wrong"
+      ? `<strong>${esc(input)}</strong> is real lore, but it doesn't fit this prompt.`
+      : `<strong>${esc(input)}</strong> isn't in the lore for this prompt.`;
+    ui.message = `${why} ${left} ${left === 1 ? "try" : "tries"} left.`;
+    ui.draft = "";
+    renderPrompt();
+  }
+
+  function finalize(result) {
+    const i = ctx.state.idx;
+    result.attempts = ctx.state.misses[i] + (result.status === "scored" ? 1 : 0);
+    ctx.state.results[i] = result;
+    saveState();
+    ui = {};
+    renderTracker();
+    renderReveal(i, true);
+  }
+
+  function renderReveal(i, animate) {
+    const cat = ctx.cats[i];
+    const r = ctx.state.results[i];
+    const before = fathomsFor(totalScore(ctx.state.results.slice(0, i)));
+    const after = fathomsFor(totalScore(ctx.state.results.slice(0, i + 1)));
+    const answer = r.answer ? cat.answers.find((a) => a.name === r.answer) : null;
+    const gem = cat.answers.find((a) => a.name === cat.gem);
+    const n = cat.answers.length;
+    const deepest = cat.answers.slice(-5).reverse();
+    const last = i === ctx.picks.length - 1;
+
+    let yours;
+    if (answer) {
+      const mentionText = answer.mentions.total === 0 ? "never named outright" : `named ${answer.mentions.total}× in the lore`;
+      const ev = answer.evidence;
+      const evidence = ev ? `<blockquote class="evidence">“${esc(ev.text)}”<cite>${ev.source === "inferred" ? `Inferred · ${esc(ev.note)}` : esc(ev.source)}</cite></blockquote>` : "";
+      yours = `
+        <p class="your">You poured <span class="name">${esc(answer.name)}</span>${answer.inferred ? '<span class="tag">inferred</span>' : ""}</p>
+        <p class="facts">#${answer.rank} of ${n}, most common first · rarer than ${Math.round(answer.percentile)}% · ${mentionText}</p>
+        ${evidence}`;
+    } else {
+      const why = r.status === "passed" ? "You passed." : `Three misses${r.input ? `, last was “${esc(r.input)}”` : ""}.`;
+      yours = `<p class="your">${why} This pour scores zero.</p>`;
+    }
+    const hitGem = answer && gem && answer.name === gem.name;
+    const gemBox = gem ? `
+      <div class="gem-box">
+        <h3 class="label">${hitGem ? "You found the gem" : "The gem"}</h3>
+        <p class="gem-name">★ ${esc(gem.name)} <span class="tag">${gem.score} depth</span></p>
+        ${gem.evidence && !hitGem ? `<p class="facts">${esc(gem.evidence.source === "inferred" ? gem.evidence.note : gem.evidence.text)}</p>` : ""}
+        ${hitGem ? `<p class="facts">The answer we hoped someone would reach for.</p>` : ""}
+      </div>` : "";
+    const list = deepest.map((a) => `<li class="${answer && a.name === answer.name ? "mine" : ""}"><span class="n">${esc(a.name)}${a.name === cat.gem ? ' <span class="tag">gem</span>' : ""}</span><span class="s">${a.score}</span></li>`).join("");
+
+    setView(`
+      <section class="card" aria-labelledby="reveal-title">
+        <p class="eyebrow">Pour ${i + 1} of 5 · ${esc(cat.prompt)}</p>
+        <div class="result">
+          ${gaugeHTML(before, after)}
+          <div class="result-body">
+            <div class="scoreline">
+              <span class="score ${r.score === 0 ? "zero" : ""}" id="score-num">${animate ? 0 : r.score}</span>
+              <span class="score-unit">depth · now ${after} fathoms</span>
+            </div>
+            <h2 class="sr-only" id="reveal-title">${r.score} depth. You are now at ${after} fathoms, ${esc(tierFor(after).name)}.</h2>
+            ${yours}
+          </div>
+        </div>
+        ${gemBox}
+        <div>
+          <h3 class="label">Deepest answers</h3>
+          <ol class="deep-list">${list}</ol>
+        </div>
+        <div class="row"><button type="button" class="btn" id="next">${last ? "See your depth" : "Next pour"}</button></div>
+      </section>`, "#reveal-title");
+    main.querySelector("#reveal-title").setAttribute("tabindex", "-1");
+    main.querySelector("#reveal-title").focus();
+    sinkGauge(animate);
+    if (animate) countUp($("#score-num"), r.score);
+    announce(`${r.score} depth. Now at ${after} fathoms.`);
+
+    $("#next").addEventListener("click", () => {
+      ctx.state.idx = i + 1;
+      if (ctx.state.idx >= ctx.picks.length) ctx.state.done = true;
+      saveState();
+      renderTracker();
+      if (ctx.state.done) renderSummary(true); else renderPrompt();
+    });
+  }
+
+  function shareText() {
+    const total = totalScore(ctx.state.results);
+    const f = fathomsFor(total);
+    const bars = ctx.state.results.map((r) => (r.score === 0 ? "○" : BLOCKS[Math.min(7, Math.floor(r.score / 12.5))])).join("");
+    const lines = [`Deep Pour #${ctx.dayIndex + 1} · ${f} fathoms`, tierFor(f).name, bars];
+    if (CFG.siteUrl) lines.push(CFG.siteUrl);
+    return lines.join("\n");
+  }
+
+  function renderSummary(animate) {
+    const total = totalScore(ctx.state.results);
+    const f = fathomsFor(total);
+    const tier = tierFor(f);
+    const rows = ctx.cats.map((c, i) => {
+      const r = ctx.state.results[i];
+      return `<tr><td>${r.answer ? esc(r.answer) : '<span class="p">No answer</span>'}<span class="p">${esc(c.prompt)}</span></td><td class="s">${r.score}</td></tr>`;
+    }).join("");
+    setView(`
+      <section class="card" aria-labelledby="sum-title">
+        <p class="eyebrow">Pour #${ctx.dayIndex + 1} · ${esc(prettyDate(ctx.date))} · locked</p>
+        <div class="result">
+          ${gaugeHTML(0, f)}
+          <div class="result-body">
+            <div class="summary-head">
+              <h2 class="sr-only" id="sum-title">You reached ${f} fathoms: ${esc(tier.name)}.</h2>
+              <p class="fathoms" aria-hidden="true"><span id="fathom-num">${animate ? 0 : f}</span><small>fathoms</small></p>
+              <p class="tier">${esc(tier.name)}</p>
+              <p class="tier-line">${esc(tier.line)}</p>
+            </div>
+            <table class="recap">
+              <thead><tr><th scope="col">Your answers</th><th scope="col" class="s">Depth</th></tr></thead>
+              <tbody>${rows}</tbody>
+              <tfoot><tr><td>Total</td><td class="s">${total}</td></tr></tfoot>
+            </table>
+          </div>
+        </div>
+        <div class="row">
+          <button type="button" class="btn" id="share">Copy result</button>
+          <span class="hint" id="share-status" role="status"></span>
+        </div>
+        <pre class="share-preview" aria-label="Share preview">${esc(shareText())}</pre>
+        <p class="countdown" id="countdown"></p>
+      </section>
+      <section class="card" aria-labelledby="lb-title" id="leaderboard"></section>`, "#sum-title");
+    main.querySelector("#sum-title").setAttribute("tabindex", "-1");
+    main.querySelector("#sum-title").focus();
+    sinkGauge(animate);
+    if (animate) countUp($("#fathom-num"), f, 1600);
+    announce(`Today's pour is done. ${f} fathoms, ${tier.name}.`);
+
+    $("#share").addEventListener("click", async () => {
+      const text = shareText();
+      const status = $("#share-status");
+      try {
+        await navigator.clipboard.writeText(text);
+        status.textContent = "Copied. No spoilers in it.";
+      } catch {
+        status.textContent = "Copy blocked here. Select the text below and copy it.";
+        const pre = main.querySelector(".share-preview");
+        const ta = document.createElement("textarea");
+        ta.className = "copy-fallback";
+        ta.value = text;
+        ta.setAttribute("aria-label", "Result text");
+        pre.replaceWith(ta);
+        ta.focus();
+        ta.select();
+      }
+    });
+    startCountdown();
+    renderLeaderboard();
+  }
+
+  function startCountdown() {
+    const el = $("#countdown");
+    if (!el) return;
+    if (!ctx.isToday) { el.textContent = "This is a past pour, loaded with test tools."; return; }
+    const tick = () => {
+      const p = easternParts();
+      if (p.iso !== ctx.date) { el.textContent = "A new pour is ready. Reload to play it."; clearInterval(countdownTimer); return; }
+      let left = 86400 - (p.h * 3600 + p.m * 60 + p.s);
+      const h = Math.floor(left / 3600); left %= 3600;
+      const m = Math.floor(left / 60);
+      el.textContent = `Next pour in ${h}h ${String(m).padStart(2, "0")}m (midnight US Eastern).`;
+    };
+    tick();
+    countdownTimer = setInterval(tick, 30000);
+  }
+
+  /* ---------- leaderboard (optional; the game never waits on it) ---------- */
+  const lb = { tab: "daily" };
+
+  async function lbFetch(params, body) {
+    const url = new URL(CFG.leaderboardUrl);
+    Object.entries(params || {}).forEach(([k, v]) => url.searchParams.set(k, v));
+    const ctl = new AbortController();
+    const timer = setTimeout(() => ctl.abort(), 8000);
+    try {
+      // text/plain keeps this a "simple" request, so Apps Script needs no CORS preflight.
+      const res = await fetch(url, body ? { method: "POST", body: JSON.stringify(body), signal: ctl.signal } : { signal: ctl.signal });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return await res.json();
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+
+  function cleanName(s) {
+    return String(s).replace(/[\u0000-\u001f\u007f]/g, "").replace(/\s+/g, " ").trim().slice(0, 24);
+  }
+
+  function renderLeaderboard() {
+    const box = $("#leaderboard");
+    if (!box) return;
+    if (!CFG.leaderboardUrl) {
+      box.innerHTML = `<h2 class="label" id="lb-title">Leaderboard</h2>
+        <p class="hint">The leaderboard isn't connected yet. Your result is saved on this device.</p>`;
+      return;
+    }
+    const name = store.get(NAME_KEY, "");
+    const canPost = ctx.isToday;
+    let postArea;
+    if (!canPost) {
+      postArea = `<p class="hint">Results from past dates can't be posted.</p>`;
+    } else if (!name) {
+      postArea = `
+        <form id="name-form" class="answer-form" novalidate>
+          <label for="lb-name">Display name for the leaderboard</label>
+          <div class="input-row">
+            <input type="text" id="lb-name" maxlength="24" autocomplete="nickname" placeholder="e.g. Old Salty">
+            <button type="submit" class="btn">Post my pour</button>
+          </div>
+          <p class="hint">Saved on this device. One post per name per day.</p>
+        </form>`;
+    } else {
+      postArea = `<p class="hint" id="post-status">${ctx.state.posted ? `Posted as <strong>${esc(name)}</strong>.` : `Posting as <strong>${esc(name)}</strong>…`}</p>`;
+    }
+    box.innerHTML = `
+      <h2 class="label" id="lb-title">Leaderboard</h2>
+      ${postArea}
+      <div class="tabs" role="tablist" aria-label="Leaderboard">
+        <button type="button" role="tab" id="tab-daily" aria-selected="${lb.tab === "daily"}" aria-controls="board-panel">Today</button>
+        <button type="button" role="tab" id="tab-alltime" aria-selected="${lb.tab === "alltime"}" aria-controls="board-panel">All time</button>
+      </div>
+      <div id="board-panel" role="tabpanel" class="board-wrap"><p class="hint">Loading…</p></div>`;
+
+    const nameForm = $("#name-form");
+    if (nameForm) {
+      nameForm.addEventListener("submit", (e) => {
+        e.preventDefault();
+        const n = cleanName($("#lb-name").value);
+        if (!n) { $("#lb-name").focus(); return; }
+        store.set(NAME_KEY, n);
+        renderLeaderboard();
+      });
+    }
+    $("#tab-daily").addEventListener("click", () => { lb.tab = "daily"; renderLeaderboard(); });
+    $("#tab-alltime").addEventListener("click", () => { lb.tab = "alltime"; renderLeaderboard(); });
+    main.querySelector(`#tab-${lb.tab}`).addEventListener("keydown", (e) => {
+      if (e.key === "ArrowRight" || e.key === "ArrowLeft") { lb.tab = lb.tab === "daily" ? "alltime" : "daily"; renderLeaderboard(); $(`#tab-${lb.tab}`).focus(); }
+    });
+
+    if (canPost && name && !ctx.state.posted) postResult(name); else loadBoard();
+  }
+
+  async function postResult(name) {
+    const status = $("#post-status");
+    const payload = {
+      action: "submit",
+      date: ctx.date,
+      name,
+      total: totalScore(ctx.state.results),
+      fathoms: fathomsFor(totalScore(ctx.state.results)),
+      scores: ctx.state.results.map((r) => r.score),
+      categories: ctx.picks,
+    };
+    try {
+      const res = await lbFetch(null, payload);
+      if (res.ok || res.error === "duplicate") {
+        ctx.state.posted = true;
+        saveState();
+        if (status) status.innerHTML = res.ok ? `Posted as <strong>${esc(name)}</strong>.` : `<strong>${esc(name)}</strong> already posted today. Only the first post counts.`;
+      } else {
+        throw new Error(res.error || "rejected");
+      }
+    } catch {
+      if (status) {
+        status.innerHTML = `Couldn't reach the leaderboard. Your pour is saved here. <button type="button" class="linklike" id="retry-post">Try again</button>`;
+        $("#retry-post").addEventListener("click", () => { status.textContent = "Posting…"; postResult(name); });
+      }
+    }
+    loadBoard();
+  }
+
+  async function loadBoard() {
+    const panel = $("#board-panel");
+    if (!panel) return;
+    const tab = lb.tab;
+    try {
+      const res = await lbFetch(tab === "daily" ? { action: "daily", date: ctx.date } : { action: "alltime" });
+      if (tab !== lb.tab || !$("#board-panel")) return;
+      const me = store.get(NAME_KEY, "");
+      const rows = (res.rows || []).slice(0, 50);
+      if (!rows.length) { panel.innerHTML = `<p class="hint">${tab === "daily" ? "No pours posted today yet." : "No pours posted yet."}</p>`; return; }
+      const head = tab === "daily"
+        ? `<tr><th scope="col">#</th><th scope="col">Name</th><th scope="col" class="r">Fathoms</th><th scope="col" class="r">Depth</th></tr>`
+        : `<tr><th scope="col">#</th><th scope="col">Name</th><th scope="col" class="r">Total</th><th scope="col" class="r">Avg</th><th scope="col" class="r">Days</th></tr>`;
+      const body = rows.map((r, i) => tab === "daily"
+        ? `<tr class="${r.name === me ? "me" : ""}"><td class="r">${i + 1}</td><td>${esc(r.name)}</td><td class="r">${esc(r.fathoms)}</td><td class="r">${esc(r.total)}</td></tr>`
+        : `<tr class="${r.name === me ? "me" : ""}"><td class="r">${i + 1}</td><td>${esc(r.name)}</td><td class="r">${esc(r.total)}</td><td class="r">${esc(r.avg)}</td><td class="r">${esc(r.games)}</td></tr>`).join("");
+      panel.innerHTML = `<table class="board"><thead>${head}</thead><tbody>${body}</tbody></table>`;
+    } catch {
+      if (tab === lb.tab && $("#board-panel")) panel.innerHTML = `<p class="hint">The leaderboard is unreachable right now. The game works without it.</p>`;
+    }
+  }
+
+  /* ---------- test tools ---------- */
+  function setupTestTools(today) {
+    if (!CFG.testMode) return;
+    const box = $("#test-tools");
+    box.hidden = false;
+    const input = $("#test-date");
+    input.min = prompts.epoch;
+    input.value = ctx.date;
+    $("#test-lineup").textContent = `Lineup for ${ctx.date}: ${ctx.cats.map((c) => c.prompt).join(" / ")}`;
+    $("#test-go").onclick = () => {
+      if (!input.value) return;
+      session.set(TEST_DATE_KEY, input.value < prompts.epoch ? prompts.epoch : input.value);
+      start();
+    };
+    $("#test-reset").onclick = () => { store.remove(stateKey(ctx.date)); start(); };
+    if (ctx.date !== today) box.open = true;
+  }
+
+  /* ---------- boot ---------- */
+  async function start() {
+    try {
+      if (!prompts) {
+        [prompts, lexicon] = await Promise.all([getJSON("data/prompts.json"), getJSON("data/lexicon.json").catch(() => ({}))]);
+      }
+      const today = easternParts().iso;
+      let date = today;
+      const testDate = CFG.testMode ? session.get(TEST_DATE_KEY) : null;
+      if (testDate && /^\d{4}-\d{2}-\d{2}$/.test(testDate)) date = testDate;
+      const dayIndex = Math.max(0, daysBetween(prompts.epoch, date));
+      if (daysBetween(prompts.epoch, date) < 0) date = prompts.epoch;
+
+      let state = store.get(stateKey(date));
+      const picks = state && Array.isArray(state.picks) && state.picks.length === 5 ? state.picks : lineupFor(dayIndex);
+      if (!state || !Array.isArray(state.results)) state = freshState(date, picks);
+      const cats = await Promise.all(picks.map(loadCategory));
+      ctx = { date, dayIndex, picks, cats, state, isToday: date === today };
+      ui = {};
+
+      $("#pour-meta").textContent = `Pour #${dayIndex + 1} · ${prettyDate(date)}${ctx.isToday ? "" : " · test"}`;
+      renderTracker();
+      setupTestTools(today);
+
+      if (state.done) renderSummary(false);
+      else if (!state.started) renderIntro();
+      else if (state.results[state.idx]) renderReveal(state.idx, false);
+      else renderPrompt();
+    } catch (err) {
+      console.error(err);
+      main.innerHTML = `<section class="card"><h2 class="title">The tap is dry</h2><p class="blurb">Today's pours couldn't load. Check your connection and reload the page.</p></section>`;
+    }
+  }
+
+  // Exposed for tests in the console.
+  window.DeepPour = { normalize, matchAnswer: (input, id) => matchAnswer(input, answerCache[id]), lineupFor: (d) => lineupFor(d) };
+
+  start();
+})();

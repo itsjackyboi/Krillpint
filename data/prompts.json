@@ -1,0 +1,117 @@
+{
+ "version": 1,
+ "loreHash": "d19e69d88c25",
+ "epoch": "2026-10-18",
+ "timezone": "America/New_York",
+ "slots": [
+  "easy",
+  "easy",
+  "medium",
+  "medium",
+  "hard"
+ ],
+ "cooldownDays": {
+  "medium": 1,
+  "easy": 2,
+  "hard": 1
+ },
+ "minAnswers": 25,
+ "categories": [
+  {
+   "id": "aleforge-locals",
+   "prompt": "Name an Aleforge local",
+   "blurb": "Anyone who lives or works in Aleforge, past or present. Not a Liquor King.",
+   "difficulty": "medium",
+   "gem": "Salude Gonzalez",
+   "answerCount": 39
+  },
+  {
+   "id": "calendar",
+   "prompt": "Name a holiday, keg-day or season",
+   "blurb": "Anything on the Pintland calendar: the nine days of the Keg, the three seasons, or a feast.",
+   "difficulty": "medium",
+   "gem": "Feast of the Eternal Keg",
+   "answerCount": 30
+  },
+  {
+   "id": "creatures",
+   "prompt": "Name a creature, beast or monster",
+   "blurb": "Great beasts, small sprites, and everything that chased the Kings through a dark hallway.",
+   "difficulty": "easy",
+   "gem": "Jopsi",
+   "answerCount": 29
+  },
+  {
+   "id": "cursed-sites",
+   "prompt": "Name a cursed, sacred or mysterious site",
+   "blurb": "Places that hum, whisper, swallow people, or should have stayed sealed.",
+   "difficulty": "medium",
+   "gem": "The Vanishing House",
+   "answerCount": 24
+  },
+  {
+   "id": "drinks",
+   "prompt": "Name a drink or brew",
+   "blurb": "Anything poured, chugged, tithed, or banned somewhere in the Isles.",
+   "difficulty": "easy",
+   "gem": "Stormtide Ale",
+   "answerCount": 28
+  },
+  {
+   "id": "factions",
+   "prompt": "Name a faction, gang or organization",
+   "blurb": "Councils, cults, gangs, guilds, crews, and the occasional chess club.",
+   "difficulty": "easy",
+   "gem": "Shot-Chess Association",
+   "answerCount": 39
+  },
+  {
+   "id": "liquor-kings",
+   "prompt": "Name a Liquor King",
+   "blurb": "Any era: the Six, or any crowned winner of the Drunken Trials.",
+   "difficulty": "easy",
+   "gem": "Beef",
+   "answerCount": 36
+  },
+  {
+   "id": "policies",
+   "prompt": "Name an Aleforge policy, law or campaign promise",
+   "blurb": "Enacted by a mayor, passed by the Kings, or shouted from a campaign stage.",
+   "difficulty": "hard",
+   "gem": "Drunk Delivery",
+   "answerCount": 37
+  },
+  {
+   "id": "relics",
+   "prompt": "Name a relic or magical artifact",
+   "blurb": "Scarabs, glyphs, bells, cursed blades, and things best left in the vault.",
+   "difficulty": "medium",
+   "gem": "Dementing Scarab",
+   "answerCount": 34
+  },
+  {
+   "id": "station-crew",
+   "prompt": "Name someone aboard Maximilian's space station",
+   "blurb": "Crew, captives, or the master himself. From the Liquor King Trials.",
+   "difficulty": "hard",
+   "gem": "Fulbert",
+   "answerCount": 29
+  },
+  {
+   "id": "taverns",
+   "prompt": "Name a tavern, bar or inn",
+   "blurb": "Anywhere a pint gets poured, on the Isles or on the road there.",
+   "difficulty": "easy",
+   "gem": "The Last Drop",
+   "answerCount": 19
+  },
+  {
+   "id": "the-departed",
+   "prompt": "Name a character who has died",
+   "blurb": "Murdered, executed, forgotten in a cage, or poisoned by drink.",
+   "difficulty": "easy",
+   "gem": "Geoffrey Dingle",
+   "answerCount": 35
+  }
+ ]
+}

@@ -1,0 +1,811 @@
+{
+ "id": "aleforge-locals",
+ "prompt": "Name an Aleforge local",
+ "blurb": "Anyone who lives or works in Aleforge, past or present. Not a Liquor King.",
+ "difficulty": "medium",
+ "gem": "Salude Gonzalez",
+ "answerCount": 39,
+ "answers": [
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Drake",
+    "Gidion Drake",
+    "the Bastard Veil",
+    "the Ironkeg"
+   ],
+   "mentions": {
+    "total": 145,
+    "compendium": 75,
+    "records": 70
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "John Cum",
+   "aliases": [
+    "Cum",
+    "Mr. Cum"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 21,
+    "records": 35
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "John Cum is the key supplier of barley for the ale",
+    "note": "Lives at the Cumstead outside town, but the lore treats him as Aleforge's own wheat supplier."
+   },
+   "rank": 2,
+   "percentile": 2.6,
+   "score": 0
+  },
+  {
+   "name": "Rollo",
+   "aliases": [],
+   "mentions": {
+    "total": 45,
+    "compendium": 22,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…happy to buy these bonds and a large influx of money has now hit the Aleforge ledger. ### Rollo Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends…"
+   },
+   "rank": 3,
+   "percentile": 5.3,
+   "score": 1
+  },
+  {
+   "name": "Glub Tuppus Wepple",
+   "aliases": [
+    "Wepple",
+    "Glub",
+    "Glub Tuppus"
+   ],
+   "mentions": {
+    "total": 35,
+    "compendium": 23,
+    "records": 12
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…away. This upset Blackmoor and after sitting in his anger and drinking at the Brewery owned by Glub Tuppus Wepple he went back to the cloister in a drunken stupor and killed the old prophet. He left a book…"
+   },
+   "rank": 4,
+   "percentile": 7.9,
+   "score": 2
+  },
+  {
+   "name": "Mr. BBL",
+   "aliases": [
+    "BBL",
+    "Mister BBL"
+   ],
+   "mentions": {
+    "total": 25,
+    "compendium": 7,
+    "records": 18
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Glendolph Galleyway: An unremarkable mayor, the only thing of note is his hiring of Mr. BBL, the current chancellor of Aleforge. Thomas Thatcher Sr.: Thomas Thatcher Sr. was an…"
+   },
+   "rank": 5,
+   "percentile": 10.5,
+   "score": 3
+  },
+  {
+   "name": "Thomas Thatcher",
+   "aliases": [
+    "Thatcher",
+    "Mayor Thatcher"
+   ],
+   "mentions": {
+    "total": 21,
+    "compendium": 17,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests - Brandywine Brush — The dense inland forest known locally as 'Thiccy…"
+   },
+   "rank": 6,
+   "percentile": 13.2,
+   "score": 5
+  },
+  {
+   "name": "Old Salty",
+   "aliases": [
+    "Salty"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 10,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "unofficial residence at the Gilded Tankard",
+    "note": "Officially a Shanty Town resident, but practically lives at the Gilded Tankard."
+   },
+   "rank": 7,
+   "percentile": 15.8,
+   "score": 6
+  },
+  {
+   "name": "John Rump",
+   "aliases": [
+    "Rump"
+   ],
+   "mentions": {
+    "total": 37,
+    "compendium": 21,
+    "records": 16
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the hands of John Rump. - The Shrines — A scatter of ancient shrines across the Isles, origin debated. However,…"
+   },
+   "rank": 8,
+   "percentile": 18.4,
+   "score": 8
+  },
+  {
+   "name": "Susan Plinket",
+   "aliases": [
+    "Plinket",
+    "Susan",
+    "Jathan Round"
+   ],
+   "mentions": {
+    "total": 23,
+    "compendium": 14,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"an ick\". He was somewhat unfairly legally commanded into a relationship with MAMA leader, Susan Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport…"
+   },
+   "rank": 9,
+   "percentile": 21.1,
+   "score": 10
+  },
+  {
+   "name": "Gale Derecho",
+   "aliases": [
+    "Gale"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "The East Wind farm is located on a small island just off the coast of Aleforge",
+    "note": "Runs the East Wind farm on an island just off Aleforge's coast."
+   },
+   "rank": 10,
+   "percentile": 23.7,
+   "score": 12
+  },
+  {
+   "name": "Richard 'Cumhardy' Seaman",
+   "aliases": [
+    "Richard Seaman",
+    "Richard Cumhardy",
+    "Cumhardy",
+    "Richard"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…can stay in the cloister before new residents are inevitably drawn to it's mysteries. ### Richard 'Cumhardy' Seaman (DECEASED) Richard had recently washed ashore aleforge on wreckage from…"
+   },
+   "rank": 11,
+   "percentile": 26.3,
+   "score": 13
+  },
+  {
+   "name": "Cheeks",
+   "aliases": [
+    "Cheekz"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…policies, for himself ● Seamus Blackmailed his fellow citizens of aleforge and robbed our beloved Cheekz. ● Cheekz was born to a loving home on north side of Aleforge to two happy caring parents,…"
+   },
+   "rank": 12,
+   "percentile": 31.6,
+   "score": 18
+  },
+  {
+   "name": "Gregor Ashford",
+   "aliases": [
+    "Gregor",
+    "Greg Ashford"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Montfort although it was clear that somebody or something had indeed been in the New Haven. ### Gregor Ashford A bard who sings at the Gilded Tankard, often too drunk to play well. He knows a lot of gossip…"
+   },
+   "rank": 12,
+   "percentile": 31.6,
+   "score": 18
+  },
+  {
+   "name": "The Beggar",
+   "aliases": [
+    "Beggar"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…past. Makes you wonder how much he really knows. Makes you wonder if he even is human? ### The Beggar The beggar is the illegitimate son of Glub Tuppus Wepple and is therefore not eligible to…"
+   },
+   "rank": 12,
+   "percentile": 31.6,
+   "score": 18
+  },
+  {
+   "name": "Freddy Hog",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…on the side of the building in an alley way between the estate and the OAM building ##### Freddy Hog's Freaky Hogs Here you can buy the best quality (and the freakiest) hogs in all of Pintland…"
+   },
+   "rank": 15,
+   "percentile": 38.2,
+   "score": 24
+  },
+  {
+   "name": "Quickety Cricket",
+   "aliases": [
+    "Quickety"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Supplebottom runs a tight ship in the APO & PR. never a late delivery especially when delivered Quickety Cricket (the fastest postman in Pintland) and his trusty horse Prejac ##### Brewers Lane Brewers…"
+   },
+   "rank": 15,
+   "percentile": 38.2,
+   "score": 24
+  },
+  {
+   "name": "Billy Ball Buster",
+   "aliases": [
+    "Ballbuster",
+    "Billy Ballbuster",
+    "Billy Ball Busters"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…quality (and the freakiest) hogs in all of Pintland and thats a Freddy Hog guarantee. ##### Billy Ball Busters Inn The best and only Inn in all of Aleforge. Offers a range of rooms and community lodges……..…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "Captain Crawdad",
+   "aliases": [
+    "Crawdad"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Oweblock, but he tends to deal in some shady businesses such as arms dealing. ### Captain Crawdad Pilot and Captain of the Hook Line & Sinker Submarine, Captain Crawdad served in the ASDU…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "Cpt. Lincoln Dillydally",
+   "aliases": [
+    "Lincoln Dillydally",
+    "Captain Lincoln Dillydally"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Color Guard was Cpt. William Dillydally. The current Captain of the Color Guard is Cpt. Lincoln Dillydally ##### The Krappenschitz Estate The Krappenschitz family (David and Iso) are rich snobbish…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "David Krappenschitz",
+   "aliases": [
+    "Krappenschitz"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Guard is Cpt. Lincoln Dillydally ##### The Krappenschitz Estate The Krappenschitz family (David and Iso) are rich snobbish aristocrats. They are generally more sober than most and thus hated by many.…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "Dusty Shidiz",
+   "aliases": [
+    "Dust Shidiz",
+    "Shidiz"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hated by many. Yet their wealth provides employment for many Aleforge citizens. Including Dusty Shidiz and Tanka Jahari their personal house servants. They also fund and house an artist, Salude…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "Hornithan Buttlube",
+   "aliases": [
+    "Hornithan"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…first Aleforge comptroller was Bigbag-o Buttlube the ancestor of the current office holder, Hornithan Buttlube 2. The Sheriffs Offices: This Sheriffs office was the first form of law and order in old…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "Lady Edgermire",
+   "aliases": [
+    "Edgermire"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…deep below the Ballbuster Inn ##### Witch Doctors Tower A mystic healer by the name of Lady Edgermire heals but for a strange price……rumors circle about her having Veilwalker ties ##### Aleforge…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "Lady Krappenschitz",
+   "aliases": [
+    "Iso Krappenschitz",
+    "Iso"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cpt. Lincoln Dillydally ##### The Krappenschitz Estate The Krappenschitz family (David and Iso) are rich snobbish aristocrats. They are generally more sober than most and thus hated by…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "Salude Gonzalez",
+   "aliases": [
+    "Salude",
+    "Gonzalez"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Shidiz and Tanka Jahari their personal house servants. They also fund and house an artist, Salude Gonzalez, who lives in their attic and paints. His living quarters are completely cut off from the…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "Samuel Supplebottom",
+   "aliases": [
+    "Supplebottom"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…price……rumors circle about her having Veilwalker ties ##### Aleforge Post Office and Public Records Supplebottom runs a tight ship in the APO & PR. never a late delivery especially when delivered Quickety…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "Sheriff Edward Cocaine",
+   "aliases": [
+    "Edward Cocaine",
+    "Sheriff Cocaine"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Alforge. The first Aleforge Sheriff was Peedrick Cocaine Sr. the current sheriff is Sheriff Edward Cocaine 3. The Color Guard: The Color Guard dates back to the founders of Aleforge. The first ones…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "Sir Robert CockPower",
+   "aliases": [
+    "Robert CockPower",
+    "CockPower"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…##### CockPowers Clock Tower Built by the Cockpower family and currently maintained by Sir Robert CockPower. The CockPower family comes from a long line of timekeepers, not much is known about them…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "Tanka Jahari",
+   "aliases": [
+    "Tanka",
+    "Jahari"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Yet their wealth provides employment for many Aleforge citizens. Including Dusty Shidiz and Tanka Jahari their personal house servants. They also fund and house an artist, Salude Gonzalez, who lives…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "Tugller",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Offers a range of rooms and community lodges…….. ##### The Last Drop Ballbusters brother Tugller founded a secret bar deep below the Ballbuster Inn ##### Witch Doctors Tower A mystic healer…"
+   },
+   "rank": 17,
+   "percentile": 59.2,
+   "score": 46
+  },
+  {
+   "name": "Cheff Bigmeat",
+   "aliases": [
+    "Chef Bigmeat",
+    "Bigmeat"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…CockPower Color Guards ### Cpt. Lincoln Dillydally ### Piggly Wiggly ### Winky Stinky ### Cheff Bigmeat ### Hornithan Buttlube ### Sheriff Edward Cocaine ### Freddy Beerbell ### Scummy Bumbadill…"
+   },
+   "rank": 31,
+   "percentile": 84.2,
+   "score": 77
+  },
+  {
+   "name": "Freddy Beerbell",
+   "aliases": [
+    "Beerbell"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…### Winky Stinky ### Cheff Bigmeat ### Hornithan Buttlube ### Sheriff Edward Cocaine ### Freddy Beerbell ### Scummy Bumbadill ### David Krappenschitz ### Lady Krappenschitz ### Dust Shidiz ###…"
+   },
+   "rank": 31,
+   "percentile": 84.2,
+   "score": 77
+  },
+  {
+   "name": "Piggly Wiggly",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Willslick ### Head ### Sir Robert CockPower Color Guards ### Cpt. Lincoln Dillydally ### Piggly Wiggly ### Winky Stinky ### Cheff Bigmeat ### Hornithan Buttlube ### Sheriff Edward Cocaine…"
+   },
+   "rank": 31,
+   "percentile": 84.2,
+   "score": 77
+  },
+  {
+   "name": "Scummy Bumbadill",
+   "aliases": [
+    "Bumbadill"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cheff Bigmeat ### Hornithan Buttlube ### Sheriff Edward Cocaine ### Freddy Beerbell ### Scummy Bumbadill ### David Krappenschitz ### Lady Krappenschitz ### Dust Shidiz ### Tanka Jahari ### Salude…"
+   },
+   "rank": 31,
+   "percentile": 84.2,
+   "score": 77
+  },
+  {
+   "name": "Winky Stinky",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Sir Robert CockPower Color Guards ### Cpt. Lincoln Dillydally ### Piggly Wiggly ### Winky Stinky ### Cheff Bigmeat ### Hornithan Buttlube ### Sheriff Edward Cocaine ### Freddy Beerbell…"
+   },
+   "rank": 31,
+   "percentile": 84.2,
+   "score": 77
+  },
+  {
+   "name": "Bigbag-o Buttlube",
+   "aliases": [
+    "Bigbag-o",
+    "Bigbago Buttlube"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…historic office Aleforge could never have begun to thrive. The first Aleforge comptroller was Bigbag-o Buttlube the ancestor of the current office holder, Hornithan Buttlube 2. The Sheriffs Offices: This…"
+   },
+   "rank": 36,
+   "percentile": 96.1,
+   "score": 94
+  },
+  {
+   "name": "Cpt. William Dillydally",
+   "aliases": [
+    "William Dillydally",
+    "Captain William Dillydally"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to plant the flag of Aleforge on this island. The first Captain of the Color Guard was Cpt. William Dillydally. The current Captain of the Color Guard is Cpt. Lincoln Dillydally ##### The Krappenschitz…"
+   },
+   "rank": 36,
+   "percentile": 96.1,
+   "score": 94
+  },
+  {
+   "name": "Gregor Ashford Sr.",
+   "aliases": [
+    "Gregor Ashford Senior"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…He knows a lot of gossip and secrets about the town and its inhabitants. His father (Gregor Ashford Sr) was a legendary hero who shipwrecked in this land and later settled down with a family, and…"
+   },
+   "rank": 36,
+   "percentile": 96.1,
+   "score": 94
+  },
+  {
+   "name": "Peedrick Cocaine Sr.",
+   "aliases": [
+    "Peedrick",
+    "Peedrick Cocaine"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Most duties have hence been replaced by the Castle of Alforge. The first Aleforge Sheriff was Peedrick Cocaine Sr. the current sheriff is Sheriff Edward Cocaine 3. The Color Guard: The Color Guard dates back…"
+   },
+   "rank": 36,
+   "percentile": 96.1,
+   "score": 94
+  }
+ ]
+}

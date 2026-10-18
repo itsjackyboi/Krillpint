@@ -1,0 +1,675 @@
+{
+ "id": "relics",
+ "prompt": "Name a relic or magical artifact",
+ "blurb": "Scarabs, glyphs, bells, cursed blades, and things best left in the vault.",
+ "difficulty": "medium",
+ "gem": "Dementing Scarab",
+ "answerCount": 34,
+ "answers": [
+  {
+   "name": "The Pour Eternal",
+   "aliases": [
+    "Pour Eternal"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…new lungs. You ain't just living in a ruin. You're living in the bones of a choice.\" ### The Pour Eternal (Shanty Town Folklore) tattered, half-forgotten tavern tale, passed down through generations,…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The Factory artifacts",
+   "aliases": [
+    "Factory artifacts",
+    "six Factory Artifacts",
+    "artifacts from the factory"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hell Now he is plagued by nightmares of their return and revenge so he has been researching artifacts from the factory illegally to try to close the portal for good and prevent their escape Following the events…"
+   },
+   "rank": 2,
+   "percentile": 3.0,
+   "score": 1
+  },
+  {
+   "name": "Amethyst crystals",
+   "aliases": [
+    "Amethyst crystal",
+    "crystals"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…which has become overgrown. The interior of the skull has a small altar within and a floating amethyst crystal. The third is the ribcage of a sea monster which has sunk into a small ravine, inside this…"
+   },
+   "rank": 3,
+   "percentile": 6.1,
+   "score": 1
+  },
+  {
+   "name": "Map to the Forbidden Brew",
+   "aliases": [
+    "Forbidden Brew map"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…without a soul cannot die, but they also cannot be considered truly alive. ### Key Artifacts Map to the Forbidden Brew — Currently blank. It will reveal itself when the bearer is deemed worthy — which is to say,…"
+   },
+   "rank": 4,
+   "percentile": 12.1,
+   "score": 4
+  },
+  {
+   "name": "Nethergate Teleporter",
+   "aliases": [
+    "Nethergate"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pintland. - Orchenk Manufactory (The Factory) — The abandoned industrial facility where the Nethergate disaster occurred. - The Vanishing House (The Mansion) — Known in folklore as such; canonical…"
+   },
+   "rank": 4,
+   "percentile": 12.1,
+   "score": 4
+  },
+  {
+   "name": "The shrine armor sets",
+   "aliases": [
+    "armor sets",
+    "mystical armor",
+    "shrine armor"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and now all that is left are crumbling ancient shrines with valuables hidden within. Each set of armor is unique, and is separated into 4 pieces, as of now, nobody has a full set It can be surmised…"
+   },
+   "rank": 4,
+   "percentile": 12.1,
+   "score": 4
+  },
+  {
+   "name": "Bells of Imperion",
+   "aliases": [
+    "Bell of Imperion",
+    "Bell of Imperion (Was)",
+    "Bell of Imperion (Is)",
+    "Bell of Imperion (Will)"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…vaults nearby to the beast skeletons. Within each of the vaults were the following items. \"Bell of Imperion: (Was)\" \"Bell of Imperion: (Is)\" \"Bell of Imperion: (Will)\" These bells were placed in…"
+   },
+   "rank": 7,
+   "percentile": 24.2,
+   "score": 12
+  },
+  {
+   "name": "Corrupted Ancestry",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Give to an oracle (Jack) and it will reveal the location of the Map to the Forbidden Brew. Corrupted Ancestry — Points in the direction of a descendant of the Rotted Soul. ### Books Found in the Labyrinth…"
+   },
+   "rank": 7,
+   "percentile": 24.2,
+   "score": 12
+  },
+  {
+   "name": "The Warden's egg",
+   "aliases": [
+    "Warden egg",
+    "egg of the Warden"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…cover for the astronomers heretical religious beliefs. What he saw as an asteroid was the egg of a great beast (the warden) which he sought to raise and use as a weapon against the townspeople and eventually…"
+   },
+   "rank": 7,
+   "percentile": 24.2,
+   "score": 12
+  },
+  {
+   "name": "Veil Chalice",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…embassy. Gobbler was subsequently exposed by the Kings using the stolen Veil Oath book and the Veil Chalice from his shrine. ### Cardinal Addy The Cardinal of Providence — beloved leader, born to…"
+   },
+   "rank": 7,
+   "percentile": 24.2,
+   "score": 12
+  },
+  {
+   "name": "Veil Oath",
+   "aliases": [
+    "Veil Oath book"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hoegaarden Library embassy. Gobbler was subsequently exposed by the Kings using the stolen Veil Oath book and the Veil Chalice from his shrine. ### Cardinal Addy The Cardinal of Providence — beloved…"
+   },
+   "rank": 7,
+   "percentile": 24.2,
+   "score": 12
+  },
+  {
+   "name": "The Cloister's magical lights",
+   "aliases": [
+    "magical lights",
+    "light up dice",
+    "lights in the wall"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "there are magical lights which are used to determine the fate of those who put their trust in them",
+    "note": "The lights in the Cloister hillside that decide the fate of those who trust them."
+   },
+   "rank": 12,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "Book of Blasphemy",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…lower jaw of the Rotted Soul's herald, whose words were considered poison. Paired with the Book of Blasphemy. Skin of the 138 — The rotten flesh of the 138 council members slaughtered in the Rotted…"
+   },
+   "rank": 13,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Dementing Scarab",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…symbol of his divine right to rule. Fortunate Scarab — Shows a true vision of the future. Dementing Scarab — Shows a true and unfortunate vision of the past. Hollow Urn — A vessel for storing one's…"
+   },
+   "rank": 13,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Fortunate Scarab",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…slaughtered in the Rotted Soul's takeover. He wore these as a symbol of his divine right to rule. Fortunate Scarab — Shows a true vision of the future. Dementing Scarab — Shows a true and unfortunate vision…"
+   },
+   "rank": 13,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Glyph of Purity",
+   "aliases": [
+    "Fragmented Glyph of Purity"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…positive effects (unkillability) and negative effects (weakness, wither) of soullessness. Fragmented Glyph of Purity / Glyph of Rot — Shards of two opposed symbols. When all fragments of each are assembled,…"
+   },
+   "rank": 13,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Glyph of Rot",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(unkillability) and negative effects (weakness, wither) of soullessness. Fragmented Glyph of Purity / Glyph of Rot — Shards of two opposed symbols. When all fragments of each are assembled, the full Glyph…"
+   },
+   "rank": 13,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Hollow Urn",
+   "aliases": [
+    "The Hollow Urn"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…vision of the future. Dementing Scarab — Shows a true and unfortunate vision of the past. Hollow Urn — A vessel for storing one's own soul. While your soul is inside, you experience both the…"
+   },
+   "rank": 13,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Light of the Oracle",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…opposed symbols. When all fragments of each are assembled, the full Glyph reveals itself. Light of the Oracle — Give to an oracle (Jack) and it will reveal the location of the Map to the Forbidden Brew.…"
+   },
+   "rank": 13,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Mouth of the Blasphemer",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to say, when that concept is ready. Connected to the Pour Eternal legend of Shanty Town. Mouth of the Blasphemer — The lower jaw of the Rotted Soul's herald, whose words were considered poison. Paired with…"
+   },
+   "rank": 13,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Skin of the 138",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Rotted Soul's herald, whose words were considered poison. Paired with the Book of Blasphemy. Skin of the 138 — The rotten flesh of the 138 council members slaughtered in the Rotted Soul's takeover. He…"
+   },
+   "rank": 13,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "The six maps",
+   "aliases": [
+    "Six Maps",
+    "Pour Eternal maps",
+    "maps to the Pour Eternal"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…when poured. They feared its power. Or maybe they feared each other with it. So the founders scattered the maps—six of 'em—each carved with riddles, songs, or half-words meant only for those who still dream…"
+   },
+   "rank": 13,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Ancient Pot",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon, Old Staff, Ancient Pot—don't ask me what they are, but they're now sitting safely away from gentrifiers and young…"
+   },
+   "rank": 23,
+   "percentile": 81.8,
+   "score": 74
+  },
+  {
+   "name": "Beast Soul",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Rotted Soul. ## Open World / Unattributed to Concept - Xi Jin Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass — Lost to time during…"
+   },
+   "rank": 23,
+   "percentile": 81.8,
+   "score": 74
+  },
+  {
+   "name": "Gideon Drake's chalice",
+   "aliases": [
+    "Drake's chalice"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…JP noticed a trail of blood leading from the house to the forest, where they found Gideon Drake's chalice. ### The Resolution Susan Plinket's identity as the founder of MAMA was exposed by Jagerbauhm,…"
+   },
+   "rank": 23,
+   "percentile": 81.8,
+   "score": 74
+  },
+  {
+   "name": "Necrosis",
+   "aliases": [
+    "Dulamon's spear"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…returned I took something from him. A piece of what he carried. By the end I held his spear, Necrosis, a weapon that hums with the particular frequency of something that has ended a great many…"
+   },
+   "rank": 23,
+   "percentile": 81.8,
+   "score": 74
+  },
+  {
+   "name": "Old Staff",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…cause I'll snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon, Old Staff, Ancient Pot—don't ask me what they are, but they're now sitting safely away from gentrifiers…"
+   },
+   "rank": 23,
+   "percentile": 81.8,
+   "score": 74
+  },
+  {
+   "name": "Rotten Blade",
+   "aliases": [
+    "The Rotten Blade"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…frequency of something that has ended a great many lives and remembers each one. I held his blade, the Rotten Blade, which is exactly as pleasant to carry as the name suggests. I wore his chestplate, still…"
+   },
+   "rank": 23,
+   "percentile": 81.8,
+   "score": 74
+  },
+  {
+   "name": "Sackbeard's Armor",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- Durag - Blicky (also: Blinky) - Nike Dunks - Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden…"
+   },
+   "rank": 23,
+   "percentile": 81.8,
+   "score": 74
+  },
+  {
+   "name": "Sad Sermon",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…me thanos cause I'll snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon, Old Staff, Ancient Pot—don't ask me what they are, but they're now sitting safely away from…"
+   },
+   "rank": 23,
+   "percentile": 81.8,
+   "score": 74
+  },
+  {
+   "name": "Sword of Passion",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…coin. \"Lad nabbed more Veil Walkers' treasures than a dock rat hoards scraps, including the Sword of Passion—a blade so wicked it'd make my vows quiver, humming with dark juju.\" Seamus cracked them riddles…"
+   },
+   "rank": 23,
+   "percentile": 81.8,
+   "score": 74
+  },
+  {
+   "name": "The Drifter's Call",
+   "aliases": [
+    "Drifter's Call",
+    "Drifters Call"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to Concept - Xi Jin Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass — Lost to time during a fight between Buke and Jagerbauhm.…"
+   },
+   "rank": 23,
+   "percentile": 81.8,
+   "score": 74
+  },
+  {
+   "name": "Xi Jin Ping's Lucky Arrow",
+   "aliases": [
+    "Lucky Arrow"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…descendant of the Rotted Soul. ## Open World / Unattributed to Concept - Xi Jin Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass…"
+   },
+   "rank": 23,
+   "percentile": 81.8,
+   "score": 74
+  },
+  {
+   "name": "Tome Monuments",
+   "aliases": [
+    "The Tome Monuments"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…months ago and strange chants and lights can be observed outside, what does this mean? - The Tome Monuments -- 1 of 6 has been found, — End of the Master Lore Compendium — Parliament of…"
+   },
+   "rank": 34,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

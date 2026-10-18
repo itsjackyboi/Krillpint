@@ -1,0 +1,722 @@
+{
+ "id": "the-departed",
+ "prompt": "Name a character who has died",
+ "blurb": "Murdered, executed, forgotten in a cage, or poisoned by drink.",
+ "difficulty": "easy",
+ "gem": "Geoffrey Dingle",
+ "answerCount": 35,
+ "answers": [
+  {
+   "name": "Sackbeard",
+   "aliases": [
+    "Captain Sackbeard",
+    "Sacky"
+   ],
+   "mentions": {
+    "total": 77,
+    "compendium": 57,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "John Cum",
+   "aliases": [
+    "Cum",
+    "Mr. Cum"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 21,
+    "records": 35
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…observatory on Killdeath Peak. - The Dread Marrows — A region of dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the hands of John Rump. - The Shrines — A scatter…"
+   },
+   "rank": 2,
+   "percentile": 4.4,
+   "score": 1
+  },
+  {
+   "name": "Maximilian",
+   "aliases": [
+    "Max",
+    "Maximillian",
+    "Maximilian Andrew Aldridge"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 20,
+    "records": 36
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…slaughter anyone they see as even a slight threat to their power. First MAA, then Thatcher, then Maximillian. She is actually the founder of MAMA, but that is not known even within those circles. She…"
+   },
+   "rank": 2,
+   "percentile": 4.4,
+   "score": 1
+  },
+  {
+   "name": "Thomas Thatcher",
+   "aliases": [
+    "Thatcher",
+    "Mayor Thatcher"
+   ],
+   "mentions": {
+    "total": 21,
+    "compendium": 17,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests - Brandywine Brush — The dense inland forest known locally as 'Thiccy…"
+   },
+   "rank": 4,
+   "percentile": 8.8,
+   "score": 3
+  },
+  {
+   "name": "The Rotted Soul",
+   "aliases": [
+    "Rotted Soul",
+    "Rotten King",
+    "Wronged Walker",
+    "King of Nothing"
+   ],
+   "mentions": {
+    "total": 33,
+    "compendium": 31,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…further South is a small river which drains to the sea. Some scholars believe the remains of the Rotted Soul may rest here, though until recently this was unknown. The Kings discovered the true location…"
+   },
+   "rank": 5,
+   "percentile": 11.8,
+   "score": 4
+  },
+  {
+   "name": "Dmitri",
+   "aliases": [
+    "Dimitri",
+    "Dimitri the Space Boy"
+   ],
+   "mentions": {
+    "total": 24,
+    "compendium": 10,
+    "records": 14
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…after they broke free, with Luke landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his…"
+   },
+   "rank": 6,
+   "percentile": 14.7,
+   "score": 6
+  },
+  {
+   "name": "Xi Jin Ping",
+   "aliases": [
+    "Xi"
+   ],
+   "mentions": {
+    "total": 19,
+    "compendium": 19,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…discovered. It just so happened that the first one to catch on was a Chinese maritime trader named Xi Jin Ping who was at the end of a long train of very unlucky happenings. When he discovered a fleet…"
+   },
+   "rank": 7,
+   "percentile": 17.6,
+   "score": 7
+  },
+  {
+   "name": "The Old Prophet",
+   "aliases": [
+    "Old Prophet",
+    "Prophet",
+    "The Prophet"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 18,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of monks long ago and later abandoned after their order disappeared, it is rumored that the prophet murdered them in order to get access to this mysterious place. An old prophet took up residence…"
+   },
+   "rank": 8,
+   "percentile": 20.6,
+   "score": 9
+  },
+  {
+   "name": "Fentmaxxer",
+   "aliases": [
+    "Fentmaxer"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher.…"
+   },
+   "rank": 9,
+   "percentile": 23.5,
+   "score": 11
+  },
+  {
+   "name": "Peg Butt",
+   "aliases": [
+    "PegButt",
+    "Pegbutt"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 10,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Horses and Donkeys used by the Six to Travel to Pintland during the Walk of Shame: ### PegButt Most trusted horse ridden by man. One couldn't ask for a better horse…. He.was brutally murdered…"
+   },
+   "rank": 10,
+   "percentile": 26.5,
+   "score": 14
+  },
+  {
+   "name": "Dulamon",
+   "aliases": [
+    "Dulamond",
+    "Dulemon"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 0,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Needless to say this wasnt the most welcoming of environments and we were greeted by a chap named Dulemon. He was not there to drink and plunder so I had absolutely nothing in common with this man.…"
+   },
+   "rank": 11,
+   "percentile": 30.9,
+   "score": 17
+  },
+  {
+   "name": "Edmond Blackmoor",
+   "aliases": [
+    "Blackmoor",
+    "Edmund Blackmoor"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their arrival. He never met the liquor kings, however, as a great and pompous adventurer named Edmond Blackmoor came to the cloister to fight the beast and the Prophet turned him away. This upset Blackmoor…"
+   },
+   "rank": 11,
+   "percentile": 30.9,
+   "score": 17
+  },
+  {
+   "name": "Richard 'Cumhardy' Seaman",
+   "aliases": [
+    "Richard Seaman",
+    "Richard Cumhardy",
+    "Cumhardy"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…can stay in the cloister before new residents are inevitably drawn to it's mysteries. ### Richard 'Cumhardy' Seaman (DECEASED) Richard had recently washed ashore aleforge on wreckage from…"
+   },
+   "rank": 13,
+   "percentile": 35.3,
+   "score": 21
+  },
+  {
+   "name": "Amber Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels and Amber Ale (both drunks). They lived on a far away isolated island unknown to most named \"The Coors…"
+   },
+   "rank": 14,
+   "percentile": 38.2,
+   "score": 24
+  },
+  {
+   "name": "Afanasi",
+   "aliases": [
+    "Afanassi"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "i don't think mom and dad are coming back",
+    "note": "Dmitri's father. He went to storm the throne room and never came back."
+   },
+   "rank": 15,
+   "percentile": 42.6,
+   "score": 28
+  },
+  {
+   "name": "Goddard",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "the entire workforce made it to Maximilian's cryo-chamber before being massacred",
+    "note": "He led the uprising, and the whole workforce was massacred at Maximilian's cryo-chamber."
+   },
+   "rank": 15,
+   "percentile": 42.6,
+   "score": 28
+  },
+  {
+   "name": "Scab Plindor II",
+   "aliases": [
+    "Scab Plindor the Second",
+    "Plindor II"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to suspend the Drunken Trials and allow the title to pass by way of blood to his son, Scab Plindor II, this began the short lived Plindor Dynasty. Scab Plindor II: Afflicted by ambition,…"
+   },
+   "rank": 17,
+   "percentile": 47.1,
+   "score": 32
+  },
+  {
+   "name": "Cedric the Vicar",
+   "aliases": [
+    "Cedric"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…nomadic lifestyle, even though that will take hundreds of years from a human perspective. Cedric the Vicar: A religious extremist, Cedric established a short lived religious cult surrounding him as…"
+   },
+   "rank": 18,
+   "percentile": 51.5,
+   "score": 37
+  },
+  {
+   "name": "Chen K",
+   "aliases": [
+    "Chen"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Geoffrey Dingle - apparent alcohol poisoning. Sam Park - Immolation (handled as suicide) Chen K - Lack of oxygen after getting stuck in a maintenance shaft. Cycle 93 -------------------…"
+   },
+   "rank": 18,
+   "percentile": 51.5,
+   "score": 37
+  },
+  {
+   "name": "Andrew Smith",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and, in rare cases, executions. -Management Cycle 91 ------------------- Andrew Smith - Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim…"
+   },
+   "rank": 20,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Delaney",
+   "aliases": [
+    "John Delaney",
+    "John Cum's wife"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Town's Mayor who was in charge of the festival's logistics. ### John Cum (DECEASED) and John Delaney (DECEASED) John cum is the main provider of wheat to the local villages, he has an impressive…"
+   },
+   "rank": 20,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Dimetreus Reynalds",
+   "aliases": [
+    "Dimetreus"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Lack of oxygen after getting stuck in a maintenance shaft. Cycle 93 ------------------- Dimetreus Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei-…"
+   },
+   "rank": 20,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Geoffrey Dingle",
+   "aliases": [
+    "Dingle"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…exterior tunnel. Muhammed Qasim - Natural causes (cancer) Cycle 92 ------------------- Geoffrey Dingle - apparent alcohol poisoning. Sam Park - Immolation (handled as suicide) Chen K - Lack…"
+   },
+   "rank": 20,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Hilgaard the Wildman",
+   "aliases": [
+    "Hilgaard"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…by her visions and she correctly foretold of the Long Thirst and the Age of Six Kings. Hilgaard the Wildman: essentially a homeless man who somehow won the crown. Hilgaard was assassinated by a radical…"
+   },
+   "rank": 20,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Lin Fei",
+   "aliases": [
+    "Lin"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei- Natural causes (age) Cycle 94 ------------------- Cycle 95 ------------------- design…"
+   },
+   "rank": 20,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Quang Lai",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…-Management Cycle 91 ------------------- Andrew Smith - Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim - Natural causes (cancer) Cycle 92…"
+   },
+   "rank": 20,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Sam Park",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…causes (cancer) Cycle 92 ------------------- Geoffrey Dingle - apparent alcohol poisoning. Sam Park - Immolation (handled as suicide) Chen K - Lack of oxygen after getting stuck in a maintenance…"
+   },
+   "rank": 20,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Scab Plindor I",
+   "aliases": [
+    "Scab Plindor the First",
+    "Plindor I"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…stayed in effect until Liquor King, Seamus Bonehardy legalized it in recent history. Scab Plindor I: A wartime king, a large fleet of unknown origin sailed into view, their goal was to overpower…"
+   },
+   "rank": 20,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Gilligan's research assistant",
+   "aliases": [
+    "research assistant",
+    "the research assistant"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "The research assistant died to three separate traps",
+    "note": "Died to three separate traps on Seamus's twelfth expedition."
+   },
+   "rank": 29,
+   "percentile": 82.4,
+   "score": 75
+  },
+  {
+   "name": "Jack Daniels",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Golden Isles Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels and Amber Ale (both drunks). They lived on a far away isolated island unknown to most named…"
+   },
+   "rank": 30,
+   "percentile": 91.2,
+   "score": 87
+  },
+  {
+   "name": "Jerry Finch",
+   "aliases": [
+    "Jerry"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…93 ------------------- Dimetreus Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei- Natural causes (age) Cycle 94 ------------------- Cycle…"
+   },
+   "rank": 30,
+   "percentile": 91.2,
+   "score": 87
+  },
+  {
+   "name": "Malchus",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…crumbs and no satisfying explanation. that kind. We went to Providence. Found a man named Malchus who knew more than he was comfortable knowing. His body hung from the rafters and in his pocket…"
+   },
+   "rank": 30,
+   "percentile": 91.2,
+   "score": 87
+  },
+  {
+   "name": "Muhammed Qasim",
+   "aliases": [
+    "Muhammad Qasim"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Andrew Smith - Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim - Natural causes (cancer) Cycle 92 ------------------- Geoffrey Dingle - apparent alcohol…"
+   },
+   "rank": 30,
+   "percentile": 91.2,
+   "score": 87
+  },
+  {
+   "name": "Percy Tapper",
+   "aliases": [
+    "Percy"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…establish ties with the Veilwalkers. This was a controversial decision at the time. Percy Tapper: Died in a brewing accident early into his rule Ingram the Hermit: One of the longest…"
+   },
+   "rank": 30,
+   "percentile": 91.2,
+   "score": 87
+  },
+  {
+   "name": "Maximilian's mother",
+   "aliases": [
+    "Max's mom",
+    "Maximilian's mom",
+    "Max's mother"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "His mother was one of the ranking members of the MAA and was among those killed",
+    "note": "A ranking member of the MAA, killed in the Liquor Kings' raid."
+   },
+   "rank": 35,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

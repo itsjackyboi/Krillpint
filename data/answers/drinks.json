@@ -1,0 +1,563 @@
+{
+ "id": "drinks",
+ "prompt": "Name a drink or brew",
+ "blurb": "Anything poured, chugged, tithed, or banned somewhere in the Isles.",
+ "difficulty": "easy",
+ "gem": "Stormtide Ale",
+ "answerCount": 28,
+ "answers": [
+  {
+   "name": "Ale",
+   "aliases": [
+    "Ales"
+   ],
+   "mentions": {
+    "total": 105,
+    "compendium": 51,
+    "records": 54
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- Aleforge — Brewing capital of the Isles, home of the Drunken Trials. Known for it's fine ale and people. - Providence — The ordered, tonic-driven holy city on the cliffs. A strict theocracy…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "ClockHeart Tonic",
+   "aliases": [
+    "Clockheart",
+    "Tonic",
+    "Clockeart Tonic",
+    "bootleg tonic",
+    "bootleg ClockHeart Tonic"
+   ],
+   "mentions": {
+    "total": 72,
+    "compendium": 57,
+    "records": 15
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…home of the Drunken Trials. Known for it's fine ale and people. - Providence — The ordered, tonic-driven holy city on the cliffs. A strict theocracy ruled by Cardinal Addy, head of the Church…"
+   },
+   "rank": 2,
+   "percentile": 3.7,
+   "score": 1
+  },
+  {
+   "name": "Beer",
+   "aliases": [
+    "Beers"
+   ],
+   "mentions": {
+    "total": 37,
+    "compendium": 17,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their rare (and often disgusting) IPAs. As a nation that thrives on some of the worst types of beers, their culture is skewed towards the unsavory. Not much is known about the country besides…"
+   },
+   "rank": 3,
+   "percentile": 7.4,
+   "score": 2
+  },
+  {
+   "name": "Whiskey",
+   "aliases": [
+    "Whisky"
+   ],
+   "mentions": {
+    "total": 36,
+    "compendium": 16,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…adventure, puzzles, and mini bosses. First to collect a full set of the same armor gets an irl whiskey bottle #### Lore: the collection of ancient shrines scattered across the region offer a…"
+   },
+   "rank": 4,
+   "percentile": 11.1,
+   "score": 4
+  },
+  {
+   "name": "Grog",
+   "aliases": [],
+   "mentions": {
+    "total": 21,
+    "compendium": 14,
+    "records": 7
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The pirate cliff settlement adjacent to the Tavern. A lawless place build on reputation and grog. - Aleforge — Brewing capital of the Isles, home of the Drunken Trials. Known for it's fine…"
+   },
+   "rank": 5,
+   "percentile": 14.8,
+   "score": 6
+  },
+  {
+   "name": "Rum",
+   "aliases": [
+    "spiced rum"
+   ],
+   "mentions": {
+    "total": 13,
+    "compendium": 9,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…To us in Providence, Shanty Town is a raucous pit of pirate revelry, its streets a maze of rum-soaked taverns and cutlass clashes, lit by the flicker of stolen lanterns. We trade little…"
+   },
+   "rank": 6,
+   "percentile": 18.5,
+   "score": 8
+  },
+  {
+   "name": "Stout",
+   "aliases": [
+    "Stouts"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 7,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…colors 'pon her mast — a flag o' yer own makin' and meanin'. Ye ship must be sea-worthy, stout o' hull, and not some leakin' bucket o' shame. Ye crew must number more than one — a proper…"
+   },
+   "rank": 7,
+   "percentile": 22.2,
+   "score": 10
+  },
+  {
+   "name": "IPA",
+   "aliases": [
+    "IPAs",
+    "India Pale Ale"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 10,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…isolation is beginning to crack. The SBN is infamous for one thing above all: brewing the worst IPAs known to exist , bitter, rancid, and utterly beloved by their own people. Their entire culture,…"
+   },
+   "rank": 8,
+   "percentile": 27.8,
+   "score": 15
+  },
+  {
+   "name": "Wine",
+   "aliases": [
+    "red wine",
+    "Taverna wine"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 5,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…very religious man, had a vision. He tasked the Liquor Kings with transporting a delivery of wine to a city called \"Providence\" in a land called the \"Pintland Isles.\" Although ultimately successful,…"
+   },
+   "rank": 8,
+   "percentile": 27.8,
+   "score": 15
+  },
+  {
+   "name": "Gin",
+   "aliases": [
+    "gins"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 6,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…grudging respect and wary eyes. Their ships bring silks, exotic woods, and spices that flavor our gins, while we export brewing tools and the rarest drops of ClockHeart Tonic—hoarded like gold,…"
+   },
+   "rank": 10,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "Aleforge ale",
+   "aliases": [
+    "Aleforge brew",
+    "magical ale",
+    "spring ale"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 4,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…beaches, he gladly listened to stories about the Drunken Trials and the creation of the famous Aleforge brew. His charisma and calls for unity led to his election as mayor as the townspeople chose his…"
+   },
+   "rank": 11,
+   "percentile": 37.0,
+   "score": 23
+  },
+  {
+   "name": "The Pour Eternal",
+   "aliases": [
+    "Pour Eternal"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…new lungs. You ain't just living in a ruin. You're living in the bones of a choice.\" ### The Pour Eternal (Shanty Town Folklore) tattered, half-forgotten tavern tale, passed down through generations,…"
+   },
+   "rank": 12,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Rye",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…nothing but the sea and drink, and his catalog of the latter was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders.…"
+   },
+   "rank": 13,
+   "percentile": 44.4,
+   "score": 30
+  },
+  {
+   "name": "Bourbon",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…dream with an elite's crown, and trade tales of their spiced liquors over a glass of local bourbon. Yet, dark whispers haunt Keeldrift nights—Roto schemers, they say, toil in hidden vats to…"
+   },
+   "rank": 14,
+   "percentile": 53.7,
+   "score": 39
+  },
+  {
+   "name": "Lager",
+   "aliases": [
+    "Lagers"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…known for directing all the efforts of the court to developing a large variety of ales and lagers for the people of Aleforge Beef: Nothing is known about the Liquor King named Beef beyond…"
+   },
+   "rank": 14,
+   "percentile": 53.7,
+   "score": 39
+  },
+  {
+   "name": "Mead",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…school brewers. They made every type of alcohol you could dream of.....whiskey, wines, beers, meads and more. But never an IPA. They drank religiously and saw drinking an IPA as a disgrace.…"
+   },
+   "rank": 14,
+   "percentile": 53.7,
+   "score": 39
+  },
+  {
+   "name": "The Forbidden Brew",
+   "aliases": [
+    "Forbidden Brew"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…soul cannot die, but they also cannot be considered truly alive. ### Key Artifacts Map to the Forbidden Brew — Currently blank. It will reveal itself when the bearer is deemed worthy — which is to say,…"
+   },
+   "rank": 14,
+   "percentile": 53.7,
+   "score": 39
+  },
+  {
+   "name": "Cider",
+   "aliases": [
+    "Ciders",
+    "sweet cider"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders. The list admitted exactly one exclusion, the IPA, which he regarded as a fraud that had nonetheless…"
+   },
+   "rank": 18,
+   "percentile": 64.8,
+   "score": 52
+  },
+  {
+   "name": "Vodka",
+   "aliases": [
+    "potato vodka"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…catalog of the latter was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders. The list admitted exactly one exclusion, the…"
+   },
+   "rank": 18,
+   "percentile": 64.8,
+   "score": 52
+  },
+  {
+   "name": "Brandy",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…latter was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders. The list admitted exactly one exclusion, the IPA, which…"
+   },
+   "rank": 20,
+   "percentile": 75.9,
+   "score": 66
+  },
+  {
+   "name": "Stormtide Ale",
+   "aliases": [
+    "Stormtide brew",
+    "Storm tide brew"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…superior Aleforge recipes, I have made an agreement with Cardinal addy to brew the first batch of Stormtide Ale, mixin' Aleforge's malt with Providence's brewin' technology, without touchin' their guarded…"
+   },
+   "rank": 20,
+   "percentile": 75.9,
+   "score": 66
+  },
+  {
+   "name": "Tequila",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and his catalog of the latter was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders. The list admitted exactly one exclusion,…"
+   },
+   "rank": 20,
+   "percentile": 75.9,
+   "score": 66
+  },
+  {
+   "name": "Vermouth",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders. The list admitted exactly one exclusion, the IPA, which he regarded…"
+   },
+   "rank": 20,
+   "percentile": 75.9,
+   "score": 66
+  },
+  {
+   "name": "Fireball",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…pissed his armor that fateful night. Last Liquor Trials, he fell too hard, Face-first in fireball, banned from the yard. \"Useless drunk!\" the townsfolk sneered, \"The Slayer of Sobriety?…"
+   },
+   "rank": 24,
+   "percentile": 85.2,
+   "score": 79
+  },
+  {
+   "name": "Hennessy",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and rye, mead, beers and ales. Wines, liquors and Bourbon, Tequila, vodka and gin, Brandy, hennessy, and vermouth, Stouts, lagers and ciders But never NEVER an ipa....that bastard that dares…"
+   },
+   "rank": 25,
+   "percentile": 90.7,
+   "score": 86
+  },
+  {
+   "name": "Wepple Ale",
+   "aliases": [
+    "Wepple's ale"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hearing this news, Anqoak severely beat Glub Tuppus Wepple and stole the entire supply of Wepple Ale, giving to his company as new inventory. Currently, this inventory is being sold in secret…"
+   },
+   "rank": 25,
+   "percentile": 90.7,
+   "score": 86
+  },
+  {
+   "name": "Colt 45",
+   "aliases": [
+    "Colt45",
+    "Colt 45s"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…suma cum laude, ● on weekends he volunteered for the aleforge Salvation Army handing out colt45s to homeless veterans ● Everything was great until Mr Seamus bonehardy raped his wallet…"
+   },
+   "rank": 27,
+   "percentile": 98.1,
+   "score": 97
+  },
+  {
+   "name": "Hot chocolate",
+   "aliases": [
+    "hot cocoa"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…has been running amuck around town, harassing the local businesses in the square. He loves hot chocolate, so if you give him some, hes sure to give you something in return…That is, if you can catch…"
+   },
+   "rank": 27,
+   "percentile": 98.1,
+   "score": 97
+  }
+ ]
+}

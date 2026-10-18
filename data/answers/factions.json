@@ -1,0 +1,813 @@
+{
+ "id": "factions",
+ "prompt": "Name a faction, gang or organization",
+ "blurb": "Councils, cults, gangs, guilds, crews, and the occasional chess club.",
+ "difficulty": "easy",
+ "gem": "Shot-Chess Association",
+ "answerCount": 39,
+ "answers": [
+  {
+   "name": "The Liquor Kings",
+   "aliases": [
+    "Liquor Kings",
+    "The Six"
+   ],
+   "mentions": {
+    "total": 181,
+    "compendium": 119,
+    "records": 62
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "# Tab 1 THE PINTLAND ISLES MASTER LORE COMPENDIUM Parliament of the Liquor Kings Document Instantiated June 26th, 2025 Cycle 94, Year 466 # NOTE FOR THE LLM Note for…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The Veilwalkers",
+   "aliases": [
+    "Veilwalkers",
+    "Veil Walkers",
+    "Earthborn"
+   ],
+   "mentions": {
+    "total": 88,
+    "compendium": 65,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Brush — The dense inland forest known locally as 'Thiccy Forest.' This is the home of the Veilwalker encampment, Fenwick. Many other notable locations are shrouded by the dense forest, most prominent…"
+   },
+   "rank": 2,
+   "percentile": 2.6,
+   "score": 0
+  },
+  {
+   "name": "MAA",
+   "aliases": [
+    "Mothers Against Alcohol",
+    "The MAA"
+   ],
+   "mentions": {
+    "total": 31,
+    "compendium": 26,
+    "records": 5
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the crown. Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge but educated in Providence, Scipiums polical and social…"
+   },
+   "rank": 3,
+   "percentile": 5.3,
+   "score": 1
+  },
+  {
+   "name": "MAMA",
+   "aliases": [
+    "Mothers Against Maximillians Assassination",
+    "Mothers Against Maximilian's Assassination"
+   ],
+   "mentions": {
+    "total": 35,
+    "compendium": 14,
+    "records": 21
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…extent of his interaction with the mystical aspects on the island Gideon is strongly anti MAMA, while he too is no fan of the liquor kings, he believes there is no place for extremism in…"
+   },
+   "rank": 4,
+   "percentile": 7.9,
+   "score": 2
+  },
+  {
+   "name": "Gideon Drake Commission",
+   "aliases": [
+    "GDC"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 4,
+    "records": 14
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…proportioned that Buke wrote an ode to it. Mr. BBL is a competent, honest administrator who led the Gideon Drake Commission with integrity. He was the first to suspect Wepple's financial irregularities, the first to…"
+   },
+   "rank": 5,
+   "percentile": 10.5,
+   "score": 3
+  },
+  {
+   "name": "Seaside Circus",
+   "aliases": [
+    "Seasiders",
+    "The Circus"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 2,
+    "records": 15
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner,…"
+   },
+   "rank": 6,
+   "percentile": 13.2,
+   "score": 5
+  },
+  {
+   "name": "Church of Patmos",
+   "aliases": [
+    "Patmos",
+    "The Church"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 14,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…holy city on the cliffs. A strict theocracy ruled by Cardinal Addy, head of the Church of Patmos. - Fenwick — The Veilwalker wetland settlement. Named by outsiders: 'Fen' for the marshland,…"
+   },
+   "rank": 7,
+   "percentile": 15.8,
+   "score": 6
+  },
+  {
+   "name": "Crimson Cutters",
+   "aliases": [
+    "The Cutters",
+    "Cutters"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 4,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…King Trials. During the events of A Walk on Owe Block, Anqoak joined the infamous Crimson Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside…"
+   },
+   "rank": 8,
+   "percentile": 18.4,
+   "score": 8
+  },
+  {
+   "name": "Grand Council of Lagendale",
+   "aliases": [
+    "Grand Council",
+    "Lagendale Council",
+    "Council of 138"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 7,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…out. That peace ended with a farmer. The Forbidden Union During the reign of the 33rd Council, a farmer from the northern fields wandered into the Foreverglades, an ancient forest shared…"
+   },
+   "rank": 9,
+   "percentile": 22.4,
+   "score": 11
+  },
+  {
+   "name": "Windsunk Council",
+   "aliases": [
+    "The Windsunk",
+    "Windsunk"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 11,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…currency. Trade was done in barrels, not coin. You wanted a room? A barrel. food? A pint. The Windsunk Council formed — old captains and clever drinkers who could hold their own. They set the first…"
+   },
+   "rank": 9,
+   "percentile": 22.4,
+   "score": 11
+  },
+  {
+   "name": "Aleforge Militia",
+   "aliases": [
+    "The Militia"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 8,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the games. The goal is to attract tourism during the games and boost the economy. Aleforge Militia: Gideon has created a volunteer militia to watch over the town, and protect it against riots…"
+   },
+   "rank": 11,
+   "percentile": 26.3,
+   "score": 13
+  },
+  {
+   "name": "Aleforge Special Drinkers Unit",
+   "aliases": [
+    "ASDU",
+    "Special Drinkers Unit",
+    "Aleforge Special Drinkers Association"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 6,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…near its coastline in living memory This uptick hasn't gone unnoticed. Both the Aleforge Special Drinkers Unit and the Providence Guard have flagged the increased SBN presence as worth watching but…"
+   },
+   "rank": 12,
+   "percentile": 30.3,
+   "score": 17
+  },
+  {
+   "name": "The Apostles",
+   "aliases": [
+    "Apostles"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 7,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ceaseless toil lies a deeper rhythm, guided by the church of Patmos, where half the folk serve as Apostles, their jittery hands raised in ceaseless devotion. Their tithes—half of all earnings—flow…"
+   },
+   "rank": 12,
+   "percentile": 30.3,
+   "score": 17
+  },
+  {
+   "name": "The Veilwalker Elders",
+   "aliases": [
+    "Elders",
+    "The Elders"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Veilwalker. Female Walkers are seldom seen. By Veilwalker law, they are barred from serving as Elders or ambassadors, keeping them largely out of contact with the outside world. This particular…"
+   },
+   "rank": 14,
+   "percentile": 34.2,
+   "score": 20
+  },
+  {
+   "name": "Bjor Hjarta",
+   "aliases": [
+    "The Bjor Hjarta"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 3,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…delivery, and had lost much of the product long before arriving. ## Bar Bastion Home of the Bjor Hjarta. These cave dwelling dwarves are known in all the land for brewing the best and most refreshing…"
+   },
+   "rank": 15,
+   "percentile": 38.2,
+   "score": 24
+  },
+  {
+   "name": "The Color Guard",
+   "aliases": [
+    "Color Guard",
+    "Color Guards"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge Sheriff was Peedrick Cocaine Sr. the current sheriff is Sheriff Edward Cocaine 3. The Color Guard: The Color Guard dates back to the founders of Aleforge. The first ones to plant the flag…"
+   },
+   "rank": 15,
+   "percentile": 38.2,
+   "score": 24
+  },
+  {
+   "name": "Old Alforge Municipal",
+   "aliases": [
+    "Old Aleforge Municipal",
+    "OAM"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…not much is known about them but some believe they have their origin in Vodkonia. ##### Old Alforge Municipal Old Alforge Municipal (OAM) is made up of the last three government offices from Old Aleforge.…"
+   },
+   "rank": 17,
+   "percentile": 42.1,
+   "score": 27
+  },
+  {
+   "name": "Providence Guard",
+   "aliases": [
+    "The Guard",
+    "Providence Guards"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…memory This uptick hasn't gone unnoticed. Both the Aleforge Special Drinkers Unit and the Providence Guard have flagged the increased SBN presence as worth watching but neither has been able to determine…"
+   },
+   "rank": 18,
+   "percentile": 46.1,
+   "score": 31
+  },
+  {
+   "name": "The Ashen Oath",
+   "aliases": [
+    "Ashen Oath"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"kissed by the trench.\" Now, they are something less than human and more than drowned. 3. The Ashen Oath: Hidden fanatics and idealists who believe the sea, pirates, and grog have tainted the world.…"
+   },
+   "rank": 18,
+   "percentile": 46.1,
+   "score": 31
+  },
+  {
+   "name": "Aleforge Restoration Association",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fully documented. ## Providence Educational Foundation for Historical Preservation / Aleforge Restoration Association (Cultural) Two of the civic institutions operating in their respective cities. The Providence…"
+   },
+   "rank": 20,
+   "percentile": 56.6,
+   "score": 43
+  },
+  {
+   "name": "Fayte Druids",
+   "aliases": [
+    "The Fayte Druids"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The ancient monk's hall built over a mystical anomaly. Recently it has been closed off by the Fayte Druids - Fentmaxxer's Observatory — The hastily constructed observatory on Killdeath Peak. -…"
+   },
+   "rank": 20,
+   "percentile": 56.6,
+   "score": 43
+  },
+  {
+   "name": "Foamrot Scallywag crew",
+   "aliases": [
+    "Foamrot Scallywags",
+    "Foamrot"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…headquartered in Providence. Goldcoral Inc owns the ship The Bastards Requiem and employs the Foamrot Scallywag crew. Jack is currently searching for a worthy crew to bring in higher profits for…"
+   },
+   "rank": 20,
+   "percentile": 56.6,
+   "score": 43
+  },
+  {
+   "name": "Parliament of the Liquor Kings",
+   "aliases": [
+    "The Parliament"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "# Tab 1 THE PINTLAND ISLES MASTER LORE COMPENDIUM Parliament of the Liquor Kings Document Instantiated June 26th, 2025 Cycle 94, Year 466 # NOTE FOR THE LLM Note for…"
+   },
+   "rank": 20,
+   "percentile": 56.6,
+   "score": 43
+  },
+  {
+   "name": "Providence Police Department",
+   "aliases": [
+    "Providence Police"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…none caught his attention like the life of The Guardian. The other Kings had been asked by Providence Police and the Aleforge Special Drinkers Unit to investigate a missing persons case that revolved…"
+   },
+   "rank": 20,
+   "percentile": 56.6,
+   "score": 43
+  },
+  {
+   "name": "The Rumrunners",
+   "aliases": [
+    "Rumrunners",
+    "Pilsner's men"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…over… We remember him. Jameson Pilsner, may he never be sober ## Pilsners Lament (the rumrunners rant) Shanty: \"Liver's End\" Oh the Liver's End sails past the moons, With rum in her…"
+   },
+   "rank": 20,
+   "percentile": 56.6,
+   "score": 43
+  },
+  {
+   "name": "Earth ambassadors legion",
+   "aliases": [
+    "Earth team"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…our station could be discovered by mere accident now. We will send him an assistant via our Earth team to ensure that his viewings never align with our quadrant of the sky. Earth Report 82 For…"
+   },
+   "rank": 26,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "Brewers Guild",
+   "aliases": [
+    "The Brewers Guild"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…morning Roderick Hennessany: Negotiated a peace between the warring farmers clan and brewers guild. Some view this as the true founding of Aleforge Cormac Bushlighted: Cormac is known…"
+   },
+   "rank": 27,
+   "percentile": 80.3,
+   "score": 72
+  },
+  {
+   "name": "Craftsmen guild",
+   "aliases": [
+    "Craftsmen's guild",
+    "craftsmen guilds"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…launched the GDC, issued the first Aleforge Bond offering to raise capital, and established the craftsmen and mining guilds — eliminating unemployment in one stroke and giving the idle drunkards of Aleforge something…"
+   },
+   "rank": 27,
+   "percentile": 80.3,
+   "score": 72
+  },
+  {
+   "name": "Mining guild",
+   "aliases": [
+    "Miners guild"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…issued the first Aleforge Bond offering to raise capital, and established the craftsmen and mining guilds — eliminating unemployment in one stroke and giving the idle drunkards of Aleforge something…"
+   },
+   "rank": 27,
+   "percentile": 80.3,
+   "score": 72
+  },
+  {
+   "name": "Shot-Chess Association",
+   "aliases": [
+    "Shot Chess Association",
+    "Shot-Chess"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aberama Bong Owner of the Fianchetto Chess bar in the Cardinal Circle, and the moderator of the Shot-Chess association. ### Pope Used to be a big time mafia man working at the Buenacera Italian…"
+   },
+   "rank": 27,
+   "percentile": 80.3,
+   "score": 72
+  },
+  {
+   "name": "The Barrel Breakers",
+   "aliases": [
+    "Barrel Breakers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bootymane, luke (Buke), Stephan (Guinnie) ### Seamus Bonehardy (Nathan) \"King of Kegs\" — The Barrel Breakers / Ship: The Alemaster's Mortar Backstory: I was born on a small island typically used for…"
+   },
+   "rank": 27,
+   "percentile": 80.3,
+   "score": 72
+  },
+  {
+   "name": "The Bilgrats and Buttplugs",
+   "aliases": [
+    "Bilgrats and Buttplugs",
+    "Bilgrats"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…return home late to the liquor king trails part 1 ### Steph 'Guinnie' O'Guinness (Stephan) The Bilgrats and Buttplugs / Ship: Jolly Rammer Welp guess this is me Heard o' Steph O'Guinness, have…"
+   },
+   "rank": 27,
+   "percentile": 80.3,
+   "score": 72
+  },
+  {
+   "name": "The Coral-eyed",
+   "aliases": [
+    "Coral-eyed",
+    "Coral eyed"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…punishes arrogance. Most are former helmsmen, weather witches, or deep-sea interpreters. 2. The Coral-eyed: Once sailors and scavengers, these individuals spent far too long beneath the sea — trapped…"
+   },
+   "rank": 27,
+   "percentile": 80.3,
+   "score": 72
+  },
+  {
+   "name": "The farmers clan",
+   "aliases": [
+    "Farmers clan",
+    "warring farmers clan"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…king until the next morning Roderick Hennessany: Negotiated a peace between the warring farmers clan and brewers guild. Some view this as the true founding of Aleforge Cormac Bushlighted:…"
+   },
+   "rank": 27,
+   "percentile": 80.3,
+   "score": 72
+  },
+  {
+   "name": "Tide Callers",
+   "aliases": [
+    "The Tide Callers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the windsunk Council initiation (the first Pour) ### Shanty Town's Political Factions 1. The Tide Callers: A semi-religious order of mystics, navigators, and storm-readers. They believe the ocean…"
+   },
+   "rank": 27,
+   "percentile": 80.3,
+   "score": 72
+  },
+  {
+   "name": "Whiskey Runners",
+   "aliases": [
+    "The Whiskey Runners"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…initially a foreigner from an unknown land of giants, brought to Providence as a baby by way of the Whiskey Runners, a missionary group who smuggled illegal tonic from Providence to Aleforge during the early…"
+   },
+   "rank": 27,
+   "percentile": 80.3,
+   "score": 72
+  },
+  {
+   "name": "Moby's TNT crew",
+   "aliases": [
+    "Moby's crew",
+    "TNT crew"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Veil Oath book and Veil Chalice from the shrine, proving his sin. Fr Leo, Krag, Zara, and Moby's TNT crew backed them in a scrap with Gobbler in that shrine's narrow hall, water sloshing…"
+   },
+   "rank": 37,
+   "percentile": 97.4,
+   "score": 96
+  },
+  {
+   "name": "Providence Educational Foundation for Historical Preservation",
+   "aliases": [
+    "Providence Educational Foundation"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…member. The current state and operations of this business are not fully documented. ## Providence Educational Foundation for Historical Preservation / Aleforge Restoration Association (Cultural) Two of the civic…"
+   },
+   "rank": 37,
+   "percentile": 97.4,
+   "score": 96
+  },
+  {
+   "name": "The smugglers gallery",
+   "aliases": [
+    "smugglers gallery"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Kings: Rulers from Years 1 - 193. Balder Pilsford: Fought a quiet but brutal war against the smugglers gallery along the cliffs of Aleforge. Guinnesston: The first king to send a diplomatic envoy…"
+   },
+   "rank": 37,
+   "percentile": 97.4,
+   "score": 96
+  }
+ ]
+}

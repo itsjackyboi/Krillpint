@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Deep Pour</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="A daily Pintland Isles trivia game. Five prompts, one answer each. The rarer the answer, the deeper you pour.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <h1 class="brand">Deep Pour</h1>
+    <p class="meta" id="pour-meta">Pintland Isles</p>
+  </header>
+  <ol class="tracker" id="tracker" aria-label="Today's five pours"></ol>
+  <main id="main" tabindex="-1">
+    <p class="loading">Drawing today's pours…</p>
+  </main>
+  <p class="sr-only" aria-live="polite" id="announce"></p>
+  <footer class="foot">
+    <p>Canon: the Master Lore Compendium and the Hoegaarden Hall of Records. Nothing else counts.</p>
+    <details class="test-tools" id="test-tools" hidden>
+      <summary>Test tools</summary>
+      <div class="test-body">
+        <label for="test-date">Play the pour for</label>
+        <div class="test-row">
+          <input type="date" id="test-date">
+          <button type="button" class="btn ghost small" id="test-go">Load date</button>
+          <button type="button" class="btn ghost small" id="test-reset">Reset this date</button>
+        </div>
+        <p class="hint" id="test-lineup"></p>
+      </div>
+    </details>
+  </footer>
+</div>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

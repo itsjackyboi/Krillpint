@@ -1,0 +1,406 @@
+{
+ "id": "taverns",
+ "prompt": "Name a tavern, bar or inn",
+ "blurb": "Anywhere a pint gets poured, on the Isles or on the road there.",
+ "difficulty": "easy",
+ "gem": "The Last Drop",
+ "answerCount": 19,
+ "answers": [
+  {
+   "name": "Sackbeard's Tavern",
+   "aliases": [
+    "Shell Tavern",
+    "The Shell Tavern",
+    "Great Shell Tavern",
+    "Shelled Tavern",
+    "The Great Tavern",
+    "The Tavern"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 28,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Gilded Tankard",
+   "aliases": [
+    "The Tankard",
+    "Wepple's"
+   ],
+   "mentions": {
+    "total": 25,
+    "compendium": 20,
+    "records": 5
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and tavern founded by Glub Tuppus Wepple. A newcomer named Gideon Drake rose to…"
+   },
+   "rank": 2,
+   "percentile": 5.6,
+   "score": 1
+  },
+  {
+   "name": "Hogwilly's Tavern",
+   "aliases": [
+    "Hogwilly's",
+    "Hogwillys"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 2,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…is currently developing a new brew in secret and hopes to leave the Grog Galley. ## Hogwilly's Tavern The first tavern built and shared by the 6 Liquor Kings. This was long before any…"
+   },
+   "rank": 3,
+   "percentile": 11.1,
+   "score": 4
+  },
+  {
+   "name": "Bar Bastion",
+   "aliases": [
+    "The Bastion"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 5,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…late with the delivery, and had lost much of the product long before arriving. ## Bar Bastion Home of the Bjor Hjarta. These cave dwelling dwarves are known in all the land for brewing…"
+   },
+   "rank": 4,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Stank Tank",
+   "aliases": [
+    "The Stank Tank"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 5,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner, Wagwan was very persuasive with his memorable line \"I am black.\" During the events…"
+   },
+   "rank": 5,
+   "percentile": 22.2,
+   "score": 10
+  },
+  {
+   "name": "Jack Anqoak's Grog Galley",
+   "aliases": [
+    "Grog Galley",
+    "Jack's Grog Galley"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley is a subsidiary of Goldcoral Incorporated A small cave entrance…"
+   },
+   "rank": 6,
+   "percentile": 30.6,
+   "score": 17
+  },
+  {
+   "name": "The Taverna",
+   "aliases": [
+    "Taverna"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…any of them had been crowned king, let alone set foot on the Pintland Isles. ## The Taverna An idyllic lush countryside villa and vineyard. It was here that the 6 Liquor Kings first…"
+   },
+   "rank": 6,
+   "percentile": 30.6,
+   "score": 17
+  },
+  {
+   "name": "Mickey's Pipe Club",
+   "aliases": [
+    "Pipe Club"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…spectacular sequence, died first in the mines, lost everything, then hired a hit through Mickey's Pipe Club to have Seamus killed in revenge. The thread connecting all of it was Sexton Gobbler, who…"
+   },
+   "rank": 8,
+   "percentile": 41.7,
+   "score": 27
+  },
+  {
+   "name": "Thorny Thicket",
+   "aliases": [
+    "T(horny) Thicket Tavern",
+    "Thorny Thicket Tavern",
+    "Thicket Tavern"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Many other notable locations are shrouded by the dense forest, most prominent of these is the Thorny Thicket, a bar owned by George Bush. A disgruntled farmer has taken up residence deep in the forest…"
+   },
+   "rank": 8,
+   "percentile": 41.7,
+   "score": 27
+  },
+  {
+   "name": "Billy Ball Busters Inn",
+   "aliases": [
+    "Ball Buster Inn",
+    "Ballbuster Inn",
+    "Billy Ballbusters Inn"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(and the freakiest) hogs in all of Pintland and thats a Freddy Hog guarantee. ##### Billy Ball Busters Inn The best and only Inn in all of Aleforge. Offers a range of rooms and community lodges……..…"
+   },
+   "rank": 10,
+   "percentile": 52.8,
+   "score": 38
+  },
+  {
+   "name": "Poopwata Basin",
+   "aliases": [
+    "Poopwater",
+    "Poopwater Basin"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…interesting encounter even if ultimately it was just a small part of these men's story. ## Poopwata Basin An island tavern constructed by the 6 Liquor Kings, although this was long before they…"
+   },
+   "rank": 10,
+   "percentile": 52.8,
+   "score": 38
+  },
+  {
+   "name": "Boner Bar",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the brewers. ##### Aleforge Bazzar ##### Aleforge Light House and Customs Control ##### Boner Bar Wolendi The family wind farm of the Derecho family, currently under ownership of Gale…"
+   },
+   "rank": 12,
+   "percentile": 69.4,
+   "score": 58
+  },
+  {
+   "name": "Fianchetto Chess Bar",
+   "aliases": [
+    "Fianchetto"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…also responsible for most of the Gold in the treasury. ### Aberama Bong Owner of the Fianchetto Chess bar in the Cardinal Circle, and the moderator of the Shot-Chess association. ### Pope Used…"
+   },
+   "rank": 12,
+   "percentile": 69.4,
+   "score": 58
+  },
+  {
+   "name": "Hall of Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Once a month the brewers gather here for a grand feast and keg tap",
+    "note": "The brewers' hall in Aleforge, where a different family hosts a keg tap each month."
+   },
+   "rank": 12,
+   "percentile": 69.4,
+   "score": 58
+  },
+  {
+   "name": "The Last Drop",
+   "aliases": [
+    "Last Drop"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…best and only Inn in all of Aleforge. Offers a range of rooms and community lodges…….. ##### The Last Drop Ballbusters brother Tugller founded a secret bar deep below the Ballbuster Inn ##### Witch…"
+   },
+   "rank": 12,
+   "percentile": 69.4,
+   "score": 58
+  },
+  {
+   "name": "The labyrinth tavern",
+   "aliases": [
+    "underground tavern",
+    "tavern in the labyrinth"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "we found a MARVELOUS tavern in this foul labyrinth",
+    "note": "An improbable tavern deep in the labyrinth beneath Hoegaarden."
+   },
+   "rank": 16,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "The pub in Gyntonick",
+   "aliases": [
+    "Gyntonick pub",
+    "Gyntonick tavern"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "a night drowned in rye at the pub in Gyntonick",
+    "note": "Where Jack Anqoak robbed a Commodore and framed his brother Rum."
+   },
+   "rank": 16,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "The Theocrat",
+   "aliases": [
+    "Theocrat"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "working part time at the Theocrat. He does shows on the weekend to the few late-night drinkers",
+    "note": "Vlad the Kisser does weekend shows there for the late drinkers at final tonic call."
+   },
+   "rank": 16,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "The cannibal tavern",
+   "aliases": [
+    "cannibal tavern"
+   ],
+   "mentions": {
+    "total": 0,
+    "compendium": 0,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "the tavern I had just escaped was a front for ritualistic cannibalism",
+    "note": "Where Guinnie got dosed twice before chasing the green frog into the woods."
+   },
+   "rank": 19,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

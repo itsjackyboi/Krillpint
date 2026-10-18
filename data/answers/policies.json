@@ -1,0 +1,745 @@
+{
+ "id": "policies",
+ "prompt": "Name an Aleforge policy, law or campaign promise",
+ "blurb": "Enacted by a mayor, passed by the Kings, or shouted from a campaign stage.",
+ "difficulty": "hard",
+ "gem": "Drunk Delivery",
+ "answerCount": 37,
+ "answers": [
+  {
+   "name": "Aleforge Bond Market",
+   "aliases": [
+    "Aleforge Bonds",
+    "bond offering",
+    "Bond Market"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…only strong enough to deter small groups, a large riot or attack would be a real problem. Aleforge Bond Market: A portion of the funds for these projects has come from the issue of Aleforge Bonds, currently…"
+   },
+   "rank": 1,
+   "percentile": 1.4,
+   "score": 0
+  },
+  {
+   "name": "Legalizing bootleg ClockHeart Tonic",
+   "aliases": [
+    "legalize bootleg tonic",
+    "tonic legalization",
+    "legalized tonic"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was blackmailing Liquor King Seamus Bonehardy (who was elected mayor not long after) into legalizing the bootleg tonic in Aleforge. Although still illegal in Providence, where the tonic is manufactured,…"
+   },
+   "rank": 1,
+   "percentile": 1.4,
+   "score": 0
+  },
+  {
+   "name": "Aleforge International Academy for Aspiring Drinkers",
+   "aliases": [
+    "Aleforge Academy",
+    "Academy for Aspiring Drinkers",
+    "school of drinking"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…coin and fill our coffers. My plan is innovation and industry: the Aleforge International Academy for Aspiring Drinkers is our path to glory, a school rising by the Gilded Tankard to teach brewing and boozing like…"
+   },
+   "rank": 3,
+   "percentile": 8.3,
+   "score": 2
+  },
+  {
+   "name": "Aleforge Memorial Museum",
+   "aliases": [
+    "Memorial Museum"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…our right to drink, to dance, to live free. That is why I will fund the construction of the Aleforge Memorial Museum—a place of reverence, remembrance, and free drinks on the anniversary of our victory. We'll…"
+   },
+   "rank": 3,
+   "percentile": 8.3,
+   "score": 2
+  },
+  {
+   "name": "Barley Road Initiative",
+   "aliases": [
+    "Barley Road"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tolls on the other hand have increased by 50% to improve maintenance and to pay for Gideons \"Barley Road Initiative.\" Barley Road Initiative: A comprehensive road system connecting Aleforge with…"
+   },
+   "rank": 3,
+   "percentile": 8.3,
+   "score": 2
+  },
+  {
+   "name": "Cum in My Mouth Act",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…times. But his fields once flowed golden, feeding half our ale. That's why I authored the Cum in My Mouth Act—a bold, honest policy to get Cum's production, into ale and back into our mouths where it…"
+   },
+   "rank": 6,
+   "percentile": 20.8,
+   "score": 10
+  },
+  {
+   "name": "Drunk Delivery",
+   "aliases": [
+    "ale-powered balloon"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…just so they can sell their grog. WE NEED TO lower our bond debts. Craftsmen and Miners, my Drunk Delivery has you building an ale-powered balloon to ship barrels to Shanty Town, tripling our loot…"
+   },
+   "rank": 6,
+   "percentile": 20.8,
+   "score": 10
+  },
+  {
+   "name": "Gilded Tankard Grant",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of cheap grog, however, to protect Aleforges key export until other industries have grown. Gilded Tankard Grant: The Aleforge government has granted the gilded tankard a significant amount of money to upgrade…"
+   },
+   "rank": 6,
+   "percentile": 20.8,
+   "score": 10
+  },
+  {
+   "name": "Increasing Road Tolls",
+   "aliases": [
+    "road tolls"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…This is meant to promote more trade with neighbors, mainly Roto and Providence. Increasing Road Tolls: Road tolls on the other hand have increased by 50% to improve maintenance and to pay for…"
+   },
+   "rank": 6,
+   "percentile": 20.8,
+   "score": 10
+  },
+  {
+   "name": "Liquor Kings monument",
+   "aliases": [
+    "monument to the Liquor Kings"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…- Question for Buke: In the third grand council meeting you voted to erect a monument in the liquor kings honor. As mayor would you continue to propose such self serving policies? - Question…"
+   },
+   "rank": 6,
+   "percentile": 20.8,
+   "score": 10
+  },
+  {
+   "name": "Local barrel production",
+   "aliases": [
+    "barrel production",
+    "local barrels"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…hammers at besides each other. The mines were reopened, forges were lit, and more importantly, barrel production got local again. We cut reliance on Rotto's overpriced garbage and started shipping our barrels…"
+   },
+   "rank": 6,
+   "percentile": 20.8,
+   "score": 10
+  },
+  {
+   "name": "Ale Day",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…noon-3pm (time for more drinking) 3. Declare the day of the attack as a national holiday. \"Ale Day\"-- Happy hour all day 4. Open a zoo for CUMsock to live out his days happily- so that we…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Aleforge military",
+   "aliases": [
+    "officially funded Aleforge military"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…have slammed MAMA so hard, but they are not gone yet. My proposal is an officially funded Aleforge military to prevent the rise of extremism anywhere in our great town. Question: How will you…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Aleforge Militia",
+   "aliases": [
+    "Militia"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…creating the games. The goal is to attract tourism during the games and boost the economy. Aleforge Militia: Gideon has created a volunteer militia to watch over the town, and protect it against riots…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Alliance for Liquor Expansion",
+   "aliases": [
+    "A.L.E. Alliance"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…borrow. We will brew our way out of ruin.\" \"With your trust, I will launch A.L.E.—the Alliance for Liquor Expansion. Local farmers—your neighbors—will be given funding through a fair, open application process.…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Barley and Wheat Subsidies",
+   "aliases": [
+    "wheat subsidies",
+    "barley subsidies",
+    "grain subsidies"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…views and would rather prioritize economic and political goals. Policies and Legislation: Barley and Wheat Subsidies: Gideon has allocated some town funds to help grow the supply chain for breweries in town.…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Craftsmen and mining guilds",
+   "aliases": [
+    "mining guilds",
+    "craftsmen guilds"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…launched the GDC, issued the first Aleforge Bond offering to raise capital, and established the craftsmen and mining guilds — eliminating unemployment in one stroke and giving the idle drunkards of Aleforge something…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "CUMsock zoo",
+   "aliases": [
+    "zoo for CUMsock",
+    "Cumsock zoo"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Declare the day of the attack as a national holiday. \"Ale Day\"-- Happy hour all day 4. Open a zoo for CUMsock to live out his days happily- so that we may never forget John Cum I believe a drunk…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Drunken Trials Revival Fund",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…government. Gideon wants to move away from reliance on just brewing to support the economy. Drunken Trials Revival Fund: At the heart of Aleforge culture is the Drunken Trials, Gideon aims to make the next one…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Eliminating Sea Trade Tolls",
+   "aliases": [
+    "sea trade tolls"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a lower, flat tax on brewers to increase profit and local private investment. Eliminating Sea Trade Tolls: Any ship seeking trade will no longer pay a toll to dock at Aleforge. This is meant to promote…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Fenwick Fringe Fertile Fiesta",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…our loot while giving Farmers free rides to sell wheat. Hold your applause And Farmers, the Fenwick Fringe Fertile Fiesta leases land around Fenwick for you to farm. lets leave Fenwick's woods alone. They have no…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Flat brewers tax",
+   "aliases": [
+    "Changes on Brewers Tax",
+    "brewers tax"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…has a 20% flat tax, and a 150% tax if discovered smuggling the items into town. Changes on Brewers Tax: Gone are the days of Thomas Thatchers variable tax rate on breweries based on production.…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Gilded Grog Shacks",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…I'm sick and tired of these rebels trying to destroy the peace we have created. Traders, my Gilded Grog Shacks policy will be to set up coastal taverns for Rotto's and providence traders, charging triple…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Grog Guzzle Gala",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…sing! Let me lay out some of the changes I would enact if you were to elect me Governor. My Grog Guzzle Gala policy will entail Aleforge throws a biweekly bash where all ale's 25% off, so Brewers, Pirates,…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "John Cum Memorial",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…is in the hands of a Liquor King, Aleforge will prosper. My plans as Mayor 1. Build a John Cum Memorial 2. Make a 3 and a half day work week. With a mandatory work break from noon-3pm (time for…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "M.A.A. Mandatory Alcohol Antidote",
+   "aliases": [
+    "Mandatory Alcohol Antidote"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…crasftmen with cheaper alcohol and pull in money for the brewers. my 2nd policy titled \"M.A.A. Mandatory Alcohol Antidote\" spits in the face of Plinket, God help her, and all the faces of the MAA as we will make…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "MAMA amnesty deal",
+   "aliases": [
+    "MAMA amnesty",
+    "amnesty deal"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…let's be real, he doesn't belong in politics! JagerBauhm was the only one to vote against the MAMA amnesty deal in a time when we most needed to de-escalate tensions. It was the black and white thinking…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Old Aleforge Historic Act",
+   "aliases": [
+    "Historic Act"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…replaced by the services of the castle. But the building and its members are protected under the Old Aleforge Historic Act. These offices were created by the founders of aleforge and the positions have been filled…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Providence wheat deal",
+   "aliases": [
+    "emergency Providence wheat deals",
+    "wheat deal"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drunkards of Aleforge something productive to do with their hands. Later turns saw emergency Providence wheat deals when the blight struck, subsidies for new farmers, a re-evaluation of barrel imports (the…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Roto Free Trade Deal",
+   "aliases": [
+    "Roto trade deal"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…promote more competition so they are not reliant on one source of wheat for all of their ale. Roto Free Trade Deal: Gideon negotiated with the traders of Roto to promote mostly free trade of key resources.…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Shorelan ban",
+   "aliases": [
+    "Clockheart Tonic ban",
+    "tonic ban"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…This man was banished from the city but eventually became the founder of Providence. The \"Shorelan ban\" on Clockheart Tonic as it came to be known, stayed in effect until Liquor King, Seamus Bonehardy…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Thatcher Memorial",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…mistakes, what makes them great is how they rectify them. And I will rectify it by building a Thatcher Memorial and giving free Ale to all who are poor and thirsty, It's what he wouldve wanted. The…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Thomas Thatcher Memorial Scholarship",
+   "aliases": [
+    "Thatcher Scholarship"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…silk road sh-t, it's time for the Barley road now\" (leaked scroll from an internal meeting) Thomas Thatcher Memorial Scholarship: Gideon has implemented a scholarship system to promote education in emerging crafts, mainly…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Three-and-a-half day work week",
+   "aliases": [
+    "3 and a half day work week",
+    "3.5 day work week",
+    "three and a half day work week"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…King, Aleforge will prosper. My plans as Mayor 1. Build a John Cum Memorial 2. Make a 3 and a half day work week. With a mandatory work break from noon-3pm (time for more drinking) 3. Declare the day of…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Tithe of Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…I know our citizens want to drink, so as a part of aleforge academy, we will institute the tithe of ale, where students give out samples to all aleforge citizens to test their beer before it goes…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Veilwalker Artifact Tariff",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…investing directly into private business but most agree that more Ale can only be a good thing. Veilwalker Artifact Tariff: Gideon is uneasy with the thought of trade with the Veilwalkers as he sees them as almost…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Veilwalker manifest destiny",
+   "aliases": [
+    "manifest destiny"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…is definitely more sure about his sexuality than Buke, but he was the ONLY king to vote for Veilwalker manifest destiny. Now I'm no Fenwick lover, but only a dumbass would go and piss off a town of mages right…"
+   },
+   "rank": 12,
+   "percentile": 65.3,
+   "score": 53
+  }
+ ]
+}
