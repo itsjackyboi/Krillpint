@@ -4,6 +4,7 @@
   "use strict";
 
   const CFG = window.DEEP_POUR_CONFIG || {};
+  const TEST_MODE = Boolean(CFG.testMode) || location.hash === "#test";
   const STATE_PREFIX = "deep-pour:v1:";
   const NAME_KEY = "deep-pour:name";
   const TEST_DATE_KEY = "deep-pour:test-date";
@@ -640,7 +641,7 @@
 
   /* ---------- test tools ---------- */
   function setupTestTools(today) {
-    if (!CFG.testMode) return;
+    if (!TEST_MODE) return;
     const box = $("#test-tools");
     box.hidden = false;
     const input = $("#test-date");
@@ -664,7 +665,7 @@
       }
       const today = easternParts().iso;
       let date = today;
-      const testDate = CFG.testMode ? session.get(TEST_DATE_KEY) : null;
+      const testDate = TEST_MODE ? session.get(TEST_DATE_KEY) : null;
       if (testDate && /^\d{4}-\d{2}-\d{2}$/.test(testDate)) date = testDate;
       const dayIndex = Math.max(0, daysBetween(prompts.epoch, date));
       if (daysBetween(prompts.epoch, date) < 0) date = prompts.epoch;
