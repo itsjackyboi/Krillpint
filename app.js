@@ -461,7 +461,13 @@
   }
 
   function shareText() {
-    const lines = ["DeepPint", ctx.state.results.map(layerEmoji).join(""), `Score: ${totalScore(ctx.state.results)}`];
+    const gems = ctx.state.results.filter((r, i) => r.answer && r.answer === ctx.cats[i].gem).length;
+    const lines = [
+      "DeepPint",
+      ctx.state.results.map(layerEmoji).join(""),
+      `Score: ${totalScore(ctx.state.results)}`,
+      `Found ${gems} ${gems === 1 ? "gem" : "gems"} today`,
+    ];
     if (CFG.siteUrl) lines.push(CFG.siteUrl);
     return lines.join("\n");
   }
