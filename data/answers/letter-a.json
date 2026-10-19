@@ -1,0 +1,1217 @@
+{
+ "id": "letter-a",
+ "prompt": "Name anything from the lore starting with A",
+ "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+ "difficulty": "medium",
+ "gem": "Armor of cursed bone",
+ "answerCount": 64,
+ "answers": [
+  {
+   "name": "Aleforge",
+   "aliases": [
+    "Ale Forge",
+    "Alforge"
+   ],
+   "mentions": {
+    "total": 321,
+    "compendium": 180,
+    "records": 141
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards of Aleforge (run by Jack), and Horrors in Hoegaarden (written by Jack and Ben, run by Ben). Each concept…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Ale",
+   "aliases": [
+    "Ales"
+   ],
+   "mentions": {
+    "total": 105,
+    "compendium": 51,
+    "records": 54
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- Aleforge — Brewing capital of the Isles, home of the Drunken Trials. Known for it's fine ale and people. - Providence — The ordered, tonic-driven holy city on the cliffs. A strict theocracy…"
+   },
+   "rank": 2,
+   "percentile": 1.6,
+   "score": 0
+  },
+  {
+   "name": "Aleforge ale",
+   "aliases": [
+    "Aleforge brew"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 5,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…beaches, he gladly listened to stories about the Drunken Trials and the creation of the famous Aleforge brew. His charisma and calls for unity led to his election as mayor as the townspeople chose his…"
+   },
+   "rank": 3,
+   "percentile": 4.0,
+   "score": 1
+  },
+  {
+   "name": "Aleforge Militia",
+   "aliases": [],
+   "mentions": {
+    "total": 9,
+    "compendium": 8,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…creating the games. The goal is to attract tourism during the games and boost the economy. Aleforge Militia: Gideon has created a volunteer militia to watch over the town, and protect it against riots…"
+   },
+   "rank": 3,
+   "percentile": 4.0,
+   "score": 1
+  },
+  {
+   "name": "Addiction",
+   "aliases": [
+    "addicted"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…nights—Roto schemers, they say, toil in hidden vats to steal our tonic's recipe, their crimes and addictions a stain on their oriental splendor. The lake port buzzes with Roto sailors, their laughter…"
+   },
+   "rank": 5,
+   "percentile": 7.9,
+   "score": 2
+  },
+  {
+   "name": "Aleforge Special Drinkers Unit",
+   "aliases": [
+    "ASDU",
+    "Aleforge Special Drinkers Association"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 6,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…near its coastline in living memory This uptick hasn't gone unnoticed. Both the Aleforge Special Drinkers Unit and the Providence Guard have flagged the increased SBN presence as worth watching but…"
+   },
+   "rank": 5,
+   "percentile": 7.9,
+   "score": 2
+  },
+  {
+   "name": "The Apostles",
+   "aliases": [
+    "Apostle"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 7,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ceaseless toil lies a deeper rhythm, guided by the church of Patmos, where half the folk serve as Apostles, their jittery hands raised in ceaseless devotion. Their tithes—half of all earnings—flow…"
+   },
+   "rank": 5,
+   "percentile": 7.9,
+   "score": 2
+  },
+  {
+   "name": "Alcohol",
+   "aliases": [],
+   "mentions": {
+    "total": 30,
+    "compendium": 9,
+    "records": 21
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "a divine child given to them from their god (alcohol)",
+    "note": "JP's adoptive parents worshipped drink and saw him as a gift from it."
+   },
+   "rank": 8,
+   "percentile": 11.1,
+   "score": 4
+  },
+  {
+   "name": "Afanasi",
+   "aliases": [
+    "Afanassi"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…REACTIVATED. PLEASE CONSULT THE CHIEF ENGINEER BEFORE INTERFACING WITH THIS CONSOLE. note to afanasi afanassi, I've found a place for the boy to hide in one of the other crawlspaces. He can…"
+   },
+   "rank": 9,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Aldridge Industries",
+   "aliases": [
+    "Aldridge"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 1,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…interest rates. The resulting debt was handed to Seamus Bonehardy's mayoral administration. ## Aldridge Industries (Business) Named for the Aldridge family — of which Maximilian Andrew Aldridge was the last…"
+   },
+   "rank": 9,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Amethyst crystals",
+   "aliases": [
+    "Amethyst crystal"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…which has become overgrown. The interior of the skull has a small altar within and a floating amethyst crystal. The third is the ribcage of a sea monster which has sunk into a small ravine, inside this…"
+   },
+   "rank": 9,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Aleforge Castle",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The largest island contains the vast majority of the infrastructure, including the prominent Aleforge Castle at the highest point in the city. The neighboring smaller islands hold the Aleforge Bazzar,…"
+   },
+   "rank": 12,
+   "percentile": 17.5,
+   "score": 7
+  },
+  {
+   "name": "Alcohol poisoning",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 3,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Amber and the bottle. He lived a wonderful childhood until Jack and Amber eventually died of alcohol poisoning. This however was seen as being assumed into heaven. To die of alcohol is to achieve ever…"
+   },
+   "rank": 13,
+   "percentile": 23.0,
+   "score": 11
+  },
+  {
+   "name": "Aleforge Bond Market",
+   "aliases": [
+    "Aleforge Bonds"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…only strong enough to deter small groups, a large riot or attack would be a real problem. Aleforge Bond Market: A portion of the funds for these projects has come from the issue of Aleforge Bonds, currently…"
+   },
+   "rank": 13,
+   "percentile": 23.0,
+   "score": 11
+  },
+  {
+   "name": "Amber Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels and Amber Ale (both drunks). They lived on a far away isolated island unknown to most named \"The Coors…"
+   },
+   "rank": 13,
+   "percentile": 23.0,
+   "score": 11
+  },
+  {
+   "name": "Assassination",
+   "aliases": [
+    "assassinated"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 4,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hilgaard the Wildman: essentially a homeless man who somehow won the crown. Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge…"
+   },
+   "rank": 13,
+   "percentile": 23.0,
+   "score": 11
+  },
+  {
+   "name": "The Albatross",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the night or the barrels of winds sold to the Stormveil Trading Co to keep their sky ship, the Albatross, afloat. Whatever your breeze needs may be you can find them at Wolendi. Two of the biggest…"
+   },
+   "rank": 13,
+   "percentile": 23.0,
+   "score": 11
+  },
+  {
+   "name": "The ancient manuscripts",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 4,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…rogues to their own sour brews. Here, amidst the wind and waves, I prayed and pored o'er my manuscripts, day and night—oh, how the hours blurred with each Lagerhorn! On the 115th morn of the 7th…"
+   },
+   "rank": 13,
+   "percentile": 23.0,
+   "score": 11
+  },
+  {
+   "name": "Ale Beans",
+   "aliases": [
+    "Ale Bean"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…### Technology & Industry Despite their isolation, the SBN is surprisingly advanced: - Ale Bean Processing: Sophisticated machinery ,part mill, part alchemical still grinds and ferments…"
+   },
+   "rank": 19,
+   "percentile": 31.0,
+   "score": 17
+  },
+  {
+   "name": "Amrutha",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…event. Solution: fuck if i know, please let me know if you figure it out - Blackburn email->amrutha Amrutha, When you get a chance, could you take a look at server 0x08, in cluster 3? It…"
+   },
+   "rank": 19,
+   "percentile": 31.0,
+   "score": 17
+  },
+  {
+   "name": "Axolotl",
+   "aliases": [
+    "Axolotls"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…funny lookin' creature in a puddle and thought it was a frog. THE FROG Turns out it was an axolotl. Still ain't sure what that is. but I name it little homie #### Taverna After that we wandered…"
+   },
+   "rank": 19,
+   "percentile": 31.0,
+   "score": 17
+  },
+  {
+   "name": "The awakening",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…elevator just go down to the throne room floor, walk up to the door, and open it at the scheduled awakening time. If you open it too far before, defensive troops may be deployed to prevent an unsafe…"
+   },
+   "rank": 19,
+   "percentile": 31.0,
+   "score": 17
+  },
+  {
+   "name": "The Aleforge Brewery",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…at the highest point in the city. The neighboring smaller islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and tavern founded by Glub…"
+   },
+   "rank": 23,
+   "percentile": 34.9,
+   "score": 21
+  },
+  {
+   "name": "Adcock",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…that the fountain of Ale overflowed that day and all drank until they were satisfied. Adcock: The last of the prehistorical Kings. Adcock believed in some separation of powers following…"
+   },
+   "rank": 24,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Agnosticism",
+   "aliases": [
+    "agnostic"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…bellows pipe. - Values: The SBN is a fiercely nationalistic and self-sacrificial society. Agnosticism is law, no state religion, no worship, only the nation and the brew. Individual glory…"
+   },
+   "rank": 24,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Aleforge International Academy for Aspiring Drinkers",
+   "aliases": [
+    "Aleforge Academy",
+    "Academy for Aspiring Drinkers"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…coin and fill our coffers. My plan is innovation and industry: the Aleforge International Academy for Aspiring Drinkers is our path to glory, a school rising by the Gilded Tankard to teach brewing and boozing like…"
+   },
+   "rank": 24,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Aleforge Memorial Museum",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…our right to drink, to dance, to live free. That is why I will fund the construction of the Aleforge Memorial Museum—a place of reverence, remembrance, and free drinks on the anniversary of our victory. We'll…"
+   },
+   "rank": 24,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Aleforge Post Office and Public Records",
+   "aliases": [
+    "APO & PR",
+    "Aleforge Post Office"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…heals but for a strange price……rumors circle about her having Veilwalker ties ##### Aleforge Post Office and Public Records Supplebottom runs a tight ship in the APO & PR. never a late delivery…"
+   },
+   "rank": 24,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Arriving late",
+   "aliases": [
+    "always late"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drunkenness from the church). Abandoned my town by 17 and went off adventuring only to return home late to the liquor king trails part 1 ### Steph 'Guinnie' O'Guinness (Stephan) The Bilgrats and Buttplugs / Ship: Jolly…"
+   },
+   "rank": 24,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "The Age of the Six Kings",
+   "aliases": [
+    "Age of Six Kings",
+    "Age of the 6 Kings"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was largely influenced by her visions and she correctly foretold of the Long Thirst and the Age of Six Kings. Hilgaard the Wildman: essentially a homeless man who somehow won the crown. Hilgaard…"
+   },
+   "rank": 24,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "The Aleforge Chronicle",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…castle trying to psych myself up for the \"victory speech\" I'm supposed to give in front of the Aleforge Chronicle and Pintlands primary Network MCSPAN. Truth is it's not a victory speech it's a way out of…"
+   },
+   "rank": 24,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "The Ashen Oath",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"kissed by the trench.\" Now, they are something less than human and more than drowned. 3. The Ashen Oath: Hidden fanatics and idealists who believe the sea, pirates, and grog have tainted the world.…"
+   },
+   "rank": 24,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Adolf Hitler",
+   "aliases": [
+    "Adolf"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…told us everything that's going on. Cycle 93? Superior technology? I don't know who this Adolf guy is but he probably has some cool stuff if he's getting it from here. I wonder what he's…"
+   },
+   "rank": 33,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "Aldric Pen",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…marked present and the empire was described as in good health; geographic notes from scholar Aldric Pen on the Great Southern Desert ('the transformation appears to have occurred suddenly, and the…"
+   },
+   "rank": 33,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "Aleforge Bazaar",
+   "aliases": [
+    "Aleforge Bazzar"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Castle at the highest point in the city. The neighboring smaller islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and…"
+   },
+   "rank": 33,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "Aleforge Light House and Customs Control",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…at the highest point in the city. The neighboring smaller islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and tavern founded…"
+   },
+   "rank": 33,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "Aleforge Restoration Association",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fully documented. ## Providence Educational Foundation for Historical Preservation / Aleforge Restoration Association (Cultural) Two of the civic institutions operating in their respective cities. The Providence…"
+   },
+   "rank": 33,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "Aleforge's repair workers",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…too quick — settin' up brew routes and trade posts that stink of empire. Worse, they've been sending builders to the Cloister, and that building don't belong to them. The Cloister's power don't sleep forever, and messing…"
+   },
+   "rank": 33,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "Andrew Smith",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and, in rare cases, executions. -Management Cycle 91 ------------------- Andrew Smith - Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim…"
+   },
+   "rank": 33,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "Anything for a Newport",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Gilded Tankard and Shanty Town. They are presented here as primary source documents. ## Anything for a Newport Attributed to Old Salty. A scathing ballad about Luke and JP's associations with Rollo.…"
+   },
+   "rank": 33,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "Apostasy",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Patmos's edicts. When the Liquor Kings discovered his hidden shrine and the evidence of his apostasy, he sent law enforcement to apprehend them. They escaped to the Hoegaarden Library embassy.…"
+   },
+   "rank": 33,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "Apparitions",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…We'sh readin' along all fine an' dandy an' then— SLAMS both hands on table SHRIEEEEK! Shome GHOSTLY THING jumps out at ush! Nearly shoiled me breeches I tell ye! An' then we readsh more an' — hic…"
+   },
+   "rank": 33,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "Astronomer",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fentmaxxer's Observatory #### In Game Use: lore for the cloister beast storyline #### Lore: the astronomer fentmaxxer built the observatory hastily after observing an asteroid hitting that exact spot…"
+   },
+   "rank": 33,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "The ale fountain",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…beheaded publicly by those who believed in the old Brewmasters Deity. It is said that the fountain of Ale overflowed that day and all drank until they were satisfied. Adcock: The last of the…"
+   },
+   "rank": 33,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "Aberama Bong",
+   "aliases": [
+    "Aberama"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…employers of Oweblock and is also responsible for most of the Gold in the treasury. ### Aberama Bong Owner of the Fianchetto Chess bar in the Cardinal Circle, and the moderator of the Shot-Chess…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "Admiral",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of Liquor King was only softly carved in his tombstone. Plungos of West Pint: a great admiral in the war and the highest ranking officer under the Liquor King. Upon the death of Plindor…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "Afanasi Journal",
+   "aliases": [
+    "Afanasi's journal"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…after the next earth affairs shipment. Hopefully I can find some dirt on him before then. Afanasi Journal After years of planning and building trust amongst the workers, we are nearly ready for a…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "Alan Turing",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…performance. 3. Allowed games While we are proud to have designed this entertainment system before Alan Turing was even a dream in his parent's minds, Earth will inevitably invent similar things before…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "Aldin Whiteknuckle",
+   "aliases": [
+    "Aldin"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the political and cultural norms in Aleforge can be traced back to his writings. Aldin Whiteknuckle: the only notable event of Aldins rule was the grant of land to an early member of the John…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "Ale Points",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…alcohol poisoning but carries potent mystical effects the more one drinks. Competitors track Ale Points throughout the event, usable to gain advantages or force others to drink. ## The Gilded Tankard…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "Aleforge military",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…have slammed MAMA so hard, but they are not gone yet. My proposal is an officially funded Aleforge military to prevent the rise of extremism anywhere in our great town. Question: How will you…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "Alliance for Liquor Expansion",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…borrow. We will brew our way out of ruin.\" \"With your trust, I will launch A.L.E.—the Alliance for Liquor Expansion. Local farmers—your neighbors—will be given funding through a fair, open application process.…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "Ancient Pot",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon, Old Staff, Ancient Pot—don't ask me what they are, but they're now sitting safely away from gentrifiers and young…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "Arms dealing",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…become the first \"Saint\" from Oweblock, but he tends to deal in some shady businesses such as arms dealing. ### Captain Crawdad Pilot and Captain of the Hook Line & Sinker Submarine, Captain…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "Arriving naked",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…waitin' if I were caught. Vanished for a while, till I fancied myself to pull up in Shanty Town naked wid nothin' but whiskey and a swinging cock. Took up bouncin' in the roughest taverns, built a crew of…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "Arson",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…control. John Cum went completely insane, wrote walls full of variations on 'burn it down,' set fire to his remaining crops, and was then killed by Gideon Drake, who staged the scene to implicate…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "The Alemaster's Mortar",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(Guinnie) ### Seamus Bonehardy (Nathan) \"King of Kegs\" — The Barrel Breakers / Ship: The Alemaster's Mortar Backstory: I was born on a small island typically used for marooning pirates who had called…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "The altar of skulls",
+   "aliases": [
+    "altar"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…cranium. Notably, this skull has a much more developed anthropological site, a well defined altar built primarily out of human or human like skulls. It is not known who built this or for what purpose. This exact question…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "The Amethyst Fountain",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…knows where New Haven is, it is built in some Aetherial realm outside of normal space. The amethyst fountain in the center connects it to the more mystical aspects of the world, mainly some shrines and…"
+   },
+   "rank": 45,
+   "percentile": 81.0,
+   "score": 73
+  },
+  {
+   "name": "Ale Day",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Declare the day of the attack as a national holiday. \"Ale Day\"",
+    "note": "Jameson Pilsner's mayoral promise: a national holiday on the day of the attack, with happy hour all day."
+   },
+   "rank": 60,
+   "percentile": 96.8,
+   "score": 95
+  },
+  {
+   "name": "Armor of cursed bone",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…burning flesh and black bones. Maximillian was waiting for us. the god of demons, Cloaked in armor made from the same cursed bone as his minions. Their purpose was simple: destroy us endlessly until our minds broke and our…"
+   },
+   "rank": 60,
+   "percentile": 96.8,
+   "score": 95
+  },
+  {
+   "name": "Ascension of the Lord",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…shouts of traders, guarded by Apostles who wield tonic-fueled strength. Once a year, on the Ascension of the Lord in Goldsun, Keg 4, the port hosts the Festival of the Red Tide, where the townsfolk offer…"
+   },
+   "rank": 60,
+   "percentile": 96.8,
+   "score": 95
+  },
+  {
+   "name": "The Aleforge jail",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…found guilty of the murder of Peg Butt. He was sentenced to lifetime sobriety and a stint in the Aleforge jail. # VI. CULTURE, RELIGION & BUSINESS ## The Drunken Trials (Cultural Event) The Drunken…"
+   },
+   "rank": 60,
+   "percentile": 96.8,
+   "score": 95
+  },
+  {
+   "name": "The Almighty",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the unknown gods! \"Build a town of perfect order,\" it sang, \"a haven of balance, ruled by the Almighty Himself, free of chaos—call it… Providence!\" Huzzah! My head spun with holy fervor—and perchance…"
+   },
+   "rank": 60,
+   "percentile": 96.8,
+   "score": 95
+  }
+ ]
+}

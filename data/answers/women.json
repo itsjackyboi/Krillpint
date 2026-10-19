@@ -1,0 +1,379 @@
+{
+ "id": "women",
+ "prompt": "Name a woman from the lore",
+ "blurb": "Queens, witches, mothers, crew, and the occasional head of a terrorist group.",
+ "difficulty": "medium",
+ "gem": "Maria Telkes",
+ "answerCount": 18,
+ "answers": [
+  {
+   "name": "Susan Plinket",
+   "aliases": [
+    "Plinket",
+    "Susan",
+    "Jathan Round"
+   ],
+   "mentions": {
+    "total": 23,
+    "compendium": 14,
+    "records": 9
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"an ick\". He was somewhat unfairly legally commanded into a relationship with MAMA leader, Susan Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Amber Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels and Amber Ale (both drunks). They lived on a far away isolated island unknown to most named \"The Coors…"
+   },
+   "rank": 2,
+   "percentile": 5.9,
+   "score": 1
+  },
+  {
+   "name": "Amrutha",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…event. Solution: fuck if i know, please let me know if you figure it out - Blackburn email->amrutha Amrutha, When you get a chance, could you take a look at server 0x08, in cluster 3? It…"
+   },
+   "rank": 3,
+   "percentile": 14.7,
+   "score": 6
+  },
+  {
+   "name": "Zara",
+   "aliases": [
+    "Zaar the Edgemaster",
+    "Zaar"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Irish-inflected blade fighters), while Guinnie, Buke, and Jameson Pilsner joined the Seaside Circus (Zara's Jamaican explosive-specialists). What followed was a sprawling urban adventure involving…"
+   },
+   "rank": 3,
+   "percentile": 14.7,
+   "score": 6
+  },
+  {
+   "name": "Dmitri's mother",
+   "aliases": [
+    "Dmitri's mom",
+    "his mother"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "his mother and i work on the station",
+    "note": "Worked on the station with Afanasi and never came back from the throne room."
+   },
+   "rank": 5,
+   "percentile": 23.5,
+   "score": 11
+  },
+  {
+   "name": "Faige the Witch",
+   "aliases": [
+    "Faige",
+    "Faegi",
+    "Liquor Witch"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Lived there until 16 when i snagged a bit of fake clockheart tonic made by the Liquor witch Faegi which turned me into a functional alcoholic (had to hide my true drunkenness from the church).…"
+   },
+   "rank": 6,
+   "percentile": 32.4,
+   "score": 18
+  },
+  {
+   "name": "Sister Bertha",
+   "aliases": [
+    "Bertha"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…cardinal. His unusual size allowed him to stand out among the other guardian applicants. ### Sister Bertha Sister Bertha is a snitch. A big ole snitch. Her father was a high ranking Circ in the Cardinals…"
+   },
+   "rank": 6,
+   "percentile": 32.4,
+   "score": 18
+  },
+  {
+   "name": "Delaney",
+   "aliases": [
+    "John Delaney",
+    "his wife"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Town's Mayor who was in charge of the festival's logistics. ### John Cum (DECEASED) and John Delaney (DECEASED) John cum is the main provider of wheat to the local villages, he has an impressive…"
+   },
+   "rank": 8,
+   "percentile": 52.9,
+   "score": 39
+  },
+  {
+   "name": "Lady Edgermire",
+   "aliases": [
+    "Edgermire"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…deep below the Ballbuster Inn ##### Witch Doctors Tower A mystic healer by the name of Lady Edgermire heals but for a strange price……rumors circle about her having Veilwalker ties ##### Aleforge…"
+   },
+   "rank": 8,
+   "percentile": 52.9,
+   "score": 39
+  },
+  {
+   "name": "Lady Krappenschitz",
+   "aliases": [
+    "Iso Krappenschitz",
+    "Iso"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cpt. Lincoln Dillydally ##### The Krappenschitz Estate The Krappenschitz family (David and Iso) are rich snobbish aristocrats. They are generally more sober than most and thus hated by…"
+   },
+   "rank": 8,
+   "percentile": 52.9,
+   "score": 39
+  },
+  {
+   "name": "Lin Fei",
+   "aliases": [
+    "Lin"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei- Natural causes (age) Cycle 94 ------------------- Cycle 95 ------------------- design…"
+   },
+   "rank": 8,
+   "percentile": 52.9,
+   "score": 39
+  },
+  {
+   "name": "The female Veilwalker",
+   "aliases": [
+    "female Walker",
+    "female Veilwalker"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Veilwalkers in their respective seasons, and encountered something he was never meant to find: a female Veilwalker. Female Walkers are seldom seen. By Veilwalker law, they are barred from serving as Elders…"
+   },
+   "rank": 8,
+   "percentile": 52.9,
+   "score": 39
+  },
+  {
+   "name": "Isadora Beerchelli",
+   "aliases": [
+    "Isadora"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…conclusion of the war he personally hosted the Drunken Trials and stepped down voluntarily. Isadora Beerchelli: The first and only woman to win the Drunken Trials to daye, and her title of Liquor King…"
+   },
+   "rank": 13,
+   "percentile": 79.4,
+   "score": 71
+  },
+  {
+   "name": "Maria Telkes",
+   "aliases": [
+    "Telkes"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…cycle meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide Sponsor Information Hello valued sponsor! We thank you for investing in our…"
+   },
+   "rank": 13,
+   "percentile": 79.4,
+   "score": 71
+  },
+  {
+   "name": "Rachel Zlurs",
+   "aliases": [
+    "Zlurs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…being the \"most honest woman\" in Providence and terrible gossip. Don't tell her shit. ### Rachel Zlurs Runs a small leather shop down by the Providence Block Market with very little success due…"
+   },
+   "rank": 13,
+   "percentile": 79.4,
+   "score": 71
+  },
+  {
+   "name": "Yulia",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…anyone about the keys or asking too many questions. email->nikolai Hey Nikolai, I saw Yulia doing something suspicious the other day. Please keep a close eye on her and make sure she's…"
+   },
+   "rank": 13,
+   "percentile": 79.4,
+   "score": 71
+  },
+  {
+   "name": "Maximilian's mother",
+   "aliases": [
+    "Max's mom",
+    "Maximilian's mom",
+    "Max's mother"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "His mother was one of the ranking members of the MAA and was among those killed",
+    "note": "A ranking member of the MAA, killed in the Liquor Kings' raid."
+   },
+   "rank": 17,
+   "percentile": 94.1,
+   "score": 91
+  },
+  {
+   "name": "Cardinal Addy's mother",
+   "aliases": [
+    "Addy's mother",
+    "Shanty whore"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Cardinal Addy, born to a Shanty whore",
+    "note": "Raised the Cardinal in Shanty Town."
+   },
+   "rank": 18,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

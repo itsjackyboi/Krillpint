@@ -1,0 +1,29 @@
+{
+  "id": "place-factory",
+  "prompt": "Name something tied to the Factory",
+  "blurb": "Orchenk Manufactory, where the Nethergate tore open and never closed.",
+  "difficulty": "medium",
+  "gem": "Mutated experiments",
+  "answers": [
+    {"ref": "Orchenk Manufactory", "obscurity": 1},
+    {"ref": "Nethergate Teleporter"},
+    {"ref": "The Nethergate disaster", "aliases": ["Nethergate disaster", "the factory accident"]},
+    {"ref": "The Nether"},
+    {"ref": "Hellish beasts"},
+    {"ref": "The green sludge"},
+    {"name": "Mutated experiments", "aliases": ["mutations", "mutated creatures"], "count": ["re:(?i)mutat"]},
+    {"ref": "The Factory artifacts"},
+    {"ref": "The black market traders"},
+    {"ref": "Roto Kaiishi"},
+    {"ref": "Gideon Drake"},
+    {"ref": "Sackbeard's undead crew"},
+    {"ref": "The Dread Harrow"},
+    {"ref": "Closing the portal"},
+    {"name": "The scientists", "aliases": ["scientists", "brightest minds"], "count": ["re:(?i)scientists", "re:(?i)brightest minds"]},
+    {"ref": "John Cum"},
+    {"ref": "Mr. BBL"},
+    {"name": "The witnesses", "aliases": ["witness", "witness statements"], "count": ["re:(?i)\\bwitness"]},
+    {"name": "The receipts", "aliases": ["receipts"], "count": ["re:(?i)receipts"]},
+    {"name": "Gideon Drake's journal", "aliases": ["Gideon Drakes Journal", "insomnia"], "count": ["re:(?i)gideon drakes? journal", "re:(?i)\\binsomnia\\b"]}
+  ]
+}

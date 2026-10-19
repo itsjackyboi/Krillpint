@@ -1,0 +1,31 @@
+{
+  "id": "travel",
+  "prompt": "Name a way to get around",
+  "blurb": "Ships, sky ships, gliders, submarines, horses, warps and one ale-powered balloon.",
+  "difficulty": "medium",
+  "gem": "The stolen rowboat",
+  "answers": [
+    {"ref": "The Albatross"},
+    {"ref": "The Cloudrunners"},
+    {"ref": "Steam-powered gliders"},
+    {"ref": "Hook Line & Sinker"},
+    {"ref": "Elytra"},
+    {"name": "Horses", "aliases": ["horse"], "count": ["re:(?i)\\bhorses?\\b"]},
+    {"name": "Mules and donkeys", "aliases": ["mule", "donkey"], "count": ["re:(?i)\\b(mule|donkey)s?\\b"]},
+    {"name": "The stolen rowboat", "aliases": ["rowboat"], "count": ["re:(?i)rowboat"]},
+    {"name": "Boats", "aliases": ["boat"], "count": ["re:(?i)\\bboats?\\b"]},
+    {"ref": "Nethergate Teleporter"},
+    {"ref": "Warp crystals"},
+    {"ref": "Elevator"},
+    {"ref": "Blodello Bridge"},
+    {"ref": "Barley Road Initiative"},
+    {"ref": "Drunk Delivery"},
+    {"ref": "The giant bird"},
+    {"name": "Swimming", "aliases": ["swam"], "count": ["re:(?i)\\bswam\\b"]},
+    {"ref": "The sewers"},
+    {"name": "The pre-orbital vehicle", "aliases": ["rocket"], "count": ["re:(?i)pre-orbital vehicle"]},
+    {"name": "Ships", "aliases": ["ship"], "count": ["re:(?i)\\bships?\\b"], "obscurity": 1},
+    {"ref": "Firecracker"},
+    {"ref": "The Dread Harrow"}
+  ]
+}

@@ -1,0 +1,433 @@
+{
+ "id": "king-buke",
+ "prompt": "Name something tied to Buke",
+ "blurb": "No middle name, no last name. Found in a whiskey barrel; ended Maximilian.",
+ "difficulty": "easy",
+ "gem": "Double blicky maneuver",
+ "answerCount": 21,
+ "answers": [
+  {
+   "name": "Maximilian",
+   "aliases": [
+    "Max",
+    "Maximilian Andrew Aldridge",
+    "Maximillian",
+    "Master Maximilian"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 20,
+    "records": 36
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…slaughter anyone they see as even a slight threat to their power. First MAA, then Thatcher, then Maximillian. She is actually the founder of MAMA, but that is not known even within those circles. She…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Rollo",
+   "aliases": [],
+   "mentions": {
+    "total": 45,
+    "compendium": 22,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…happy to buy these bonds and a large influx of money has now hit the Aleforge ledger. ### Rollo Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends…"
+   },
+   "rank": 2,
+   "percentile": 5.0,
+   "score": 1
+  },
+  {
+   "name": "Mr. BBL",
+   "aliases": [
+    "BBL",
+    "Mister BBL"
+   ],
+   "mentions": {
+    "total": 25,
+    "compendium": 7,
+    "records": 18
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Glendolph Galleyway: An unremarkable mayor, the only thing of note is his hiring of Mr. BBL, the current chancellor of Aleforge. Thomas Thatcher Sr.: Thomas Thatcher Sr. was an…"
+   },
+   "rank": 3,
+   "percentile": 10.0,
+   "score": 3
+  },
+  {
+   "name": "Seaside Circus",
+   "aliases": [
+    "Seasiders",
+    "The Circus"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 2,
+    "records": 15
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner,…"
+   },
+   "rank": 4,
+   "percentile": 15.0,
+   "score": 6
+  },
+  {
+   "name": "A Stronger Pour",
+   "aliases": [
+    "Stronger Pour"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…bound by the booze and sworn to the barley — The ale-drinking demon — SHAME-US BONEHARDY! ## A Stronger Pour Buke's mayoral campaign song. In Aleforge town where barrels roar, A leader rises, strong…"
+   },
+   "rank": 5,
+   "percentile": 22.5,
+   "score": 11
+  },
+  {
+   "name": "Cheeks",
+   "aliases": [
+    "Cheekz"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…policies, for himself ● Seamus Blackmailed his fellow citizens of aleforge and robbed our beloved Cheekz. ● Cheekz was born to a loving home on north side of Aleforge to two happy caring parents,…"
+   },
+   "rank": 5,
+   "percentile": 22.5,
+   "score": 11
+  },
+  {
+   "name": "Aleforge Memorial Museum",
+   "aliases": [
+    "Memorial Museum"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…our right to drink, to dance, to live free. That is why I will fund the construction of the Aleforge Memorial Museum—a place of reverence, remembrance, and free drinks on the anniversary of our victory. We'll…"
+   },
+   "rank": 7,
+   "percentile": 35.0,
+   "score": 21
+  },
+  {
+   "name": "Fisherman",
+   "aliases": [
+    "fisher"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…If you want to catch a fish? You use bait and lures that they make (legend has it that the fisherman who slayed the great tavern beast used fishing gear from the \"Veilwalkers\". As well as wood…"
+   },
+   "rank": 7,
+   "percentile": 35.0,
+   "score": 21
+  },
+  {
+   "name": "Judge Buke",
+   "aliases": [
+    "the Honorable Judge Buke"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…court in all the isles, the Pintland Criminal Court, located in Providence. The Honorable Judge Buke presided and an outside lot of jurors was brought in to weigh judgement. Seamus Bonehardy…"
+   },
+   "rank": 7,
+   "percentile": 35.0,
+   "score": 21
+  },
+  {
+   "name": "Cum in My Mouth Act",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…times. But his fields once flowed golden, feeding half our ale. That's why I authored the Cum in My Mouth Act—a bold, honest policy to get Cum's production, into ale and back into our mouths where it…"
+   },
+   "rank": 10,
+   "percentile": 55.0,
+   "score": 41
+  },
+  {
+   "name": "Liquor Kings monument",
+   "aliases": [
+    "monument to the Liquor Kings"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…- Question for Buke: In the third grand council meeting you voted to erect a monument in the liquor kings honor. As mayor would you continue to propose such self serving policies? - Question…"
+   },
+   "rank": 10,
+   "percentile": 55.0,
+   "score": 41
+  },
+  {
+   "name": "Ode to Mr. BBL",
+   "aliases": [
+    "Ode to Mr BBL"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…before have my eyes been graced with such an exquisite sight. I am truly a changed man. \"Ode to Mr. BBL\" I wandered life in dull disguise, No fire, no stars behind my eyes. A mundane path,…"
+   },
+   "rank": 10,
+   "percentile": 55.0,
+   "score": 41
+  },
+  {
+   "name": "Relic king",
+   "aliases": [
+    "the relic king"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Wagwan gifted him the Wagwan's Whopper, a mace of considerable impact force. Buke was the true relic king of the session, collecting more Veilwalker artifacts than anyone and claiming the first Black…"
+   },
+   "rank": 10,
+   "percentile": 55.0,
+   "score": 41
+  },
+  {
+   "name": "The empty whiskey barrel",
+   "aliases": [
+    "whiskey barrel",
+    "barrel"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…No one knows who my parents are or where I came from, but as an infant they found me at the bottom of an empty whiskey barrel. I refused to drink water, milk, anything imaginable. However, I drank a shit ton of brew.…"
+   },
+   "rank": 10,
+   "percentile": 55.0,
+   "score": 41
+  },
+  {
+   "name": "Black Pepper Dividend",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…king of the session, collecting more Veilwalker artifacts than anyone and claiming the first Black Pepper Dividend stock payout. Jack rapped a freestyle at the Stank Tank that became a regional hit when the…"
+   },
+   "rank": 15,
+   "percentile": 70.0,
+   "score": 59
+  },
+  {
+   "name": "Alliance for Liquor Expansion",
+   "aliases": [
+    "A.L.E. Alliance"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…borrow. We will brew our way out of ruin.\" \"With your trust, I will launch A.L.E.—the Alliance for Liquor Expansion. Local farmers—your neighbors—will be given funding through a fair, open application process.…"
+   },
+   "rank": 16,
+   "percentile": 82.5,
+   "score": 75
+  },
+  {
+   "name": "Diamond sword",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Stephan received diamond boots for his historic two-trial winning streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his…"
+   },
+   "rank": 16,
+   "percentile": 82.5,
+   "score": 75
+  },
+  {
+   "name": "Message in a bottle",
+   "aliases": [
+    "bottle",
+    "the bottle washed up"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…heavy and whose name traveled with the tide. It ended, as such reputations often do, with a bottle washed up at his feet. The message inside was faded and largely incoherent, but it promised adventure,…"
+   },
+   "rank": 16,
+   "percentile": 82.5,
+   "score": 75
+  },
+  {
+   "name": "The chugging competition",
+   "aliases": [
+    "chugging competition",
+    "17 pints",
+    "seventeen pints"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…sea to the shores of aleforge once again and got a ticket to participate in the trials via chugging competition, where I chugged 17 pints of brew in 180 seconds, cementing my place in the competition.…"
+   },
+   "rank": 16,
+   "percentile": 82.5,
+   "score": 75
+  },
+  {
+   "name": "The giant bird",
+   "aliases": [
+    "giant bird",
+    "bird of considerable size"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "a bird of considerable size came out of a darkening sky",
+    "note": "Carried Buke off for days until his britches gave out."
+   },
+   "rank": 20,
+   "percentile": 95.0,
+   "score": 93
+  },
+  {
+   "name": "Double blicky maneuver",
+   "aliases": [
+    "double blicky"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Little did he know bootymane came strapped with a shiv. I dropped down from the sky with a double blicky maneuver to take him out before steph died. Gotta have eachothers backs in these streets.…"
+   },
+   "rank": 21,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

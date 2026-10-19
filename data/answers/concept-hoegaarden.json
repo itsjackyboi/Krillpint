@@ -1,0 +1,684 @@
+{
+ "id": "concept-hoegaarden",
+ "prompt": "Name something from Horror in Hoegaarden",
+ "blurb": "Missing interns, a dungeon under a library, and the prison of the Rotted Soul.",
+ "difficulty": "medium",
+ "gem": "The rusted key",
+ "answerCount": 34,
+ "answers": [
+  {
+   "name": "The Rotted Soul",
+   "aliases": [
+    "Rotted Soul",
+    "Rotten King"
+   ],
+   "mentions": {
+    "total": 30,
+    "compendium": 28,
+    "records": 2
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…further South is a small river which drains to the sea. Some scholars believe the remains of the Rotted Soul may rest here, though until recently this was unknown. The Kings discovered the true location…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Josephus",
+   "aliases": [
+    "Jophisus",
+    "Jophesis",
+    "Johnephus",
+    "Jonephesus",
+    "Josiphus",
+    "Jonophesus"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 1,
+    "records": 17
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Kings go to the city. The Liquor Kings arrived in Owe Block carrying a book from the scholar Josiphus, ostensibly there to study the district's culture and relics. Wagwan, the sharp-eyed owner…"
+   },
+   "rank": 2,
+   "percentile": 4.5,
+   "score": 1
+  },
+  {
+   "name": "The Labyrinth",
+   "aliases": [
+    "Labyrinth",
+    "Lagendale labyrinth",
+    "Rotted Soul's prison",
+    "River Coffin"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 12,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was eventually overcome and murdered, killing the whole land with his last breath. The River Coffin Out of desperation, the Elders and the Lagendale militia devised a joint solution using…"
+   },
+   "rank": 2,
+   "percentile": 4.5,
+   "score": 1
+  },
+  {
+   "name": "Aleforge Special Drinkers Unit",
+   "aliases": [
+    "ASDU",
+    "Special Drinkers Unit",
+    "Aleforge Special Drinkers Association"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 6,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…near its coastline in living memory This uptick hasn't gone unnoticed. Both the Aleforge Special Drinkers Unit and the Providence Guard have flagged the increased SBN presence as worth watching but…"
+   },
+   "rank": 4,
+   "percentile": 12.1,
+   "score": 4
+  },
+  {
+   "name": "Dulamon",
+   "aliases": [
+    "Dulamond",
+    "Dulemon"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 0,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Needless to say this wasnt the most welcoming of environments and we were greeted by a chap named Dulemon. He was not there to drink and plunder so I had absolutely nothing in common with this man.…"
+   },
+   "rank": 4,
+   "percentile": 12.1,
+   "score": 4
+  },
+  {
+   "name": "The catacombs",
+   "aliases": [
+    "catacombs",
+    "Hoegaarden catacombs",
+    "Bar Bastion catacombs"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 5,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hoegaarden Library is one of the oldest institutions in the Isles, sitting above the ancient catacombs of the Lagendale Empire. It houses the largest collection of books, scrolls and tomes anywhere…"
+   },
+   "rank": 4,
+   "percentile": 12.1,
+   "score": 4
+  },
+  {
+   "name": "The Guardian",
+   "aliases": [
+    "Guardian"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the known waters. It was in these stacks that Jack Anqoak first encountered references to the Guardian and the Rotted Soul, setting in motion the events of the Horror in Hoegaarden concept. The…"
+   },
+   "rank": 7,
+   "percentile": 18.2,
+   "score": 8
+  },
+  {
+   "name": "Fires of Scoul",
+   "aliases": [
+    "Temple of Scoul",
+    "Scoul"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Enter as one who understands this, or do not enter at all. When you come before the Fires of Scoul, come as you truly are. They have never been deceived and they will not begin with you.…"
+   },
+   "rank": 8,
+   "percentile": 24.2,
+   "score": 12
+  },
+  {
+   "name": "Interns",
+   "aliases": [
+    "Intern"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Well... This certainly helped me do so- That pedo Josephus appears to be disappearing all of his interns to god knows where. We got to the library only to notice that Jack Anqoak had not joined…"
+   },
+   "rank": 8,
+   "percentile": 24.2,
+   "score": 12
+  },
+  {
+   "name": "Lava",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…knew this was my moment to save my friends......There's a massive jump i need to make. With lava below. I don't hesitate for a second.....I run full speed ahead and leap with all my might.....AND…"
+   },
+   "rank": 8,
+   "percentile": 24.2,
+   "score": 12
+  },
+  {
+   "name": "Map to the Forbidden Brew",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…without a soul cannot die, but they also cannot be considered truly alive. ### Key Artifacts Map to the Forbidden Brew — Currently blank. It will reveal itself when the bearer is deemed worthy — which is to say,…"
+   },
+   "rank": 11,
+   "percentile": 30.3,
+   "score": 17
+  },
+  {
+   "name": "Corrupted Ancestry",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Give to an oracle (Jack) and it will reveal the location of the Map to the Forbidden Brew. Corrupted Ancestry — Points in the direction of a descendant of the Rotted Soul. ### Books Found in the Labyrinth…"
+   },
+   "rank": 12,
+   "percentile": 34.8,
+   "score": 21
+  },
+  {
+   "name": "The wine cellar",
+   "aliases": [
+    "wine cellar"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…same case as me! We slapped eachothers cakes and went into the basement and lo and behold A WINE CELLAR, i didn't even need to go to da liqua store i couldve just come down here. We read some books…"
+   },
+   "rank": 12,
+   "percentile": 34.8,
+   "score": 21
+  },
+  {
+   "name": "Dementing Scarab",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…symbol of his divine right to rule. Fortunate Scarab — Shows a true vision of the future. Dementing Scarab — Shows a true and unfortunate vision of the past. Hollow Urn — A vessel for storing one's…"
+   },
+   "rank": 14,
+   "percentile": 56.1,
+   "score": 42
+  },
+  {
+   "name": "Fortunate Scarab",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…slaughtered in the Rotted Soul's takeover. He wore these as a symbol of his divine right to rule. Fortunate Scarab — Shows a true vision of the future. Dementing Scarab — Shows a true and unfortunate vision…"
+   },
+   "rank": 14,
+   "percentile": 56.1,
+   "score": 42
+  },
+  {
+   "name": "Glyph of Purity",
+   "aliases": [
+    "Fragmented Glyph of Purity"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…positive effects (unkillability) and negative effects (weakness, wither) of soullessness. Fragmented Glyph of Purity / Glyph of Rot — Shards of two opposed symbols. When all fragments of each are assembled,…"
+   },
+   "rank": 14,
+   "percentile": 56.1,
+   "score": 42
+  },
+  {
+   "name": "Glyph of Rot",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(unkillability) and negative effects (weakness, wither) of soullessness. Fragmented Glyph of Purity / Glyph of Rot — Shards of two opposed symbols. When all fragments of each are assembled, the full Glyph…"
+   },
+   "rank": 14,
+   "percentile": 56.1,
+   "score": 42
+  },
+  {
+   "name": "Hollow Urn",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…vision of the future. Dementing Scarab — Shows a true and unfortunate vision of the past. Hollow Urn — A vessel for storing one's own soul. While your soul is inside, you experience both the…"
+   },
+   "rank": 14,
+   "percentile": 56.1,
+   "score": 42
+  },
+  {
+   "name": "Inscription on the Temple Threshold",
+   "aliases": [
+    "Temple Threshold inscription"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…of the opinion that basements are never just basements # HORROR IN HOEGAARDEN — BOOKS INSCRIPTION ON THE TEMPLE THRESHOLD These stones were laid by hands now returned to the earth. They will stand when your bones…"
+   },
+   "rank": 14,
+   "percentile": 56.1,
+   "score": 42
+  },
+  {
+   "name": "Light of the Oracle",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…opposed symbols. When all fragments of each are assembled, the full Glyph reveals itself. Light of the Oracle — Give to an oracle (Jack) and it will reveal the location of the Map to the Forbidden Brew.…"
+   },
+   "rank": 14,
+   "percentile": 56.1,
+   "score": 42
+  },
+  {
+   "name": "Mouth of the Blasphemer",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to say, when that concept is ready. Connected to the Pour Eternal legend of Shanty Town. Mouth of the Blasphemer — The lower jaw of the Rotted Soul's herald, whose words were considered poison. Paired with…"
+   },
+   "rank": 14,
+   "percentile": 56.1,
+   "score": 42
+  },
+  {
+   "name": "Providence Police Department",
+   "aliases": [
+    "Providence Police"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…none caught his attention like the life of The Guardian. The other Kings had been asked by Providence Police and the Aleforge Special Drinkers Unit to investigate a missing persons case that revolved…"
+   },
+   "rank": 14,
+   "percentile": 56.1,
+   "score": 42
+  },
+  {
+   "name": "Skin of the 138",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Rotted Soul's herald, whose words were considered poison. Paired with the Book of Blasphemy. Skin of the 138 — The rotten flesh of the 138 council members slaughtered in the Rotted Soul's takeover. He…"
+   },
+   "rank": 14,
+   "percentile": 56.1,
+   "score": 42
+  },
+  {
+   "name": "The cursed crypt",
+   "aliases": [
+    "crypt"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…confidence, using a crudely drawn map to guide us to six keys which would eventually unlock a cursed crypt. Beyond the door of the crypt lay monsters unspeakable. I will not utter their names nor…"
+   },
+   "rank": 14,
+   "percentile": 56.1,
+   "score": 42
+  },
+  {
+   "name": "The pit",
+   "aliases": [
+    "great pit",
+    "black hole in the floor"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Anyways, we searched around for a good while before ultimately finding.. It. We stumbled upon a great pit... After climbing to its depths, we discovered a labyrinth of unimaginable proportions. These…"
+   },
+   "rank": 14,
+   "percentile": 56.1,
+   "score": 42
+  },
+  {
+   "name": "Malchus",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…crumbs and no satisfying explanation. that kind. We went to Providence. Found a man named Malchus who knew more than he was comfortable knowing. His body hung from the rafters and in his pocket…"
+   },
+   "rank": 26,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Necrosis",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…returned I took something from him. A piece of what he carried. By the end I held his spear, Necrosis, a weapon that hums with the particular frequency of something that has ended a great many…"
+   },
+   "rank": 26,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Rotten Blade",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…something that has ended a great many lives and remembers each one. I held his blade, the Rotten Blade, which is exactly as pleasant to carry as the name suggests. I wore his chestplate, still…"
+   },
+   "rank": 26,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "The rusted key",
+   "aliases": [
+    "rusted key",
+    "old key"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…than he was comfortable knowing. His body hung from the rafters and in his pocket was an old rusted key which at the time seemed like a stroke of luck. I know better now. From there we went…"
+   },
+   "rank": 26,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "The six keys",
+   "aliases": [
+    "six keys",
+    "keys"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…from there we travelled on with great confidence, using a crudely drawn map to guide us to six keys which would eventually unlock a cursed crypt. Beyond the door of the crypt lay monsters…"
+   },
+   "rank": 26,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "The Styx",
+   "aliases": [
+    "Styx"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…favorite brews. As we solved the mazes and puzzles we stumbled our way into a place called The Styx. Needless to say this wasnt the most welcoming of environments and we were greeted by a chap…"
+   },
+   "rank": 26,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Dulamon's chestplate",
+   "aliases": [
+    "chestplate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…blade, the Rotten Blade, which is exactly as pleasant to carry as the name suggests. I wore his chestplate, still warm from him in a way that chestplates should not be warm. These are mine now. I earned…"
+   },
+   "rank": 32,
+   "percentile": 97.0,
+   "score": 95
+  },
+  {
+   "name": "The labyrinth tavern",
+   "aliases": [
+    "underground tavern",
+    "tavern in the labyrinth"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "we found a MARVELOUS tavern in this foul labyrinth",
+    "note": "An improbable tavern deep in the labyrinth beneath Hoegaarden."
+   },
+   "rank": 32,
+   "percentile": 97.0,
+   "score": 95
+  },
+  {
+   "name": "The old miners exit",
+   "aliases": [
+    "miners exit"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…to eventually knock his head clean off his shoulders. By sheer happenstance we found an old miners exit and got outta that damned place. Never did find that girl though, hope shes alright. Jameson…"
+   },
+   "rank": 32,
+   "percentile": 97.0,
+   "score": 95
+  }
+ ]
+}

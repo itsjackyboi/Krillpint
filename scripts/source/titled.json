@@ -1,0 +1,30 @@
+{
+  "id": "titled",
+  "prompt": "Name a character known by a title (Sir, Lady, Captain…)",
+  "blurb": "Use the title as part of the answer: Sister Bertha, not Bertha.",
+  "difficulty": "medium",
+  "gem": "Constable Jökulsson",
+  "answers": [
+    {"ref": "Sir Robert CockPower"},
+    {"ref": "Lady Edgermire"},
+    {"ref": "Lady Krappenschitz"},
+    {"ref": "Cpt. Lincoln Dillydally"},
+    {"ref": "Cpt. William Dillydally"},
+    {"ref": "Captain Crawdad"},
+    {"ref": "Sheriff Edward Cocaine"},
+    {"ref": "Sergeant Hark"},
+    {"ref": "Sister Bertha"},
+    {"ref": "Brother Silas"},
+    {"ref": "Friar Leo"},
+    {"ref": "Cardinal Addy", "obscurity": 1},
+    {"ref": "Sexton Gobbler", "obscurity": 1},
+    {"ref": "Reverend Ambrose Ravenscroft"},
+    {"ref": "Constable Jökulsson"},
+    {"ref": "Mr. BBL", "obscurity": 1},
+    {"ref": "Judge Buke"},
+    {"ref": "Sackbeard", "name": "Captain Sackbeard", "aliases": ["Sackbeard"]},
+    {"ref": "Saint No-Snooze"},
+    {"ref": "Maximilian", "name": "Master Maximilian", "aliases": ["Master Max"]},
+    {"ref": "Thomas Thatcher", "name": "Mayor Thatcher", "aliases": ["Mayor Thomas Thatcher"]}
+  ]
+}

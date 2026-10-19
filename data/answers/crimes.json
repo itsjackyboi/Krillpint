@@ -1,0 +1,464 @@
+{
+ "id": "crimes",
+ "prompt": "Name a crime",
+ "blurb": "Embezzlement to apostasy, with a side of jaywalking.",
+ "difficulty": "medium",
+ "gem": "Jaywalking",
+ "answerCount": 24,
+ "answers": [
+  {
+   "name": "Murder",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 9,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…long ago and later abandoned after their order disappeared, it is rumored that the prophet murdered them in order to get access to this mysterious place. An old prophet took up residence in…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Blackmail",
+   "aliases": [],
+   "mentions": {
+    "total": 12,
+    "compendium": 6,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…storyline where his crooked ways were brought to light. One integral action taken by John Rump was blackmailing Liquor King Seamus Bonehardy (who was elected mayor not long after) into legalizing the…"
+   },
+   "rank": 2,
+   "percentile": 4.3,
+   "score": 1
+  },
+  {
+   "name": "Slavery",
+   "aliases": [
+    "slave trade"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 9,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…principle that all rules in Roto should be fiscally motivated, it turned out that some trades (slave trade, drug trade, dark magic markets) brought the wrong crowd and scared off potential high…"
+   },
+   "rank": 3,
+   "percentile": 8.7,
+   "score": 3
+  },
+  {
+   "name": "Mutiny",
+   "aliases": [],
+   "mentions": {
+    "total": 8,
+    "compendium": 6,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Backstory: I was born on a small island typically used for marooning pirates who had called for mutiny on otherwise harmonious ships. My parents were both mutineers, although of different ships.…"
+   },
+   "rank": 4,
+   "percentile": 13.0,
+   "score": 5
+  },
+  {
+   "name": "Smuggling",
+   "aliases": [],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…adventurers, and merchants alike. Many speculate that artifacts from the facility have been smuggled out by daring crews, fueling a clandestine market in places like the pirate city of Roto…"
+   },
+   "rank": 5,
+   "percentile": 17.4,
+   "score": 7
+  },
+  {
+   "name": "Assassination",
+   "aliases": [
+    "assassinated"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 4,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hilgaard the Wildman: essentially a homeless man who somehow won the crown. Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge…"
+   },
+   "rank": 6,
+   "percentile": 23.9,
+   "score": 12
+  },
+  {
+   "name": "Illegal artifact trade",
+   "aliases": [
+    "artifact trafficking"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 4,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…morale. Unfortunately, this was short lived as he was forced to step down amidst a scandal of illegal trade. This was the catalyst for the Stewards of Aleforge concept, which showed how the Liquor Kings…"
+   },
+   "rank": 6,
+   "percentile": 23.9,
+   "score": 12
+  },
+  {
+   "name": "Embezzlement",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…applied. Only the future will tell what is in store for the Cumstead. ### John Rump — Treasurer, Embezzler, Addict John Rump is the crooked treasurer of Aleforge. He has been coasting off the positive…"
+   },
+   "rank": 8,
+   "percentile": 32.6,
+   "score": 19
+  },
+  {
+   "name": "Forgery",
+   "aliases": [
+    "forged letters"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…barrel in the Shanty Square. The Truth of Providence (from Someone Who's Fought, Farted, and Forged in Shanty Town) Providence? Bah. Ye mean the gilded pisshole where cowards pickle their souls…"
+   },
+   "rank": 8,
+   "percentile": 32.6,
+   "score": 19
+  },
+  {
+   "name": "Kidnapping",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…library. ## Mini Concept I: The Scholar, the Drunk and the Scalleywag Cumsock has been taken hostage. The kidnappers sent a message to Liquor King, Jameson Pilsner saying as follows, \"If…"
+   },
+   "rank": 10,
+   "percentile": 41.3,
+   "score": 27
+  },
+  {
+   "name": "Theft",
+   "aliases": [
+    "stealing"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…business in Roto. You might expect Roto to need a good security force in order to help prevent theft and keep businesses close, but they were actually able to do without this for decades because…"
+   },
+   "rank": 10,
+   "percentile": 41.3,
+   "score": 27
+  },
+  {
+   "name": "Drunk driving",
+   "aliases": [
+    "drink driving"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…traits - Rollo is a true ale forge citizen - He likes to drink just like us, he likes to drink drive like us HE LIKes to suck didck just like some of yall - An aleforgian would never abandon…"
+   },
+   "rank": 12,
+   "percentile": 47.8,
+   "score": 33
+  },
+  {
+   "name": "Apostasy",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Patmos's edicts. When the Liquor Kings discovered his hidden shrine and the evidence of his apostasy, he sent law enforcement to apprehend them. They escaped to the Hoegaarden Library embassy.…"
+   },
+   "rank": 13,
+   "percentile": 54.3,
+   "score": 40
+  },
+  {
+   "name": "Pickpocketing",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…passed out the other day on a floor without resuscitation stashes and got like all my stuff pickpocketed. Make sure you use the resuscitation stashes for stuff you don't need right away so that…"
+   },
+   "rank": 13,
+   "percentile": 54.3,
+   "score": 40
+  },
+  {
+   "name": "Arms dealing",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…become the first \"Saint\" from Oweblock, but he tends to deal in some shady businesses such as arms dealing. ### Captain Crawdad Pilot and Captain of the Hook Line & Sinker Submarine, Captain…"
+   },
+   "rank": 15,
+   "percentile": 78.3,
+   "score": 69
+  },
+  {
+   "name": "Arson",
+   "aliases": [
+    "burning crops"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…control. John Cum went completely insane, wrote walls full of variations on 'burn it down,' set fire to his remaining crops, and was then killed by Gideon Drake, who staged the scene to implicate…"
+   },
+   "rank": 15,
+   "percentile": 78.3,
+   "score": 69
+  },
+  {
+   "name": "Bootleg tonic trafficking",
+   "aliases": [
+    "bootlegging"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…was also this day that we found out that someone (suspected to be John Rump) had been caught trafficking in bootleg clockheart tonic and was being blackmailed. Indeed the list of his offences grew longer and…"
+   },
+   "rank": 15,
+   "percentile": 78.3,
+   "score": 69
+  },
+  {
+   "name": "Bribery",
+   "aliases": [
+    "bribe"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…without them noticing meaning that the locks have likely not changed yet. Further, I was able to bribe Pius from Earth Affairs to tell me the encryption algorithm for the engineering room keycode.…"
+   },
+   "rank": 15,
+   "percentile": 78.3,
+   "score": 69
+  },
+  {
+   "name": "Cannibalism",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…shoes, no clue, and no idea that the tavern I had just escaped was a front for ritualistic cannibalism and human stew exports. All I knew was that I had to find that frog. Because something in…"
+   },
+   "rank": 15,
+   "percentile": 78.3,
+   "score": 69
+  },
+  {
+   "name": "Desertion",
+   "aliases": [
+    "deserting"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…turned steel on me own captain when ordered to torch a village o' innocents near Fenwick. Deserted that same night, with blood on me boots and a noose waitin' if I were caught. Vanished for…"
+   },
+   "rank": 15,
+   "percentile": 78.3,
+   "score": 69
+  },
+  {
+   "name": "Drug trade",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…all rules in Roto should be fiscally motivated, it turned out that some trades (slave trade, drug trade, dark magic markets) brought the wrong crowd and scared off potential high profile customers.…"
+   },
+   "rank": 15,
+   "percentile": 78.3,
+   "score": 69
+  },
+  {
+   "name": "Money laundering",
+   "aliases": [
+    "laundering"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…think of buying from her failing business, making her a target for organizations needing to launder cash for goods. The ASDU has been attempting to contact her for week but she stays safe behind…"
+   },
+   "rank": 15,
+   "percentile": 78.3,
+   "score": 69
+  },
+  {
+   "name": "Skimming tithes",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…snitch. Her father was a high ranking Circ in the Cardinals court before being caught for skimming tithes off the residents of Vanity Street; guess who caught him…Thats right sister Bertha. Ever since…"
+   },
+   "rank": 15,
+   "percentile": 78.3,
+   "score": 69
+  },
+  {
+   "name": "Jaywalking",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…but I assure you worse things have been done in the city of aleforge. ● Jack, have you ever jaywalked? ● Jack have you ever drove with a little buzz? ● Jack have you ever stolen my parents…"
+   },
+   "rank": 24,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

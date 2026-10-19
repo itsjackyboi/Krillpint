@@ -1,0 +1,27 @@
+{
+  "id": "jp-list",
+  "prompt": "Name a drink on Jameson Pilsner's list",
+  "blurb": "He'll drink anything on it. The one drink he won't touch doesn't count.",
+  "difficulty": "easy",
+  "gem": "Vermouth",
+  "answers": [
+    {"ref": "Whiskey"},
+    {"ref": "Rum"},
+    {"ref": "Rye"},
+    {"ref": "Mead"},
+    {"ref": "Beer"},
+    {"ref": "Ale"},
+    {"ref": "Wine"},
+    {"ref": "Bourbon"},
+    {"ref": "Tequila"},
+    {"ref": "Vodka"},
+    {"ref": "Gin"},
+    {"ref": "Brandy"},
+    {"ref": "Hennessy"},
+    {"ref": "Vermouth"},
+    {"ref": "Stout"},
+    {"ref": "Lager"},
+    {"ref": "Cider"},
+    {"name": "Liquor", "aliases": ["liquors"], "count": ["re:(?i)\\bliquors?\\b(?! kings?| witch| day| crown| trials| queen| king)"]}
+  ]
+}

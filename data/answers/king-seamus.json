@@ -1,0 +1,553 @@
+{
+ "id": "king-seamus",
+ "prompt": "Name something tied to Seamus Bonehardy",
+ "blurb": "His past, his ship, his crew, his campaign and his time in office.",
+ "difficulty": "easy",
+ "gem": "Letters to his mother",
+ "answerCount": 27,
+ "answers": [
+  {
+   "name": "Mayor of Aleforge",
+   "aliases": [
+    "Mayor",
+    "mayorship"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 25,
+    "records": 31
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests - Brandywine Brush — The dense inland forest known locally…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "John Rump",
+   "aliases": [
+    "Rump"
+   ],
+   "mentions": {
+    "total": 37,
+    "compendium": 21,
+    "records": 16
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the hands of John Rump. - The Shrines — A scatter of ancient shrines across the Isles, origin debated. However,…"
+   },
+   "rank": 2,
+   "percentile": 3.8,
+   "score": 1
+  },
+  {
+   "name": "Crimson Cutters",
+   "aliases": [
+    "The Cutters",
+    "Cutters"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 4,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…King Trials. During the events of A Walk on Owe Block, Anqoak joined the infamous Crimson Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside…"
+   },
+   "rank": 3,
+   "percentile": 7.7,
+   "score": 2
+  },
+  {
+   "name": "Gilligan Rape",
+   "aliases": [
+    "Gilligan"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 4,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…entirely on enthusiasm, having in eleven prior expeditions recovered nothing at all. Its leader, Gilligan Rape, funded the enterprise on inherited money and showed no sign of running out of either funds…"
+   },
+   "rank": 4,
+   "percentile": 11.5,
+   "score": 4
+  },
+  {
+   "name": "Dig Dug's mines",
+   "aliases": [
+    "the mines",
+    "mines at the Basin"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 2,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…you something in return…That is, if you can catch him. ### Dig Dug He's the Foreman of the Mines at the Basin at Bully Hill. Dig Dug is one of the biggest employers of Oweblock and is also…"
+   },
+   "rank": 5,
+   "percentile": 15.4,
+   "score": 6
+  },
+  {
+   "name": "Bootymane",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 1,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jp (Jameson Pilsner)Jack (Jack Anqoak), ben (JagerBauhm), Nathan (Seamus Bonehardy) and/or Bootymane, luke (Buke), Stephan (Guinnie) ### Seamus Bonehardy (Nathan) \"King of Kegs\" — The Barrel…"
+   },
+   "rank": 6,
+   "percentile": 19.2,
+   "score": 8
+  },
+  {
+   "name": "Legalizing bootleg ClockHeart Tonic",
+   "aliases": [
+    "legalize bootleg tonic",
+    "tonic legalization",
+    "legalized tonic"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was blackmailing Liquor King Seamus Bonehardy (who was elected mayor not long after) into legalizing the bootleg tonic in Aleforge. Although still illegal in Providence, where the tonic is manufactured,…"
+   },
+   "rank": 7,
+   "percentile": 23.1,
+   "score": 11
+  },
+  {
+   "name": "30 gold",
+   "aliases": [
+    "thirty gold"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…successors. ### The Subplots Seamus Bonehardy found Rump's blackmail payment to Cheeks (30 gold in a hidden location) and pocketed it, causing a breakdown in communication between Rump and…"
+   },
+   "rank": 8,
+   "percentile": 28.8,
+   "score": 15
+  },
+  {
+   "name": "Cheeks",
+   "aliases": [
+    "Cheekz"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…policies, for himself ● Seamus Blackmailed his fellow citizens of aleforge and robbed our beloved Cheekz. ● Cheekz was born to a loving home on north side of Aleforge to two happy caring parents,…"
+   },
+   "rank": 8,
+   "percentile": 28.8,
+   "score": 15
+  },
+  {
+   "name": "Letters to his mother",
+   "aliases": [
+    "letters to mum",
+    "his mother",
+    "writing to his mother"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…anew. NOTE: While Seamus Bonehardy's parents are widely known to be dead, he will still write to his mother and place the letters in various mailboxes. The Campfire Aye mum, as ye may remember…"
+   },
+   "rank": 10,
+   "percentile": 36.5,
+   "score": 22
+  },
+  {
+   "name": "Mickey's Pipe Club",
+   "aliases": [
+    "Pipe Club"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…spectacular sequence, died first in the mines, lost everything, then hired a hit through Mickey's Pipe Club to have Seamus killed in revenge. The thread connecting all of it was Sexton Gobbler, who…"
+   },
+   "rank": 10,
+   "percentile": 36.5,
+   "score": 22
+  },
+  {
+   "name": "King of the Kegs",
+   "aliases": [
+    "King of Kegs"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Tavern, 'til my heart learns to mend, Buke, you're gone, but J.P… could we start again? ## King of the Kegs A Seamus Bonehardy campaign anthem. They say I drink too much — good! I have to, I'm a king!…"
+   },
+   "rank": 12,
+   "percentile": 42.3,
+   "score": 28
+  },
+  {
+   "name": "Keeping his soul",
+   "aliases": [
+    "soul intact",
+    "kept his soul"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…events, Bonehardy was one of only two kings to make it out of the Rotted Soul's prison with his soul intact. While he is quick to ascribe this to his quick-witted memorization of the prison's layout,…"
+   },
+   "rank": 13,
+   "percentile": 57.7,
+   "score": 44
+  },
+  {
+   "name": "Local barrel production",
+   "aliases": [
+    "barrel production",
+    "local barrels"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…hammers at besides each other. The mines were reopened, forges were lit, and more importantly, barrel production got local again. We cut reliance on Rotto's overpriced garbage and started shipping our barrels…"
+   },
+   "rank": 13,
+   "percentile": 57.7,
+   "score": 44
+  },
+  {
+   "name": "Navigator",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…exploits unlike any of those known by the pirates I grew up around. Seamus Bonehardy hired on as navigator to a treasure hunting outfit whose reputation rested entirely on enthusiasm, having in eleven…"
+   },
+   "rank": 13,
+   "percentile": 57.7,
+   "score": 44
+  },
+  {
+   "name": "Ode to the Six",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…his presence in taverns and absence in town hall meetings. Some wonder if his creation of Ode to the Six signals an upcoming exit from politics. In more recent events, Bonehardy was one of…"
+   },
+   "rank": 13,
+   "percentile": 57.7,
+   "score": 44
+  },
+  {
+   "name": "Providence citizenship",
+   "aliases": [
+    "citizenship"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Library for thousands of gold, making him the wealthiest player that session and earning him Providence citizenship. Guinnie was a street reaper — mowing down Crimson Cutters in every gang confrontation, earning…"
+   },
+   "rank": 13,
+   "percentile": 57.7,
+   "score": 44
+  },
+  {
+   "name": "Selling relics to Hoegaarden",
+   "aliases": [
+    "sold his relics",
+    "relics"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…chamber where Friar Leo hides forbidden documents about the Monk Who Ne'er Slumber'd. Seamus sold his relics to the Hoegaarden Library for thousands of gold, making him the wealthiest player that session…"
+   },
+   "rank": 13,
+   "percentile": 57.7,
+   "score": 44
+  },
+  {
+   "name": "The treasure chest",
+   "aliases": [
+    "treasure chest",
+    "chest of gold"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…assistant died to three separate traps on the way in. Beyond them lay a chamber holding a chest filled with gold. Gilligan's reaction to the sight made plain that his long and fruitless obsession had never…"
+   },
+   "rank": 13,
+   "percentile": 57.7,
+   "score": 44
+  },
+  {
+   "name": "Shameless Bonehardy",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…know is this. ● Instead of going from rags to riches cheekz went from riches to rags ● and Shameless Bonehardy mopped up and down the streets of ale forge with him ● all for 30 gold. ● Cheekz has a blind…"
+   },
+   "rank": 20,
+   "percentile": 73.1,
+   "score": 62
+  },
+  {
+   "name": "Beast Soul",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Rotted Soul. ## Open World / Unattributed to Concept - Xi Jin Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass — Lost to time during…"
+   },
+   "rank": 21,
+   "percentile": 86.5,
+   "score": 81
+  },
+  {
+   "name": "Mute Gate",
+   "aliases": [
+    "mutegate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…provided counsel to Jagerbauhm. Both sides came prepared but in an unfortunate event known as \"mute gate,\" Bonehardy was unable to speak and Guinnie laid into Mr. Pilsner, flustering him. Bonehardy…"
+   },
+   "rank": 21,
+   "percentile": 86.5,
+   "score": 81
+  },
+  {
+   "name": "Mutineer parents",
+   "aliases": [
+    "his parents were mutineers",
+    "mutineers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…typically used for marooning pirates who had called for mutiny on otherwise harmonious ships. My parents were both mutineers, although of different ships. I don't think they intended to leave that island, but once my…"
+   },
+   "rank": 21,
+   "percentile": 86.5,
+   "score": 81
+  },
+  {
+   "name": "Sword of Passion",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…coin. \"Lad nabbed more Veil Walkers' treasures than a dock rat hoards scraps, including the Sword of Passion—a blade so wicked it'd make my vows quiver, humming with dark juju.\" Seamus cracked them riddles…"
+   },
+   "rank": 21,
+   "percentile": 86.5,
+   "score": 81
+  },
+  {
+   "name": "The Alemaster's Mortar",
+   "aliases": [
+    "Alemaster's Mortar",
+    "Alemasters Mortar"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(Guinnie) ### Seamus Bonehardy (Nathan) \"King of Kegs\" — The Barrel Breakers / Ship: The Alemaster's Mortar Backstory: I was born on a small island typically used for marooning pirates who had called…"
+   },
+   "rank": 21,
+   "percentile": 86.5,
+   "score": 81
+  },
+  {
+   "name": "The Barrel Breakers",
+   "aliases": [
+    "Barrel Breakers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bootymane, luke (Buke), Stephan (Guinnie) ### Seamus Bonehardy (Nathan) \"King of Kegs\" — The Barrel Breakers / Ship: The Alemaster's Mortar Backstory: I was born on a small island typically used for…"
+   },
+   "rank": 21,
+   "percentile": 86.5,
+   "score": 81
+  },
+  {
+   "name": "The mutineers' island",
+   "aliases": [
+    "marooning island",
+    "Seamus's birthplace"
+   ],
+   "mentions": {
+    "total": 0,
+    "compendium": 0,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "I was born on a small island typically used for marooning pirates",
+    "note": "Seamus Bonehardy was born on an island used for marooning mutineers."
+   },
+   "rank": 27,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

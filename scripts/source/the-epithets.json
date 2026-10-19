@@ -1,0 +1,31 @@
+{
+  "id": "the-epithets",
+  "prompt": "Name a character known as \"the something\"",
+  "blurb": "Brannock the Drunk, Vlad the Kisser: a name with a title tacked on the end.",
+  "difficulty": "medium",
+  "gem": "Wendell the Democrator",
+  "answers": [
+    {"ref": "Brannock the Drunk"},
+    {"ref": "Gormun the Wise"},
+    {"ref": "Cedric the Vicar"},
+    {"ref": "Ingram the Hermit"},
+    {"ref": "Wendell the Democrator"},
+    {"ref": "Hilgaard the Wildman"},
+    {"ref": "Vlad the Kisser", "obscurity": 1},
+    {"ref": "Hunk the Monk", "obscurity": 1},
+    {"ref": "Faige the Witch"},
+    {"ref": "Zaar the Edgemaster"},
+    {"ref": "Kottrblod the Soulcarver"},
+    {"ref": "Yoslef the Mutilator"},
+    {"ref": "Nottulf, Prince of Sin"},
+    {"ref": "Plungos of West Pint"},
+    {"ref": "Don Julian of the Poplui"},
+    {"ref": "The Beggar"},
+    {"ref": "The Old Prophet", "obscurity": 1},
+    {"ref": "The Pale"},
+    {"ref": "The Guardian"},
+    {"ref": "The Commodore"},
+    {"ref": "The Warden"},
+    {"ref": "The Bastard Veil"}
+  ]
+}

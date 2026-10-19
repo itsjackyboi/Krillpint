@@ -1,0 +1,1314 @@
+{
+ "id": "letter-m",
+ "prompt": "Name anything from the lore starting with M",
+ "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+ "difficulty": "medium",
+ "gem": "Moss monks",
+ "answerCount": 68,
+ "answers": [
+  {
+   "name": "Mayor of Aleforge",
+   "aliases": [
+    "Mayor",
+    "mayorship"
+   ],
+   "mentions": {
+    "total": 57,
+    "compendium": 26,
+    "records": 31
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests - Brandywine Brush — The dense inland forest known locally…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Maximilian",
+   "aliases": [
+    "Max",
+    "Maximilian Andrew Aldridge",
+    "Maximillian",
+    "Master Maximilian",
+    "Master Max"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 20,
+    "records": 36
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…slaughter anyone they see as even a slight threat to their power. First MAA, then Thatcher, then Maximillian. She is actually the founder of MAMA, but that is not known even within those circles. She…"
+   },
+   "rank": 2,
+   "percentile": 1.5,
+   "score": 0
+  },
+  {
+   "name": "Mr. BBL",
+   "aliases": [
+    "Mister BBL"
+   ],
+   "mentions": {
+    "total": 25,
+    "compendium": 7,
+    "records": 18
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Glendolph Galleyway: An unremarkable mayor, the only thing of note is his hiring of Mr. BBL, the current chancellor of Aleforge. Thomas Thatcher Sr.: Thomas Thatcher Sr. was an…"
+   },
+   "rank": 3,
+   "percentile": 3.0,
+   "score": 1
+  },
+  {
+   "name": "MAMA",
+   "aliases": [
+    "Mothers Against Maximillians Assassination",
+    "Mothers Against Maximilian's Assassination"
+   ],
+   "mentions": {
+    "total": 35,
+    "compendium": 14,
+    "records": 21
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…extent of his interaction with the mystical aspects on the island Gideon is strongly anti MAMA, while he too is no fan of the liquor kings, he believes there is no place for extremism in…"
+   },
+   "rank": 4,
+   "percentile": 4.5,
+   "score": 1
+  },
+  {
+   "name": "MAA",
+   "aliases": [
+    "Mothers Against Alcohol"
+   ],
+   "mentions": {
+    "total": 31,
+    "compendium": 26,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the crown. Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge but educated in Providence, Scipiums polical and social…"
+   },
+   "rank": 5,
+   "percentile": 6.0,
+   "score": 1
+  },
+  {
+   "name": "Merchant",
+   "aliases": [
+    "Merchants"
+   ],
+   "mentions": {
+    "total": 25,
+    "compendium": 22,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…mainland, site of former pirate crewmembers' second lives.. - Roto Kaiishi — The famous floating merchant city anchored to the ocean floor. The only laws here are those of the free market. ### Points…"
+   },
+   "rank": 6,
+   "percentile": 7.5,
+   "score": 2
+  },
+  {
+   "name": "Maintenance engineer",
+   "aliases": [],
+   "mentions": {
+    "total": 16,
+    "compendium": 0,
+    "records": 16
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…about how much of a stupid whore Max's mom was I just have to map out a route to the engineers office to get someone here with the key I think it goes HRBIO -> Workshop -> crawlspace 3.…"
+   },
+   "rank": 7,
+   "percentile": 9.0,
+   "score": 3
+  },
+  {
+   "name": "Murder",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 9,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…long ago and later abandoned after their order disappeared, it is rumored that the prophet murdered them in order to get access to this mysterious place. An old prophet took up residence in…"
+   },
+   "rank": 8,
+   "percentile": 10.4,
+   "score": 3
+  },
+  {
+   "name": "The Monk Who Ne'er Slumber'd",
+   "aliases": [
+    "Monk Who Never Slumbered",
+    "Monk Who Ne'er Slumbered",
+    "The Monk"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 9,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…just a driftwood sermon by some tonic-made monk screamin' on a rock. The same monk they call \"Saint No-Snooze\" now? Yeah, he once tried to drink in the Great Tavern and passed out tryin' to convert the…"
+   },
+   "rank": 9,
+   "percentile": 11.9,
+   "score": 4
+  },
+  {
+   "name": "Mutiny",
+   "aliases": [],
+   "mentions": {
+    "total": 8,
+    "compendium": 6,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Backstory: I was born on a small island typically used for marooning pirates who had called for mutiny on otherwise harmonious ships. My parents were both mutineers, although of different ships.…"
+   },
+   "rank": 10,
+   "percentile": 14.2,
+   "score": 5
+  },
+  {
+   "name": "The mayoral election",
+   "aliases": [
+    "mayoral race",
+    "mayoral debate"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 2,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was conveniently ignored in the chaos. The Kings planned a national funeral for John Cum. A mayoral election was announced. Seamus Bonehardy ran and won. ### Individual Performance Summary Jagerbauhm…"
+   },
+   "rank": 10,
+   "percentile": 14.2,
+   "score": 5
+  },
+  {
+   "name": "Madness",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 4,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of a treasure too wild to keep and too wicked to share. A cask. A Pour Eternal. Brewed in madness, they say, by the founders of Aleforge and Sackbeard the Beast-Breaker himself. Brewed from…"
+   },
+   "rank": 12,
+   "percentile": 18.7,
+   "score": 8
+  },
+  {
+   "name": "Maximilian's space station",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 4,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…using cryosleep cycles to multiply his lifespan fivefold — directing the construction of a space station and the infrastructure for a perfect hell in which to trap the Kings. He was ultimately killed…"
+   },
+   "rank": 12,
+   "percentile": 18.7,
+   "score": 8
+  },
+  {
+   "name": "Medical bay",
+   "aliases": [
+    "Medical floor",
+    "Med bay"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Name: Dmitri Birth Date: 92/1/042 After a number of incidents involving the patient, a medical facility was constructed on board the station and we began to investigate the causes of his ailments.…"
+   },
+   "rank": 12,
+   "percentile": 18.7,
+   "score": 8
+  },
+  {
+   "name": "Miner",
+   "aliases": [
+    "Miners",
+    "mining"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…that durag graced my scalp ... .I was no longer a great liquor king…..I was just a simple miner, standing before the mercy of Owe Block…..and Owe block is not forgiving. And those next few…"
+   },
+   "rank": 12,
+   "percentile": 18.7,
+   "score": 8
+  },
+  {
+   "name": "The mast lance",
+   "aliases": [
+    "mast",
+    "the mast"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "turned the ship until the mast pointed at the monster like a lance",
+    "note": "His fallen mast, turned into a lance, killed the Tavern Beast."
+   },
+   "rank": 16,
+   "percentile": 22.4,
+   "score": 11
+  },
+  {
+   "name": "Mr. BBL's findings",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…scheming to nick their glory—or at least their ale. # STEWARDS OF ALEFORE — BOOKS # BBLs Findings I have examined the letters that had been sent to a currently unknown figure with the initials…"
+   },
+   "rank": 17,
+   "percentile": 23.9,
+   "score": 12
+  },
+  {
+   "name": "Map to the Forbidden Brew",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…without a soul cannot die, but they also cannot be considered truly alive. ### Key Artifacts Map to the Forbidden Brew — Currently blank. It will reveal itself when the bearer is deemed worthy — which is to say,…"
+   },
+   "rank": 18,
+   "percentile": 27.6,
+   "score": 15
+  },
+  {
+   "name": "Mead",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…school brewers. They made every type of alcohol you could dream of.....whiskey, wines, beers, meads and more. But never an IPA. They drank religiously and saw drinking an IPA as a disgrace.…"
+   },
+   "rank": 18,
+   "percentile": 27.6,
+   "score": 15
+  },
+  {
+   "name": "Mk. II Autonomous Defense Unit",
+   "aliases": [
+    "Mk II"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Address leakages at joints between new and old pipes. [+] Integrate pathfinding nodes for new security bots Cycle 93, Year 3 [+] fuckin hate this job and i don't even think anyone reads these logs.…"
+   },
+   "rank": 18,
+   "percentile": 27.6,
+   "score": 15
+  },
+  {
+   "name": "Mule",
+   "aliases": [
+    "Mules",
+    "Mules and donkeys"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…delivered so fast they don't have time to grow in excitement and anticipation. Horses and Donkeys used by the Six to Travel to Pintland during the Walk of Shame: ### PegButt Most trusted…"
+   },
+   "rank": 18,
+   "percentile": 27.6,
+   "score": 15
+  },
+  {
+   "name": "Maintenance Knowledge Base",
+   "aliases": [
+    "Maintenance KB"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…technology from master Maximilian and use it in a manner that would please him were he here. Maintenance KB Maintenance Knowledge Base How to use this book ------------------- This book is intended…"
+   },
+   "rank": 22,
+   "percentile": 34.3,
+   "score": 20
+  },
+  {
+   "name": "Mickey's Pipe Club",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…spectacular sequence, died first in the mines, lost everything, then hired a hit through Mickey's Pipe Club to have Seamus killed in revenge. The thread connecting all of it was Sexton Gobbler, who…"
+   },
+   "rank": 22,
+   "percentile": 34.3,
+   "score": 20
+  },
+  {
+   "name": "Minister of Foreign Relations",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Susan Plinket — CONVICTED, Sentenced to Be Rollo's Girlfriend Susan Plinket is a moderate foreign affairs expert for the kings. She respects their bravery but agrees that they are not the most professional…"
+   },
+   "rank": 22,
+   "percentile": 34.3,
+   "score": 20
+  },
+  {
+   "name": "The magical spring",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…brewmaster deity was saved by the town's founders, and in return, he blessed the town with a spring that flows with the finest ale. The deity enjoys revelry, cheer, and the occasional chaos, and so decreed…"
+   },
+   "rank": 22,
+   "percentile": 34.3,
+   "score": 20
+  },
+  {
+   "name": "The missing persons case",
+   "aliases": [
+    "missing persons"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…had been asked by Providence Police and the Aleforge Special Drinkers Unit to investigate a missing persons case that revolved around the library and when they arrived they brought with them a key.…"
+   },
+   "rank": 22,
+   "percentile": 34.3,
+   "score": 20
+  },
+  {
+   "name": "Maint. Logbook",
+   "aliases": [
+    "Maintenance Logbook"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…of the pipes. Hope you get some good use out of it, it's served me well so far. -Goddard Maint. Logbook Maintenance Logbook Cycle 93, Year 1 [+] Replace all piping from before cycle 86 [+] Update…"
+   },
+   "rank": 27,
+   "percentile": 47.0,
+   "score": 32
+  },
+  {
+   "name": "Maintenance II",
+   "aliases": [
+    "Maintenance 2"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…should have enough supplies to last until we're able to make a deal for our freedom. Meet me in maintenance II and I'll bring you to the first spot I was thinking of. -Goddard Access Manual Throne…"
+   },
+   "rank": 27,
+   "percentile": 47.0,
+   "score": 32
+  },
+  {
+   "name": "MAMA to JR",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…birn is dowbq bdshe sd don fhur eis sdin ens eh down dsin eiwn wb - cum cum cum cum MAMA to JR 1 (SOA 3) Our Esteemed Leader, J.R, The Liquor \"Kings\" taking rule is great blessing. They…"
+   },
+   "rank": 27,
+   "percentile": 47.0,
+   "score": 32
+  },
+  {
+   "name": "Master puzzle solver",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…shenanigans which the Liquor King's rule brought to the isles. Notably, Jack was cited as a master puzzle solver in the Liquor King Trials. During the events of A Walk on Owe Block, Anqoak joined the infamous…"
+   },
+   "rank": 27,
+   "percentile": 47.0,
+   "score": 32
+  },
+  {
+   "name": "Mickey",
+   "aliases": [
+    "Mickey of the Pipe Club"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a spectacular sequence, died first in the mines, lost everything, then hired a hit through Mickey's Pipe Club to have Seamus killed in revenge. The thread connecting all of it was Sexton…"
+   },
+   "rank": 27,
+   "percentile": 47.0,
+   "score": 32
+  },
+  {
+   "name": "Missionary",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…an unknown land of giants, brought to Providence as a baby by way of the Whiskey Runners, a missionary group who smuggled illegal tonic from Providence to Aleforge during the early reign of the…"
+   },
+   "rank": 27,
+   "percentile": 47.0,
+   "score": 32
+  },
+  {
+   "name": "Mooringday",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Providence teems with life, a trade town where shops and tradesmiths hammer and brew from Mooringday's dawn to Hangover's bleary dusk, exporting tools of the craft—our pride! The air hums with…"
+   },
+   "rank": 27,
+   "percentile": 47.0,
+   "score": 32
+  },
+  {
+   "name": "Mouth of the Blasphemer",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to say, when that concept is ready. Connected to the Pour Eternal legend of Shanty Town. Mouth of the Blasphemer — The lower jaw of the Rotted Soul's herald, whose words were considered poison. Paired with…"
+   },
+   "rank": 27,
+   "percentile": 47.0,
+   "score": 32
+  },
+  {
+   "name": "Mr. BBL Diary",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…The biggest question is.... why did he want these artifacts in the first place? -Mr. BBL Mr. BBL Diary 1 (SOA 1) Mr. BBL: A Cheeked Up Journal. The Liquor Kings arrived today. Frankly, a lot of…"
+   },
+   "rank": 27,
+   "percentile": 47.0,
+   "score": 32
+  },
+  {
+   "name": "The MAA cave",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cloister Beast Storyline the liquor kings found a clue to their whereabouts and raided their camp deep in a cave, slaughtering all of the MAA, except one child who hid behind a rock and watched the massacre…"
+   },
+   "rank": 27,
+   "percentile": 47.0,
+   "score": 32
+  },
+  {
+   "name": "The MAA massacre",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…views are so extreme that she was expelled from the mothers against alcohol shortly before the liquor king massacre. This only fueled her belief that violent revolution is the only way to enact real change.…"
+   },
+   "rank": 27,
+   "percentile": 47.0,
+   "score": 32
+  },
+  {
+   "name": "The MAA-inspired revolt",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…leader, following in the footsteps of the beloved Thatcher. A few zealots inspired by the MAA staged a small revolt in the town within the first few days of Gideons term and he was on the front lines himself…"
+   },
+   "rank": 27,
+   "percentile": 47.0,
+   "score": 32
+  },
+  {
+   "name": "A message to MAMA",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…You know what, he never did mention what his ship was called\" - glub tuppus wepple gossip A message to MAMA Our time is soon, prepare everyone. We strike while they are down. - SP JR GDC Update…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "M.A.A. Mandatory Alcohol Antidote",
+   "aliases": [
+    "Mandatory Alcohol Antidote"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…crasftmen with cheaper alcohol and pull in money for the brewers. my 2nd policy titled \"M.A.A. Mandatory Alcohol Antidote\" spits in the face of Plinket, God help her, and all the faces of the MAA as we will make…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Malchus",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…crumbs and no satisfying explanation. that kind. We went to Providence. Found a man named Malchus who knew more than he was comfortable knowing. His body hung from the rafters and in his pocket…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "MAMA amnesty deal",
+   "aliases": [
+    "MAMA amnesty"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…let's be real, he doesn't belong in politics! JagerBauhm was the only one to vote against the MAMA amnesty deal in a time when we most needed to de-escalate tensions. It was the black and white thinking…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "MAMA Authority",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…NOW, THEY WILL NOT GET AWAY WITH IT! (upon discovery a small MAMA raid will take place) MAMA Authority I am the leader of this organization and I will not be treated otherwise! We strike when…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "MAMA Rises",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…lightly Liquor Kings, observe, don't interfere, there may be forces unknown at play here. MAMA Rises IT WAS THEM LIQUOR KINGS WHO SLAUGHTERED CUM! FRAMIN US FOR A MURDER? DISGUSTIN! I TELL YA…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Maria Telkes",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…cycle meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide Sponsor Information Hello valued sponsor! We thank you for investing in our…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Max Knott",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Russia: +$10,000,000 Sponsors: Vannevar Bush: +$500,000 Otto Rohwedder: +$1,000,000 Max Knott: +$800,000 Karl Jansky: +$5,000,000 Edwin Armstrong: +$3,000,000 Robert Watson-Watt:…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Max Trans",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick Dickless # # IV. WORLD HISTORY…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Mining guild",
+   "aliases": [
+    "Miners guild"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…issued the first Aleforge Bond offering to raise capital, and established the craftsmen and mining guilds — eliminating unemployment in one stroke and giving the idle drunkards of Aleforge something…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Missing the jump",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…more gear and we went up top to shut down the other modules, i of course died instantly from missing the jump and was naked from here on out, i punched max in the back one time and was immediately beheaded…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Moldy bread",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…can be lit up with yellow, fake suns by the press of these cold buttons. I've been eating moldy bread, finding these shiny crystals and using any gear to protect myself from those demons. Feels…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Money laundering",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…think of buying from her failing business, making her a target for organizations needing to launder cash for goods. The ASDU has been attempting to contact her for week but she stays safe behind…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Mothers and monsters",
+   "aliases": [
+    "mothers",
+    "monsters"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Young Guinnie was first to prevail Soon after the company battled for drink 'Gainst mothers and monsters and dragons of ink In those days began the story Of each of the six liquor kings Verse…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Mr Sir",
+   "aliases": [
+    "Mister Sir"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…school) really if you can make either of those happen you'll never hear another peep from me -mr sir case #00018 can we have serial up heer? mom and dad said they have that on erth and you…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Muhammed Qasim",
+   "aliases": [
+    "Muhammad Qasim"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Andrew Smith - Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim - Natural causes (cancer) Cycle 92 ------------------- Geoffrey Dingle - apparent alcohol…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Mutated experiments",
+   "aliases": [
+    "mutations",
+    "mutated creatures"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…escape routes and claiming the lives of many workers. As chaos unfolded, isolated experiments mutated grotesquely, merging creatures and equipment into nightmarish forms. Communication dwindled…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Mute Gate",
+   "aliases": [
+    "mutegate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…provided counsel to Jagerbauhm. Both sides came prepared but in an unfortunate event known as \"mute gate,\" Bonehardy was unable to speak and Guinnie laid into Mr. Pilsner, flustering him. Bonehardy…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Mutineer parents",
+   "aliases": [
+    "mutineers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…typically used for marooning pirates who had called for mutiny on otherwise harmonious ships. My parents were both mutineers, although of different ships. I don't think they intended to leave that island, but once my…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "The Mercury",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…#### In Game Use: Used for pvp focused games played during HH. #### Lore: The Two built (The Mercury(blue) and ___) are known as Cloudrunners. Crafted from sturdy timber and reinforced with brass…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "The mini library",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…it twice as clear. We continued on once the wine cellar was turned dry and found a smaller mini library. It was here we learned more about Lagendale and apparently that dirty Josephus was hiding…"
+   },
+   "rank": 39,
+   "percentile": 71.6,
+   "score": 61
+  },
+  {
+   "name": "Maximilian's mother",
+   "aliases": [
+    "Max's mom",
+    "Maximilian's mom",
+    "Max's mother"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "His mother was one of the ranking members of the MAA and was among those killed",
+    "note": "A ranking member of the MAA, killed in the Liquor Kings' raid."
+   },
+   "rank": 60,
+   "percentile": 93.3,
+   "score": 90
+  },
+  {
+   "name": "MCSPAN",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…speech\" I'm supposed to give in front of the Aleforge Chronicle and Pintlands primary Network MCSPAN. Truth is it's not a victory speech it's a way out of this mess. Rewind. Get this,…"
+   },
+   "rank": 60,
+   "percentile": 93.3,
+   "score": 90
+  },
+  {
+   "name": "Moby",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Veil Oath book and Veil Chalice from the shrine, proving his sin. Fr Leo, Krag, Zara, and Moby's TNT crew backed them in a scrap with Gobbler in that shrine's narrow hall, water sloshing…"
+   },
+   "rank": 60,
+   "percentile": 93.3,
+   "score": 90
+  },
+  {
+   "name": "Moby's TNT crew",
+   "aliases": [
+    "Moby's crew"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Veil Oath book and Veil Chalice from the shrine, proving his sin. Fr Leo, Krag, Zara, and Moby's TNT crew backed them in a scrap with Gobbler in that shrine's narrow hall, water sloshing…"
+   },
+   "rank": 60,
+   "percentile": 93.3,
+   "score": 90
+  },
+  {
+   "name": "Moss monks",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…stupid enough to piss off the woods. The Windsunk Council's unofficial stance is: \"Let the moss monks keep their weird mud magic, and leave offerings when you pass by.\" But trouble brews all…"
+   },
+   "rank": 60,
+   "percentile": 93.3,
+   "score": 90
+  },
+  {
+   "name": "Mud-sucking mystics",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…don't know what to make of the Veilwalkers. Some call 'em garden ghosts, others call 'em mud-sucking mystics. The kinder ones call 'em healers, the crueler ones cursed monks with too much moss in their…"
+   },
+   "rank": 60,
+   "percentile": 93.3,
+   "score": 90
+  },
+  {
+   "name": "The Mapmaker",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…only for those who still dream in salt and storm. Some maps are whispered to rest with the Mapmaker that vanished. Others tied to Hollowgrim's curses and the ghost riddles that slither through…"
+   },
+   "rank": 60,
+   "percentile": 93.3,
+   "score": 90
+  },
+  {
+   "name": "The Mk. II night stick",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…the vector core, we have integrated trace amounts of radioactive material into the Mk. II's night stick, meaning that perpetrators can be incapacited with a single hit even if they do manage to…"
+   },
+   "rank": 60,
+   "percentile": 93.3,
+   "score": 90
+  },
+  {
+   "name": "The mutineers' island",
+   "aliases": [
+    "marooning island"
+   ],
+   "mentions": {
+    "total": 0,
+    "compendium": 0,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "I was born on a small island typically used for marooning pirates",
+    "note": "Seamus Bonehardy was born on an island used for marooning mutineers."
+   },
+   "rank": 68,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

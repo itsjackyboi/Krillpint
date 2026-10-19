@@ -1,0 +1,10 @@
+{
+  "id": "letter-m",
+  "prompt": "Name anything from the lore starting with M",
+  "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+  "difficulty": "medium",
+  "gem": "Moss monks",
+  "derive": {
+    "letter": "M"
+  }
+}

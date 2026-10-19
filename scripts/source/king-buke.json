@@ -1,0 +1,30 @@
+{
+  "id": "king-buke",
+  "prompt": "Name something tied to Buke",
+  "blurb": "No middle name, no last name. Found in a whiskey barrel; ended Maximilian.",
+  "difficulty": "easy",
+  "gem": "Double blicky maneuver",
+  "answers": [
+    {"name": "The empty whiskey barrel", "aliases": ["whiskey barrel", "barrel"], "count": ["re:(?i)bottom of an empty whiskey barrel", "re:(?i)stranded on a barrel"]},
+    {"ref": "Fisherman"},
+    {"name": "Message in a bottle", "aliases": ["bottle", "the bottle washed up"], "count": ["re:(?i)bottle washed up"]},
+    {"ref": "The giant bird"},
+    {"ref": "The chugging competition", "aliases": ["chugging competition", "17 pints", "seventeen pints"]},
+    {"ref": "Rollo", "obscurity": 1},
+    {"ref": "Maximilian", "obscurity": 1},
+    {"ref": "A Stronger Pour"},
+    {"ref": "Ode to Mr. BBL"},
+    {"ref": "Cheeks"},
+    {"ref": "Alliance for Liquor Expansion"},
+    {"ref": "Cum in My Mouth Act"},
+    {"ref": "Aleforge Memorial Museum"},
+    {"name": "Judge Buke", "aliases": ["the Honorable Judge Buke"], "count": ["re:(?i)judge buke"]},
+    {"ref": "Seaside Circus"},
+    {"ref": "Black Pepper Dividend"},
+    {"name": "Relic king", "aliases": ["the relic king"], "count": ["re:(?i)relic king"]},
+    {"ref": "Diamond sword"},
+    {"name": "Double blicky maneuver", "aliases": ["double blicky"], "count": ["re:(?i)double blicky"], "obscurity": 5},
+    {"ref": "Liquor Kings monument"},
+    {"ref": "Mr. BBL"}
+  ]
+}

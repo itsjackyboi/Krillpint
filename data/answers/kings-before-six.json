@@ -1,0 +1,616 @@
+{
+ "id": "kings-before-six",
+ "prompt": "Name a Liquor King who ruled before the Six",
+ "blurb": "Any crowned winner from the pre-history kings through Scipium Ofkra.",
+ "difficulty": "hard",
+ "gem": "Beef",
+ "answerCount": 30,
+ "answers": [
+  {
+   "name": "Frenic Hallis",
+   "aliases": [
+    "Frenic"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…throne after his passing. This began the Hallis Dynasty, the 1st in Aleforge history. Frenic Hallis: It was during the time of his rule that the small settlement of Shanty Town which originated…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Elric Stein",
+   "aliases": [
+    "Elric"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…large amount of infrastructure and construction development was directed under his reign. Elric Stein: As Aleforge grew as an economic force in the region, Elric sent out taverners all across…"
+   },
+   "rank": 2,
+   "percentile": 6.9,
+   "score": 2
+  },
+  {
+   "name": "Scab Plindor II",
+   "aliases": [
+    "Scab Plindor the Second",
+    "Plindor II"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to suspend the Drunken Trials and allow the title to pass by way of blood to his son, Scab Plindor II, this began the short lived Plindor Dynasty. Scab Plindor II: Afflicted by ambition,…"
+   },
+   "rank": 2,
+   "percentile": 6.9,
+   "score": 2
+  },
+  {
+   "name": "Trodon Hallis",
+   "aliases": [
+    "Trodon"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…constructed the Shelled Tavern. Frenic built the Sackbeard Memorial Well in the town square. Trodon Hallis: The last member of the Hallis Dynasty. Trodon was a weak and sickly man from birth and showed…"
+   },
+   "rank": 2,
+   "percentile": 6.9,
+   "score": 2
+  },
+  {
+   "name": "Adcock",
+   "aliases": [
+    "King Adcock"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…that the fountain of Ale overflowed that day and all drank until they were satisfied. Adcock: The last of the prehistorical Kings. Adcock believed in some separation of powers following…"
+   },
+   "rank": 5,
+   "percentile": 15.5,
+   "score": 6
+  },
+  {
+   "name": "Cedric the Vicar",
+   "aliases": [
+    "Cedric"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…nomadic lifestyle, even though that will take hundreds of years from a human perspective. Cedric the Vicar: A religious extremist, Cedric established a short lived religious cult surrounding him as…"
+   },
+   "rank": 5,
+   "percentile": 15.5,
+   "score": 6
+  },
+  {
+   "name": "Shorelan Herb",
+   "aliases": [
+    "Shorelan"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…subsidized farmers and brewers, cementing these as the two core industries in Aleforge. Shorelan Herb: The only event of note under Shorelans rule is the exile of a terrorbrewist who created something…"
+   },
+   "rank": 7,
+   "percentile": 20.7,
+   "score": 9
+  },
+  {
+   "name": "Brannock the Drunk",
+   "aliases": [
+    "Brannock"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their founding achievements have remained in the records. #### Early Leaders: (pre history) Brannock the Drunk: Legend has it that Brannock stumbled into the Drunken Trials already blackout drunk as he…"
+   },
+   "rank": 8,
+   "percentile": 37.9,
+   "score": 23
+  },
+  {
+   "name": "Cormac Bushlighted",
+   "aliases": [
+    "Cormac",
+    "Bushlighted"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…warring farmers clan and brewers guild. Some view this as the true founding of Aleforge Cormac Bushlighted: Cormac is known for directing all the efforts of the court to developing a large variety…"
+   },
+   "rank": 8,
+   "percentile": 37.9,
+   "score": 23
+  },
+  {
+   "name": "Godrin Moor",
+   "aliases": [
+    "Godrin"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of land to an early member of the John family which later became the famed Cumstead. Godrin Moor: It is said that Godrin was the last ruler of Aleforge to see what is now Fenwick at its height.…"
+   },
+   "rank": 8,
+   "percentile": 37.9,
+   "score": 23
+  },
+  {
+   "name": "Hilgaard the Wildman",
+   "aliases": [
+    "Hilgaard"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…by her visions and she correctly foretold of the Long Thirst and the Age of Six Kings. Hilgaard the Wildman: essentially a homeless man who somehow won the crown. Hilgaard was assassinated by a radical…"
+   },
+   "rank": 8,
+   "percentile": 37.9,
+   "score": 23
+  },
+  {
+   "name": "Oswain O'Fern",
+   "aliases": [
+    "Oswain",
+    "O'Fern"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…as these taverns became unofficial cultural embassies to other towns and settlements. Oswain O'Fern: Filled with distrust for all other cultural forces in the isles, in his rule as Liquor King…"
+   },
+   "rank": 8,
+   "percentile": 37.9,
+   "score": 23
+  },
+  {
+   "name": "Plungos of West Pint",
+   "aliases": [
+    "Plungos"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ascending to the throne, the title of Liquor King was only softly carved in his tombstone. Plungos of West Pint: a great admiral in the war and the highest ranking officer under the Liquor King. Upon the…"
+   },
+   "rank": 8,
+   "percentile": 37.9,
+   "score": 23
+  },
+  {
+   "name": "Scab Plindor I",
+   "aliases": [
+    "Scab Plindor the First",
+    "Plindor I"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…stayed in effect until Liquor King, Seamus Bonehardy legalized it in recent history. Scab Plindor I: A wartime king, a large fleet of unknown origin sailed into view, their goal was to overpower…"
+   },
+   "rank": 8,
+   "percentile": 37.9,
+   "score": 23
+  },
+  {
+   "name": "Sean Assbell",
+   "aliases": [
+    "Assbell"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…attack would be necessary. In modern times these have been refitted into a sewer network. Sean Assbell: An admirer of Miller and Stein; Assbell sought to increase Aleforges cultural exports by…"
+   },
+   "rank": 8,
+   "percentile": 37.9,
+   "score": 23
+  },
+  {
+   "name": "Wendell the Democrator",
+   "aliases": [
+    "Wendell"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Julian of the Poplui: He opened the castle to the public, hosting town halls each week. Wendell the Democrator: A natural progression to the town hall system, Wendell incorporated a democratic election…"
+   },
+   "rank": 8,
+   "percentile": 37.9,
+   "score": 23
+  },
+  {
+   "name": "Beef",
+   "aliases": [
+    "King Beef"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the court to developing a large variety of ales and lagers for the people of Aleforge Beef: Nothing is known about the Liquor King named Beef beyond his name Ulthar Goldbrew: A…"
+   },
+   "rank": 17,
+   "percentile": 55.2,
+   "score": 41
+  },
+  {
+   "name": "Aldin Whiteknuckle",
+   "aliases": [
+    "Aldin"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the political and cultural norms in Aleforge can be traced back to his writings. Aldin Whiteknuckle: the only notable event of Aldins rule was the grant of land to an early member of the John…"
+   },
+   "rank": 18,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Balder Pilsford",
+   "aliases": [
+    "Balder",
+    "Pilsford"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the positions of Chancellor and Mayor. #### The Middle Kings: Rulers from Years 1 - 193. Balder Pilsford: Fought a quiet but brutal war against the smugglers gallery along the cliffs of Aleforge.…"
+   },
+   "rank": 18,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Bram Hallis",
+   "aliases": [
+    "Bram"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…position of Aleforge. It was here that the major voting groups known today developed. Bram Hallis: Sponsored the first expeditions to map and circumnavigate Vodkonia and the main continent…"
+   },
+   "rank": 18,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Don Julian of the Poplui",
+   "aliases": [
+    "Don Julian"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…crowned in a private ceremony and never left the castle for all 40 years of his rule Don Julian of the Poplui: He opened the castle to the public, hosting town halls each week. Wendell the Democrator:…"
+   },
+   "rank": 18,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Gormun the Wise",
+   "aliases": [
+    "Gormun"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ounce of brew in all his days. It is unknown how he managed to win the Drunken Trials Gormun the Wise: A prolific writer and political innovator, many of the political and cultural norms in Aleforge…"
+   },
+   "rank": 18,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Guinnesston",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fought a quiet but brutal war against the smugglers gallery along the cliffs of Aleforge. Guinnesston: The first king to send a diplomatic envoy to Fenwick and establish ties with the Veilwalkers.…"
+   },
+   "rank": 18,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Ingram the Hermit",
+   "aliases": [
+    "Ingram"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…decision at the time. Percy Tapper: Died in a brewing accident early into his rule Ingram the Hermit: One of the longest ruling Kings, curiously he was crowned in a private ceremony and never…"
+   },
+   "rank": 18,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Isadora Beerchelli",
+   "aliases": [
+    "Isadora"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…conclusion of the war he personally hosted the Drunken Trials and stepped down voluntarily. Isadora Beerchelli: The first and only woman to win the Drunken Trials to daye, and her title of Liquor King…"
+   },
+   "rank": 18,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Percy Tapper",
+   "aliases": [
+    "Percy",
+    "Tapper"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…establish ties with the Veilwalkers. This was a controversial decision at the time. Percy Tapper: Died in a brewing accident early into his rule Ingram the Hermit: One of the longest…"
+   },
+   "rank": 18,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Roderick Hennessany",
+   "aliases": [
+    "Roderick",
+    "Hennessany",
+    "Roderick Hennessy"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…entire event by accident. He was unaware that he was crowned king until the next morning Roderick Hennessany: Negotiated a peace between the warring farmers clan and brewers guild. Some view this as…"
+   },
+   "rank": 18,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Scipium Ofkra",
+   "aliases": [
+    "Scipium"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge but educated in Providence, Scipiums polical and social ideals were far…"
+   },
+   "rank": 18,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Ulthar Goldbrew",
+   "aliases": [
+    "Ulthar"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge Beef: Nothing is known about the Liquor King named Beef beyond his name Ulthar Goldbrew: A controversial leader, it is said that he never drank an ounce of brew in all his days.…"
+   },
+   "rank": 18,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Wystan Miller",
+   "aliases": [
+    "Wystan"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…gathered to host a new Drunken Trials. #### The Golden Taps: Rulers from Year 193 - 411 Wystan Miller: The winner of the reinstated Drunken Trials, a cultural return to the old ways. A keen economic…"
+   },
+   "rank": 18,
+   "percentile": 79.3,
+   "score": 71
+  }
+ ]
+}

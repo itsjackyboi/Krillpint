@@ -1,0 +1,2070 @@
+{
+ "id": "letter-s",
+ "prompt": "Name anything from the lore starting with S",
+ "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+ "difficulty": "easy",
+ "gem": "Sapgetti",
+ "answerCount": 108,
+ "answers": [
+  {
+   "name": "Seamus Bonehardy",
+   "aliases": [
+    "Seamus",
+    "Shameless Bonehardy",
+    "Shamus Bonehardy"
+   ],
+   "mentions": {
+    "total": 119,
+    "compendium": 61,
+    "records": 58
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan),…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Ships",
+   "aliases": [
+    "ship"
+   ],
+   "mentions": {
+    "total": 82,
+    "compendium": 48,
+    "records": 34
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…above. However, scholars still debate what exactly caused the tavern beast to start attacking ships. Local academics have drawn parallels to similar activity with the ancient beasts of the island,…"
+   },
+   "rank": 2,
+   "percentile": 0.9,
+   "score": 0
+  },
+  {
+   "name": "Sackbeard",
+   "aliases": [
+    "Sacky"
+   ],
+   "mentions": {
+    "total": 77,
+    "compendium": 57,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death…"
+   },
+   "rank": 3,
+   "percentile": 1.9,
+   "score": 0
+  },
+  {
+   "name": "Shanty Town",
+   "aliases": [
+    "Shantytown"
+   ],
+   "mentions": {
+    "total": 47,
+    "compendium": 43,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…religious superstitions about what lay beyond them. - Rum Ridge — A lone peak which separates Shanty Town from the Hoegaarden Plains. Previously, this was the site of a vast arena for public gladiatorial…"
+   },
+   "rank": 4,
+   "percentile": 2.8,
+   "score": 0
+  },
+  {
+   "name": "Sackbeard's Tavern",
+   "aliases": [
+    "Shell Tavern",
+    "The Shell Tavern",
+    "ShellTavern",
+    "Shelled Tavern"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 28,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for…"
+   },
+   "rank": 5,
+   "percentile": 3.7,
+   "score": 1
+  },
+  {
+   "name": "Sexton Gobbler",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 7,
+    "records": 8
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Liquor Kings with safe haven during the Owe Block concept when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley…"
+   },
+   "rank": 6,
+   "percentile": 4.7,
+   "score": 1
+  },
+  {
+   "name": "Stewards of Aleforge",
+   "aliases": [
+    "SOA"
+   ],
+   "mentions": {
+    "total": 52,
+    "compendium": 16,
+    "records": 36
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Beast (run by Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards of Aleforge (run by Jack), and Horrors in Hoegaarden (written by Jack and Ben, run by Ben). Each concept…"
+   },
+   "rank": 7,
+   "percentile": 5.6,
+   "score": 1
+  },
+  {
+   "name": "Susan Plinket",
+   "aliases": [
+    "Susan"
+   ],
+   "mentions": {
+    "total": 34,
+    "compendium": 15,
+    "records": 19
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"an ick\". He was somewhat unfairly legally commanded into a relationship with MAMA leader, Susan Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport…"
+   },
+   "rank": 8,
+   "percentile": 6.5,
+   "score": 2
+  },
+  {
+   "name": "The Shrines",
+   "aliases": [
+    "Shrine"
+   ],
+   "mentions": {
+    "total": 32,
+    "compendium": 28,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…disgruntled farmer has taken up residence deep in the forest as well and one of the very first shrines ever discovered by the Liquor Kings was in this forest, found by Guinnie. ### Lakes &…"
+   },
+   "rank": 9,
+   "percentile": 7.5,
+   "score": 2
+  },
+  {
+   "name": "The Southern Bellows Nation",
+   "aliases": [
+    "SBN"
+   ],
+   "mentions": {
+    "total": 20,
+    "compendium": 20,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…complete mystery, and the most precious trade secret of the Derecho family. ## The Southern Bellows Nation South of the mainland, past waters few captains dare chart, lies the Southern Bellows Nation…"
+   },
+   "rank": 10,
+   "percentile": 8.4,
+   "score": 2
+  },
+  {
+   "name": "Seaside Circus",
+   "aliases": [
+    "Seasiders"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 2,
+    "records": 15
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner,…"
+   },
+   "rank": 11,
+   "percentile": 9.3,
+   "score": 3
+  },
+  {
+   "name": "Sobriety",
+   "aliases": [
+    "sobriety's curse",
+    "sober"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 5,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and Jameson Pilsner was found guilty of the murder of Peg Butt. He was sentenced to lifetime sobriety and a stint in the Aleforge jail. # VI. CULTURE, RELIGION & BUSINESS ## The Drunken Trials…"
+   },
+   "rank": 12,
+   "percentile": 10.3,
+   "score": 3
+  },
+  {
+   "name": "Sexton",
+   "aliases": [
+    "Sextons"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 11,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the cobbled streets on Beastwatch, judging the markets with a keen eye and a stricter hand. Sextons, the lowliest rank, haul tithes to the lake port in creaking carts, their greed oft outweighing…"
+   },
+   "rank": 13,
+   "percentile": 11.7,
+   "score": 4
+  },
+  {
+   "name": "Stout",
+   "aliases": [
+    "Stouts"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 7,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…colors 'pon her mast — a flag o' yer own makin' and meanin'. Ye ship must be sea-worthy, stout o' hull, and not some leakin' bucket o' shame. Ye crew must number more than one — a proper…"
+   },
+   "rank": 13,
+   "percentile": 11.7,
+   "score": 4
+  },
+  {
+   "name": "Slavery",
+   "aliases": [
+    "slave trade"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 9,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…principle that all rules in Roto should be fiscally motivated, it turned out that some trades (slave trade, drug trade, dark magic markets) brought the wrong crowd and scared off potential high…"
+   },
+   "rank": 15,
+   "percentile": 13.1,
+   "score": 5
+  },
+  {
+   "name": "Solar transducers",
+   "aliases": [
+    "solar transducer"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 0,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and don't get punished! POWER OVERRIDE WARNING ------------------- THIS IS ONE OF TWO SOLAR TRANSDUCERS. IF BOTH ARE SHUT OFF, CRITICAL STATION SERVICES WILL GO OFFLINE UNTIL ONE OR BOTH IS TRANSDUCERS…"
+   },
+   "rank": 16,
+   "percentile": 15.0,
+   "score": 6
+  },
+  {
+   "name": "Soullessness",
+   "aliases": [
+    "soulless"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…collapse, political uprisings and the arrival of a cursed crew arriving from the Realm of the Soulless seeking revenge on Gideon Drake. This lead to the banishment of Gideon Drake to Vodkonia.…"
+   },
+   "rank": 16,
+   "percentile": 15.0,
+   "score": 6
+  },
+  {
+   "name": "Stank Tank",
+   "aliases": [],
+   "mentions": {
+    "total": 8,
+    "compendium": 5,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner, Wagwan was very persuasive with his memorable line \"I am black.\" During the events…"
+   },
+   "rank": 16,
+   "percentile": 15.0,
+   "score": 6
+  },
+  {
+   "name": "Smuggling",
+   "aliases": [],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…adventurers, and merchants alike. Many speculate that artifacts from the facility have been smuggled out by daring crews, fueling a clandestine market in places like the pirate city of Roto…"
+   },
+   "rank": 19,
+   "percentile": 17.8,
+   "score": 7
+  },
+  {
+   "name": "Soldier",
+   "aliases": [
+    "Soldiers"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 4,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Plindor II, Plungos rose to power and eventually defeated the attackers, killing each and every soldier. With the conclusion of the war he personally hosted the Drunken Trials and stepped down voluntarily.…"
+   },
+   "rank": 19,
+   "percentile": 17.8,
+   "score": 7
+  },
+  {
+   "name": "Stormtide",
+   "aliases": [],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Servant of Patmos The Tale of the Monk Who Ne'er Slumber'd In the year of our unknown gods, Stormtide, Keg 13, Bloodwake of the 66th cycle, by mine own quill, I recount… I, a poor soul cast out…"
+   },
+   "rank": 19,
+   "percentile": 17.8,
+   "score": 7
+  },
+  {
+   "name": "Sackbeard's undead crew",
+   "aliases": [
+    "Sackbeard's crew"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…navigate very difficult times of economic collapse, political uprisings and the arrival of a cursed crew arriving from the Realm of the Soulless seeking revenge on Gideon Drake. This lead to the…"
+   },
+   "rank": 22,
+   "percentile": 20.6,
+   "score": 9
+  },
+  {
+   "name": "Sheriff",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was Bigbag-o Buttlube the ancestor of the current office holder, Hornithan Buttlube 2. The Sheriffs Offices: This Sheriffs office was the first form of law and order in old Aleforge. Most duties…"
+   },
+   "rank": 22,
+   "percentile": 20.6,
+   "score": 9
+  },
+  {
+   "name": "Stormveil Trading Co.",
+   "aliases": [
+    "Stormveil",
+    "Stormveil Trading Company",
+    "STC"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of breeze so your hearth stays warm through the night or the barrels of winds sold to the Stormveil Trading Co to keep their sky ship, the Albatross, afloat. Whatever your breeze needs may be you can…"
+   },
+   "rank": 22,
+   "percentile": 20.6,
+   "score": 9
+  },
+  {
+   "name": "Sackbeard's armada",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…when the traders go home? This fact firmly in mind, the great pirate Sackbeard assembled an armada of the best pirate crews from around the world and laid out a plan to kill the beast. The…"
+   },
+   "rank": 25,
+   "percentile": 22.9,
+   "score": 11
+  },
+  {
+   "name": "Sushi",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Owe Block and relayed the full account of their adventures there to Brother Silas. He serves sushi. ### Sexton Gobbler The corrupt Sexton of Owe Block who was secretly worshipping the Veilwalkers…"
+   },
+   "rank": 25,
+   "percentile": 22.9,
+   "score": 11
+  },
+  {
+   "name": "A Stronger Pour",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…bound by the booze and sworn to the barley — The ale-drinking demon — SHAME-US BONEHARDY! ## A Stronger Pour Buke's mayoral campaign song. In Aleforge town where barrels roar, A leader rises, strong…"
+   },
+   "rank": 27,
+   "percentile": 26.6,
+   "score": 14
+  },
+  {
+   "name": "Scab Plindor II",
+   "aliases": [
+    "Scab Plindor the Second"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to suspend the Drunken Trials and allow the title to pass by way of blood to his son, Scab Plindor II, this began the short lived Plindor Dynasty. Scab Plindor II: Afflicted by ambition,…"
+   },
+   "rank": 27,
+   "percentile": 26.6,
+   "score": 14
+  },
+  {
+   "name": "Server room",
+   "aliases": [
+    "Server banks"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…taking revenge i absolutely had no clue what that was going to look like. My spawn was in the server room and the first thing i found was a wrench, i used this wrench to open a trapdoor which took…"
+   },
+   "rank": 27,
+   "percentile": 26.6,
+   "score": 14
+  },
+  {
+   "name": "Spices",
+   "aliases": [
+    "Silks and spices",
+    "silks"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…chief partner, a bustling hub we view with grudging respect and wary eyes. Their ships bring silks, exotic woods, and spices that flavor our gins, while we export brewing tools and the rarest…"
+   },
+   "rank": 27,
+   "percentile": 26.6,
+   "score": 14
+  },
+  {
+   "name": "The Shoals",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…cliffs — a spot to crash, dock, or lash yer vessel to the bones. Ye must swear loyalty to the Shoals — no scallywag games, no claimin' king, and no settin' sail to plunder the town what gave…"
+   },
+   "rank": 27,
+   "percentile": 26.6,
+   "score": 14
+  },
+  {
+   "name": "The shrine armor sets",
+   "aliases": [
+    "shrine armor"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and now all that is left are crumbling ancient shrines with valuables hidden within. Each set of armor is unique, and is separated into 4 pieces, as of now, nobody has a full set It can be surmised…"
+   },
+   "rank": 27,
+   "percentile": 26.6,
+   "score": 14
+  },
+  {
+   "name": "Sackbeard Diary",
+   "aliases": [
+    "Sackbeard's diary",
+    "sackbeard memorial journal"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…leave Thatcher to die, but also saved the land. - Free trade above all, no tariffs or tax sackbeard memorial journal \"My crew are in high spirits, my first mate and all the rest are determined to command the…"
+   },
+   "rank": 33,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Sentenced to be Rollo's girlfriend",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of \"Johns\" was found to be half Veilwalker and half human. ### Susan Plinket — CONVICTED, Sentenced to Be Rollo's Girlfriend Susan Plinket is a moderate foreign affairs expert for the kings. She respects…"
+   },
+   "rank": 33,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Sister Bertha",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…cardinal. His unusual size allowed him to stand out among the other guardian applicants. ### Sister Bertha Sister Bertha is a snitch. A big ole snitch. Her father was a high ranking Circ in the Cardinals…"
+   },
+   "rank": 33,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Smuggler",
+   "aliases": [
+    "Smugglers"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Kings: Rulers from Years 1 - 193. Balder Pilsford: Fought a quiet but brutal war against the smugglers gallery along the cliffs of Aleforge. Guinnesston: The first king to send a diplomatic…"
+   },
+   "rank": 33,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "The scientists",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Mostly vibes #### Lore: Driven by their insatiable desire to master instant travel, the brightest minds constructed a colossal device—The Nethergate Teleporter. Engineered with a fusion of advanced…"
+   },
+   "rank": 33,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "The sewers",
+   "aliases": [
+    "sewer network"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…event that a swift attack would be necessary. In modern times these have been refitted into a sewer network. Sean Assbell: An admirer of Miller and Stein; Assbell sought to increase Aleforges…"
+   },
+   "rank": 33,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "The slaying of the Tavern Beast",
+   "aliases": [
+    "Sackbeard killed the Great Beast",
+    "Sackbeard's Conquest"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…harbor shaped by centuries of pirate traffic. This is nearby to the waters where Sackbeard killed the Great Beast. - Bottomless Bay — The bay in front of Hoegaarden Library. Another entry way into Providence,…"
+   },
+   "rank": 33,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Shorelan Herb",
+   "aliases": [
+    "Shorelan"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…subsidized farmers and brewers, cementing these as the two core industries in Aleforge. Shorelan Herb: The only event of note under Shorelans rule is the exile of a terrorbrewist who created something…"
+   },
+   "rank": 40,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "A Soldier's Letter, Never Sent",
+   "aliases": [
+    "Soldier's Letter",
+    "soldier's letter home"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to document what happened there — that silence, I think, is its own kind of answer'); and a soldier's letter home, never sent, written from the empire's frontier: 'I have seen and done things I wish…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Sackbeard's Sails",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…every breath. He lived a life of ale and brew, And died a good man, through and through. ## Sackbeard's Sails Old Sackbeard sailed with ale in hold, His beard as white as waves, so bold. To distant…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Saint",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…just a driftwood sermon by some tonic-made monk screamin' on a rock. The same monk they call \"Saint No-Snooze\" now? Yeah, he once tried to drink in the Great Tavern and passed out tryin' to…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Salude Gonzalez",
+   "aliases": [
+    "Salude"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Shidiz and Tanka Jahari their personal house servants. They also fund and house an artist, Salude Gonzalez, who lives in their attic and paints. His living quarters are completely cut off from the…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Sam Park",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…causes (cancer) Cycle 92 ------------------- Geoffrey Dingle - apparent alcohol poisoning. Sam Park - Immolation (handled as suicide) Chen K - Lack of oxygen after getting stuck in a maintenance…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Samuel Supplebottom",
+   "aliases": [
+    "Supplebottom"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…price……rumors circle about her having Veilwalker ties ##### Aleforge Post Office and Public Records Supplebottom runs a tight ship in the APO & PR. never a late delivery especially when delivered Quickety…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Sandals",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Book 6 & 7: Our gods have abandoned us. Our priests are gone. They were not killed. Their sandals were still by the temple doors. We dare not move them Book 8: He stopped speaking months…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Scab Plindor I",
+   "aliases": [
+    "Scab Plindor the First"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…stayed in effect until Liquor King, Seamus Bonehardy legalized it in recent history. Scab Plindor I: A wartime king, a large fleet of unknown origin sailed into view, their goal was to overpower…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Sean Assbell",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…attack would be necessary. In modern times these have been refitted into a sewer network. Sean Assbell: An admirer of Miller and Stein; Assbell sought to increase Aleforges cultural exports by…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Security office",
+   "aliases": [
+    "Security"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…this wrench to open a trapdoor which took an embarrassingly long time and that led to the security office. Here i found my starting items and some emails which played a large role down the line. The…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Selling relics to Hoegaarden",
+   "aliases": [
+    "sold his relics"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…chamber where Friar Leo hides forbidden documents about the Monk Who Ne'er Slumber'd. Seamus sold his relics to the Hoegaarden Library for thousands of gold, making him the wealthiest player that session…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Shark",
+   "aliases": [
+    "Sharks"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…you old lech, perk up those ears!\" Wagwan's leaning over his sushi bar, eyes flashing like a shark sniffing blood. \"Four strapping lads—Seamus Bonehardy, Guinne, Buke, and Jameson Pilsner,…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Sheriff Edward Cocaine",
+   "aliases": [
+    "Sheriff Cocaine"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Alforge. The first Aleforge Sheriff was Peedrick Cocaine Sr. the current sheriff is Sheriff Edward Cocaine 3. The Color Guard: The Color Guard dates back to the founders of Aleforge. The first ones…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Shitty McFarts",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Will forever live in his father's shadow. He has awfully large horse shoes to fill. ### Shitty McFarts Slow Mule bred from a horse and donkey ### Farty McShits Hornse…..McFarts half brother…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Sir Robert CockPower",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…##### CockPowers Clock Tower Built by the Cockpower family and currently maintained by Sir Robert CockPower. The CockPower family comes from a long line of timekeepers, not much is known about them…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Skin of the 138",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Rotted Soul's herald, whose words were considered poison. Paired with the Book of Blasphemy. Skin of the 138 — The rotten flesh of the 138 council members slaughtered in the Rotted Soul's takeover. He…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Space critters",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…I Completion Cycles 63-65: Crawlspace Additions Cycles 66+: Routine maintenance damn critters I've seen more of those damn space critters crawling around again in the maintenance shafts.…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Sprites",
+   "aliases": [
+    "Sprite"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…he is deeply superstitious and will do everything he can to avoid Jopsi, a small annoying sprite who is summoned by bad luck. Recently, Gale has entered into a deeper religious ferocity.…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Steam-powered gliders",
+   "aliases": [
+    "steam gliders"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…brews that fuel their economy. - Aviation: The SBN has mastered flight through steam-powered gliders, skeletal wing-craft that hiss and creak across the southern skies, letting them scout and…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Stilts",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…mineral that glows like embers in the tonic's fire. The port itself is a marvel, built on stilts like Roto's kin, its docks alive with the slap of waves and the shouts of traders, guarded…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Stormtide Ale",
+   "aliases": [
+    "Stormtide brew",
+    "Storm tide brew"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…superior Aleforge recipes, I have made an agreement with Cardinal addy to brew the first batch of Stormtide Ale, mixin' Aleforge's malt with Providence's brewin' technology, without touchin' their guarded…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Stuck in a maintenance shaft",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…poisoning. Sam Park - Immolation (handled as suicide) Chen K - Lack of oxygen after getting stuck in a maintenance shaft. Cycle 93 ------------------- Dimetreus Reynalds- overpressurization of decontamination…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "The Second Dynasty",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…modern Pintland is one of the more confounding features of this land. Geographers of the Second Dynasty of Lagendale recorded the region as fertile grassland. Agricultural surveys from only three…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "The secret room",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…thatcher went missing and it was later revealed that he was held captive by fentmaxxer in the secret room underneath the well. The players found thatcher but forgot to actually rescue him, left him…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "The six maps",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…when poured. They feared its power. Or maybe they feared each other with it. So the founders scattered the maps—six of 'em—each carved with riddles, songs, or half-words meant only for those who still dream…"
+   },
+   "rank": 41,
+   "percentile": 48.6,
+   "score": 34
+  },
+  {
+   "name": "Sackbeard Memorial Well",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Sackbeard killed the Great Shelled Beast and constructed the Shelled Tavern. Frenic built the Sackbeard Memorial Well in the town square. Trodon Hallis: The last member of the Hallis Dynasty. Trodon was…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Sackbeard's Armor",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- Durag - Blicky (also: Blinky) - Nike Dunks - Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Sackbeard's Axe",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Blinky) - Nike Dunks - Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden - Map to the Forbidden…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Sackbeard's Cutlass",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass — Lost to time during a fight between Buke and Jagerbauhm.…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Sackbeard's Dagger",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden - Map to the Forbidden Brew — Currently blank.…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Sad Sermon",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…me thanos cause I'll snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon, Old Staff, Ancient Pot—don't ask me what they are, but they're now sitting safely away from…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Sausage",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…so willys on our minds. I thyink if someone asked me It was because the night before we had sausage made from pork and beef so willys so willys were in the subconscious. Idk know Its strange…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Scipium Ofkra",
+   "aliases": [
+    "Scipium"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge but educated in Providence, Scipiums polical and social ideals were far…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Scummy Bumbadill",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cheff Bigmeat ### Hornithan Buttlube ### Sheriff Edward Cocaine ### Freddy Beerbell ### Scummy Bumbadill ### David Krappenschitz ### Lady Krappenschitz ### Dust Shidiz ### Tanka Jahari ### Salude…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Sergeant Hark",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…founder of the T(horny) Thicket Tavern found deep in the middle of thiccy forest ### Sergeant Hark The Chief Officer for the Providence Guard ### Vlad the Kisser A small time wanna-be…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Server maintenance room",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…one of the emails from my starting room we were able to get back on track and opened up the server maintenance room and i actually dont remember what stephan found in there. From here we began entering…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Shanty Square",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…concerning Providence: Scrawled with a hot nail on driftwood. Found nailed to a salt barrel in the Shanty Square. The Truth of Providence (from Someone Who's Fought, Farted, and Forged in Shanty Town)…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Shipbuilder",
+   "aliases": [
+    "shipbuilding"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Gideon has implemented a scholarship system to promote education in emerging crafts, mainly shipbuilding, mining, and blacksmithing. It is available for existing craftsmen to take on an apprentice…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Shot-Chess Association",
+   "aliases": [
+    "Shot-Chess",
+    "Shot-chess",
+    "shot chess"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aberama Bong Owner of the Fianchetto Chess bar in the Cardinal Circle, and the moderator of the Shot-Chess association. ### Pope Used to be a big time mafia man working at the Buenacera Italian…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Six sturdy oars",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…must hold their burden steady To flourish the Islands of Ale Six Liquor Kings hold to six sturdy oars Their hearts glowing brightly to guide to the shore Six will make the journey final And…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Skeet Budle",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Farty McShits Hornse…..McFarts half brother ### Circ M. Geiser ### Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Skimming tithes",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…snitch. Her father was a high ranking Circ in the Cardinals court before being caught for skimming tithes off the residents of Vanity Street; guess who caught him…Thats right sister Bertha. Ever since…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Slick Dickless",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick Dickless # # IV. WORLD HISTORY & TIMELINE Current Date:…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Sodomire Gaol",
+   "aliases": [
+    "Sodomire"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ocean floor. The only laws here are those of the free market. ### Points of Interest - Sodomire Gaol — The regional maximum security prison. This prison is for the worst of the worst and they…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Solen River",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…of the Grand Council, representing all provinces of the empire from the Western Frontier to the Solen River territories. The Council met in full session only four times in the year 340. All four sessions…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Spiritweed",
+   "aliases": [
+    "spirit weed"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Beast-Breaker himself. Brewed from blood pulled from the gullet of the slain Leviathan, stirred with spiritweed from Fenwick, and sealed with powdered gold so fine it whispered when poured. They feared…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Sponsor Guide",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide Sponsor Information Hello valued sponsor! We thank you for investing in our vision for the…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Stealing the armor",
+   "aliases": [
+    "stole the armor"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Brewmaster Deity, leading the Aleforge we know today. Jameson Pilsner was successful in stealing from the fellow kings and delivering the bounty to the kidnappers. Cumsock was set free. The other Kings did hold…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Swimming",
+   "aliases": [
+    "swam"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pintland. Upon hearing of the Drunken Trials, a chance to become more than a simple fisherman, I swam across the sea to the shores of aleforge once again and got a ticket to participate in the…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Sword of Passion",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…coin. \"Lad nabbed more Veil Walkers' treasures than a dock rat hoards scraps, including the Sword of Passion—a blade so wicked it'd make my vows quiver, humming with dark juju.\" Seamus cracked them riddles…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "The sea monster ribcage",
+   "aliases": [
+    "sea monster ribs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…interior of the skull has a small altar within and a floating amethyst crystal. The third is the ribcage of a sea monster which has sunk into a small ravine, inside this ravine is a small airpocket with human made…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "The secret vaults",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…various precious items they had gathered over their tenure and these were the keys to opening secret vaults nearby to the beast skeletons. Within each of the vaults were the following items. \"Bell…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "The Shorelan ban",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…This man was banished from the city but eventually became the founder of Providence. The \"Shorelan ban\" on Clockheart Tonic as it came to be known, stayed in effect until Liquor King, Seamus Bonehardy…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "The shrine cave raid",
+   "aliases": [
+    "shrine cave"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…position of power and wipe out any trace of their old enemies. One group recently made camp in a cave underneath an abandoned shrine but they were raided by Jameson Pilsner and eventually all of the liquor kings who were seeking…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "The six keys",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…from there we travelled on with great confidence, using a crudely drawn map to guide us to six keys which would eventually unlock a cursed crypt. Beyond the door of the crypt lay monsters…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "The six-way tie",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Thirst. He memorialized the Drunken Trials in honor of his father and it ended in the first ever 6 way tie. This began the age of the 6 kings. #### The Age of the Six Kings: #### Modern History:…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "The Southern Blocean",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ASDU before his promotion, making him the perfect person to lead an investigative envoy in the Southern Blocean. ### George O' Queef A famous landscape painter in Providence tasked with creating…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "The stolen rowboat",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…boating accident. He had escaped a life of indentured servitude by stealing his employer's rowboat and set sail on the high seas. He really didn't think past that and he experienced a long…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "The Styx",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…favorite brews. As we solved the mazes and puzzles we stumbled our way into a place called The Styx. Needless to say this wasnt the most welcoming of environments and we were greeted by a chap…"
+   },
+   "rank": 66,
+   "percentile": 76.2,
+   "score": 66
+  },
+  {
+   "name": "Super Lube",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…election. Jameson Pilsner (JP) — Found Cumsock the goat in the sewers. Found Bluechew and Super Lube on Day 3. Died three times in the final battle, resurrected each time by Aleforge ale. Pro-Fenwick.…"
+   },
+   "rank": 100,
+   "percentile": 94.9,
+   "score": 92
+  },
+  {
+   "name": "Sushi chef",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…have to assume they were wrong in thinking i'm white. In my first rap to Wagwan, a weeb sushi chef in Owe Block, i proudly proclaimed \"i am black\" and shockingly everyone bought it. I was in,…"
+   },
+   "rank": 100,
+   "percentile": 94.9,
+   "score": 92
+  },
+  {
+   "name": "The sacred cliffs",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…exiting the blood-binding pirate cap't contract, All captains must crash their vessel into the sacred cliffs — a rite o' quittin' the open sea. We still raid, of course. But only ships that deserve…"
+   },
+   "rank": 100,
+   "percentile": 94.9,
+   "score": 92
+  },
+  {
+   "name": "The Scholar, the Drunk and the Scalleywag",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…others lost their souls in the madness underneath the library. ## Mini Concept I: The Scholar, the Drunk and the Scalleywag Cumsock has been taken hostage. The kidnappers sent a message to Liquor…"
+   },
+   "rank": 100,
+   "percentile": 94.9,
+   "score": 92
+  },
+  {
+   "name": "The smugglers gallery",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Kings: Rulers from Years 1 - 193. Balder Pilsford: Fought a quiet but brutal war against the smugglers gallery along the cliffs of Aleforge. Guinnesston: The first king to send a diplomatic envoy…"
+   },
+   "rank": 100,
+   "percentile": 94.9,
+   "score": 92
+  },
+  {
+   "name": "The Spirit realm",
+   "aliases": [
+    "The Spirit realm conglomerate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…question of who controls Roto now that Xi is long dead. Many think it's a conglomerate from the Spirit realm, as that's where all the richest merchants live. However, Xi strongly believed that if the…"
+   },
+   "rank": 100,
+   "percentile": 94.9,
+   "score": 92
+  },
+  {
+   "name": "A solid 3 inches",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…thick girthy pipe in my rear. Wow He was simply the best boyfriend Ive ever had. Wepple is a solid 3 inches, but wow He was at least triple that. I may be in love. - Rollo Blackmail (SOA 2) You caught…"
+   },
+   "rank": 106,
+   "percentile": 99.1,
+   "score": 99
+  },
+  {
+   "name": "Sackbeard's mutiny",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "he coordinated mutiny on The Bellboy's Boner",
+    "note": "On his 23rd birthday Sackbeard led a mutiny on the ship he worked on, and turned pirate."
+   },
+   "rank": 106,
+   "percentile": 99.1,
+   "score": 99
+  },
+  {
+   "name": "Sapgetti",
+   "aliases": [
+    "spaghetti"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…circ and the homie Axcylote. They are my dear friends. Well its cold up here and i miss that sapgetti eating villa, but I make do and I ccuddle with circ at night like we did ----- I get confused…"
+   },
+   "rank": 106,
+   "percentile": 99.1,
+   "score": 99
+  }
+ ]
+}

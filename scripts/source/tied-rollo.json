@@ -1,0 +1,28 @@
+{
+  "id": "tied-rollo",
+  "prompt": "Name something tied to Rollo",
+  "blurb": "The Gilded Tankard's tavern hand, his Newports and his many, many exes.",
+  "difficulty": "easy",
+  "gem": "The ick",
+  "answers": [
+    {"ref": "Buke", "obscurity": 1},
+    {"ref": "Jameson Pilsner", "obscurity": 1},
+    {"ref": "Glub Tuppus Wepple"},
+    {"ref": "Susan Plinket"},
+    {"ref": "Newports"},
+    {"ref": "Anything for a Newport"},
+    {"ref": "The Heart Learns to Mend"},
+    {"ref": "Rollo Journal"},
+    {"ref": "Rollo's Love Letter"},
+    {"ref": "Rollo's Sex Whip"},
+    {"ref": "Old Salty"},
+    {"name": "The ick", "aliases": ["an ick"], "count": ["re:(?i)an ick"]},
+    {"name": "Pin the Peen on Rollo", "aliases": ["pin the peen"], "count": ["re:(?i)pin the peen"]},
+    {"name": "The Rollo op-ed", "aliases": ["op-ed", "Pitiable Everyman"], "count": ["re:(?i)pitiable everyman"]},
+    {"ref": "Tavern hand"},
+    {"ref": "Guinnie"},
+    {"name": "Rollo's Thoughts", "aliases": ["Rollos Thoughts"], "count": ["re:(?i)rollos thoughts"]},
+    {"ref": "Gilded Tankard"},
+    {"ref": "Fentmaxxer"}
+  ]
+}

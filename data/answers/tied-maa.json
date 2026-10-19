@@ -1,0 +1,421 @@
+{
+ "id": "tied-maa",
+ "prompt": "Name something tied to the MAA or MAMA",
+ "blurb": "The prohibitionists, their massacre, and the movement that rose from it.",
+ "difficulty": "medium",
+ "gem": "The power to sober",
+ "answerCount": 20,
+ "answers": [
+  {
+   "name": "Maximilian",
+   "aliases": [
+    "Max",
+    "Maximilian Andrew Aldridge",
+    "Maximillian",
+    "Master Maximilian"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 20,
+    "records": 36
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…slaughter anyone they see as even a slight threat to their power. First MAA, then Thatcher, then Maximillian. She is actually the founder of MAMA, but that is not known even within those circles. She…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The Drunken Trials",
+   "aliases": [
+    "Drunken Trials"
+   ],
+   "mentions": {
+    "total": 53,
+    "compendium": 46,
+    "records": 7
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan),…"
+   },
+   "rank": 2,
+   "percentile": 5.3,
+   "score": 1
+  },
+  {
+   "name": "Rollo",
+   "aliases": [],
+   "mentions": {
+    "total": 45,
+    "compendium": 22,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…happy to buy these bonds and a large influx of money has now hit the Aleforge ledger. ### Rollo Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends…"
+   },
+   "rank": 3,
+   "percentile": 10.5,
+   "score": 3
+  },
+  {
+   "name": "MAMA",
+   "aliases": [
+    "Mothers Against Maximillians Assassination",
+    "Mothers Against Maximilian's Assassination"
+   ],
+   "mentions": {
+    "total": 35,
+    "compendium": 14,
+    "records": 21
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…extent of his interaction with the mystical aspects on the island Gideon is strongly anti MAMA, while he too is no fan of the liquor kings, he believes there is no place for extremism in…"
+   },
+   "rank": 4,
+   "percentile": 15.8,
+   "score": 6
+  },
+  {
+   "name": "MAA",
+   "aliases": [
+    "Mothers Against Alcohol"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 23,
+    "records": 5
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the crown. Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge but educated in Providence, Scipiums polical and social…"
+   },
+   "rank": 5,
+   "percentile": 21.1,
+   "score": 10
+  },
+  {
+   "name": "Susan Plinket",
+   "aliases": [
+    "Plinket",
+    "Susan",
+    "Jathan Round"
+   ],
+   "mentions": {
+    "total": 23,
+    "compendium": 14,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"an ick\". He was somewhat unfairly legally commanded into a relationship with MAMA leader, Susan Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport…"
+   },
+   "rank": 6,
+   "percentile": 26.3,
+   "score": 13
+  },
+  {
+   "name": "Hilgaard the Wildman",
+   "aliases": [
+    "Hilgaard"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…by her visions and she correctly foretold of the Long Thirst and the Age of Six Kings. Hilgaard the Wildman: essentially a homeless man who somehow won the crown. Hilgaard was assassinated by a radical…"
+   },
+   "rank": 7,
+   "percentile": 42.1,
+   "score": 27
+  },
+  {
+   "name": "The child behind the rock",
+   "aliases": [
+    "the child",
+    "child behind a rock"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and raided their camp deep in a cave, slaughtering all of the MAA, except one child who hid behind a rock and watched the massacre unfold. With this the MAA were no more. However, following the events…"
+   },
+   "rank": 7,
+   "percentile": 42.1,
+   "score": 27
+  },
+  {
+   "name": "The JR letters",
+   "aliases": [
+    "JR to MAMA",
+    "letters to MAMA"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…forever. In the meantime, here is 30 gold as agreed. You will not get away with this. -XX JR to MAMA 1 (SOA 2) To the esteemed leaders of MAMA. A change in power has occured. The Liquor \"Kings\"…"
+   },
+   "rank": 7,
+   "percentile": 42.1,
+   "score": 27
+  },
+  {
+   "name": "The MAA cave",
+   "aliases": [
+    "MAA cave",
+    "the cave",
+    "underground camp"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cloister Beast Storyline the liquor kings found a clue to their whereabouts and raided their camp deep in a cave, slaughtering all of the MAA, except one child who hid behind a rock and watched the massacre…"
+   },
+   "rank": 7,
+   "percentile": 42.1,
+   "score": 27
+  },
+  {
+   "name": "The MAA-inspired revolt",
+   "aliases": [
+    "revolt",
+    "riot"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…leader, following in the footsteps of the beloved Thatcher. A few zealots inspired by the MAA staged a small revolt in the town within the first few days of Gideons term and he was on the front lines himself…"
+   },
+   "rank": 7,
+   "percentile": 42.1,
+   "score": 27
+  },
+  {
+   "name": "Free from Sobriety",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…near! Ho, Sackbeard's sails, fly high and free, His ale's the pride of our old sea! ## Free from Sobriety A celebration of the MAA's defeat. Those dry hags, with their pinched-up scowls, The Mothers…"
+   },
+   "rank": 12,
+   "percentile": 76.3,
+   "score": 67
+  },
+  {
+   "name": "Guerrilla warfare",
+   "aliases": [
+    "guerrilla"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…kill the liquor kings. They were ultimately unsuccessful and went into hiding resulting in guerrilla warfare against the unsober people of aleforge and the liquor kings. In the Cloister Beast…"
+   },
+   "rank": 12,
+   "percentile": 76.3,
+   "score": 67
+  },
+  {
+   "name": "M.A.A. Mandatory Alcohol Antidote",
+   "aliases": [
+    "Mandatory Alcohol Antidote"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…crasftmen with cheaper alcohol and pull in money for the brewers. my 2nd policy titled \"M.A.A. Mandatory Alcohol Antidote\" spits in the face of Plinket, God help her, and all the faces of the MAA as we will make…"
+   },
+   "rank": 12,
+   "percentile": 76.3,
+   "score": 67
+  },
+  {
+   "name": "MAMA amnesty deal",
+   "aliases": [
+    "MAMA amnesty",
+    "amnesty deal"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…let's be real, he doesn't belong in politics! JagerBauhm was the only one to vote against the MAMA amnesty deal in a time when we most needed to de-escalate tensions. It was the black and white thinking…"
+   },
+   "rank": 12,
+   "percentile": 76.3,
+   "score": 67
+  },
+  {
+   "name": "MAMA Rises",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…lightly Liquor Kings, observe, don't interfere, there may be forces unknown at play here. MAMA Rises IT WAS THEM LIQUOR KINGS WHO SLAUGHTERED CUM! FRAMIN US FOR A MURDER? DISGUSTIN! I TELL YA…"
+   },
+   "rank": 12,
+   "percentile": 76.3,
+   "score": 67
+  },
+  {
+   "name": "The fake MAMA note",
+   "aliases": [
+    "MAMA note",
+    "fake MAMA note"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…crops, and was then killed by Gideon Drake, who staged the scene to implicate MAMA. A fake MAMA note was left with the body. Buke and JP noticed a trail of blood leading from the house to the…"
+   },
+   "rank": 12,
+   "percentile": 76.3,
+   "score": 67
+  },
+  {
+   "name": "The power to sober",
+   "aliases": [
+    "sobering power"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…MAA's underground lair. The MAA themselves were found hiding in a cave, where they had the power to sober up their enemies — a horrifying capability. The Kings fought through them regardless, slaughtered…"
+   },
+   "rank": 12,
+   "percentile": 76.3,
+   "score": 67
+  },
+  {
+   "name": "The shrine cave raid",
+   "aliases": [
+    "shrine cave",
+    "cave under the shrine"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…position of power and wipe out any trace of their old enemies. One group recently made camp in a cave underneath an abandoned shrine but they were raided by Jameson Pilsner and eventually all of the liquor kings who were seeking…"
+   },
+   "rank": 12,
+   "percentile": 76.3,
+   "score": 67
+  },
+  {
+   "name": "Maximilian's mother",
+   "aliases": [
+    "Max's mom",
+    "Maximilian's mom",
+    "Max's mother"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "His mother was one of the ranking members of the MAA and was among those killed",
+    "note": "A ranking member of the MAA, killed in the Liquor Kings' raid."
+   },
+   "rank": 20,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

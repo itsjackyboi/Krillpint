@@ -1,0 +1,403 @@
+{
+ "id": "foods",
+ "prompt": "Name a food",
+ "blurb": "Anything eaten in the lore, however unappetizing.",
+ "difficulty": "medium",
+ "gem": "Sapgetti",
+ "answerCount": 20,
+ "answers": [
+  {
+   "name": "Wheat",
+   "aliases": [
+    "wheat field",
+    "wheat fields"
+   ],
+   "mentions": {
+    "total": 39,
+    "compendium": 10,
+    "records": 29
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- The Dread Marrows — A region of dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the hands of John Rump. - The Shrines — A scatter of ancient shrines across…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Barley",
+   "aliases": [],
+   "mentions": {
+    "total": 13,
+    "compendium": 8,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was down significantly after the death of John Cums wife (John Cum is the key supplier of barley for the ale, and his time away to grieve led to a poor years harvest), and the traders of…"
+   },
+   "rank": 2,
+   "percentile": 5.3,
+   "score": 1
+  },
+  {
+   "name": "Fish",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 5,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…gear and such for promises and vows. Whether that be a promise to plant a flower for every fish you catch. Or a vow to be more virtuous. Legend is that those who keep these promises have…"
+   },
+   "rank": 3,
+   "percentile": 10.5,
+   "score": 3
+  },
+  {
+   "name": "Sushi",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Owe Block and relayed the full account of their adventures there to Brother Silas. He serves sushi. ### Sexton Gobbler The corrupt Sexton of Owe Block who was secretly worshipping the Veilwalkers…"
+   },
+   "rank": 4,
+   "percentile": 15.8,
+   "score": 6
+  },
+  {
+   "name": "Ale Beans",
+   "aliases": [
+    "Ale Bean"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…### Technology & Industry Despite their isolation, the SBN is surprisingly advanced: - Ale Bean Processing: Sophisticated machinery ,part mill, part alchemical still grinds and ferments…"
+   },
+   "rank": 5,
+   "percentile": 23.7,
+   "score": 12
+  },
+  {
+   "name": "Potatoes",
+   "aliases": [
+    "potato"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drunken trials but later on in the cloister beast storyline he dumped luke like a sack of potatoes and moved on to his new fling, JP. I believe currently Rollo was dating his boss glub tuppus…"
+   },
+   "rank": 5,
+   "percentile": 23.7,
+   "score": 12
+  },
+  {
+   "name": "Rations",
+   "aliases": [
+    "food rations"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…to find this, We found a way to distill vodka with the potatoes that they used to send as rations. I think they caught on and they removed potatoes from the inventory order, but us maintenance…"
+   },
+   "rank": 7,
+   "percentile": 34.2,
+   "score": 20
+  },
+  {
+   "name": "Spices",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hub we view with grudging respect and wary eyes. Their ships bring silks, exotic woods, and spices that flavor our gins, while we export brewing tools and the rarest drops of ClockHeart Tonic—hoarded…"
+   },
+   "rank": 7,
+   "percentile": 34.2,
+   "score": 20
+  },
+  {
+   "name": "Cereal",
+   "aliases": [
+    "serial"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…of those happen you'll never hear another peep from me -mr sir case #00018 can we have serial up heer? mom and dad said they have that on erth and you mix it with milk for a yummie brekfast.…"
+   },
+   "rank": 9,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "Crab leg",
+   "aliases": [
+    "crab"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…want their secrets. And trust me, one day some lucky crew's gonna crack that lake port like a crab leg and find out what really fuels those never-sleepin' bastards. They Call Us Sinners. We Call…"
+   },
+   "rank": 9,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "Fish guts",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"principles,\" but let's not forget — Roto was built on pirate plunder. Without us, they'd be selling fish guts and paper fans from leaky rafts. That said, not every pirate spits on Roto. Some respect…"
+   },
+   "rank": 9,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "God apple",
+   "aliases": [
+    "golden apple"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…offers the finder one free enchant, netherite upgrade, piece of diamond armor, diamond weapon, god apple or beer # ALEFORGE MAYORAL ELECTION SPEECHES Jameson Pilsner: Stewards of Aleforge Election…"
+   },
+   "rank": 9,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "Human stew",
+   "aliases": [
+    "stew"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and no idea that the tavern I had just escaped was a front for ritualistic cannibalism and human stew exports. All I knew was that I had to find that frog. Because something in its eyes told…"
+   },
+   "rank": 9,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "Moldy bread",
+   "aliases": [
+    "bread"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…can be lit up with yellow, fake suns by the press of these cold buttons. I've been eating moldy bread, finding these shiny crystals and using any gear to protect myself from those demons. Feels…"
+   },
+   "rank": 9,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "Nuts and berries",
+   "aliases": [
+    "berries",
+    "nuts"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Died. Woke up cold and naked. Buke dragged my corpse back and helped me find my saplings and nuts and berries. I also found a funny lookin' creature in a puddle and thought it was a frog. THE FROG Turns…"
+   },
+   "rank": 9,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "Sausage",
+   "aliases": [
+    "pork and beef"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…so willys on our minds. I thyink if someone asked me It was because the night before we had sausage made from pork and beef so willys so willys were in the subconscious. Idk know Its strange…"
+   },
+   "rank": 9,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "The grand feast",
+   "aliases": [
+    "feast"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…living here for generations ##### Hall Of Ale Once a month the brewers gather here for a grand feast and keg tap put on by a different family line each month. The hosting family also presents…"
+   },
+   "rank": 9,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "Tomatoes and sawdust",
+   "aliases": [
+    "tomatoes",
+    "sawdust"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…tavern that looked like one of those itAAlian willas. I slept in the stables and lived off tomatoes and sawdust. Spent most of my days shootin' arrows at things. Eventually got good enough to…"
+   },
+   "rank": 9,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "Hot chocolate",
+   "aliases": [
+    "hot cocoa"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…has been running amuck around town, harassing the local businesses in the square. He loves hot chocolate, so if you give him some, hes sure to give you something in return…That is, if you can catch…"
+   },
+   "rank": 19,
+   "percentile": 94.7,
+   "score": 92
+  },
+  {
+   "name": "Sapgetti",
+   "aliases": [
+    "spaghetti"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…circ and the homie Axcylote. They are my dear friends. Well its cold up here and i miss that sapgetti eating villa, but I make do and I ccuddle with circ at night like we did ----- I get confused…"
+   },
+   "rank": 20,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

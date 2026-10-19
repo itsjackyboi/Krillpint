@@ -1,0 +1,477 @@
+{
+ "id": "place-mystic",
+ "prompt": "Name something tied to New Haven, the Shrines or the beast skeletons",
+ "blurb": "The amethyst network nobody fully understands yet.",
+ "difficulty": "hard",
+ "gem": "The toothed skull",
+ "answerCount": 22,
+ "answers": [
+  {
+   "name": "New Haven",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the worst of the worst and they are never leaving, most of the cells are welded shut. - New Haven — The aetherial realm accessible only to a select few through the Cloister. - Hoegaarden…"
+   },
+   "rank": 1,
+   "percentile": 2.4,
+   "score": 0
+  },
+  {
+   "name": "The Tavern Beast",
+   "aliases": [
+    "Tavern Beast",
+    "Great Shelled Beast",
+    "Shelled beast",
+    "Leviathan",
+    "Great Beast"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 14,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…unknown. - Sackbeard's Tavern — The great Shell Tavern built around the carcass of the slain Tavern Beast. Each year the pirates put their differences aside and celebrate together here. - The Cloister…"
+   },
+   "rank": 1,
+   "percentile": 2.4,
+   "score": 0
+  },
+  {
+   "name": "The Shrines",
+   "aliases": [
+    "Shrines",
+    "Shrine",
+    "ancient shrines"
+   ],
+   "mentions": {
+    "total": 32,
+    "compendium": 28,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…disgruntled farmer has taken up residence deep in the forest as well and one of the very first shrines ever discovered by the Liquor Kings was in this forest, found by Guinnie. ### Lakes &…"
+   },
+   "rank": 3,
+   "percentile": 9.5,
+   "score": 3
+  },
+  {
+   "name": "Ignatius De Montfort",
+   "aliases": [
+    "Ignatius",
+    "De Montfort"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 12,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…known who built this or for what purpose. This exact question is currently being researched by Ignatius De Montfort. ## The Cloister #### In Game Use: concept gameplay area #### Lore: this…"
+   },
+   "rank": 4,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Amethyst crystals",
+   "aliases": [
+    "Amethyst crystal",
+    "crystals"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…which has become overgrown. The interior of the skull has a small altar within and a floating amethyst crystal. The third is the ribcage of a sea monster which has sunk into a small ravine, inside this…"
+   },
+   "rank": 5,
+   "percentile": 19.0,
+   "score": 8
+  },
+  {
+   "name": "The Great Beast Skeletons",
+   "aliases": [
+    "Great Beast Skeletons",
+    "beast skeletons",
+    "beast bones"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…center connects it to the more mystical aspects of the world, mainly some shrines and the large beast skeletons which litter the world. The doorway is in the cloister which itself is built on an unexplained…"
+   },
+   "rank": 6,
+   "percentile": 23.8,
+   "score": 12
+  },
+  {
+   "name": "Reverend Ambrose Ravenscroft",
+   "aliases": [
+    "Ambrose Ravenscroft",
+    "Ravenscroft",
+    "Reverend Ambrose"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fear and died a slow and humbling death, warning others of the terror they would endure. ### Reverend Ambrose Ravenscroft The esteemed reverend originally came to Aleforge at the request of his superiors,…"
+   },
+   "rank": 7,
+   "percentile": 28.6,
+   "score": 15
+  },
+  {
+   "name": "The pale stranger",
+   "aliases": [
+    "strange man",
+    "pale man",
+    "unusual fellow"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "he had a rather pale face and quite sunken eyes",
+    "note": "Spoke in parables to De Montfort and claimed to have found New Haven."
+   },
+   "rank": 8,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "The shrine armor sets",
+   "aliases": [
+    "armor sets",
+    "mystical armor",
+    "shrine armor"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and now all that is left are crumbling ancient shrines with valuables hidden within. Each set of armor is unique, and is separated into 4 pieces, as of now, nobody has a full set It can be surmised…"
+   },
+   "rank": 9,
+   "percentile": 38.1,
+   "score": 24
+  },
+  {
+   "name": "Bells of Imperion",
+   "aliases": [
+    "Bell of Imperion",
+    "Bell of Imperion (Was)",
+    "Bell of Imperion (Is)",
+    "Bell of Imperion (Will)"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…vaults nearby to the beast skeletons. Within each of the vaults were the following items. \"Bell of Imperion: (Was)\" \"Bell of Imperion: (Is)\" \"Bell of Imperion: (Will)\" These bells were placed in…"
+   },
+   "rank": 10,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "The vanished monks",
+   "aliases": [
+    "monks",
+    "order of monks"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…put their trust in them (light up dice) The cloister was built on top of all of this by an order of monks long ago and later abandoned after their order disappeared, it is rumored that the prophet…"
+   },
+   "rank": 10,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "The Veilwalker shrine in Owe Block",
+   "aliases": [
+    "Veilwalker shrine",
+    "Gobbler's shrine",
+    "obsidian and amethyst chamber"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Slumber'd. Seamus Bonehardy found the stone button in the church's narrow hall that opens the Veilwalkers' shrine — an obsidian and amethyst chamber where Leo guards the Monk's hidden materials. ### Faige…"
+   },
+   "rank": 10,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "The invisible hallway",
+   "aliases": [
+    "hidden hallway",
+    "invisible hallway"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the hands of fate using the magical lights in the wall. Upon their arrival back a previously invisible hallway opened up which leads to the aetherial location of New Haven. ## The Shrines ####…"
+   },
+   "rank": 13,
+   "percentile": 57.1,
+   "score": 43
+  },
+  {
+   "name": "Crystalline Structure #7",
+   "aliases": [
+    "Crystalline Structure 7",
+    "asteroid crystal"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…lights actually reactivate. Material Inv. Foreign Material Investigation Asteroid Crystalline Structure #7: We've observed a number of properties in the structure of crystalline structure #7 that…"
+   },
+   "rank": 14,
+   "percentile": 61.9,
+   "score": 49
+  },
+  {
+   "name": "The altar of skulls",
+   "aliases": [
+    "altar",
+    "altar of skulls"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…cranium. Notably, this skull has a much more developed anthropological site, a well defined altar built primarily out of human or human like skulls. It is not known who built this or for what purpose. This exact question…"
+   },
+   "rank": 15,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "The Amethyst Fountain",
+   "aliases": [
+    "Amethyst Fountain"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…knows where New Haven is, it is built in some Aetherial realm outside of normal space. The amethyst fountain in the center connects it to the more mystical aspects of the world, mainly some shrines and…"
+   },
+   "rank": 15,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "The deer-like skull",
+   "aliases": [
+    "deer skull",
+    "deer head"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tavern, this was placed by Sackbeard and his crew upon killing the beast. The second is a large deer like head which has become overgrown. The interior of the skull has a small altar within and a floating…"
+   },
+   "rank": 15,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "The sea monster ribcage",
+   "aliases": [
+    "ribcage",
+    "sea monster ribs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…interior of the skull has a small altar within and a floating amethyst crystal. The third is the ribcage of a sea monster which has sunk into a small ravine, inside this ravine is a small airpocket with human made…"
+   },
+   "rank": 15,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "The secret vaults",
+   "aliases": [
+    "vaults"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…various precious items they had gathered over their tenure and these were the keys to opening secret vaults nearby to the beast skeletons. Within each of the vaults were the following items. \"Bell…"
+   },
+   "rank": 15,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "The toothed skull",
+   "aliases": [
+    "toothed skull",
+    "predator skull"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elements inside as well as another amethyst crystal floating in the air. The last is a large toothed skull, likely from some ancient predatory animal. This too has an amethyst crystal inside the cranium.…"
+   },
+   "rank": 15,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "The Scholar, the Drunk and the Scalleywag",
+   "aliases": [
+    "Scholar the Drunk and the Scalleywag"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…others lost their souls in the madness underneath the library. ## Mini Concept I: The Scholar, the Drunk and the Scalleywag Cumsock has been taken hostage. The kidnappers sent a message to Liquor…"
+   },
+   "rank": 21,
+   "percentile": 97.6,
+   "score": 96
+  },
+  {
+   "name": "Tome Monuments",
+   "aliases": [
+    "The Tome Monuments"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…months ago and strange chants and lights can be observed outside, what does this mean? - The Tome Monuments -- 1 of 6 has been found, — End of the Master Lore Compendium — Parliament of…"
+   },
+   "rank": 21,
+   "percentile": 97.6,
+   "score": 96
+  }
+ ]
+}

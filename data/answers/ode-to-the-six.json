@@ -1,0 +1,619 @@
+{
+ "id": "ode-to-the-six",
+ "prompt": "Name something mentioned in \"Ode to the Six\"",
+ "blurb": "Seamus's drunken ballad of the Kings' whole story. Anything it names counts.",
+ "difficulty": "hard",
+ "gem": "Dragons of ink",
+ "answerCount": 29,
+ "answers": [
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Drake",
+    "Gidion Drake",
+    "the Bastard Veil",
+    "the Ironkeg"
+   ],
+   "mentions": {
+    "total": 145,
+    "compendium": 75,
+    "records": 70
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Jack Anqoak",
+   "aliases": [
+    "Anqoak",
+    "Jack",
+    "Anqok",
+    "Anquok",
+    "Jack Anquoke",
+    "Oracle of Aleforge",
+    "Jack and Coke"
+   ],
+   "mentions": {
+    "total": 142,
+    "compendium": 74,
+    "records": 68
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson…"
+   },
+   "rank": 2,
+   "percentile": 3.6,
+   "score": 1
+  },
+  {
+   "name": "Seamus Bonehardy",
+   "aliases": [
+    "Seamus",
+    "Bonehardy",
+    "Mayor Bonehardy"
+   ],
+   "mentions": {
+    "total": 116,
+    "compendium": 58,
+    "records": 58
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan),…"
+   },
+   "rank": 3,
+   "percentile": 7.1,
+   "score": 2
+  },
+  {
+   "name": "Jameson Pilsner",
+   "aliases": [
+    "JP",
+    "Japes",
+    "Pilsner",
+    "Jamison Pilsner",
+    "Slayer of Sobriety",
+    "Jameshon Pilshner"
+   ],
+   "mentions": {
+    "total": 101,
+    "compendium": 52,
+    "records": 49
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister…"
+   },
+   "rank": 4,
+   "percentile": 10.7,
+   "score": 4
+  },
+  {
+   "name": "Buke",
+   "aliases": [
+    "Luke"
+   ],
+   "mentions": {
+    "total": 100,
+    "compendium": 42,
+    "records": 58
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run…"
+   },
+   "rank": 5,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Sackbeard",
+   "aliases": [
+    "Captain Sackbeard"
+   ],
+   "mentions": {
+    "total": 77,
+    "compendium": 57,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death…"
+   },
+   "rank": 6,
+   "percentile": 17.9,
+   "score": 8
+  },
+  {
+   "name": "Jagerbauhm",
+   "aliases": [
+    "Jagerbaum",
+    "Jagerbaugm",
+    "Jagerbaumdani",
+    "Jaugerbomb",
+    "Ben",
+    "Drunken Angel",
+    "Lager Duke"
+   ],
+   "mentions": {
+    "total": 70,
+    "compendium": 28,
+    "records": 42
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts…"
+   },
+   "rank": 7,
+   "percentile": 21.4,
+   "score": 10
+  },
+  {
+   "name": "Maximilian",
+   "aliases": [
+    "Max",
+    "Maximilian Andrew Aldridge",
+    "Maximillian",
+    "Master Maximilian"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 20,
+    "records": 36
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…slaughter anyone they see as even a slight threat to their power. First MAA, then Thatcher, then Maximillian. She is actually the founder of MAMA, but that is not known even within those circles. She…"
+   },
+   "rank": 8,
+   "percentile": 25.0,
+   "score": 12
+  },
+  {
+   "name": "Guinnie",
+   "aliases": [
+    "Steph O'Guinness"
+   ],
+   "mentions": {
+    "total": 36,
+    "compendium": 17,
+    "records": 19
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order,…"
+   },
+   "rank": 9,
+   "percentile": 28.6,
+   "score": 15
+  },
+  {
+   "name": "Providence's block",
+   "aliases": [
+    "Owe Block"
+   ],
+   "mentions": {
+    "total": 54,
+    "compendium": 18,
+    "records": 36
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards of Aleforge (run by Jack), and Horrors in Hoegaarden (written by Jack…"
+   },
+   "rank": 10,
+   "percentile": 32.1,
+   "score": 18
+  },
+  {
+   "name": "Lagendale",
+   "aliases": [
+    "Lagendale Empire",
+    "Kingdom of Lagendale"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 22,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…between the settled East and the untamed Western plains, also known as West Pint. Historic Lagendale stretched all through modern day West Pint and even further into the Wildlands, but it could…"
+   },
+   "rank": 11,
+   "percentile": 35.7,
+   "score": 21
+  },
+  {
+   "name": "The Labyrinth",
+   "aliases": [
+    "Labyrinth",
+    "Lagendale labyrinth",
+    "Rotted Soul's prison",
+    "River Coffin"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 12,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was eventually overcome and murdered, killing the whole land with his last breath. The River Coffin Out of desperation, the Elders and the Lagendale militia devised a joint solution using…"
+   },
+   "rank": 12,
+   "percentile": 39.3,
+   "score": 25
+  },
+  {
+   "name": "Seaside Circus",
+   "aliases": [
+    "Seasiders",
+    "The Circus"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 2,
+    "records": 15
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner,…"
+   },
+   "rank": 13,
+   "percentile": 44.6,
+   "score": 30
+  },
+  {
+   "name": "VeilRunner",
+   "aliases": [
+    "Veilrunner",
+    "Veil Runner",
+    "Veilrunners"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 12,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the streets at night by burning slaves alive. His kind had a name for what he had become: a VeilRunner. What Is a VeilRunner? A VeilRunner is a Veilwalker who has turned against the very…"
+   },
+   "rank": 13,
+   "percentile": 44.6,
+   "score": 30
+  },
+  {
+   "name": "Crimson Cutters",
+   "aliases": [
+    "The Cutters",
+    "Cutters"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 4,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…King Trials. During the events of A Walk on Owe Block, Anqoak joined the infamous Crimson Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside…"
+   },
+   "rank": 15,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Goldsun",
+   "aliases": [],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…by Apostles who wield tonic-fueled strength. Once a year, on the Ascension of the Lord in Goldsun, Keg 4, the port hosts the Festival of the Red Tide, where the townsfolk offer a tithe of…"
+   },
+   "rank": 16,
+   "percentile": 53.6,
+   "score": 39
+  },
+  {
+   "name": "Dragons of ink",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to prevail Soon after the company battled for drink 'Gainst mothers and monsters and dragons of ink In those days began the story Of each of the six liquor kings Verse IV - Six fair crowns…"
+   },
+   "rank": 17,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "Fate's perilous door",
+   "aliases": [
+    "perilous door"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…glowing brightly to guide to the shore Six will make the journey final And knock on fate's perilous door ## Raise the Crown, Raise the Cup An Anthem For The Drunken Trials [Verse 1] Gather…"
+   },
+   "rank": 17,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "Hogwilly's mead",
+   "aliases": [
+    "mead"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to the kings And on their way they built the taverns Of which bards plenteous sing Hogwilly's mead and Taverna's red wine! The Bastion's whiskey and Poopwater's brine These will mark the…"
+   },
+   "rank": 17,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "Mothers and monsters",
+   "aliases": [
+    "mothers",
+    "monsters"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Young Guinnie was first to prevail Soon after the company battled for drink 'Gainst mothers and monsters and dragons of ink In those days began the story Of each of the six liquor kings Verse…"
+   },
+   "rank": 17,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "Olympics of Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Until we in paradise dine Verse III - The Goldsun of the kings' arrival Was marked by Olympics of Ale And though each man did strive for vict'ry Young Guinnie was first to prevail Soon…"
+   },
+   "rank": 17,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "Poopwater's brine",
+   "aliases": [
+    "brine"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…bards plenteous sing Hogwilly's mead and Taverna's red wine! The Bastion's whiskey and Poopwater's brine These will mark the trail of legend Until we in paradise dine Verse III - The Goldsun…"
+   },
+   "rank": 17,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "Six sturdy oars",
+   "aliases": [
+    "oars"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…must hold their burden steady To flourish the Islands of Ale Six Liquor Kings hold to six sturdy oars Their hearts glowing brightly to guide to the shore Six will make the journey final And…"
+   },
+   "rank": 17,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "Taverna's red wine",
+   "aliases": [
+    "red wine"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…on their way they built the taverns Of which bards plenteous sing Hogwilly's mead and Taverna's red wine! The Bastion's whiskey and Poopwater's brine These will mark the trail of legend Until…"
+   },
+   "rank": 17,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "The Bastion's whiskey",
+   "aliases": [
+    "Bastion's whiskey"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the taverns Of which bards plenteous sing Hogwilly's mead and Taverna's red wine! The Bastion's whiskey and Poopwater's brine These will mark the trail of legend Until we in paradise dine…"
+   },
+   "rank": 17,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "The death of a child",
+   "aliases": [
+    "a child's death"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…death's near avoiding for love of the isle Station silent left forever The cost was the death of a child Verse VII - Now of late the sun as darkened And hatred awoke from its grave Labyrinth…"
+   },
+   "rank": 17,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "The fated night in the forest",
+   "aliases": [
+    "the forest"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…best as could be remembered by some of the townsfolk present. Verse I - One fated night amidst the forest Six wayward travellers met And though the stars foretold their story Their hearts on sadness…"
+   },
+   "rank": 17,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "The gold of Midas",
+   "aliases": [
+    "Midas"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…began the story Of each of the six liquor kings Verse IV - Six fair crowns their gold of Midas Oft for preeminence fought And none more surely sowed division Than conflict in Providence's…"
+   },
+   "rank": 17,
+   "percentile": 78.6,
+   "score": 70
+  },
+  {
+   "name": "The Islands of Ale",
+   "aliases": [
+    "Islands of Ale"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to any As fortune unravels her tale Each must hold their burden steady To flourish the Islands of Ale Six Liquor Kings hold to six sturdy oars Their hearts glowing brightly to guide to the…"
+   },
+   "rank": 17,
+   "percentile": 78.6,
+   "score": 70
+  }
+ ]
+}

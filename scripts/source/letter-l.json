@@ -1,0 +1,10 @@
+{
+  "id": "letter-l",
+  "prompt": "Name anything from the lore starting with L",
+  "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+  "difficulty": "medium",
+  "gem": "The lone captain",
+  "derive": {
+    "letter": "L"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "letter-e",
+  "prompt": "Name anything from the lore starting with E",
+  "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+  "difficulty": "medium",
+  "gem": "Exotic rum",
+  "derive": {
+    "letter": "E"
+  }
+}

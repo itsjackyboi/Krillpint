@@ -1,0 +1,42 @@
+{
+  "id": "people-s",
+  "prompt": "Name a character whose name starts with S",
+  "blurb": "Anyone with a name in the lore. Leading titles like \"The\" are ignored, but Sir, Lady and Captain count.",
+  "difficulty": "hard",
+  "gem": "Skeet Budle",
+  "derive": {
+    "letter": "S",
+    "scope": [
+      "liquor-kings",
+      "aleforge-locals",
+      "aleforge-officials",
+      "providence-people",
+      "station-crew",
+      "the-departed",
+      "villains",
+      "scholars-mystics",
+      "tradesfolk",
+      "pirates",
+      "women",
+      "titled",
+      "the-epithets",
+      "dirty-names",
+      "one-name",
+      "writers",
+      "betrayers",
+      "kings-before-six"
+    ],
+    "exclude": [
+      "Sackbeard's armada",
+      "Sackbeard's undead crew",
+      "The black market traders",
+      "The cannibals",
+      "The Barrel Breakers",
+      "The Bilgrats and Buttplugs",
+      "The Coral-eyed",
+      "The Cloister Beast",
+      "CUMsock",
+      "The Guardian"
+    ]
+  }
+}

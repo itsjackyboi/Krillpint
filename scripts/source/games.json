@@ -1,0 +1,29 @@
+{
+  "id": "games",
+  "prompt": "Name a game, contest or sport",
+  "blurb": "Ways the Isles compete, gamble, or settle things.",
+  "difficulty": "medium",
+  "gem": "Tic-tac-toe",
+  "answers": [
+    {"ref": "The Drunken Trials", "obscurity": 1},
+    {"ref": "The chugging competition"},
+    {"ref": "Chicken jockey"},
+    {"name": "Three-cup monte", "aliases": ["three cup monte"], "count": ["re:(?i)three-cup monte"]},
+    {"name": "Shot-chess", "aliases": ["shot chess", "chess"], "count": ["re:(?i)shot-chess"]},
+    {"ref": "Olympics of Ale"},
+    {"ref": "The rap competition"},
+    {"ref": "Pin the Peen on Rollo"},
+    {"ref": "The gang wars"},
+    {"name": "Pipe Club fights", "aliases": ["pipe club brawls", "fights"], "count": ["re:(?i)pipe club'?s brawls|lotta money bet"]},
+    {"name": "Gladiatorial games", "aliases": ["arena"], "count": ["re:(?i)gladiatorial"]},
+    {"ref": "Day of Hollow Tongues"},
+    {"name": "Tic-tac-toe", "aliases": ["tic tac toe"], "count": ["re:(?i)tic.tac.toe"]},
+    {"ref": "The Unholy Pilgrimage"},
+    {"ref": "Beckoning the New Brews"},
+    {"ref": "Chug a beer on camera"},
+    {"ref": "The Cloister's magical lights"},
+    {"ref": "Ale Points"},
+    {"name": "Drink for drink", "aliases": ["drinking contest"], "count": ["re:(?i)drink for drink"]},
+    {"name": "The relic hunt", "aliases": ["relic hunt"], "count": ["re:(?i)relic hunt"]}
+  ]
+}

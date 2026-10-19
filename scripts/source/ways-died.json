@@ -1,0 +1,28 @@
+{
+  "id": "ways-died",
+  "prompt": "Name a way someone died",
+  "blurb": "How the dead got that way: traps, gas leaks, lava, brewing accidents, a horse fire.",
+  "difficulty": "medium",
+  "gem": "Brewing accident",
+  "answers": [
+    {"name": "Burned to death", "aliases": [], "count": ["re:(?i)burned to death"]},
+    {"name": "Gas leak", "aliases": [], "count": ["re:(?i)gas leak"]},
+    {"name": "De-oxygenization", "aliases": ["suffocation"], "count": ["re:(?i)de-oxygenization|lack of oxygen"]},
+    {"name": "Natural causes", "aliases": ["old age", "cancer"], "count": ["re:(?i)natural causes"]},
+    {"ref": "Alcohol poisoning"},
+    {"name": "Immolation", "aliases": [], "count": ["re:(?i)immolation"]},
+    {"name": "Stuck in a maintenance shaft", "aliases": [], "count": ["re:(?i)stuck in a maintenance shaft"]},
+    {"name": "Overpressurization", "aliases": [], "count": ["re:(?i)overpressurization"]},
+    {"ref": "Execution"},
+    {"ref": "Public beheading"},
+    {"name": "Brewing accident", "aliases": [], "count": ["re:(?i)brewing accident"]},
+    {"name": "Killed in battle", "aliases": [], "count": ["re:(?i)killed in battle"]},
+    {"name": "Assassination", "aliases": ["assassinated"], "count": ["re:(?i)assassinat"]},
+    {"ref": "The cage under the well"},
+    {"name": "Three traps", "aliases": ["traps"], "count": ["re:(?i)three separate traps"]},
+    {"name": "Throat slit", "aliases": ["slit throat"], "count": ["re:(?i)slit .{0,25}throat"]},
+    {"ref": "Lava"},
+    {"name": "Landing on his own spear", "aliases": ["own spear"], "count": ["re:(?i)landed on a spear"]},
+    {"name": "Missing the jump", "aliases": [], "count": ["re:(?i)missing the jump|missed the jump"]}
+  ]
+}

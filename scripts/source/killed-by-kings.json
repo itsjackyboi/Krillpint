@@ -1,0 +1,29 @@
+{
+  "id": "killed-by-kings",
+  "prompt": "Name someone or something the Liquor Kings killed",
+  "blurb": "On purpose, by accident, or by forgetting to open a cage.",
+  "difficulty": "medium",
+  "gem": "Peg Butt",
+  "answers": [
+    {"ref": "MAA", "obscurity": 1},
+    {"ref": "Maximilian", "obscurity": 1},
+    {"ref": "Fentmaxxer"},
+    {"ref": "The Cloister Beast"},
+    {"ref": "Dulamon"},
+    {"ref": "The Rotted Soul"},
+    {"ref": "The Whispering Deep"},
+    {"ref": "Peg Butt"},
+    {"ref": "MAMA"},
+    {"ref": "Sackbeard's undead crew"},
+    {"ref": "Wither skeletons"},
+    {"ref": "Ender skeletons"},
+    {"ref": "Mk. II Autonomous Defense Unit"},
+    {"ref": "Zombies"},
+    {"ref": "Black-boned demons"},
+    {"ref": "Maximilian's mother"},
+    {"name": "Thomas Thatcher", "aliases": ["Thatcher"], "count": ["re:Thatcher(?! Sr)"], "obscurity": 2, "inferred": true, "note": "They found him caged and walked away. He died there.", "quote": "forgot to rescue him in their excitement"},
+    {"name": "The guards", "aliases": ["guards", "security guards"], "count": ["re:(?i)\\bguards?\\b"]},
+    {"ref": "Crimson Cutters"},
+    {"ref": "Seaside Circus"}
+  ]
+}

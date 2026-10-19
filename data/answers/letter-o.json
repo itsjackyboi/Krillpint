@@ -1,0 +1,551 @@
+{
+ "id": "letter-o",
+ "prompt": "Name anything from the lore starting with O",
+ "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+ "difficulty": "medium",
+ "gem": "Oinkers",
+ "answerCount": 29,
+ "answers": [
+  {
+   "name": "The Old Prophet",
+   "aliases": [],
+   "mentions": {
+    "total": 18,
+    "compendium": 18,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of monks long ago and later abandoned after their order disappeared, it is rumored that the prophet murdered them in order to get access to this mysterious place. An old prophet took up residence…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Oracle of Aleforge",
+   "aliases": [],
+   "mentions": {
+    "total": 143,
+    "compendium": 75,
+    "records": 68
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson…"
+   },
+   "rank": 2,
+   "percentile": 3.6,
+   "score": 1
+  },
+  {
+   "name": "Old Salty",
+   "aliases": [],
+   "mentions": {
+    "total": 11,
+    "compendium": 10,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "unofficial residence at the Gilded Tankard",
+    "note": "Officially a Shanty Town resident, but practically lives at the Gilded Tankard."
+   },
+   "rank": 3,
+   "percentile": 7.1,
+   "score": 2
+  },
+  {
+   "name": "Orchenk Manufactory",
+   "aliases": [
+    "Orchenk"
+   ],
+   "mentions": {
+    "total": 26,
+    "compendium": 11,
+    "records": 15
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hoegaarden — An ancient library, houses the largest collection of knowledge in all of Pintland. - Orchenk Manufactory (The Factory) — The abandoned industrial facility where the Nethergate disaster…"
+   },
+   "rank": 4,
+   "percentile": 10.7,
+   "score": 4
+  },
+  {
+   "name": "Oracle",
+   "aliases": [
+    "Oracles"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was heavily debated. She was however, also raised by a seer who taught her the art of the Oracles. Isadoras rule was largely influenced by her visions and she correctly foretold of the Long…"
+   },
+   "rank": 5,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Old Alforge Municipal",
+   "aliases": [
+    "Old Aleforge Municipal",
+    "OAM"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…not much is known about them but some believe they have their origin in Vodkonia. ##### Old Alforge Municipal Old Alforge Municipal (OAM) is made up of the last three government offices from Old Aleforge.…"
+   },
+   "rank": 6,
+   "percentile": 19.6,
+   "score": 9
+  },
+  {
+   "name": "The Owe Block Chronicle",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Seamus was a relic-hunting machine, navigating the city from the Stank Tank to the library to the Chronicle HQ to a burger joint under a corrupt noble's manor to the Brothel to the Treasury, eventually…"
+   },
+   "rank": 6,
+   "percentile": 19.6,
+   "score": 9
+  },
+  {
+   "name": "Odysseus",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Stephans books i was able to figure out two of the three passwords for doors (Pythagorus and Odysseus) but im not sure how they figured out Volatile. Stephan and i went to the server room to…"
+   },
+   "rank": 8,
+   "percentile": 26.8,
+   "score": 14
+  },
+  {
+   "name": "Overpressurization",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…getting stuck in a maintenance shaft. Cycle 93 ------------------- Dimetreus Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei- Natural causes (age)…"
+   },
+   "rank": 8,
+   "percentile": 26.8,
+   "score": 14
+  },
+  {
+   "name": "Ode to Mr. BBL",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…before have my eyes been graced with such an exquisite sight. I am truly a changed man. \"Ode to Mr. BBL\" I wandered life in dull disguise, No fire, no stars behind my eyes. A mundane path,…"
+   },
+   "rank": 10,
+   "percentile": 41.1,
+   "score": 26
+  },
+  {
+   "name": "Ode to the Six",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…his presence in taverns and absence in town hall meetings. Some wonder if his creation of Ode to the Six signals an upcoming exit from politics. In more recent events, Bonehardy was one of…"
+   },
+   "rank": 10,
+   "percentile": 41.1,
+   "score": 26
+  },
+  {
+   "name": "On the Great Southern Desert",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…present and the empire was described as in good health; geographic notes from scholar Aldric Pen on the Great Southern Desert ('the transformation appears to have occurred suddenly, and the Third Dynasty made no effort…"
+   },
+   "rank": 10,
+   "percentile": 41.1,
+   "score": 26
+  },
+  {
+   "name": "Oswain O'Fern",
+   "aliases": [
+    "Oswain",
+    "O'Fern"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…as these taverns became unofficial cultural embassies to other towns and settlements. Oswain O'Fern: Filled with distrust for all other cultural forces in the isles, in his rule as Liquor King…"
+   },
+   "rank": 10,
+   "percentile": 41.1,
+   "score": 26
+  },
+  {
+   "name": "Owl",
+   "aliases": [
+    "Owls"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…seen it. Walked them clean cobbled lanes with their twitchy tonic-fiends starin' like barn owls on black powder. But ye want to know what we think of 'em? Good. Sit down, I'll talk. You'll…"
+   },
+   "rank": 10,
+   "percentile": 41.1,
+   "score": 26
+  },
+  {
+   "name": "The old man in the robe",
+   "aliases": [
+    "old man"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…oblivious to the way their eyes glinted with something darker. As I swayed on my stool, an old man in nothing but a tattered robe shuffled up, his toothless grin wide and wild. He slapped a rickety table…"
+   },
+   "rank": 10,
+   "percentile": 41.1,
+   "score": 26
+  },
+  {
+   "name": "An Ode to the Liquor Kings",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…our twinkish lad, Ye're scum, ye're slime, ye're Rollo's grime, the worst we ever had! ## An Ode to the Liquor Kings A popular protest song, authorship disputed. Oh, the Liquor Kings, what a sorry lot, Stumblin'…"
+   },
+   "rank": 16,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "Obvious Dickstien",
+   "aliases": [
+    "Obvious Dickstein"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fin A small boy running at light speed around the alleys of Providence. He is the son of Obvious Dickstien, owner of the Jui Vuitton store on Vanity street. Ever since the divorce, Fin has been running…"
+   },
+   "rank": 16,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "Old Aleforge Historic Act",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…replaced by the services of the castle. But the building and its members are protected under the Old Aleforge Historic Act. These offices were created by the founders of aleforge and the positions have been filled…"
+   },
+   "rank": 16,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "Old Staff",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…cause I'll snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon, Old Staff, Ancient Pot—don't ask me what they are, but they're now sitting safely away from gentrifiers…"
+   },
+   "rank": 16,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "Olympics of Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Until we in paradise dine Verse III - The Goldsun of the kings' arrival Was marked by Olympics of Ale And though each man did strive for vict'ry Young Guinnie was first to prevail Soon…"
+   },
+   "rank": 16,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "On the Founding of the First Militia",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…filled my heart. All around me smiled too. I write this to remember and to warn the others. On The Founding of the First Militia (3 pages) Before there was a kingdom, there was a field. And in that field stood men who…"
+   },
+   "rank": 16,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "Orville Wright",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…VIP members at the cycle meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide Sponsor Information Hello valued sponsor! We thank you for…"
+   },
+   "rank": 16,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "Otto Rohwedder",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…+$10,000,000 Budapest: +$10,000,000 Russia: +$10,000,000 Sponsors: Vannevar Bush: +$500,000 Otto Rohwedder: +$1,000,000 Max Knott: +$800,000 Karl Jansky: +$5,000,000 Edwin Armstrong: +$3,000,000…"
+   },
+   "rank": 16,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "Outage Guide",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…would like to be encoded. DO NOT PLACE HAND ANYWHERE NEAR PRINTING HEAD DURING OPERATION. Outage Guide In the event of a power outage, all engineering and maintenance personel will be diverted…"
+   },
+   "rank": 16,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "Owe Block Public Library",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…juju.\" Seamus cracked them riddles like a thief on a lock, starting at Stank Tank, rifling the Owe Block Public Library, snooping at the Chronicle Newspaper HQ, grubbing at Bucket's Burgers under Gobbler's posh…"
+   },
+   "rank": 16,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "The offer to kill Cheeks",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…recipe for disaster. Only time will tell, i pray to the gods this bastard child finds his way. offer to kill cheeks dear (name of liquor king) I have a business opportunity i would like to offer to you. It…"
+   },
+   "rank": 16,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "The old miners exit",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…to eventually knock his head clean off his shoulders. By sheer happenstance we found an old miners exit and got outta that damned place. Never did find that girl though, hope shes alright. Jameson…"
+   },
+   "rank": 27,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "Oinkers",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "kissing Oinkers for a quick sec there",
+    "note": "Kissed by John Cum during his decline, according to a concerned citizen."
+   },
+   "rank": 28,
+   "percentile": 96.4,
+   "score": 95
+  },
+  {
+   "name": "The original brewer's tomb",
+   "aliases": [],
+   "mentions": {
+    "total": 0,
+    "compendium": 0,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "revealed the burial site and coffin of the original brewer of Aleforge",
+    "note": "The three Bells of Imperion, rung in a Fenwick shrine, revealed where Aleforge's first brewer lies."
+   },
+   "rank": 29,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

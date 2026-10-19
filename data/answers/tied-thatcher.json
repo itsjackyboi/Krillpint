@@ -1,0 +1,395 @@
+{
+ "id": "tied-thatcher",
+ "prompt": "Name something tied to Thomas Thatcher",
+ "blurb": "Aleforge's beloved mayor, and the Kings' most famous mistake.",
+ "difficulty": "medium",
+ "gem": "Variable brewers tax",
+ "answerCount": 19,
+ "answers": [
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Drake",
+    "Gidion Drake",
+    "the Bastard Veil",
+    "the Ironkeg"
+   ],
+   "mentions": {
+    "total": 145,
+    "compendium": 75,
+    "records": 70
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The Drunken Trials",
+   "aliases": [
+    "Drunken Trials"
+   ],
+   "mentions": {
+    "total": 53,
+    "compendium": 46,
+    "records": 7
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan),…"
+   },
+   "rank": 2,
+   "percentile": 5.6,
+   "score": 1
+  },
+  {
+   "name": "The Cloister Beast",
+   "aliases": [
+    "Cloister Beast"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 16,
+    "records": 2
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards…"
+   },
+   "rank": 3,
+   "percentile": 11.1,
+   "score": 4
+  },
+  {
+   "name": "MAA",
+   "aliases": [
+    "Mothers Against Alcohol"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 23,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the crown. Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge but educated in Providence, Scipiums polical and social…"
+   },
+   "rank": 4,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Fentmaxxer",
+   "aliases": [
+    "Fentmaxer"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher.…"
+   },
+   "rank": 5,
+   "percentile": 22.2,
+   "score": 10
+  },
+  {
+   "name": "The cage under the well",
+   "aliases": [
+    "cage",
+    "Fentmaxxer's dungeon",
+    "the well"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…well with a hallway running around the exterior and a large telescope in a dome shaped room. Underneath the well in courtyard is a demonic altar dedicated to the warden that fentmaxxer would use to divine…"
+   },
+   "rank": 6,
+   "percentile": 27.8,
+   "score": 15
+  },
+  {
+   "name": "Fentmaxxer's Observatory",
+   "aliases": [
+    "The Observatory",
+    "Observatory"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 12,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests -…"
+   },
+   "rank": 7,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "The Long Thirst",
+   "aliases": [
+    "Long Thirst"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Oracles. Isadoras rule was largely influenced by her visions and she correctly foretold of the Long Thirst and the Age of Six Kings. Hilgaard the Wildman: essentially a homeless man who somehow…"
+   },
+   "rank": 8,
+   "percentile": 38.9,
+   "score": 24
+  },
+  {
+   "name": "Guisepee",
+   "aliases": [
+    "Giuseppe"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their journey in that direction. Here they met the grandson of the founder of the vineyard, Guisepee. He mentions that the Tavern was founded after his grandfather, a very religious man, had…"
+   },
+   "rank": 9,
+   "percentile": 44.4,
+   "score": 30
+  },
+  {
+   "name": "Aleforge Memorial Museum",
+   "aliases": [
+    "Memorial Museum"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…our right to drink, to dance, to live free. That is why I will fund the construction of the Aleforge Memorial Museum—a place of reverence, remembrance, and free drinks on the anniversary of our victory. We'll…"
+   },
+   "rank": 10,
+   "percentile": 52.8,
+   "score": 38
+  },
+  {
+   "name": "Killdeath Peak",
+   "aliases": [
+    "Killdeath"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…games, although the arena was subsequently torn down with plans to rebuild elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill…"
+   },
+   "rank": 10,
+   "percentile": 52.8,
+   "score": 38
+  },
+  {
+   "name": "Plinket's talking points",
+   "aliases": [
+    "Plinkettalkpoints",
+    "Susan Plinket Talking Points"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…nightmares haunt me as the night falls each day. When will I be rid of this pain? -Gidion Drake Plinkettalkpoints (SOA 1) Susan Plinket Talking Points: - Drunken Trials should continue, but not grow -…"
+   },
+   "rank": 12,
+   "percentile": 63.9,
+   "score": 51
+  },
+  {
+   "name": "Thomas Thatcher Sr.",
+   "aliases": [
+    "Thomas Thatcher Senior",
+    "Thatcher Sr"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…only thing of note is his hiring of Mr. BBL, the current chancellor of Aleforge. Thomas Thatcher Sr.: Thomas Thatcher Sr. was an avid historian and wanted to reinstate the old ways of Aleforge…"
+   },
+   "rank": 12,
+   "percentile": 63.9,
+   "score": 51
+  },
+  {
+   "name": "An Ode to the Liquor Kings",
+   "aliases": [
+    "Ode to the Liquor Kings"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…our twinkish lad, Ye're scum, ye're slime, ye're Rollo's grime, the worst we ever had! ## An Ode to the Liquor Kings A popular protest song, authorship disputed. Oh, the Liquor Kings, what a sorry lot, Stumblin'…"
+   },
+   "rank": 14,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Thatcher Memorial",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…mistakes, what makes them great is how they rectify them. And I will rectify it by building a Thatcher Memorial and giving free Ale to all who are poor and thirsty, It's what he wouldve wanted. The…"
+   },
+   "rank": 14,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Thatcher's Last Toast",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…By moonlight, ships slipped past the law, Their holds brimmed full of treasures raw. ## Thatcher's Last Toast Thomas Thatcher raised his glass, In Cloister's dark, his life did pass. We mourn our mayor,…"
+   },
+   "rank": 14,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "The six-way tie",
+   "aliases": [
+    "6 way tie"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Thirst. He memorialized the Drunken Trials in honor of his father and it ended in the first ever 6 way tie. This began the age of the 6 kings. #### The Age of the Six Kings: #### Modern History:…"
+   },
+   "rank": 14,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Thomas Thatcher Memorial Scholarship",
+   "aliases": [
+    "Thatcher Scholarship"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…silk road sh-t, it's time for the Barley road now\" (leaked scroll from an internal meeting) Thomas Thatcher Memorial Scholarship: Gideon has implemented a scholarship system to promote education in emerging crafts, mainly…"
+   },
+   "rank": 14,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Variable brewers tax",
+   "aliases": [
+    "variable tax rate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…smuggling the items into town. Changes on Brewers Tax: Gone are the days of Thomas Thatchers variable tax rate on breweries based on production. Gideon has implemented a lower, flat tax on brewers to increase…"
+   },
+   "rank": 14,
+   "percentile": 86.1,
+   "score": 80
+  }
+ ]
+}

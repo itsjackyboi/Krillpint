@@ -1,0 +1,733 @@
+{
+ "id": "concept-stewards",
+ "prompt": "Name something from Stewards of Aleforge",
+ "blurb": "The Kings run Aleforge while Mayor Drake is away. It goes about as well as you'd expect.",
+ "difficulty": "easy",
+ "gem": "Rollo's Love Letter",
+ "answerCount": 35,
+ "answers": [
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Drake",
+    "Gidion Drake",
+    "the Bastard Veil",
+    "the Ironkeg"
+   ],
+   "mentions": {
+    "total": 145,
+    "compendium": 75,
+    "records": 70
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "John Cum",
+   "aliases": [
+    "Cum",
+    "Mr. Cum"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 21,
+    "records": 35
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "John Cum is the key supplier of barley for the ale",
+    "note": "Lives at the Cumstead outside town, but the lore treats him as Aleforge's own wheat supplier."
+   },
+   "rank": 2,
+   "percentile": 2.9,
+   "score": 1
+  },
+  {
+   "name": "Rollo",
+   "aliases": [],
+   "mentions": {
+    "total": 45,
+    "compendium": 22,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…happy to buy these bonds and a large influx of money has now hit the Aleforge ledger. ### Rollo Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends…"
+   },
+   "rank": 3,
+   "percentile": 5.9,
+   "score": 1
+  },
+  {
+   "name": "Glub Tuppus Wepple",
+   "aliases": [
+    "Wepple",
+    "Glub",
+    "Glub Tuppus"
+   ],
+   "mentions": {
+    "total": 35,
+    "compendium": 23,
+    "records": 12
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…away. This upset Blackmoor and after sitting in his anger and drinking at the Brewery owned by Glub Tuppus Wepple he went back to the cloister in a drunken stupor and killed the old prophet. He left a book…"
+   },
+   "rank": 4,
+   "percentile": 8.8,
+   "score": 3
+  },
+  {
+   "name": "Mr. BBL",
+   "aliases": [
+    "BBL",
+    "Mister BBL"
+   ],
+   "mentions": {
+    "total": 25,
+    "compendium": 7,
+    "records": 18
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Glendolph Galleyway: An unremarkable mayor, the only thing of note is his hiring of Mr. BBL, the current chancellor of Aleforge. Thomas Thatcher Sr.: Thomas Thatcher Sr. was an…"
+   },
+   "rank": 5,
+   "percentile": 11.8,
+   "score": 4
+  },
+  {
+   "name": "John Rump",
+   "aliases": [
+    "Rump"
+   ],
+   "mentions": {
+    "total": 37,
+    "compendium": 21,
+    "records": 16
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the hands of John Rump. - The Shrines — A scatter of ancient shrines across the Isles, origin debated. However,…"
+   },
+   "rank": 6,
+   "percentile": 14.7,
+   "score": 6
+  },
+  {
+   "name": "MAMA",
+   "aliases": [
+    "Mothers Against Maximillians Assassination",
+    "Mothers Against Maximilian's Assassination"
+   ],
+   "mentions": {
+    "total": 35,
+    "compendium": 14,
+    "records": 21
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…extent of his interaction with the mystical aspects on the island Gideon is strongly anti MAMA, while he too is no fan of the liquor kings, he believes there is no place for extremism in…"
+   },
+   "rank": 7,
+   "percentile": 17.6,
+   "score": 7
+  },
+  {
+   "name": "CUMsock",
+   "aliases": [
+    "Cumsock",
+    "Cum sock",
+    "the goat"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 9,
+    "records": 5
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Guster took a deep breath and scoffed at the proposition. ## Notable Animals ### CUMsock The GOAT ### Prejac Quickety Cricket's trusty horse….speedy too. Always delivering mail…"
+   },
+   "rank": 8,
+   "percentile": 20.6,
+   "score": 9
+  },
+  {
+   "name": "Susan Plinket",
+   "aliases": [
+    "Plinket",
+    "Susan",
+    "Jathan Round"
+   ],
+   "mentions": {
+    "total": 23,
+    "compendium": 14,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"an ick\". He was somewhat unfairly legally commanded into a relationship with MAMA leader, Susan Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport…"
+   },
+   "rank": 9,
+   "percentile": 23.5,
+   "score": 11
+  },
+  {
+   "name": "Banishment to Vodkonia",
+   "aliases": [
+    "banishment",
+    "banished"
+   ],
+   "mentions": {
+    "total": 20,
+    "compendium": 11,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the ancient Lagendale…"
+   },
+   "rank": 10,
+   "percentile": 26.5,
+   "score": 14
+  },
+  {
+   "name": "Gideon Drake Commission",
+   "aliases": [
+    "GDC"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 4,
+    "records": 14
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…proportioned that Buke wrote an ode to it. Mr. BBL is a competent, honest administrator who led the Gideon Drake Commission with integrity. He was the first to suspect Wepple's financial irregularities, the first to…"
+   },
+   "rank": 11,
+   "percentile": 29.4,
+   "score": 16
+  },
+  {
+   "name": "The mayoral election",
+   "aliases": [
+    "mayoral race",
+    "election",
+    "mayoral debate"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 2,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was conveniently ignored in the chaos. The Kings planned a national funeral for John Cum. A mayoral election was announced. Seamus Bonehardy ran and won. ### Individual Performance Summary Jagerbauhm…"
+   },
+   "rank": 12,
+   "percentile": 32.4,
+   "score": 18
+  },
+  {
+   "name": "Jameson Pilsner's Ass Flask",
+   "aliases": [
+    "Ass Flask",
+    "ass-flask"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and missing his mark. His friends moved on—solving, succeeding, While Jameson wandered, ass-flask bleeding. Verse VI – Redemption Brewing At last, they found him, the prodigal mess,…"
+   },
+   "rank": 13,
+   "percentile": 38.2,
+   "score": 24
+  },
+  {
+   "name": "The blight",
+   "aliases": [
+    "blight"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Rump's suspicious behavior around the Cumstead inheritance; John Cum's mental deterioration and blight in the fields; Rollo's personal journals (nothing illegal, considerable reputation risk);…"
+   },
+   "rank": 13,
+   "percentile": 38.2,
+   "score": 24
+  },
+  {
+   "name": "The Factory artifacts",
+   "aliases": [
+    "Factory artifacts",
+    "six Factory Artifacts",
+    "artifacts from the factory"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hell Now he is plagued by nightmares of their return and revenge so he has been researching artifacts from the factory illegally to try to close the portal for good and prevent their escape Following the events…"
+   },
+   "rank": 13,
+   "percentile": 38.2,
+   "score": 24
+  },
+  {
+   "name": "Sackbeard's undead crew",
+   "aliases": [
+    "undead crew",
+    "cursed crew",
+    "Sackbeard's crew"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…navigate very difficult times of economic collapse, political uprisings and the arrival of a cursed crew arriving from the Realm of the Soulless seeking revenge on Gideon Drake. This lead to the…"
+   },
+   "rank": 16,
+   "percentile": 44.1,
+   "score": 29
+  },
+  {
+   "name": "Aleforge Bond Market",
+   "aliases": [
+    "Aleforge Bonds",
+    "bond offering",
+    "Bond Market"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…only strong enough to deter small groups, a large riot or attack would be a real problem. Aleforge Bond Market: A portion of the funds for these projects has come from the issue of Aleforge Bonds, currently…"
+   },
+   "rank": 17,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Legalizing bootleg ClockHeart Tonic",
+   "aliases": [
+    "legalize bootleg tonic",
+    "tonic legalization",
+    "legalized tonic"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was blackmailing Liquor King Seamus Bonehardy (who was elected mayor not long after) into legalizing the bootleg tonic in Aleforge. Although still illegal in Providence, where the tonic is manufactured,…"
+   },
+   "rank": 17,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "The green sludge",
+   "aliases": [
+    "green sludge",
+    "sludge",
+    "green substance"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…confines. Attempts to deactivate the portal resulted in a horrific byproduct—a viscous, toxic green sludge—that consumed corridors and labs, choking escape routes and claiming the lives of many workers.…"
+   },
+   "rank": 17,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Cheeks",
+   "aliases": [
+    "Cheekz"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…policies, for himself ● Seamus Blackmailed his fellow citizens of aleforge and robbed our beloved Cheekz. ● Cheekz was born to a loving home on north side of Aleforge to two happy caring parents,…"
+   },
+   "rank": 20,
+   "percentile": 55.9,
+   "score": 42
+  },
+  {
+   "name": "The economic scroll",
+   "aliases": [
+    "scroll",
+    "the parchment"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(chancellor), John Rump (treasurer), and Susan Plinket (foreign affairs). They were handed a massive economic scroll and told to govern. ### The Investigation The Kings launched the Gideon Drake Commission…"
+   },
+   "rank": 21,
+   "percentile": 58.8,
+   "score": 45
+  },
+  {
+   "name": "Elytra",
+   "aliases": [
+    "Elytra wings"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…solution was to close the portal using the artifacts. Jagerbauhm took the artifacts and, using Elytra wings and a firecracker, flew to the Dread Harrow and fought through Sackbeard's crew to reach the…"
+   },
+   "rank": 22,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Local barrel production",
+   "aliases": [
+    "barrel production",
+    "local barrels"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…hammers at besides each other. The mines were reopened, forges were lit, and more importantly, barrel production got local again. We cut reliance on Rotto's overpriced garbage and started shipping our barrels…"
+   },
+   "rank": 22,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Rollo's Love Letter",
+   "aliases": [
+    "love letter"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…down with me. Take your gold and fuck off. Some \"religious piety\" you display. -XX Rollos Love Letter Dearest Jameson Pilsner, Haha it sure has been a while. I hope your meat is well. I would…"
+   },
+   "rank": 22,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Rollo's Sex Whip",
+   "aliases": [
+    "Sex Whip"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…didn't sniff. Richard Cumhardy's Seaman Eyeglass: Lens clouded with trauma. Rollo's Sex Whip: Still warm, unfortunately. I rallied a random horse and charged into the dark depth…"
+   },
+   "rank": 22,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "The Dread Harrow",
+   "aliases": [
+    "Dread Harrow"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Drake was finally confronted in the castle with the artifacts in hand just as Sackbeard's Dread Harrow materialized through a portal. The undead crew poured into Aleforge, seeking revenge on Drake,…"
+   },
+   "rank": 22,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Bluechew",
+   "aliases": [
+    "Blue Chew"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the mayoral election. Jameson Pilsner (JP) — Found Cumsock the goat in the sewers. Found Bluechew and Super Lube on Day 3. Died three times in the final battle, resurrected each time by Aleforge…"
+   },
+   "rank": 27,
+   "percentile": 76.5,
+   "score": 67
+  },
+  {
+   "name": "Craftsmen and mining guilds",
+   "aliases": [
+    "mining guilds",
+    "craftsmen guilds"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…launched the GDC, issued the first Aleforge Bond offering to raise capital, and established the craftsmen and mining guilds — eliminating unemployment in one stroke and giving the idle drunkards of Aleforge something…"
+   },
+   "rank": 28,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "John Cum's Shears",
+   "aliases": [
+    "Shears"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…runoff from the Factory, staining the roots of Aleforge's soul. I found some relics: John Cum's Shears: Still bloody from some barley-stained regret. Jameson Pilsner's Ass Flask: I didn't…"
+   },
+   "rank": 28,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "Providence wheat deal",
+   "aliases": [
+    "emergency Providence wheat deals",
+    "wheat deal"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drunkards of Aleforge something productive to do with their hands. Later turns saw emergency Providence wheat deals when the blight struck, subsidies for new farmers, a re-evaluation of barrel imports (the…"
+   },
+   "rank": 28,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "Richard Cumhardy's Seaman Eyeglass",
+   "aliases": [
+    "Seaman Eyeglass",
+    "Eyeglass"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…regret. Jameson Pilsner's Ass Flask: I didn't ask. I didn't sniff. Richard Cumhardy's Seaman Eyeglass: Lens clouded with trauma. Rollo's Sex Whip: Still warm, unfortunately. I rallied…"
+   },
+   "rank": 28,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "Sackbeard's Armor",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- Durag - Blicky (also: Blinky) - Nike Dunks - Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden…"
+   },
+   "rank": 28,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "Sackbeard's Axe",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Blinky) - Nike Dunks - Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden - Map to the Forbidden…"
+   },
+   "rank": 28,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "Sackbeard's Dagger",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden - Map to the Forbidden Brew — Currently blank.…"
+   },
+   "rank": 28,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "Super Lube",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…election. Jameson Pilsner (JP) — Found Cumsock the goat in the sewers. Found Bluechew and Super Lube on Day 3. Died three times in the final battle, resurrected each time by Aleforge ale. Pro-Fenwick.…"
+   },
+   "rank": 35,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

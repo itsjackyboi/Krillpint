@@ -1,0 +1,10 @@
+{
+  "id": "letter-r",
+  "prompt": "Name anything from the lore starting with R",
+  "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+  "difficulty": "medium",
+  "gem": "The ransom note",
+  "derive": {
+    "letter": "R"
+  }
+}

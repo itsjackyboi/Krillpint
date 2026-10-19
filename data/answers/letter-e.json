@@ -1,0 +1,505 @@
+{
+ "id": "letter-e",
+ "prompt": "Name anything from the lore starting with E",
+ "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+ "difficulty": "medium",
+ "gem": "Exotic rum",
+ "answerCount": 26,
+ "answers": [
+  {
+   "name": "Engine room",
+   "aliases": [],
+   "mentions": {
+    "total": 18,
+    "compendium": 1,
+    "records": 17
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…opened a door... and credit? Got not. But he didn't care—this was his chance! He stormed the engine room in a stumble-dance. Made the great jump, flipped the damn switch, Then missed the next jump…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The empty whiskey barrel",
+   "aliases": [],
+   "mentions": {
+    "total": 23,
+    "compendium": 11,
+    "records": 12
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…What bound it all together was grog. Grog and favors became currency. Trade was done in barrels, not coin. You wanted a room? A barrel. food? A pint. The Windsunk Council formed — old captains…"
+   },
+   "rank": 2,
+   "percentile": 4.0,
+   "score": 1
+  },
+  {
+   "name": "Earth",
+   "aliases": [],
+   "mentions": {
+    "total": 17,
+    "compendium": 3,
+    "records": 14
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…discovered. Dimitri had a rare condition which would lead to certain death if he were to return to Earth. After a lengthy discussion with Jagerbauhm, it was determined that bringing Dimitri home…"
+   },
+   "rank": 3,
+   "percentile": 8.0,
+   "score": 2
+  },
+  {
+   "name": "Engineering",
+   "aliases": [
+    "Engineering room",
+    "engineers office"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 1,
+    "records": 14
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…travel without ever touching foreign soil. This combination of chemical mastery and aerial engineering makes them far more capable than their reclusive reputation suggests, which is exactly what…"
+   },
+   "rank": 4,
+   "percentile": 12.0,
+   "score": 4
+  },
+  {
+   "name": "Entertainment system",
+   "aliases": [],
+   "mentions": {
+    "total": 10,
+    "compendium": 2,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Spiral \"I can do this,\" he swore, staggering blind, As puzzles mocked his weakened mind. TV manuals, books, and tic-tac-toe, He searched high and low, incredibly slow. Then—behold!—on…"
+   },
+   "rank": 5,
+   "percentile": 16.0,
+   "score": 6
+  },
+  {
+   "name": "Edmond Blackmoor",
+   "aliases": [
+    "Edmund Blackmoor"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their arrival. He never met the liquor kings, however, as a great and pompous adventurer named Edmond Blackmoor came to the cloister to fight the beast and the Prophet turned him away. This upset Blackmoor…"
+   },
+   "rank": 6,
+   "percentile": 20.0,
+   "score": 9
+  },
+  {
+   "name": "Emergency Access Key",
+   "aliases": [
+    "EAK"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 0,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…that's no worry, as we will either die or walk back out triumphant with every door unlocked. EAK Manual Emergency Access Key Design Document ------------------- While we rarely have issues…"
+   },
+   "rank": 7,
+   "percentile": 24.0,
+   "score": 12
+  },
+  {
+   "name": "Execution",
+   "aliases": [
+    "executed"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 2,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was sent to the cloister by a benefactor to find a weak spot on the beast for an eventual execution. Being a biologist by trade he developed an obsessive fascination with the beast and was determined…"
+   },
+   "rank": 8,
+   "percentile": 30.0,
+   "score": 16
+  },
+  {
+   "name": "The eleven seas",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Captain Sackbeard. Born Cycle 27, year 130. Sackbeard, easily the most legendary pirate of the eleven seas, first rose to local fame after defeating a baby kraken off the coast of his birth town when…"
+   },
+   "rank": 8,
+   "percentile": 30.0,
+   "score": 16
+  },
+  {
+   "name": "Employee ID",
+   "aliases": [
+    "employee ID card"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tic-tac-toe, He searched high and low, incredibly slow. Then—behold!—on the TV clear as day, An ID card sat, one foot away. No riddles, no tricks, just pure disgrace, As Max laughed softly in…"
+   },
+   "rank": 10,
+   "percentile": 36.0,
+   "score": 22
+  },
+  {
+   "name": "EHS",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…as follows: A. Decontamination -> Engine Room (air quality) B. VIP Room -> EHS (pressure) C. Maintenance II -> Crawlspace Niche (pressure) 3. Usage As a…"
+   },
+   "rank": 11,
+   "percentile": 46.0,
+   "score": 31
+  },
+  {
+   "name": "Elevator",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…trigger everything at the same time. First try. We ran together into the entrance. It was… an elevator. I've learned so much in just three hours. Elevators. Keycards. Teleporters. Computers.…"
+   },
+   "rank": 11,
+   "percentile": 46.0,
+   "score": 31
+  },
+  {
+   "name": "Elric Stein",
+   "aliases": [
+    "Elric"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…large amount of infrastructure and construction development was directed under his reign. Elric Stein: As Aleforge grew as an economic force in the region, Elric sent out taverners all across…"
+   },
+   "rank": 11,
+   "percentile": 46.0,
+   "score": 31
+  },
+  {
+   "name": "Embezzlement",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…applied. Only the future will tell what is in store for the Cumstead. ### John Rump — Treasurer, Embezzler, Addict John Rump is the crooked treasurer of Aleforge. He has been coasting off the positive…"
+   },
+   "rank": 11,
+   "percentile": 46.0,
+   "score": 31
+  },
+  {
+   "name": "Earth Report",
+   "aliases": [
+    "Earth Reports"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…recovery keys and show you the decryption process as soon as the change goes into effect. -Pius Earth Report 30 For your situational awareness: Earth aerospace and cosmology news (Cycle…"
+   },
+   "rank": 15,
+   "percentile": 58.0,
+   "score": 44
+  },
+  {
+   "name": "The economic scroll",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(chancellor), John Rump (treasurer), and Susan Plinket (foreign affairs). They were handed a massive economic scroll and told to govern. ### The Investigation The Kings launched the Gideon Drake Commission…"
+   },
+   "rank": 15,
+   "percentile": 58.0,
+   "score": 44
+  },
+  {
+   "name": "EAK Manual",
+   "aliases": [
+    "Emergency Access Key Design Document"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…that's no worry, as we will either die or walk back out triumphant with every door unlocked. EAK Manual Emergency Access Key Design Document ------------------- While we rarely have issues with…"
+   },
+   "rank": 17,
+   "percentile": 68.0,
+   "score": 56
+  },
+  {
+   "name": "Elytra",
+   "aliases": [
+    "Elytra wings"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…solution was to close the portal using the artifacts. Jagerbauhm took the artifacts and, using Elytra wings and a firecracker, flew to the Dread Harrow and fought through Sackbeard's crew to reach the…"
+   },
+   "rank": 17,
+   "percentile": 68.0,
+   "score": 56
+  },
+  {
+   "name": "Ender skeletons",
+   "aliases": [
+    "Ender skeleton"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and so much gear. How the hell do i have nothing? Luke and I look around, there's an ender skeleton in a room that he kills for me. Together we teleport to the workshop. Hmmm. This room forsure…"
+   },
+   "rank": 17,
+   "percentile": 68.0,
+   "score": 56
+  },
+  {
+   "name": "Earth ambassadors legion",
+   "aliases": [
+    "Earth team"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…our station could be discovered by mere accident now. We will send him an assistant via our Earth team to ensure that his viewings never align with our quadrant of the sky. Earth Report 82 For…"
+   },
+   "rank": 20,
+   "percentile": 76.0,
+   "score": 66
+  },
+  {
+   "name": "Exterior tunnel",
+   "aliases": [
+    "external tunnel modules"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…------------------- Andrew Smith - Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim - Natural causes (cancer) Cycle 92 ------------------- Geoffrey Dingle…"
+   },
+   "rank": 21,
+   "percentile": 80.0,
+   "score": 72
+  },
+  {
+   "name": "Edwin Armstrong",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…+$500,000 Otto Rohwedder: +$1,000,000 Max Knott: +$800,000 Karl Jansky: +$5,000,000 Edwin Armstrong: +$3,000,000 Robert Watson-Watt: +$8,000,000 Roy Plunkett: +$8,000,000 Expenses -------------------…"
+   },
+   "rank": 22,
+   "percentile": 90.0,
+   "score": 85
+  },
+  {
+   "name": "Eel",
+   "aliases": [
+    "Eels"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Pilsner? They hitched with my Seaside Circus, Zara's Jamaican bomb-tossers, slick as greased eels. Mon, the chaos they kicked up—shootouts, relic grabs, and a mad hunt to nab Gobbler kneeling…"
+   },
+   "rank": 22,
+   "percentile": 90.0,
+   "score": 85
+  },
+  {
+   "name": "Eliminating Sea Trade Tolls",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a lower, flat tax on brewers to increase profit and local private investment. Eliminating Sea Trade Tolls: Any ship seeking trade will no longer pay a toll to dock at Aleforge. This is meant to promote…"
+   },
+   "rank": 22,
+   "percentile": 90.0,
+   "score": 85
+  },
+  {
+   "name": "Exotic rum",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…they were supposedly kings over. Gideon won over the hearts of the townspeople with gifts of exotic rum from his ships hull and stories of distant docks and beaches, he gladly listened to stories…"
+   },
+   "rank": 22,
+   "percentile": 90.0,
+   "score": 85
+  },
+  {
+   "name": "Extra kitchen duty",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…games on this system will lead to a temporary revokation of game time, to be replaced by extra kitchen duty. There is no room for anger in deep space. Please enjoy this marvel of technology from master…"
+   },
+   "rank": 26,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

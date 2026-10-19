@@ -1,0 +1,576 @@
+{
+ "id": "tied-gideon",
+ "prompt": "Name something tied to Gideon Drake",
+ "blurb": "The Bastard Veil: first mate, mayor, murderer, exile.",
+ "difficulty": "easy",
+ "gem": "Exotic rum",
+ "answerCount": 28,
+ "answers": [
+  {
+   "name": "Sackbeard",
+   "aliases": [
+    "Captain Sackbeard"
+   ],
+   "mentions": {
+    "total": 77,
+    "compendium": 57,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "John Cum",
+   "aliases": [
+    "Cum",
+    "Mr. Cum"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 21,
+    "records": 35
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "John Cum is the key supplier of barley for the ale",
+    "note": "Lives at the Cumstead outside town, but the lore treats him as Aleforge's own wheat supplier."
+   },
+   "rank": 2,
+   "percentile": 3.7,
+   "score": 1
+  },
+  {
+   "name": "Thomas Thatcher",
+   "aliases": [
+    "Thatcher",
+    "Mayor Thatcher"
+   ],
+   "mentions": {
+    "total": 21,
+    "compendium": 17,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests - Brandywine Brush — The dense inland forest known locally as 'Thiccy…"
+   },
+   "rank": 3,
+   "percentile": 7.4,
+   "score": 2
+  },
+  {
+   "name": "Vodkonia",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 12,
+    "records": 3
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…stretch of ocean littered with shipwrecks, located in the Gae Strait between the mainland and Vodkonia. ### Towns & Settlements - Shanty Town — The pirate cliff settlement adjacent to the…"
+   },
+   "rank": 4,
+   "percentile": 11.1,
+   "score": 4
+  },
+  {
+   "name": "Banishment to Vodkonia",
+   "aliases": [
+    "banishment",
+    "banished"
+   ],
+   "mentions": {
+    "total": 20,
+    "compendium": 11,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the ancient Lagendale…"
+   },
+   "rank": 5,
+   "percentile": 14.8,
+   "score": 6
+  },
+  {
+   "name": "Gideon Drake Commission",
+   "aliases": [
+    "GDC"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 4,
+    "records": 14
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…proportioned that Buke wrote an ode to it. Mr. BBL is a competent, honest administrator who led the Gideon Drake Commission with integrity. He was the first to suspect Wepple's financial irregularities, the first to…"
+   },
+   "rank": 6,
+   "percentile": 18.5,
+   "score": 8
+  },
+  {
+   "name": "Aleforge Militia",
+   "aliases": [
+    "The Militia"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 8,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the games. The goal is to attract tourism during the games and boost the economy. Aleforge Militia: Gideon has created a volunteer militia to watch over the town, and protect it against riots…"
+   },
+   "rank": 7,
+   "percentile": 22.2,
+   "score": 10
+  },
+  {
+   "name": "The Factory artifacts",
+   "aliases": [
+    "Factory artifacts",
+    "six Factory Artifacts",
+    "artifacts from the factory"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hell Now he is plagued by nightmares of their return and revenge so he has been researching artifacts from the factory illegally to try to close the portal for good and prevent their escape Following the events…"
+   },
+   "rank": 8,
+   "percentile": 25.9,
+   "score": 13
+  },
+  {
+   "name": "Sackbeard's undead crew",
+   "aliases": [
+    "undead crew",
+    "cursed crew",
+    "Sackbeard's crew"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…navigate very difficult times of economic collapse, political uprisings and the arrival of a cursed crew arriving from the Realm of the Soulless seeking revenge on Gideon Drake. This lead to the…"
+   },
+   "rank": 9,
+   "percentile": 29.6,
+   "score": 16
+  },
+  {
+   "name": "Aleforge Bond Market",
+   "aliases": [
+    "Aleforge Bonds",
+    "bond offering",
+    "Bond Market"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…only strong enough to deter small groups, a large riot or attack would be a real problem. Aleforge Bond Market: A portion of the funds for these projects has come from the issue of Aleforge Bonds, currently…"
+   },
+   "rank": 10,
+   "percentile": 37.0,
+   "score": 23
+  },
+  {
+   "name": "The Bastard Veil",
+   "aliases": [
+    "Bastard Veil"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…would serve as the place of pirate celebration for many cycles to come. ### Gideon Drake the Bastard Veil (formerly 'the Ironkeg') — BANISHED TO VODKONIA Gideon Drake sailed into Shanty Town 20 years…"
+   },
+   "rank": 10,
+   "percentile": 37.0,
+   "score": 23
+  },
+  {
+   "name": "The line of Johns",
+   "aliases": [
+    "John family",
+    "the Johns"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Whiteknuckle: the only notable event of Aldins rule was the grant of land to an early member of the John family which later became the famed Cumstead. Godrin Moor: It is said that Godrin was the last…"
+   },
+   "rank": 10,
+   "percentile": 37.0,
+   "score": 23
+  },
+  {
+   "name": "Barley Road Initiative",
+   "aliases": [
+    "Barley Road"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tolls on the other hand have increased by 50% to improve maintenance and to pay for Gideons \"Barley Road Initiative.\" Barley Road Initiative: A comprehensive road system connecting Aleforge with…"
+   },
+   "rank": 13,
+   "percentile": 44.4,
+   "score": 30
+  },
+  {
+   "name": "Gideon Drake's journal",
+   "aliases": [
+    "Gideon Drakes Journal",
+    "insomnia"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…loyal MAMAists. No longer JR, I am Susan Plinket and the Liquor Kings will die at my hand Gideon Drakes Journal I heard of this factory accident and a hellish world and I knew I needed to be close. What…"
+   },
+   "rank": 14,
+   "percentile": 53.7,
+   "score": 39
+  },
+  {
+   "name": "Gilded Tankard Grant",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of cheap grog, however, to protect Aleforges key export until other industries have grown. Gilded Tankard Grant: The Aleforge government has granted the gilded tankard a significant amount of money to upgrade…"
+   },
+   "rank": 14,
+   "percentile": 53.7,
+   "score": 39
+  },
+  {
+   "name": "Increasing Road Tolls",
+   "aliases": [
+    "road tolls"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…This is meant to promote more trade with neighbors, mainly Roto and Providence. Increasing Road Tolls: Road tolls on the other hand have increased by 50% to improve maintenance and to pay for…"
+   },
+   "rank": 14,
+   "percentile": 53.7,
+   "score": 39
+  },
+  {
+   "name": "The MAA-inspired revolt",
+   "aliases": [
+    "revolt",
+    "riot"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…leader, following in the footsteps of the beloved Thatcher. A few zealots inspired by the MAA staged a small revolt in the town within the first few days of Gideons term and he was on the front lines himself…"
+   },
+   "rank": 14,
+   "percentile": 53.7,
+   "score": 39
+  },
+  {
+   "name": "Barley and Wheat Subsidies",
+   "aliases": [
+    "wheat subsidies"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…views and would rather prioritize economic and political goals. Policies and Legislation: Barley and Wheat Subsidies: Gideon has allocated some town funds to help grow the supply chain for breweries in town.…"
+   },
+   "rank": 18,
+   "percentile": 81.5,
+   "score": 74
+  },
+  {
+   "name": "Drunken Trials Revival Fund",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…government. Gideon wants to move away from reliance on just brewing to support the economy. Drunken Trials Revival Fund: At the heart of Aleforge culture is the Drunken Trials, Gideon aims to make the next one…"
+   },
+   "rank": 18,
+   "percentile": 81.5,
+   "score": 74
+  },
+  {
+   "name": "Eliminating Sea Trade Tolls",
+   "aliases": [
+    "sea trade tolls"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a lower, flat tax on brewers to increase profit and local private investment. Eliminating Sea Trade Tolls: Any ship seeking trade will no longer pay a toll to dock at Aleforge. This is meant to promote…"
+   },
+   "rank": 18,
+   "percentile": 81.5,
+   "score": 74
+  },
+  {
+   "name": "Exotic rum",
+   "aliases": [
+    "rum from his ship's hull"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…they were supposedly kings over. Gideon won over the hearts of the townspeople with gifts of exotic rum from his ships hull and stories of distant docks and beaches, he gladly listened to stories…"
+   },
+   "rank": 18,
+   "percentile": 81.5,
+   "score": 74
+  },
+  {
+   "name": "Flat brewers tax",
+   "aliases": [
+    "Changes on Brewers Tax",
+    "brewers tax"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…has a 20% flat tax, and a 150% tax if discovered smuggling the items into town. Changes on Brewers Tax: Gone are the days of Thomas Thatchers variable tax rate on breweries based on production.…"
+   },
+   "rank": 18,
+   "percentile": 81.5,
+   "score": 74
+  },
+  {
+   "name": "Gideon Drake's chalice",
+   "aliases": [
+    "Drake's chalice"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…JP noticed a trail of blood leading from the house to the forest, where they found Gideon Drake's chalice. ### The Resolution Susan Plinket's identity as the founder of MAMA was exposed by Jagerbauhm,…"
+   },
+   "rank": 18,
+   "percentile": 81.5,
+   "score": 74
+  },
+  {
+   "name": "Roto Free Trade Deal",
+   "aliases": [
+    "Roto trade deal"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…promote more competition so they are not reliant on one source of wheat for all of their ale. Roto Free Trade Deal: Gideon negotiated with the traders of Roto to promote mostly free trade of key resources.…"
+   },
+   "rank": 18,
+   "percentile": 81.5,
+   "score": 74
+  },
+  {
+   "name": "The Ironkeg",
+   "aliases": [
+    "Ironkeg"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…pirate celebration for many cycles to come. ### Gideon Drake the Bastard Veil (formerly 'the Ironkeg') — BANISHED TO VODKONIA Gideon Drake sailed into Shanty Town 20 years ago and has made permanent…"
+   },
+   "rank": 18,
+   "percentile": 81.5,
+   "score": 74
+  },
+  {
+   "name": "The vague confession",
+   "aliases": [
+    "confession"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…otherwise I will forced to drastic action. Fuck the Liquor Kings!!!!! - Glub Tuppus Wepple Vague Confession (SOA 4) I confess, to all the gods, my unforgivable sin.Have mercy upon me, for I have committed…"
+   },
+   "rank": 18,
+   "percentile": 81.5,
+   "score": 74
+  },
+  {
+   "name": "Thomas Thatcher Memorial Scholarship",
+   "aliases": [
+    "Thatcher Scholarship"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…silk road sh-t, it's time for the Barley road now\" (leaked scroll from an internal meeting) Thomas Thatcher Memorial Scholarship: Gideon has implemented a scholarship system to promote education in emerging crafts, mainly…"
+   },
+   "rank": 18,
+   "percentile": 81.5,
+   "score": 74
+  },
+  {
+   "name": "Veilwalker Artifact Tariff",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…investing directly into private business but most agree that more Ale can only be a good thing. Veilwalker Artifact Tariff: Gideon is uneasy with the thought of trade with the Veilwalkers as he sees them as almost…"
+   },
+   "rank": 18,
+   "percentile": 81.5,
+   "score": 74
+  }
+ ]
+}

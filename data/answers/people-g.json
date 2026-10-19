@@ -1,0 +1,389 @@
+{
+ "id": "people-g",
+ "prompt": "Name a character whose name starts with G",
+ "blurb": "Anyone with a name in the lore. Leading titles like \"The\" are ignored, but Sir, Lady and Captain count.",
+ "difficulty": "hard",
+ "gem": "Guinnesston",
+ "answerCount": 19,
+ "answers": [
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Gidion Drake"
+   ],
+   "mentions": {
+    "total": 150,
+    "compendium": 77,
+    "records": 73
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Guinnie",
+   "aliases": [
+    "Guinne",
+    "Gunnie"
+   ],
+   "mentions": {
+    "total": 76,
+    "compendium": 30,
+    "records": 46
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order,…"
+   },
+   "rank": 2,
+   "percentile": 5.6,
+   "score": 1
+  },
+  {
+   "name": "Glub Tuppus Wepple",
+   "aliases": [
+    "Glub",
+    "Glub Tuppus"
+   ],
+   "mentions": {
+    "total": 35,
+    "compendium": 23,
+    "records": 12
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…away. This upset Blackmoor and after sitting in his anger and drinking at the Brewery owned by Glub Tuppus Wepple he went back to the cloister in a drunken stupor and killed the old prophet. He left a book…"
+   },
+   "rank": 3,
+   "percentile": 11.1,
+   "score": 4
+  },
+  {
+   "name": "Gilligan Rape",
+   "aliases": [
+    "Gilligan"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 4,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…entirely on enthusiasm, having in eleven prior expeditions recovered nothing at all. Its leader, Gilligan Rape, funded the enterprise on inherited money and showed no sign of running out of either funds…"
+   },
+   "rank": 4,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Gale Derecho",
+   "aliases": [
+    "Gale"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "The East Wind farm is located on a small island just off the coast of Aleforge",
+    "note": "Runs the East Wind farm on an island just off Aleforge's coast."
+   },
+   "rank": 5,
+   "percentile": 22.2,
+   "score": 10
+  },
+  {
+   "name": "Goddard",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…in one of the pipes. Hope you get some good use out of it, it's served me well so far. -Goddard Maint. Logbook Maintenance Logbook Cycle 93, Year 1 [+] Replace all piping from before…"
+   },
+   "rank": 6,
+   "percentile": 27.8,
+   "score": 15
+  },
+  {
+   "name": "Guster Derecho",
+   "aliases": [
+    "Guster"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Wolendi The family wind farm of the Derecho family, currently under ownership of Gale and Guster Derecho. The East Wind farm is located on a small island just off the coast of Aleforge. The West…"
+   },
+   "rank": 7,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "Gregor Ashford",
+   "aliases": [
+    "Gregor",
+    "Greg Ashford"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Montfort although it was clear that somebody or something had indeed been in the New Haven. ### Gregor Ashford A bard who sings at the Gilded Tankard, often too drunk to play well. He knows a lot of gossip…"
+   },
+   "rank": 8,
+   "percentile": 41.7,
+   "score": 27
+  },
+  {
+   "name": "Guisepee",
+   "aliases": [
+    "Giuseppe"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their journey in that direction. Here they met the grandson of the founder of the vineyard, Guisepee. He mentions that the Tavern was founded after his grandfather, a very religious man, had…"
+   },
+   "rank": 8,
+   "percentile": 41.7,
+   "score": 27
+  },
+  {
+   "name": "George Big Bush",
+   "aliases": [
+    "George Bush",
+    "GBB"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…shrouded by the dense forest, most prominent of these is the Thorny Thicket, a bar owned by George Bush. A disgruntled farmer has taken up residence deep in the forest as well and one of the very…"
+   },
+   "rank": 10,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Geoffrey Dingle",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…exterior tunnel. Muhammed Qasim - Natural causes (cancer) Cycle 92 ------------------- Geoffrey Dingle - apparent alcohol poisoning. Sam Park - Immolation (handled as suicide) Chen K - Lack…"
+   },
+   "rank": 11,
+   "percentile": 58.3,
+   "score": 45
+  },
+  {
+   "name": "Godrin Moor",
+   "aliases": [
+    "Godrin"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of land to an early member of the John family which later became the famed Cumstead. Godrin Moor: It is said that Godrin was the last ruler of Aleforge to see what is now Fenwick at its height.…"
+   },
+   "rank": 11,
+   "percentile": 58.3,
+   "score": 45
+  },
+  {
+   "name": "Gilligan's research assistant",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "The research assistant died to three separate traps",
+    "note": "Died to three separate traps on Seamus's twelfth expedition."
+   },
+   "rank": 13,
+   "percentile": 69.4,
+   "score": 58
+  },
+  {
+   "name": "Guisepee's grandfather",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "his grandfather, a very religious man, had a vision",
+    "note": "A very religious man whose vision founded the Taverna."
+   },
+   "rank": 13,
+   "percentile": 69.4,
+   "score": 58
+  },
+  {
+   "name": "George O'Queef",
+   "aliases": [
+    "George O Queef"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…making him the perfect person to lead an investigative envoy in the Southern Blocean. ### George O' Queef A famous landscape painter in Providence tasked with creating a prophetic landscape painting…"
+   },
+   "rank": 15,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Glendolph Galleyway",
+   "aliases": [
+    "Glendolph",
+    "Galleyway"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…theocratic than ever before. He was deeply unpopular and quickly voted out of office. Glendolph Galleyway: An unremarkable mayor, the only thing of note is his hiring of Mr. BBL, the current chancellor…"
+   },
+   "rank": 15,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Gormun the Wise",
+   "aliases": [
+    "Gormun"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ounce of brew in all his days. It is unknown how he managed to win the Drunken Trials Gormun the Wise: A prolific writer and political innovator, many of the political and cultural norms in Aleforge…"
+   },
+   "rank": 15,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Guinnesston",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fought a quiet but brutal war against the smugglers gallery along the cliffs of Aleforge. Guinnesston: The first king to send a diplomatic envoy to Fenwick and establish ties with the Veilwalkers.…"
+   },
+   "rank": 15,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Gregor Ashford Sr.",
+   "aliases": [
+    "Gregor Ashford Senior"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…He knows a lot of gossip and secrets about the town and its inhabitants. His father (Gregor Ashford Sr) was a legendary hero who shipwrecked in this land and later settled down with a family, and…"
+   },
+   "rank": 19,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

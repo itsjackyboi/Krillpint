@@ -1,0 +1,491 @@
+{
+ "id": "place-hoegaarden",
+ "prompt": "Name something tied to Hoegaarden Library",
+ "blurb": "The oldest library in the Isles, and what's buried beneath it.",
+ "difficulty": "hard",
+ "gem": "Presentation room B",
+ "answerCount": 23,
+ "answers": [
+  {
+   "name": "Jack Anqoak",
+   "aliases": [
+    "Anqoak",
+    "Jack",
+    "Anqok",
+    "Anquok",
+    "Jack Anquoke",
+    "Oracle of Aleforge",
+    "Jack and Coke"
+   ],
+   "mentions": {
+    "total": 142,
+    "compendium": 74,
+    "records": 68
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Josephus",
+   "aliases": [
+    "Jophisus",
+    "Jophesis",
+    "Johnephus",
+    "Jonephesus",
+    "Josiphus",
+    "Jonophesus"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 1,
+    "records": 17
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Kings go to the city. The Liquor Kings arrived in Owe Block carrying a book from the scholar Josiphus, ostensibly there to study the district's culture and relics. Wagwan, the sharp-eyed owner…"
+   },
+   "rank": 2,
+   "percentile": 4.5,
+   "score": 1
+  },
+  {
+   "name": "The Rotted Soul",
+   "aliases": [
+    "Rotted Soul",
+    "Rotten King"
+   ],
+   "mentions": {
+    "total": 30,
+    "compendium": 28,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…further South is a small river which drains to the sea. Some scholars believe the remains of the Rotted Soul may rest here, though until recently this was unknown. The Kings discovered the true location…"
+   },
+   "rank": 3,
+   "percentile": 9.1,
+   "score": 3
+  },
+  {
+   "name": "Lagendale",
+   "aliases": [
+    "Lagendale Empire",
+    "Kingdom of Lagendale"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 22,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…between the settled East and the untamed Western plains, also known as West Pint. Historic Lagendale stretched all through modern day West Pint and even further into the Wildlands, but it could…"
+   },
+   "rank": 4,
+   "percentile": 13.6,
+   "score": 5
+  },
+  {
+   "name": "Sexton Gobbler",
+   "aliases": [
+    "Gobbler"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 7,
+    "records": 8
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Liquor Kings with safe haven during the Owe Block concept when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley…"
+   },
+   "rank": 5,
+   "percentile": 18.2,
+   "score": 8
+  },
+  {
+   "name": "The Labyrinth",
+   "aliases": [
+    "Labyrinth",
+    "Lagendale labyrinth",
+    "Rotted Soul's prison",
+    "River Coffin"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 12,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was eventually overcome and murdered, killing the whole land with his last breath. The River Coffin Out of desperation, the Elders and the Lagendale militia devised a joint solution using…"
+   },
+   "rank": 6,
+   "percentile": 22.7,
+   "score": 11
+  },
+  {
+   "name": "The labyrinth books",
+   "aliases": [
+    "Book 1",
+    "the books",
+    "Books found in the labyrinth"
+   ],
+   "mentions": {
+    "total": 16,
+    "compendium": 8,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…as you truly are. They have never been deceived and they will not begin with you. Book 1: The air curdles in the breath of the cursed night. The ground is turned to ash, never to…"
+   },
+   "rank": 7,
+   "percentile": 27.3,
+   "score": 14
+  },
+  {
+   "name": "Dulamon",
+   "aliases": [
+    "Dulamond",
+    "Dulemon"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 0,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Needless to say this wasnt the most welcoming of environments and we were greeted by a chap named Dulemon. He was not there to drink and plunder so I had absolutely nothing in common with this man.…"
+   },
+   "rank": 8,
+   "percentile": 34.1,
+   "score": 20
+  },
+  {
+   "name": "The catacombs",
+   "aliases": [
+    "catacombs",
+    "Hoegaarden catacombs",
+    "Bar Bastion catacombs"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 5,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hoegaarden Library is one of the oldest institutions in the Isles, sitting above the ancient catacombs of the Lagendale Empire. It houses the largest collection of books, scrolls and tomes anywhere…"
+   },
+   "rank": 8,
+   "percentile": 34.1,
+   "score": 20
+  },
+  {
+   "name": "The Guardian",
+   "aliases": [
+    "Guardian"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the known waters. It was in these stacks that Jack Anqoak first encountered references to the Guardian and the Rotted Soul, setting in motion the events of the Horror in Hoegaarden concept. The…"
+   },
+   "rank": 10,
+   "percentile": 40.9,
+   "score": 26
+  },
+  {
+   "name": "Interns",
+   "aliases": [
+    "Intern"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Well... This certainly helped me do so- That pedo Josephus appears to be disappearing all of his interns to god knows where. We got to the library only to notice that Jack Anqoak had not joined…"
+   },
+   "rank": 11,
+   "percentile": 47.7,
+   "score": 33
+  },
+  {
+   "name": "The ancient manuscripts",
+   "aliases": [
+    "manuscripts",
+    "Hoegaarden manuscripts"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 4,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…rogues to their own sour brews. Here, amidst the wind and waves, I prayed and pored o'er my manuscripts, day and night—oh, how the hours blurred with each Lagerhorn! On the 115th morn of the 7th…"
+   },
+   "rank": 11,
+   "percentile": 47.7,
+   "score": 33
+  },
+  {
+   "name": "The Hall of Records",
+   "aliases": [
+    "Hoegaarden Hall of Records",
+    "Hall of Records"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Library Read the entire collection of books in the Hoegaarden Library here [HOEGAARDEN HALL OF RECORDS](https://docs.google.com/document/d/1nZ5dQse8QiWF3S1qQkd9RwJ5aDOq_CxcMSV8c_KZD5s/edit?usp=sharing)…"
+   },
+   "rank": 13,
+   "percentile": 56.8,
+   "score": 43
+  },
+  {
+   "name": "The Hoegaarden Library embassy",
+   "aliases": [
+    "embassy",
+    "library embassy"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…documents so ancient remains unclear. The library above is also home to the Hoegaarden Library Embassy, which provided the Liquor Kings with safe haven during the Owe Block concept when they needed…"
+   },
+   "rank": 13,
+   "percentile": 56.8,
+   "score": 43
+  },
+  {
+   "name": "The missing persons case",
+   "aliases": [
+    "missing persons",
+    "missing persons case"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…had been asked by Providence Police and the Aleforge Special Drinkers Unit to investigate a missing persons case that revolved around the library and when they arrived they brought with them a key.…"
+   },
+   "rank": 15,
+   "percentile": 65.9,
+   "score": 54
+  },
+  {
+   "name": "The wine cellar",
+   "aliases": [
+    "wine cellar"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…same case as me! We slapped eachothers cakes and went into the basement and lo and behold A WINE CELLAR, i didn't even need to go to da liqua store i couldve just come down here. We read some books…"
+   },
+   "rank": 15,
+   "percentile": 65.9,
+   "score": 54
+  },
+  {
+   "name": "Apparitions",
+   "aliases": [
+    "ghosts",
+    "ghostly thing"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…We'sh readin' along all fine an' dandy an' then— SLAMS both hands on table SHRIEEEEK! Shome GHOSTLY THING jumps out at ush! Nearly shoiled me breeches I tell ye! An' then we readsh more an' — hic…"
+   },
+   "rank": 17,
+   "percentile": 79.5,
+   "score": 71
+  },
+  {
+   "name": "Bottomless Bay",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of pirate traffic. This is nearby to the waters where Sackbeard killed the Great Beast. - Bottomless Bay — The bay in front of Hoegaarden Library. Another entry way into Providence, notably this…"
+   },
+   "rank": 17,
+   "percentile": 79.5,
+   "score": 71
+  },
+  {
+   "name": "Hoegaarden Plains",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…about what lay beyond them. - Rum Ridge — A lone peak which separates Shanty Town from the Hoegaarden Plains. Previously, this was the site of a vast arena for public gladiatorial games, although the…"
+   },
+   "rank": 17,
+   "percentile": 79.5,
+   "score": 71
+  },
+  {
+   "name": "Selling relics to Hoegaarden",
+   "aliases": [
+    "sold his relics",
+    "relics"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…chamber where Friar Leo hides forbidden documents about the Monk Who Ne'er Slumber'd. Seamus sold his relics to the Hoegaarden Library for thousands of gold, making him the wealthiest player that session…"
+   },
+   "rank": 17,
+   "percentile": 79.5,
+   "score": 71
+  },
+  {
+   "name": "Malchus",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…crumbs and no satisfying explanation. that kind. We went to Providence. Found a man named Malchus who knew more than he was comfortable knowing. His body hung from the rafters and in his pocket…"
+   },
+   "rank": 21,
+   "percentile": 93.2,
+   "score": 90
+  },
+  {
+   "name": "The mini library",
+   "aliases": [
+    "mini library"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…it twice as clear. We continued on once the wine cellar was turned dry and found a smaller mini library. It was here we learned more about Lagendale and apparently that dirty Josephus was hiding…"
+   },
+   "rank": 21,
+   "percentile": 93.2,
+   "score": 90
+  },
+  {
+   "name": "Presentation room B",
+   "aliases": [
+    "room B"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…They called for the Liquor Kings to gather in the halls of Hoegaarden, second floor, presentation room B. Some kind of experiment in anthropology, or sociology, or just straight-up lunacy. I don't…"
+   },
+   "rank": 23,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

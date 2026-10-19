@@ -1,0 +1,692 @@
+{
+ "id": "letter-h",
+ "prompt": "Name anything from the lore starting with H",
+ "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+ "difficulty": "medium",
+ "gem": "The Hangover bell",
+ "answerCount": 36,
+ "answers": [
+  {
+   "name": "Horse",
+   "aliases": [
+    "Horses"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 10,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…especially when delivered Quickety Cricket (the fastest postman in Pintland) and his trusty horse Prejac ##### Brewers Lane Brewers of Aleforge have been living here for generations #####…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Hoegaarden Library",
+   "aliases": [
+    "Hoegaarden",
+    "Hoegaarden Hall"
+   ],
+   "mentions": {
+    "total": 24,
+    "compendium": 14,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…though until recently this was unknown. The Kings discovered the true location underneath the Hoegaarden Library. - The Basin at Bully Hill — The lake adjacent to Providence. - Gulf of Aleforge — The…"
+   },
+   "rank": 2,
+   "percentile": 2.9,
+   "score": 0
+  },
+  {
+   "name": "HR",
+   "aliases": [
+    "HRBIO",
+    "HR room"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 0,
+    "records": 12
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…reheated dominos Parmesan bread bites and a beer. From the conference warp we went to the HR room and found a bunch of lore and finally met up with jp and got out of proxy chat. From…"
+   },
+   "rank": 3,
+   "percentile": 5.7,
+   "score": 1
+  },
+  {
+   "name": "Hazmat Suit",
+   "aliases": [],
+   "mentions": {
+    "total": 10,
+    "compendium": 2,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…skeleton was found inside the prison, along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction…"
+   },
+   "rank": 4,
+   "percentile": 10.0,
+   "score": 3
+  },
+  {
+   "name": "Hogwilly's Tavern",
+   "aliases": [
+    "Hogwilly's",
+    "Hogwillys"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 2,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…is currently developing a new brew in secret and hopes to leave the Grog Galley. ## Hogwilly's Tavern The first tavern built and shared by the 6 Liquor Kings. This was long before any…"
+   },
+   "rank": 4,
+   "percentile": 10.0,
+   "score": 3
+  },
+  {
+   "name": "Horror in Hoegaarden",
+   "aliases": [
+    "Horrors in Hoegaarden",
+    "HIH"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 6,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(run by Nathan), A Walk on Owe Block (run by Ben), Stewards of Aleforge (run by Jack), and Horrors in Hoegaarden (written by Jack and Ben, run by Ben). Each concept takes place in the same persistent world,…"
+   },
+   "rank": 6,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Hangovers",
+   "aliases": [
+    "hangover",
+    "Hangover"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the ShellTavern — the only real building on the cliffs back then. A holy place of heresy and hangovers. Built by Sackbeard and his motley crew of pirates, it was said drinking under that beast's…"
+   },
+   "rank": 7,
+   "percentile": 17.1,
+   "score": 7
+  },
+  {
+   "name": "The halfbreed",
+   "aliases": [
+    "halfbreed child",
+    "half-breed"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…something previously unimaginable occurred: a child was conceived, half human, half Veilwalker. A halfbreed. The first of its kind. The First Treaty When the union was discovered, it triggered…"
+   },
+   "rank": 8,
+   "percentile": 22.9,
+   "score": 11
+  },
+  {
+   "name": "The Hall of Records",
+   "aliases": [
+    "Hoegaarden Hall of Records"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Library Read the entire collection of books in the Hoegaarden Library here [HOEGAARDEN HALL OF RECORDS](https://docs.google.com/document/d/1nZ5dQse8QiWF3S1qQkd9RwJ5aDOq_CxcMSV8c_KZD5s/edit?usp=sharing)…"
+   },
+   "rank": 8,
+   "percentile": 22.9,
+   "score": 11
+  },
+  {
+   "name": "The Hoegaarden Library embassy",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…documents so ancient remains unclear. The library above is also home to the Hoegaarden Library Embassy, which provided the Liquor Kings with safe haven during the Owe Block concept when they needed…"
+   },
+   "rank": 8,
+   "percentile": 22.9,
+   "score": 11
+  },
+  {
+   "name": "Hazmat Guide",
+   "aliases": [
+    "Hazmat Suit Usage Guide"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…REPLACED WITH RUDIMENTARY IMPLEMENTS WITH WHICH YOU WILL BE EXPECTED TO FULFILL THE SAME DUTIES. Hazmat Guide Hazmat Suit Usage Guide 1. The why You may be asking, why would I need a hazmat suit…"
+   },
+   "rank": 11,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Hellish beasts",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…caution led the scientists to inadvertently breach the Nether, a hellish dimension teeming with monstrous beings. In an instant, the ambitious experiment devolved into catastrophe. Hellish beasts poured…"
+   },
+   "rank": 11,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "High King",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The Rotted Soul rose to power through shadowy means, and eventually declared himself as the god-king of Lagendale after killing all of 138 Council members at once. It is said that their flesh…"
+   },
+   "rank": 11,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Hilgaard the Wildman",
+   "aliases": [
+    "Hilgaard"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…by her visions and she correctly foretold of the Long Thirst and the Age of Six Kings. Hilgaard the Wildman: essentially a homeless man who somehow won the crown. Hilgaard was assassinated by a radical…"
+   },
+   "rank": 11,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Hoegaarden Plains",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…about what lay beyond them. - Rum Ridge — A lone peak which separates Shanty Town from the Hoegaarden Plains. Previously, this was the site of a vast arena for public gladiatorial games, although the…"
+   },
+   "rank": 11,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Holiday Keg",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…seasons per year. - Keg (Week): A 9-day period — just enough time for a proper bender. - Holiday Keg: Because 3 seasons x 13 kegs = 351 days, there are 9 leftover days at the end of each year.…"
+   },
+   "rank": 11,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Hollow Urn",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…vision of the future. Dementing Scarab — Shows a true and unfortunate vision of the past. Hollow Urn — A vessel for storing one's own soul. While your soul is inside, you experience both the…"
+   },
+   "rank": 11,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Hornithan Buttlube",
+   "aliases": [
+    "Hornithan"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…first Aleforge comptroller was Bigbag-o Buttlube the ancestor of the current office holder, Hornithan Buttlube 2. The Sheriffs Offices: This Sheriffs office was the first form of law and order in old…"
+   },
+   "rank": 11,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Hush Now, Love",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fiddle-faddle fay, drink again! Yo, halla-walla, rah-dee-ray, Tiddle-taddle tay, guzzle-away! ## Hush Now, Love In Sackbeard's tavern, shadows creep, The Beast's loud roar while sailors weep. Its claws…"
+   },
+   "rank": 11,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "The Hallis Dynasty",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…during his reign in order to allow his son to take the throne after his passing. This began the Hallis Dynasty, the 1st in Aleforge history. Frenic Hallis: It was during the time of his rule that…"
+   },
+   "rank": 11,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "The Heart Learns to Mend",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fright. A storm of fangs, a thousand blades, It drank our dreams in midnight's grave. ## The Heart Learns to Mend Attributed to Rollo. A lament about Buke and JP. In the Tavern's haze, where the torches…"
+   },
+   "rank": 11,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Happy hour",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…day, drinking in the cloister with the same guys I always drink with. Another week, another happy hour, but this week someone new came. A day of celebration was taking place to honor our…"
+   },
+   "rank": 22,
+   "percentile": 60.0,
+   "score": 46
+  },
+  {
+   "name": "Hall of Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Prejac ##### Brewers Lane Brewers of Aleforge have been living here for generations ##### Hall Of Ale Once a month the brewers gather here for a grand feast and keg tap put on by a different…"
+   },
+   "rank": 23,
+   "percentile": 74.3,
+   "score": 64
+  },
+  {
+   "name": "Hennessy",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and rye, mead, beers and ales. Wines, liquors and Bourbon, Tequila, vodka and gin, Brandy, hennessy, and vermouth, Stouts, lagers and ciders But never NEVER an ipa....that bastard that dares…"
+   },
+   "rank": 23,
+   "percentile": 74.3,
+   "score": 64
+  },
+  {
+   "name": "Hook Line & Sinker",
+   "aliases": [
+    "Hook Line & Sinker Submarine"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…businesses such as arms dealing. ### Captain Crawdad Pilot and Captain of the Hook Line & Sinker Submarine, Captain Crawdad served in the ASDU for 5 years before being instated. He is a military…"
+   },
+   "rank": 23,
+   "percentile": 74.3,
+   "score": 64
+  },
+  {
+   "name": "Hoppy Holidays",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(build) a tree somewhere and say a prayer (drink a pint) of thanksgiving with a friend. Hoppy Holidays: The last Keg of the year (Dec 18-26, 2026 and Dec 13-21, 2027). All the pirates gather…"
+   },
+   "rank": 23,
+   "percentile": 74.3,
+   "score": 64
+  },
+  {
+   "name": "House servant",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…employment for many Aleforge citizens. Including Dusty Shidiz and Tanka Jahari their personal house servants. They also fund and house an artist, Salude Gonzalez, who lives in their attic and paints.…"
+   },
+   "rank": 23,
+   "percentile": 74.3,
+   "score": 64
+  },
+  {
+   "name": "Human stew",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and no idea that the tavern I had just escaped was a front for ritualistic cannibalism and human stew exports. All I knew was that I had to find that frog. Because something in its eyes told…"
+   },
+   "rank": 23,
+   "percentile": 74.3,
+   "score": 64
+  },
+  {
+   "name": "Hunk the Monk",
+   "aliases": [
+    "Hunk"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(ironically). The Guards have been keeping a watch on him for suspicious activity. ### Hunk the Monk Cardinal Addy's primary protector/secret service agent. While extremely dumb, he takes his…"
+   },
+   "rank": 23,
+   "percentile": 74.3,
+   "score": 64
+  },
+  {
+   "name": "Hunter",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…others of the terror they would endure. ### Edmond Blackmoor (DECEASED) He is a famously good hunter of exotic animals and came to Aleforge to slay the cloister beast. Edmond Blackmoor came…"
+   },
+   "rank": 23,
+   "percentile": 74.3,
+   "score": 64
+  },
+  {
+   "name": "The Hollow Ledger",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…valve dressed as ritual. Every rumor spoken that night is written down by a Friar and filed in the Hollow Ledger. A rumor that survives the night, believed by enough of the room, doesn't stay a rumor for…"
+   },
+   "rank": 23,
+   "percentile": 74.3,
+   "score": 64
+  },
+  {
+   "name": "Hollowgrim",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and storm. Some maps are whispered to rest with the Mapmaker that vanished. Others tied to Hollowgrim's curses and the ghost riddles that slither through the cliffs. But most say the words have…"
+   },
+   "rank": 32,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "Hot chocolate",
+   "aliases": [
+    "hot cocoa"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…has been running amuck around town, harassing the local businesses in the square. He loves hot chocolate, so if you give him some, hes sure to give you something in return…That is, if you can catch…"
+   },
+   "rank": 32,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "The Hangover bell",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…spire, his voice a thunderclap on Bloodwake, his will the law of the land. At night, when the Hangover bell tolls, the townsfolk transform—merchants become poets, blacksmiths dance with wild abandon,…"
+   },
+   "rank": 32,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "The haystack",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…him, discover his plot WITNESS \"I swear it, I saw Gideon Drake pullin somethin outta that haystack, all covered in green grime it was\" WITNESS 2 [no text recorded in source document] WITNESS…"
+   },
+   "rank": 32,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "Head",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fartson ### Buck Setts ### Keg Minster ### Buck Setts ### Cheddar ### Fargo Willslick ### Head ### Sir Robert CockPower Color Guards ### Cpt. Lincoln Dillydally ### Piggly Wiggly…"
+   },
+   "rank": 36,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

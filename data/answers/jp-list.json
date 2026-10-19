@@ -1,0 +1,358 @@
+{
+ "id": "jp-list",
+ "prompt": "Name a drink on Jameson Pilsner's list",
+ "blurb": "He'll drink anything on it. The one drink he won't touch doesn't count.",
+ "difficulty": "easy",
+ "gem": "Vermouth",
+ "answerCount": 18,
+ "answers": [
+  {
+   "name": "Ale",
+   "aliases": [
+    "Ales"
+   ],
+   "mentions": {
+    "total": 105,
+    "compendium": 51,
+    "records": 54
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- Aleforge — Brewing capital of the Isles, home of the Drunken Trials. Known for it's fine ale and people. - Providence — The ordered, tonic-driven holy city on the cliffs. A strict theocracy…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Beer",
+   "aliases": [
+    "Beers"
+   ],
+   "mentions": {
+    "total": 37,
+    "compendium": 17,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their rare (and often disgusting) IPAs. As a nation that thrives on some of the worst types of beers, their culture is skewed towards the unsavory. Not much is known about the country besides…"
+   },
+   "rank": 2,
+   "percentile": 5.9,
+   "score": 1
+  },
+  {
+   "name": "Whiskey",
+   "aliases": [
+    "Whisky"
+   ],
+   "mentions": {
+    "total": 36,
+    "compendium": 16,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…adventure, puzzles, and mini bosses. First to collect a full set of the same armor gets an irl whiskey bottle #### Lore: the collection of ancient shrines scattered across the region offer a…"
+   },
+   "rank": 3,
+   "percentile": 11.8,
+   "score": 4
+  },
+  {
+   "name": "Liquor",
+   "aliases": [
+    "liquors"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 7,
+    "records": 21
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…than they fear war. - They pity us for our chaos, while dancing half-naked in honor of a liquor deity who may or may not exist. If that ain't hypocrisy in a pint glass, I don't know what…"
+   },
+   "rank": 4,
+   "percentile": 17.6,
+   "score": 7
+  },
+  {
+   "name": "Rum",
+   "aliases": [
+    "spiced rum"
+   ],
+   "mentions": {
+    "total": 13,
+    "compendium": 9,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…To us in Providence, Shanty Town is a raucous pit of pirate revelry, its streets a maze of rum-soaked taverns and cutlass clashes, lit by the flicker of stolen lanterns. We trade little…"
+   },
+   "rank": 5,
+   "percentile": 23.5,
+   "score": 11
+  },
+  {
+   "name": "Stout",
+   "aliases": [
+    "Stouts"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 7,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…colors 'pon her mast — a flag o' yer own makin' and meanin'. Ye ship must be sea-worthy, stout o' hull, and not some leakin' bucket o' shame. Ye crew must number more than one — a proper…"
+   },
+   "rank": 6,
+   "percentile": 29.4,
+   "score": 16
+  },
+  {
+   "name": "Wine",
+   "aliases": [
+    "red wine",
+    "Taverna wine"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 5,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…very religious man, had a vision. He tasked the Liquor Kings with transporting a delivery of wine to a city called \"Providence\" in a land called the \"Pintland Isles.\" Although ultimately successful,…"
+   },
+   "rank": 7,
+   "percentile": 35.3,
+   "score": 21
+  },
+  {
+   "name": "Gin",
+   "aliases": [
+    "gins"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 6,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…grudging respect and wary eyes. Their ships bring silks, exotic woods, and spices that flavor our gins, while we export brewing tools and the rarest drops of ClockHeart Tonic—hoarded like gold,…"
+   },
+   "rank": 8,
+   "percentile": 41.2,
+   "score": 26
+  },
+  {
+   "name": "Rye",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…nothing but the sea and drink, and his catalog of the latter was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders.…"
+   },
+   "rank": 9,
+   "percentile": 47.1,
+   "score": 32
+  },
+  {
+   "name": "Bourbon",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…dream with an elite's crown, and trade tales of their spiced liquors over a glass of local bourbon. Yet, dark whispers haunt Keeldrift nights—Roto schemers, they say, toil in hidden vats to…"
+   },
+   "rank": 10,
+   "percentile": 58.8,
+   "score": 45
+  },
+  {
+   "name": "Lager",
+   "aliases": [
+    "Lagers"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…known for directing all the efforts of the court to developing a large variety of ales and lagers for the people of Aleforge Beef: Nothing is known about the Liquor King named Beef beyond…"
+   },
+   "rank": 10,
+   "percentile": 58.8,
+   "score": 45
+  },
+  {
+   "name": "Mead",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…school brewers. They made every type of alcohol you could dream of.....whiskey, wines, beers, meads and more. But never an IPA. They drank religiously and saw drinking an IPA as a disgrace.…"
+   },
+   "rank": 10,
+   "percentile": 58.8,
+   "score": 45
+  },
+  {
+   "name": "Cider",
+   "aliases": [
+    "Ciders",
+    "sweet cider"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders. The list admitted exactly one exclusion, the IPA, which he regarded as a fraud that had nonetheless…"
+   },
+   "rank": 13,
+   "percentile": 73.5,
+   "score": 63
+  },
+  {
+   "name": "Vodka",
+   "aliases": [
+    "potato vodka"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…catalog of the latter was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders. The list admitted exactly one exclusion, the…"
+   },
+   "rank": 13,
+   "percentile": 73.5,
+   "score": 63
+  },
+  {
+   "name": "Brandy",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…latter was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders. The list admitted exactly one exclusion, the IPA, which…"
+   },
+   "rank": 15,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "Tequila",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and his catalog of the latter was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders. The list admitted exactly one exclusion,…"
+   },
+   "rank": 15,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "Vermouth",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders. The list admitted exactly one exclusion, the IPA, which he regarded…"
+   },
+   "rank": 15,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "Hennessy",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and rye, mead, beers and ales. Wines, liquors and Bourbon, Tequila, vodka and gin, Brandy, hennessy, and vermouth, Stouts, lagers and ciders But never NEVER an ipa....that bastard that dares…"
+   },
+   "rank": 18,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

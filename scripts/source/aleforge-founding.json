@@ -1,0 +1,33 @@
+{
+  "id": "aleforge-founding",
+  "prompt": "Name something from Aleforge's founding and early history",
+  "blurb": "Before the Middle Kings: the deity, the spring, the first offices and the first crowns.",
+  "difficulty": "hard",
+  "gem": "The flag of Aleforge",
+  "answers": [
+    {"ref": "The Brewmaster Deity", "obscurity": 1},
+    {"ref": "The ale fountain"},
+    {"ref": "The farmers clan"},
+    {"ref": "Brewers Guild"},
+    {"ref": "Roderick Hennessany"},
+    {"ref": "Brannock the Drunk"},
+    {"ref": "Cormac Bushlighted"},
+    {"ref": "Beef"},
+    {"ref": "Ulthar Goldbrew"},
+    {"ref": "Gormun the Wise"},
+    {"ref": "Aldin Whiteknuckle"},
+    {"ref": "Godrin Moor"},
+    {"ref": "Cedric the Vicar"},
+    {"ref": "Adcock"},
+    {"ref": "Old Alforge Municipal"},
+    {"ref": "Bigbag-o Buttlube"},
+    {"ref": "Peedrick Cocaine Sr."},
+    {"ref": "Cpt. William Dillydally"},
+    {"ref": "The Beggars Dance"},
+    {"ref": "Brewmasters Day"},
+    {"ref": "The original brewer's tomb"},
+    {"ref": "The Color Guard"},
+    {"name": "The flag of Aleforge", "aliases": ["flag"], "count": ["re:(?i)flag of aleforge"], "obscurity": 4},
+    {"ref": "Old Aleforge Historic Act"}
+  ]
+}

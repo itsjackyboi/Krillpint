@@ -1,0 +1,603 @@
+{
+ "id": "traded-goods",
+ "prompt": "Name something bought, sold or traded",
+ "blurb": "Exports, imports, contraband and currency of the Isles.",
+ "difficulty": "medium",
+ "gem": "Wolendi wind",
+ "answerCount": 29,
+ "answers": [
+  {
+   "name": "ClockHeart Tonic",
+   "aliases": [
+    "Clockheart",
+    "Tonic",
+    "Clockeart Tonic",
+    "bootleg tonic",
+    "bootleg ClockHeart Tonic"
+   ],
+   "mentions": {
+    "total": 72,
+    "compendium": 57,
+    "records": 15
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…home of the Drunken Trials. Known for it's fine ale and people. - Providence — The ordered, tonic-driven holy city on the cliffs. A strict theocracy ruled by Cardinal Addy, head of the Church…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Wheat",
+   "aliases": [
+    "wheat field",
+    "wheat fields"
+   ],
+   "mentions": {
+    "total": 39,
+    "compendium": 10,
+    "records": 29
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- The Dread Marrows — A region of dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the hands of John Rump. - The Shrines — A scatter of ancient shrines across…"
+   },
+   "rank": 2,
+   "percentile": 3.6,
+   "score": 1
+  },
+  {
+   "name": "Grog",
+   "aliases": [],
+   "mentions": {
+    "total": 21,
+    "compendium": 14,
+    "records": 7
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The pirate cliff settlement adjacent to the Tavern. A lawless place build on reputation and grog. - Aleforge — Brewing capital of the Isles, home of the Drunken Trials. Known for it's fine…"
+   },
+   "rank": 3,
+   "percentile": 7.1,
+   "score": 2
+  },
+  {
+   "name": "Barrels",
+   "aliases": [
+    "barrel"
+   ],
+   "mentions": {
+    "total": 23,
+    "compendium": 11,
+    "records": 12
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…What bound it all together was grog. Grog and favors became currency. Trade was done in barrels, not coin. You wanted a room? A barrel. food? A pint. The Windsunk Council formed — old captains…"
+   },
+   "rank": 4,
+   "percentile": 10.7,
+   "score": 4
+  },
+  {
+   "name": "Debt",
+   "aliases": [
+    "loans"
+   ],
+   "mentions": {
+    "total": 19,
+    "compendium": 3,
+    "records": 16
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a less alcoholic governing body. The downside: they also accumulated significant national debt that they left for their successors. ### The Subplots Seamus Bonehardy found Rump's blackmail…"
+   },
+   "rank": 5,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Barley",
+   "aliases": [],
+   "mentions": {
+    "total": 13,
+    "compendium": 8,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was down significantly after the death of John Cums wife (John Cum is the key supplier of barley for the ale, and his time away to grieve led to a poor years harvest), and the traders of…"
+   },
+   "rank": 6,
+   "percentile": 17.9,
+   "score": 8
+  },
+  {
+   "name": "Stout",
+   "aliases": [
+    "Stouts"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 7,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…colors 'pon her mast — a flag o' yer own makin' and meanin'. Ye ship must be sea-worthy, stout o' hull, and not some leakin' bucket o' shame. Ye crew must number more than one — a proper…"
+   },
+   "rank": 7,
+   "percentile": 21.4,
+   "score": 10
+  },
+  {
+   "name": "IPA",
+   "aliases": [
+    "IPAs",
+    "India Pale Ale"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 10,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…isolation is beginning to crack. The SBN is infamous for one thing above all: brewing the worst IPAs known to exist , bitter, rancid, and utterly beloved by their own people. Their entire culture,…"
+   },
+   "rank": 8,
+   "percentile": 26.8,
+   "score": 14
+  },
+  {
+   "name": "Kegs",
+   "aliases": [
+    "keg"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 7,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their barrels. The Windsunk Council don't trust how fast Aleforge's influence spreads. Their kegs are showin' up in towns far west, and their festival's drawn more visitors than a sea-witch's…"
+   },
+   "rank": 8,
+   "percentile": 26.8,
+   "score": 14
+  },
+  {
+   "name": "Aleforge ale",
+   "aliases": [
+    "Aleforge brew",
+    "magical ale",
+    "spring ale"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 4,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…beaches, he gladly listened to stories about the Drunken Trials and the creation of the famous Aleforge brew. His charisma and calls for unity led to his election as mayor as the townspeople chose his…"
+   },
+   "rank": 10,
+   "percentile": 32.1,
+   "score": 18
+  },
+  {
+   "name": "The Factory artifacts",
+   "aliases": [
+    "Factory artifacts",
+    "six Factory Artifacts",
+    "artifacts from the factory"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hell Now he is plagued by nightmares of their return and revenge so he has been researching artifacts from the factory illegally to try to close the portal for good and prevent their escape Following the events…"
+   },
+   "rank": 11,
+   "percentile": 35.7,
+   "score": 21
+  },
+  {
+   "name": "Newports",
+   "aliases": [
+    "Fent",
+    "Fentmaxxer's Newports",
+    "Newport"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport cigarettes and will often reveal information if presented with some. He is a sensitive soul…"
+   },
+   "rank": 12,
+   "percentile": 39.3,
+   "score": 25
+  },
+  {
+   "name": "Aleforge Bond Market",
+   "aliases": [
+    "Aleforge Bonds",
+    "bond offering",
+    "Bond Market"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…only strong enough to deter small groups, a large riot or attack would be a real problem. Aleforge Bond Market: A portion of the funds for these projects has come from the issue of Aleforge Bonds, currently…"
+   },
+   "rank": 13,
+   "percentile": 48.2,
+   "score": 33
+  },
+  {
+   "name": "Brewing tools",
+   "aliases": [
+    "brewing gear"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Simple. Fair. Brutal. Trade With Providence? Only When We're Desperate or Bored Their fancy brewing tools come wrapped in lace. Ours are built from kraken bone, rusted chain, and spite. We don't want…"
+   },
+   "rank": 13,
+   "percentile": 48.2,
+   "score": 33
+  },
+  {
+   "name": "Sushi",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Owe Block and relayed the full account of their adventures there to Brother Silas. He serves sushi. ### Sexton Gobbler The corrupt Sexton of Owe Block who was secretly worshipping the Veilwalkers…"
+   },
+   "rank": 13,
+   "percentile": 48.2,
+   "score": 33
+  },
+  {
+   "name": "Veilwalker fishing gear",
+   "aliases": [
+    "lures",
+    "fishing gear",
+    "bait and lures"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…wheat for the whole island\") Since they have no need for money or gold, they trade their fishing gear and such for promises and vows. Whether that be a promise to plant a flower for every fish…"
+   },
+   "rank": 13,
+   "percentile": 48.2,
+   "score": 33
+  },
+  {
+   "name": "Ale Beans",
+   "aliases": [
+    "Ale Bean"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…### Technology & Industry Despite their isolation, the SBN is surprisingly advanced: - Ale Bean Processing: Sophisticated machinery ,part mill, part alchemical still grinds and ferments…"
+   },
+   "rank": 17,
+   "percentile": 57.1,
+   "score": 43
+  },
+  {
+   "name": "Promises and vows",
+   "aliases": [
+    "vows",
+    "promises"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…island\") Since they have no need for money or gold, they trade their fishing gear and such for promises and vows. Whether that be a promise to plant a flower for every fish you catch. Or a vow to be more…"
+   },
+   "rank": 18,
+   "percentile": 64.3,
+   "score": 52
+  },
+  {
+   "name": "Wolendi wind",
+   "aliases": [
+    "wind",
+    "bottled wind"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…mountain winds of Pintland and sold the gusts to those who need it. Whether that's a small pouch of breeze so your hearth stays warm through the night or the barrels of winds sold to the Stormveil…"
+   },
+   "rank": 18,
+   "percentile": 64.3,
+   "score": 52
+  },
+  {
+   "name": "Wood",
+   "aliases": [
+    "timber",
+    "exotic woods"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…partner, a bustling hub we view with grudging respect and wary eyes. Their ships bring silks, exotic woods, and spices that flavor our gins, while we export brewing tools and the rarest drops of ClockHeart…"
+   },
+   "rank": 18,
+   "percentile": 64.3,
+   "score": 52
+  },
+  {
+   "name": "Cheap grog",
+   "aliases": [
+    "cheap and disgusting grog"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…grieve led to a poor years harvest), and the traders of Roto were flooding the market with cheap and disgusting grog. On top of all this the Liquor Kings were nowhere to be seen in this time of need, they were…"
+   },
+   "rank": 21,
+   "percentile": 76.8,
+   "score": 67
+  },
+  {
+   "name": "Natural remedies",
+   "aliases": [
+    "remedies"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tracking. They are master craftsmen in things like pottery, animal domestication, farming and natural remedies. (\"You know John cums wheat field? Rumor has John Cum spent years learning from the Veilwalkers…"
+   },
+   "rank": 21,
+   "percentile": 76.8,
+   "score": 67
+  },
+  {
+   "name": "Red-earth mineral",
+   "aliases": [
+    "red earth mineral"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cardinal Addy's voice booms o'er the town, calling all to prayer with a bell forged from Roto's red-earth mineral, its clang a holy summons that sets the heart aflutter. 'Tis said the tonic's magic…"
+   },
+   "rank": 21,
+   "percentile": 76.8,
+   "score": 67
+  },
+  {
+   "name": "Selling relics to Hoegaarden",
+   "aliases": [
+    "sold his relics",
+    "relics"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…chamber where Friar Leo hides forbidden documents about the Monk Who Ne'er Slumber'd. Seamus sold his relics to the Hoegaarden Library for thousands of gold, making him the wealthiest player that session…"
+   },
+   "rank": 21,
+   "percentile": 76.8,
+   "score": 67
+  },
+  {
+   "name": "Black Pepper Dividend",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…king of the session, collecting more Veilwalker artifacts than anyone and claiming the first Black Pepper Dividend stock payout. Jack rapped a freestyle at the Stank Tank that became a regional hit when the…"
+   },
+   "rank": 25,
+   "percentile": 85.7,
+   "score": 79
+  },
+  {
+   "name": "Freddy Hog's Freaky Hogs",
+   "aliases": [
+    "Freaky Hogs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…on the side of the building in an alley way between the estate and the OAM building ##### Freddy Hog's Freaky Hogs Here you can buy the best quality (and the freakiest) hogs in all of Pintland and thats…"
+   },
+   "rank": 26,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "Leather goods",
+   "aliases": [
+    "leather"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…in Providence and terrible gossip. Don't tell her shit. ### Rachel Zlurs Runs a small leather shop down by the Providence Block Market with very little success due to her unfortunate name.…"
+   },
+   "rank": 26,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "Plundered goods",
+   "aliases": [
+    "plunder"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Thus began the first ocean-bound shop. Xi marketed his shop as being the perfect fence for plundered goods, as no one nation had legal control over the ocean. This was a HUGE success and Xi quickly…"
+   },
+   "rank": 26,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "Silks and spices",
+   "aliases": [
+    "silks",
+    "spices"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…chief partner, a bustling hub we view with grudging respect and wary eyes. Their ships bring silks, exotic woods, and spices that flavor our gins, while we export brewing tools and the rarest…"
+   },
+   "rank": 29,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

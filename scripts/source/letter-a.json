@@ -1,0 +1,10 @@
+{
+  "id": "letter-a",
+  "prompt": "Name anything from the lore starting with A",
+  "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+  "difficulty": "medium",
+  "gem": "Armor of cursed bone",
+  "derive": {
+    "letter": "A"
+  }
+}

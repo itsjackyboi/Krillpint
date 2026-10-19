@@ -1,0 +1,29 @@
+{
+  "id": "tied-maa",
+  "prompt": "Name something tied to the MAA or MAMA",
+  "blurb": "The prohibitionists, their massacre, and the movement that rose from it.",
+  "difficulty": "medium",
+  "gem": "The power to sober",
+  "answers": [
+    {"ref": "MAA", "obscurity": 1},
+    {"ref": "MAMA", "obscurity": 1},
+    {"ref": "Susan Plinket"},
+    {"ref": "Maximilian"},
+    {"ref": "Maximilian's mother"},
+    {"ref": "The child behind the rock"},
+    {"ref": "The MAA cave"},
+    {"ref": "Hilgaard the Wildman"},
+    {"ref": "Free from Sobriety"},
+    {"ref": "M.A.A. Mandatory Alcohol Antidote"},
+    {"ref": "MAMA amnesty deal"},
+    {"ref": "The fake MAMA note"},
+    {"name": "The shrine cave raid", "aliases": ["shrine cave", "cave under the shrine"], "count": ["re:(?i)cave underneath an abandoned shrine"]},
+    {"name": "The power to sober", "aliases": ["sobering power"], "count": ["re:(?i)power to sober"]},
+    {"ref": "The MAA-inspired revolt"},
+    {"name": "MAMA Rises", "aliases": [], "count": ["re:MAMA Rises"]},
+    {"name": "The JR letters", "aliases": ["JR to MAMA", "letters to MAMA"], "count": ["re:JR to MAMA"]},
+    {"ref": "Rollo"},
+    {"name": "Guerrilla warfare", "aliases": ["guerrilla"], "count": ["re:(?i)guerrilla"]},
+    {"ref": "The Drunken Trials"}
+  ]
+}

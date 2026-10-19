@@ -1,0 +1,506 @@
+{
+ "id": "aleforge-founding",
+ "prompt": "Name something from Aleforge's founding and early history",
+ "blurb": "Before the Middle Kings: the deity, the spring, the first offices and the first crowns.",
+ "difficulty": "hard",
+ "gem": "The flag of Aleforge",
+ "answerCount": 24,
+ "answers": [
+  {
+   "name": "The Brewmaster Deity",
+   "aliases": [
+    "Brewmaster Deity",
+    "Brew God"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 9,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…soft where it counts. - Their ale is sweet, their streets are clean, and they worship a brew-god like he's gonna row down from the clouds with a pint in each hand. - They call us savage,…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The Color Guard",
+   "aliases": [
+    "Color Guard",
+    "Color Guards"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge Sheriff was Peedrick Cocaine Sr. the current sheriff is Sheriff Edward Cocaine 3. The Color Guard: The Color Guard dates back to the founders of Aleforge. The first ones to plant the flag…"
+   },
+   "rank": 2,
+   "percentile": 4.3,
+   "score": 1
+  },
+  {
+   "name": "Old Alforge Municipal",
+   "aliases": [
+    "Old Aleforge Municipal",
+    "OAM"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…not much is known about them but some believe they have their origin in Vodkonia. ##### Old Alforge Municipal Old Alforge Municipal (OAM) is made up of the last three government offices from Old Aleforge.…"
+   },
+   "rank": 3,
+   "percentile": 8.7,
+   "score": 3
+  },
+  {
+   "name": "Adcock",
+   "aliases": [
+    "King Adcock"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…that the fountain of Ale overflowed that day and all drank until they were satisfied. Adcock: The last of the prehistorical Kings. Adcock believed in some separation of powers following…"
+   },
+   "rank": 4,
+   "percentile": 17.4,
+   "score": 7
+  },
+  {
+   "name": "Brewmasters Day",
+   "aliases": [
+    "Brewmaster's Day"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…religious ferocity and writings. Trodon established the religious holidays of Brewmasters Eve and Brewmasters Day. The off shore trade hub of Roto Kaiishi was founded by Kim Jong Un during his rule, however,…"
+   },
+   "rank": 4,
+   "percentile": 17.4,
+   "score": 7
+  },
+  {
+   "name": "Cedric the Vicar",
+   "aliases": [
+    "Cedric"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…nomadic lifestyle, even though that will take hundreds of years from a human perspective. Cedric the Vicar: A religious extremist, Cedric established a short lived religious cult surrounding him as…"
+   },
+   "rank": 4,
+   "percentile": 17.4,
+   "score": 7
+  },
+  {
+   "name": "Brannock the Drunk",
+   "aliases": [
+    "Brannock"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their founding achievements have remained in the records. #### Early Leaders: (pre history) Brannock the Drunk: Legend has it that Brannock stumbled into the Drunken Trials already blackout drunk as he…"
+   },
+   "rank": 7,
+   "percentile": 32.6,
+   "score": 19
+  },
+  {
+   "name": "Cormac Bushlighted",
+   "aliases": [
+    "Cormac",
+    "Bushlighted"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…warring farmers clan and brewers guild. Some view this as the true founding of Aleforge Cormac Bushlighted: Cormac is known for directing all the efforts of the court to developing a large variety…"
+   },
+   "rank": 7,
+   "percentile": 32.6,
+   "score": 19
+  },
+  {
+   "name": "Godrin Moor",
+   "aliases": [
+    "Godrin"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of land to an early member of the John family which later became the famed Cumstead. Godrin Moor: It is said that Godrin was the last ruler of Aleforge to see what is now Fenwick at its height.…"
+   },
+   "rank": 7,
+   "percentile": 32.6,
+   "score": 19
+  },
+  {
+   "name": "The ale fountain",
+   "aliases": [
+    "ale fountain",
+    "fountain of Ale",
+    "town square fountain"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…beheaded publicly by those who believed in the old Brewmasters Deity. It is said that the fountain of Ale overflowed that day and all drank until they were satisfied. Adcock: The last of the…"
+   },
+   "rank": 7,
+   "percentile": 32.6,
+   "score": 19
+  },
+  {
+   "name": "Beef",
+   "aliases": [
+    "King Beef"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the court to developing a large variety of ales and lagers for the people of Aleforge Beef: Nothing is known about the Liquor King named Beef beyond his name Ulthar Goldbrew: A…"
+   },
+   "rank": 11,
+   "percentile": 43.5,
+   "score": 29
+  },
+  {
+   "name": "Aldin Whiteknuckle",
+   "aliases": [
+    "Aldin"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the political and cultural norms in Aleforge can be traced back to his writings. Aldin Whiteknuckle: the only notable event of Aldins rule was the grant of land to an early member of the John…"
+   },
+   "rank": 12,
+   "percentile": 63.0,
+   "score": 50
+  },
+  {
+   "name": "Brewers Guild",
+   "aliases": [
+    "The Brewers Guild"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…morning Roderick Hennessany: Negotiated a peace between the warring farmers clan and brewers guild. Some view this as the true founding of Aleforge Cormac Bushlighted: Cormac is known…"
+   },
+   "rank": 12,
+   "percentile": 63.0,
+   "score": 50
+  },
+  {
+   "name": "Gormun the Wise",
+   "aliases": [
+    "Gormun"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ounce of brew in all his days. It is unknown how he managed to win the Drunken Trials Gormun the Wise: A prolific writer and political innovator, many of the political and cultural norms in Aleforge…"
+   },
+   "rank": 12,
+   "percentile": 63.0,
+   "score": 50
+  },
+  {
+   "name": "Old Aleforge Historic Act",
+   "aliases": [
+    "Historic Act"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…replaced by the services of the castle. But the building and its members are protected under the Old Aleforge Historic Act. These offices were created by the founders of aleforge and the positions have been filled…"
+   },
+   "rank": 12,
+   "percentile": 63.0,
+   "score": 50
+  },
+  {
+   "name": "Roderick Hennessany",
+   "aliases": [
+    "Roderick",
+    "Hennessany",
+    "Roderick Hennessy"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…entire event by accident. He was unaware that he was crowned king until the next morning Roderick Hennessany: Negotiated a peace between the warring farmers clan and brewers guild. Some view this as…"
+   },
+   "rank": 12,
+   "percentile": 63.0,
+   "score": 50
+  },
+  {
+   "name": "The Beggars Dance",
+   "aliases": [
+    "Beggars Dance",
+    "Beggar's Dance"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…pipe, cigarette or cigar in silence as that small light sparks up across the bay. The Beggars Dance: This is a day in Aleforge to commemorate the humble beginnings of the town. Legend has…"
+   },
+   "rank": 12,
+   "percentile": 63.0,
+   "score": 50
+  },
+  {
+   "name": "The farmers clan",
+   "aliases": [
+    "Farmers clan",
+    "warring farmers clan"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…king until the next morning Roderick Hennessany: Negotiated a peace between the warring farmers clan and brewers guild. Some view this as the true founding of Aleforge Cormac Bushlighted:…"
+   },
+   "rank": 12,
+   "percentile": 63.0,
+   "score": 50
+  },
+  {
+   "name": "Ulthar Goldbrew",
+   "aliases": [
+    "Ulthar"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge Beef: Nothing is known about the Liquor King named Beef beyond his name Ulthar Goldbrew: A controversial leader, it is said that he never drank an ounce of brew in all his days.…"
+   },
+   "rank": 12,
+   "percentile": 63.0,
+   "score": 50
+  },
+  {
+   "name": "Bigbag-o Buttlube",
+   "aliases": [
+    "Bigbag-o",
+    "Bigbago Buttlube"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…historic office Aleforge could never have begun to thrive. The first Aleforge comptroller was Bigbag-o Buttlube the ancestor of the current office holder, Hornithan Buttlube 2. The Sheriffs Offices: This…"
+   },
+   "rank": 20,
+   "percentile": 89.1,
+   "score": 84
+  },
+  {
+   "name": "Cpt. William Dillydally",
+   "aliases": [
+    "William Dillydally",
+    "Captain William Dillydally"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to plant the flag of Aleforge on this island. The first Captain of the Color Guard was Cpt. William Dillydally. The current Captain of the Color Guard is Cpt. Lincoln Dillydally ##### The Krappenschitz…"
+   },
+   "rank": 20,
+   "percentile": 89.1,
+   "score": 84
+  },
+  {
+   "name": "Peedrick Cocaine Sr.",
+   "aliases": [
+    "Peedrick",
+    "Peedrick Cocaine"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Most duties have hence been replaced by the Castle of Alforge. The first Aleforge Sheriff was Peedrick Cocaine Sr. the current sheriff is Sheriff Edward Cocaine 3. The Color Guard: The Color Guard dates back…"
+   },
+   "rank": 20,
+   "percentile": 89.1,
+   "score": 84
+  },
+  {
+   "name": "The flag of Aleforge",
+   "aliases": [
+    "flag"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Guard: The Color Guard dates back to the founders of Aleforge. The first ones to plant the flag of Aleforge on this island. The first Captain of the Color Guard was Cpt. William Dillydally. The current…"
+   },
+   "rank": 20,
+   "percentile": 89.1,
+   "score": 84
+  },
+  {
+   "name": "The original brewer's tomb",
+   "aliases": [
+    "Brewmaster's tomb",
+    "original brewer's tomb",
+    "Fenwick shrine"
+   ],
+   "mentions": {
+    "total": 0,
+    "compendium": 0,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "revealed the burial site and coffin of the original brewer of Aleforge",
+    "note": "The three Bells of Imperion, rung in a Fenwick shrine, revealed where Aleforge's first brewer lies."
+   },
+   "rank": 24,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

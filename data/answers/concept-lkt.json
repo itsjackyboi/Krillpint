@@ -1,0 +1,596 @@
+{
+ "id": "concept-lkt",
+ "prompt": "Name something from the Liquor King Trials",
+ "blurb": "Frozen by Maximilian, the Kings wake centuries later on his space station.",
+ "difficulty": "medium",
+ "gem": "CYCLICAL",
+ "answerCount": 29,
+ "answers": [
+  {
+   "name": "Maximilian",
+   "aliases": [
+    "Max",
+    "Maximilian Andrew Aldridge",
+    "Maximillian",
+    "Master Maximilian"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 20,
+    "records": 36
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…slaughter anyone they see as even a slight threat to their power. First MAA, then Thatcher, then Maximillian. She is actually the founder of MAMA, but that is not known even within those circles. She…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Dmitri",
+   "aliases": [
+    "Dimitri",
+    "Dmtri",
+    "Dimtri",
+    "Dimitri the Space Boy"
+   ],
+   "mentions": {
+    "total": 24,
+    "compendium": 10,
+    "records": 14
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…after they broke free, with Luke landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his…"
+   },
+   "rank": 2,
+   "percentile": 3.6,
+   "score": 1
+  },
+  {
+   "name": "Engine room",
+   "aliases": [
+    "The Engine Room"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 1,
+    "records": 17
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…opened a door... and credit? Got not. But he didn't care—this was his chance! He stormed the engine room in a stumble-dance. Made the great jump, flipped the damn switch, Then missed the next jump…"
+   },
+   "rank": 3,
+   "percentile": 7.1,
+   "score": 2
+  },
+  {
+   "name": "Throne room",
+   "aliases": [
+    "The Throne Room"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 0,
+    "records": 12
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…luke around until we ended up in the engine room. We all hit the buttons and went into the throne room. Ben gave an inspiring speech and we walked into the final fight and i was certain it was…"
+   },
+   "rank": 4,
+   "percentile": 10.7,
+   "score": 4
+  },
+  {
+   "name": "Cryo-chambers",
+   "aliases": [
+    "cryo chamber",
+    "cryogenics",
+    "cryo"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 8,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…devil himself and received knowledge far beyond ordinary human reach. His first invention was cryogenics, which he used to capture the Liquor Kings at a supposed 20th anniversary celebration…"
+   },
+   "rank": 5,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Cycle 93",
+   "aliases": [
+    "93"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 0,
+    "records": 15
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…together the basics of the situation and importantly the time which the game was taking place (cycle 93). There was also another door i was unable to open here. I followed stephan into crawlspace…"
+   },
+   "rank": 6,
+   "percentile": 17.9,
+   "score": 8
+  },
+  {
+   "name": "Hazmat Suit",
+   "aliases": [],
+   "mentions": {
+    "total": 10,
+    "compendium": 2,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…skeleton was found inside the prison, along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction…"
+   },
+   "rank": 7,
+   "percentile": 21.4,
+   "score": 10
+  },
+  {
+   "name": "Solar transducers",
+   "aliases": [
+    "solar transducer",
+    "transducers"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 0,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and don't get punished! POWER OVERRIDE WARNING ------------------- THIS IS ONE OF TWO SOLAR TRANSDUCERS. IF BOTH ARE SHUT OFF, CRITICAL STATION SERVICES WILL GO OFFLINE UNTIL ONE OR BOTH IS TRANSDUCERS…"
+   },
+   "rank": 8,
+   "percentile": 25.0,
+   "score": 12
+  },
+  {
+   "name": "Afanasi",
+   "aliases": [
+    "Afanassi"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…REACTIVATED. PLEASE CONSULT THE CHIEF ENGINEER BEFORE INTERFACING WITH THIS CONSOLE. note to afanasi afanassi, I've found a place for the boy to hide in one of the other crawlspaces. He can…"
+   },
+   "rank": 9,
+   "percentile": 35.7,
+   "score": 21
+  },
+  {
+   "name": "Aldridge Industries",
+   "aliases": [
+    "Aldridge"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 1,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…interest rates. The resulting debt was handed to Seamus Bonehardy's mayoral administration. ## Aldridge Industries (Business) Named for the Aldridge family — of which Maximilian Andrew Aldridge was the last…"
+   },
+   "rank": 9,
+   "percentile": 35.7,
+   "score": 21
+  },
+  {
+   "name": "Goddard",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…in one of the pipes. Hope you get some good use out of it, it's served me well so far. -Goddard Maint. Logbook Maintenance Logbook Cycle 93, Year 1 [+] Replace all piping from before…"
+   },
+   "rank": 9,
+   "percentile": 35.7,
+   "score": 21
+  },
+  {
+   "name": "Pius",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…recovery keys and show you the decryption process as soon as the change goes into effect. -Pius Earth Report 30 For your situational awareness: Earth aerospace and cosmology news…"
+   },
+   "rank": 9,
+   "percentile": 35.7,
+   "score": 21
+  },
+  {
+   "name": "Warp crystals",
+   "aliases": [
+    "Warp Shard",
+    "warp crystal",
+    "shiny crystals"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 2,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction from Rollo). ## Concept…"
+   },
+   "rank": 9,
+   "percentile": 35.7,
+   "score": 21
+  },
+  {
+   "name": "Employee ID",
+   "aliases": [
+    "ID card",
+    "employee ID card"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tic-tac-toe, He searched high and low, incredibly slow. Then—behold!—on the TV clear as day, An ID card sat, one foot away. No riddles, no tricks, just pure disgrace, As Max laughed softly in…"
+   },
+   "rank": 14,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Maximilian's space station",
+   "aliases": [
+    "space station",
+    "the station"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 4,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…using cryosleep cycles to multiply his lifespan fivefold — directing the construction of a space station and the infrastructure for a perfect hell in which to trap the Kings. He was ultimately killed…"
+   },
+   "rank": 14,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Volatile",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…become empty. It is clear she was everything to him and his mental stability has been quite volatile lately. Often times a strange noise can be heard from below his house, but there is no apparent…"
+   },
+   "rank": 14,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Backtrac",
+   "aliases": [
+    "Backtrack"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…inside the prison, along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction…"
+   },
+   "rank": 17,
+   "percentile": 58.9,
+   "score": 45
+  },
+  {
+   "name": "The whiskey chamber",
+   "aliases": [
+    "water chamber",
+    "chamber of water"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…by Max, a madman in fine suede cloak, To caves and dens where mere mortals choke. Into a chamber of \"water\" they'd dive— Jameson leapt in, praying to survive. But the water was whiskey, aged and…"
+   },
+   "rank": 17,
+   "percentile": 58.9,
+   "score": 45
+  },
+  {
+   "name": "Bussy module",
+   "aliases": [
+    "The Bussy module"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…lore and finally met up with jp and got out of proxy chat. From here i believe we found the bussy module and the power source mechanisms. It was at this point my understanding of what was going on…"
+   },
+   "rank": 19,
+   "percentile": 69.6,
+   "score": 58
+  },
+  {
+   "name": "Comms Chip",
+   "aliases": [
+    "Comms chips"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the prison, along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction from Rollo).…"
+   },
+   "rank": 19,
+   "percentile": 69.6,
+   "score": 58
+  },
+  {
+   "name": "Odysseus",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Stephans books i was able to figure out two of the three passwords for doors (Pythagorus and Odysseus) but im not sure how they figured out Volatile. Stephan and i went to the server room to…"
+   },
+   "rank": 19,
+   "percentile": 69.6,
+   "score": 58
+  },
+  {
+   "name": "The 20th anniversary celebration",
+   "aliases": [
+    "20th anniversary",
+    "anniversary"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…His first invention was cryogenics, which he used to capture the Liquor Kings at a supposed 20th anniversary celebration and freeze them in cryo-chambers. He spent centuries across extended waking periods…"
+   },
+   "rank": 19,
+   "percentile": 69.6,
+   "score": 58
+  },
+  {
+   "name": "Ender skeletons",
+   "aliases": [
+    "Ender skeleton"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and so much gear. How the hell do i have nothing? Luke and I look around, there's an ender skeleton in a room that he kills for me. Together we teleport to the workshop. Hmmm. This room forsure…"
+   },
+   "rank": 23,
+   "percentile": 83.9,
+   "score": 77
+  },
+  {
+   "name": "Pythagoras",
+   "aliases": [
+    "Pythagorus"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…from luke and Stephans books i was able to figure out two of the three passwords for doors (Pythagorus and Odysseus) but im not sure how they figured out Volatile. Stephan and i went to the server…"
+   },
+   "rank": 23,
+   "percentile": 83.9,
+   "score": 77
+  },
+  {
+   "name": "The devil",
+   "aliases": [
+    "Devil"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and guided only by confusion and rage, he eventually made contact with what he described as the devil himself and received knowledge far beyond ordinary human reach. His first invention was cryogenics,…"
+   },
+   "rank": 23,
+   "percentile": 83.9,
+   "score": 77
+  },
+  {
+   "name": "VIP List",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…opened unless we have confirmed the presence of at least 3 VIP members at the cycle meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide…"
+   },
+   "rank": 23,
+   "percentile": 83.9,
+   "score": 77
+  },
+  {
+   "name": "Wither skeletons",
+   "aliases": [
+    "Wither skeleton"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…i was certain it was going to be good for me. Unfortunately i was actually as close to the wither skeleton spawner as you could be, and was killed instantly before i even saw what was there. It was…"
+   },
+   "rank": 27,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "CYCLICAL",
+   "aliases": [
+    "Cyclical"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…We're still awaiting a few implementation details on the cipher, but the new key will be \"CYCLICAL\". Other than those updates, however, the process is the same. Head of security will come around…"
+   },
+   "rank": 28,
+   "percentile": 98.2,
+   "score": 97
+  },
+  {
+   "name": "Maximilian's mother",
+   "aliases": [
+    "Max's mom",
+    "Maximilian's mom",
+    "Max's mother"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "His mother was one of the ranking members of the MAA and was among those killed",
+    "note": "A ranking member of the MAA, killed in the Liquor Kings' raid."
+   },
+   "rank": 28,
+   "percentile": 98.2,
+   "score": 97
+  }
+ ]
+}

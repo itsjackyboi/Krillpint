@@ -1,0 +1,716 @@
+{
+ "id": "concept-walk-of-shame",
+ "prompt": "Name something from the Walk of Shame",
+ "blurb": "How six strangers met in Drycup Forest and made their way to the Pintland Isles.",
+ "difficulty": "hard",
+ "gem": "Clancy",
+ "answerCount": 34,
+ "answers": [
+  {
+   "name": "Peg Butt",
+   "aliases": [
+    "PegButt",
+    "Pegbutt"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 10,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Horses and Donkeys used by the Six to Travel to Pintland during the Walk of Shame: ### PegButt Most trusted horse ridden by man. One couldn't ask for a better horse…. He.was brutally murdered…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Gilligan Rape",
+   "aliases": [
+    "Gilligan"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 4,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…entirely on enthusiasm, having in eleven prior expeditions recovered nothing at all. Its leader, Gilligan Rape, funded the enterprise on inherited money and showed no sign of running out of either funds…"
+   },
+   "rank": 2,
+   "percentile": 3.0,
+   "score": 1
+  },
+  {
+   "name": "Hogwilly's Tavern",
+   "aliases": [
+    "Hogwilly's",
+    "Hogwillys"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 2,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…is currently developing a new brew in secret and hopes to leave the Grog Galley. ## Hogwilly's Tavern The first tavern built and shared by the 6 Liquor Kings. This was long before any…"
+   },
+   "rank": 3,
+   "percentile": 6.1,
+   "score": 1
+  },
+  {
+   "name": "Bar Bastion",
+   "aliases": [
+    "The Bastion"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 5,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…late with the delivery, and had lost much of the product long before arriving. ## Bar Bastion Home of the Bjor Hjarta. These cave dwelling dwarves are known in all the land for brewing…"
+   },
+   "rank": 4,
+   "percentile": 9.1,
+   "score": 3
+  },
+  {
+   "name": "The copper scarf",
+   "aliases": [
+    "copper scarf",
+    "copper-colored scarf",
+    "scarf"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 4,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…brother Rum, he marked a visiting merchant carrying a loose coin purse and a copper-colored scarf. He approached with charm, asked after the scarf, offered a drink for the story, and lifted…"
+   },
+   "rank": 5,
+   "percentile": 12.1,
+   "score": 4
+  },
+  {
+   "name": "The Taverna",
+   "aliases": [
+    "Taverna"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…any of them had been crowned king, let alone set foot on the Pintland Isles. ## The Taverna An idyllic lush countryside villa and vineyard. It was here that the 6 Liquor Kings first…"
+   },
+   "rank": 6,
+   "percentile": 15.2,
+   "score": 6
+  },
+  {
+   "name": "Rum (his brother)",
+   "aliases": [
+    "Rum",
+    "his brother Rum",
+    "brother Rum"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 3,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…moved in one direction. One night in a tavern there, fresh from a quarrel with his brother Rum, he marked a visiting merchant carrying a loose coin purse and a copper-colored scarf. He…"
+   },
+   "rank": 7,
+   "percentile": 19.7,
+   "score": 9
+  },
+  {
+   "name": "The glowing green frog",
+   "aliases": [
+    "green frog",
+    "frog",
+    "soul nugget"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…must've lost a game worse than I did. The old man lifted the cup. No pebble. Just a single frog turd. I blinked. \"That's... not a rock,\" I said, feeling the weight of dozens of eyes pressing…"
+   },
+   "rank": 7,
+   "percentile": 19.7,
+   "score": 9
+  },
+  {
+   "name": "Bjor Hjarta",
+   "aliases": [
+    "The Bjor Hjarta"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 3,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…delivery, and had lost much of the product long before arriving. ## Bar Bastion Home of the Bjor Hjarta. These cave dwelling dwarves are known in all the land for brewing the best and most refreshing…"
+   },
+   "rank": 9,
+   "percentile": 24.2,
+   "score": 12
+  },
+  {
+   "name": "Circ M. Geiser",
+   "aliases": [
+    "Circ",
+    "Circ the donkey",
+    "Circ M Geiser"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Sister Bertha Sister Bertha is a snitch. A big ole snitch. Her father was a high ranking Circ in the Cardinals court before being caught for skimming tithes off the residents of Vanity…"
+   },
+   "rank": 10,
+   "percentile": 34.8,
+   "score": 21
+  },
+  {
+   "name": "Drycup Forest",
+   "aliases": [
+    "Drycup Woods",
+    "Drycup"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Anqoak through the streets until he wrapped the stolen scarf around his face and fled into Drycup Forest, where he stumbled into the company of strangers whose acquaintance he later called…"
+   },
+   "rank": 10,
+   "percentile": 34.8,
+   "score": 21
+  },
+  {
+   "name": "Guisepee",
+   "aliases": [
+    "Giuseppe"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their journey in that direction. Here they met the grandson of the founder of the vineyard, Guisepee. He mentions that the Tavern was founded after his grandfather, a very religious man, had…"
+   },
+   "rank": 10,
+   "percentile": 34.8,
+   "score": 21
+  },
+  {
+   "name": "Little Homie",
+   "aliases": [
+    "Lil Homie",
+    "the axolotl",
+    "axolotl"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…funny lookin' creature in a puddle and thought it was a frog. THE FROG Turns out it was an axolotl. Still ain't sure what that is. but I name it little homie #### Taverna After that we wandered…"
+   },
+   "rank": 10,
+   "percentile": 34.8,
+   "score": 21
+  },
+  {
+   "name": "The campfire",
+   "aliases": [
+    "campfire",
+    "the fire"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drink till he joined them in the heavenly brew for eternity. He eventually found himself at a campfire in the Drycup Woods with a group of 5 strangers, a surprisingly common event for the man who…"
+   },
+   "rank": 10,
+   "percentile": 34.8,
+   "score": 21
+  },
+  {
+   "name": "The Coors Golden Isles",
+   "aliases": [
+    "Coors Golden Isles",
+    "Golden Isle"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…seconds, cementing my place in the competition. ### Jameson Pilsner (JP) — Captain of the Coors Golden Isles Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels…"
+   },
+   "rank": 10,
+   "percentile": 34.8,
+   "score": 21
+  },
+  {
+   "name": "Commodore",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…unwisely, he insulted the merchant's trade in front of the room. The merchant turned out to be a Commodore of the Imperial Navy. When the loss was discovered, Anqoak pointed at his brother, who was…"
+   },
+   "rank": 16,
+   "percentile": 48.5,
+   "score": 34
+  },
+  {
+   "name": "Constable Jökulsson",
+   "aliases": [
+    "Jokulsson",
+    "Constable Jokulsson"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…### Tugller ### Lady Edgermire ### Samuel Supplebottom ### Quickety Cricket Constable Jökulsson The de facto ruler of Bar Bastion. He took control in a time of disorder as the Whispering…"
+   },
+   "rank": 16,
+   "percentile": 48.5,
+   "score": 34
+  },
+  {
+   "name": "The Whispering Deep",
+   "aliases": [
+    "Whispering Deep",
+    "Whispering Dark",
+    "The Whispering Dark"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…they dug too deep in the mountain, and woke something deep in the earth, known to them as the Whispering Deep. Ever since then it has been slowly hunting them, forcing them to build upwards, now at the…"
+   },
+   "rank": 16,
+   "percentile": 48.5,
+   "score": 34
+  },
+  {
+   "name": "Gyntonick",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge\" — Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick as a thief, though he preferred to describe himself as a redistributor of wealth, a claim…"
+   },
+   "rank": 19,
+   "percentile": 62.1,
+   "score": 49
+  },
+  {
+   "name": "Poopwata Basin",
+   "aliases": [
+    "Poopwater"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…interesting encounter even if ultimately it was just a small part of these men's story. ## Poopwata Basin An island tavern constructed by the 6 Liquor Kings, although this was long before they…"
+   },
+   "rank": 19,
+   "percentile": 62.1,
+   "score": 49
+  },
+  {
+   "name": "Shitty McFarts",
+   "aliases": [
+    "McFarts"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Will forever live in his father's shadow. He has awfully large horse shoes to fill. ### Shitty McFarts Slow Mule bred from a horse and donkey ### Farty McShits Hornse…..McFarts half brother…"
+   },
+   "rank": 19,
+   "percentile": 62.1,
+   "score": 49
+  },
+  {
+   "name": "The old man in the robe",
+   "aliases": [
+    "three-cup monte",
+    "three cup monte",
+    "old man"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…oblivious to the way their eyes glinted with something darker. As I swayed on my stool, an old man in nothing but a tattered robe shuffled up, his toothless grin wide and wild. He slapped a rickety table…"
+   },
+   "rank": 19,
+   "percentile": 62.1,
+   "score": 49
+  },
+  {
+   "name": "The treasure chest",
+   "aliases": [
+    "treasure chest",
+    "chest of gold"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…assistant died to three separate traps on the way in. Beyond them lay a chamber holding a chest filled with gold. Gilligan's reaction to the sight made plain that his long and fruitless obsession had never…"
+   },
+   "rank": 19,
+   "percentile": 62.1,
+   "score": 49
+  },
+  {
+   "name": "The wine delivery",
+   "aliases": [
+    "delivery of wine",
+    "wine for Providence"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…grandfather, a very religious man, had a vision. He tasked the Liquor Kings with transporting a delivery of wine to a city called \"Providence\" in a land called the \"Pintland Isles.\" Although ultimately successful,…"
+   },
+   "rank": 19,
+   "percentile": 62.1,
+   "score": 49
+  },
+  {
+   "name": "Guisepee's grandfather",
+   "aliases": [
+    "founder of the vineyard"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "his grandfather, a very religious man, had a vision",
+    "note": "A very religious man whose vision founded the Taverna."
+   },
+   "rank": 25,
+   "percentile": 72.7,
+   "score": 62
+  },
+  {
+   "name": "Clancy",
+   "aliases": [
+    "Clancy the worm"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…with some funny names. We all said hello and I showed them the worm I found. His name was Clancy. #### Hogwilly's We built our first tavern in the woods. we called it Hogwilly's i dont…"
+   },
+   "rank": 26,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Farty McShits",
+   "aliases": [
+    "McShits"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…large horse shoes to fill. ### Shitty McFarts Slow Mule bred from a horse and donkey ### Farty McShits Hornse…..McFarts half brother ### Circ M. Geiser ### Willie Cumbag ### Skeet Budle ###…"
+   },
+   "rank": 26,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Kottrblod the Soulcarver",
+   "aliases": [
+    "Kottrblod"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…built underneath the Bastion. Some interesting figures who can be found entombed here include, Kottrblod the Soulcarver, Nottulf, Prince of Sin and Yoslef the Mutilator. They may have only remembered the bad ones.…"
+   },
+   "rank": 26,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Nottulf, Prince of Sin",
+   "aliases": [
+    "Nottulf",
+    "Prince of Sin"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Some interesting figures who can be found entombed here include, Kottrblod the Soulcarver, Nottulf, Prince of Sin and Yoslef the Mutilator. They may have only remembered the bad ones. It is…"
+   },
+   "rank": 26,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "PegButt Jr.",
+   "aliases": [
+    "Peg Butt Jr",
+    "PegButt Junior"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of Jameson Pilsner. Pegbutt was just like a father to us all. Just like a son to us. ### PegButt Jr. Will forever live in his father's shadow. He has awfully large horse shoes to fill. ###…"
+   },
+   "rank": 26,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Yoslef the Mutilator",
+   "aliases": [
+    "Yoslef"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…who can be found entombed here include, Kottrblod the Soulcarver, Nottulf, Prince of Sin and Yoslef the Mutilator. They may have only remembered the bad ones. It is said that in the culture of the Bjor Hjarta,…"
+   },
+   "rank": 26,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "The giant bird",
+   "aliases": [
+    "giant bird",
+    "bird of considerable size"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "a bird of considerable size came out of a darkening sky",
+    "note": "Carried Buke off for days until his britches gave out."
+   },
+   "rank": 32,
+   "percentile": 93.9,
+   "score": 91
+  },
+  {
+   "name": "Werewolf",
+   "aliases": [
+    "Furry",
+    "furry under a full moon"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "by a furry under a full moon",
+    "note": "Something attacked the Kings at the Taverna for nearly an hour under a full moon."
+   },
+   "rank": 33,
+   "percentile": 97.0,
+   "score": 95
+  },
+  {
+   "name": "The cannibal tavern",
+   "aliases": [
+    "cannibal tavern"
+   ],
+   "mentions": {
+    "total": 0,
+    "compendium": 0,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "the tavern I had just escaped was a front for ritualistic cannibalism",
+    "note": "Where Guinnie got dosed twice before chasing the green frog into the woods."
+   },
+   "rank": 34,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

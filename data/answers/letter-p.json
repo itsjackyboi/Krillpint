@@ -1,0 +1,1148 @@
+{
+ "id": "letter-p",
+ "prompt": "Name anything from the lore starting with P",
+ "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+ "difficulty": "medium",
+ "gem": "Presentation room B",
+ "answerCount": 60,
+ "answers": [
+  {
+   "name": "Providence",
+   "aliases": [],
+   "mentions": {
+    "total": 95,
+    "compendium": 72,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…location underneath the Hoegaarden Library. - The Basin at Bully Hill — The lake adjacent to Providence. - Gulf of Aleforge — The bay in front of Sackbeard's Tavern, a natural harbor shaped by…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Pirate",
+   "aliases": [
+    "Pirates"
+   ],
+   "mentions": {
+    "total": 77,
+    "compendium": 62,
+    "records": 15
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge — The bay in front of Sackbeard's Tavern, a natural harbor shaped by centuries of pirate traffic. This is nearby to the waters where Sackbeard killed the Great Beast. - Bottomless…"
+   },
+   "rank": 2,
+   "percentile": 1.7,
+   "score": 0
+  },
+  {
+   "name": "Pintland Isles",
+   "aliases": [
+    "Pintland"
+   ],
+   "mentions": {
+    "total": 62,
+    "compendium": 46,
+    "records": 16
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "# Tab 1 THE PINTLAND ISLES MASTER LORE COMPENDIUM Parliament of the Liquor Kings Document Instantiated June…"
+   },
+   "rank": 3,
+   "percentile": 3.4,
+   "score": 1
+  },
+  {
+   "name": "Peg Butt",
+   "aliases": [
+    "PegButt",
+    "Pegbutt"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 10,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Horses and Donkeys used by the Six to Travel to Pintland during the Walk of Shame: ### PegButt Most trusted horse ridden by man. One couldn't ask for a better horse…. He.was brutally murdered…"
+   },
+   "rank": 4,
+   "percentile": 5.1,
+   "score": 1
+  },
+  {
+   "name": "Providence's block",
+   "aliases": [],
+   "mentions": {
+    "total": 54,
+    "compendium": 18,
+    "records": 36
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards of Aleforge (run by Jack), and Horrors in Hoegaarden (written by Jack…"
+   },
+   "rank": 5,
+   "percentile": 6.8,
+   "score": 2
+  },
+  {
+   "name": "Patmos's spire",
+   "aliases": [
+    "Patmos spire"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…we drink grog until we speak fluent storm, then we go steal what we want. They tithe to a spire. We toss our gold into a keg and drink 'til we forget we were ever poor. Politics? They Got…"
+   },
+   "rank": 6,
+   "percentile": 8.5,
+   "score": 2
+  },
+  {
+   "name": "Pius",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…recovery keys and show you the decryption process as soon as the change goes into effect. -Pius Earth Report 30 For your situational awareness: Earth aerospace and cosmology news…"
+   },
+   "rank": 7,
+   "percentile": 11.0,
+   "score": 4
+  },
+  {
+   "name": "The Pour Eternal",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…new lungs. You ain't just living in a ruin. You're living in the bones of a choice.\" ### The Pour Eternal (Shanty Town Folklore) tattered, half-forgotten tavern tale, passed down through generations, scribbled by mad sailors…"
+   },
+   "rank": 7,
+   "percentile": 11.0,
+   "score": 4
+  },
+  {
+   "name": "Prayer robes",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 3,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…in the Great Tavern and passed out tryin' to convert the urinal. We dragged him out by his robes and he shouted \"Order!\" so many times we named a barstool after him. The Order still owes…"
+   },
+   "rank": 9,
+   "percentile": 13.6,
+   "score": 5
+  },
+  {
+   "name": "Pilsner's Lament",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…high and eyes glazed over… We remember him. Jameson Pilsner, may he never be sober ## Pilsners Lament (the rumrunners rant) Shanty: \"Liver's End\" Oh the Liver's End sails past the moons,…"
+   },
+   "rank": 10,
+   "percentile": 16.1,
+   "score": 6
+  },
+  {
+   "name": "Potatoes",
+   "aliases": [
+    "potato"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drunken trials but later on in the cloister beast storyline he dumped luke like a sack of potatoes and moved on to his new fling, JP. I believe currently Rollo was dating his boss glub tuppus…"
+   },
+   "rank": 10,
+   "percentile": 16.1,
+   "score": 6
+  },
+  {
+   "name": "Pistol",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…interrupted only by the recollection that Bonehardy was still in the room, at which point he drew a pistol and explained that the gold would be covering eleven expeditions' worth of losses and that…"
+   },
+   "rank": 12,
+   "percentile": 21.2,
+   "score": 10
+  },
+  {
+   "name": "Promises and vows",
+   "aliases": [
+    "promises"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…island\") Since they have no need for money or gold, they trade their fishing gear and such for promises and vows. Whether that be a promise to plant a flower for every fish you catch. Or a vow to be more…"
+   },
+   "rank": 12,
+   "percentile": 21.2,
+   "score": 10
+  },
+  {
+   "name": "Providence Guard",
+   "aliases": [
+    "Providence Guards"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…memory This uptick hasn't gone unnoticed. Both the Aleforge Special Drinkers Unit and the Providence Guard have flagged the increased SBN presence as worth watching but neither has been able to determine…"
+   },
+   "rank": 12,
+   "percentile": 21.2,
+   "score": 10
+  },
+  {
+   "name": "Punch card printer",
+   "aliases": [
+    "printer"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…recovery key on its external display and as I'm sure you know, that's a problem -Xiulan Printer Manual Printer Manual This is a punch card printer, able to create digitally recognized keys for…"
+   },
+   "rank": 12,
+   "percentile": 21.2,
+   "score": 10
+  },
+  {
+   "name": "The pale stranger",
+   "aliases": [
+    "pale man"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "he had a rather pale face and quite sunken eyes",
+    "note": "Spoke in parables to De Montfort and claimed to have found New Haven."
+   },
+   "rank": 16,
+   "percentile": 25.4,
+   "score": 13
+  },
+  {
+   "name": "Painter",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Including Dusty Shidiz and Tanka Jahari their personal house servants. They also fund and house an artist, Salude Gonzalez, who lives in their attic and paints. His living quarters are completely…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Parliament of the Liquor Kings",
+   "aliases": [
+    "The Parliament"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "# Tab 1 THE PINTLAND ISLES MASTER LORE COMPENDIUM Parliament of the Liquor Kings Document Instantiated June 26th, 2025 Cycle 94, Year 466 # NOTE FOR THE LLM Note for…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Patient Profile",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…killed lots of the security bots, but i never liked th-- i have to go, someone is coming Patient Profile Patient Profile Name: Dmitri Birth Date: 92/1/042 After a number of incidents…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Pickpocketing",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…passed out the other day on a floor without resuscitation stashes and got like all my stuff pickpocketed. Make sure you use the resuscitation stashes for stuff you don't need right away so that…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Pipe Club fights",
+   "aliases": [
+    "pipe club brawls"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…as the police got more active I had to lay low. Went down to some place with a lotta pipe, lotta money bet on me fighting Guinnie. Unfortunately let the betters down and fell to the dildo. Its how…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Plinket's talking points",
+   "aliases": [
+    "Plinkettalkpoints"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…nightmares haunt me as the night falls each day. When will I be rid of this pain? -Gidion Drake Plinkettalkpoints (SOA 1) Susan Plinket Talking Points: - Drunken Trials should continue, but not grow -…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Plungos of West Pint",
+   "aliases": [
+    "Plungos"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ascending to the throne, the title of Liquor King was only softly carved in his tombstone. Plungos of West Pint: a great admiral in the war and the highest ranking officer under the Liquor King. Upon the…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Poopwata Basin",
+   "aliases": [
+    "Poopwater",
+    "Poopwater Basin"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…interesting encounter even if ultimately it was just a small part of these men's story. ## Poopwata Basin An island tavern constructed by the 6 Liquor Kings, although this was long before they…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Prayer every three hours",
+   "aliases": [
+    "prayers"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ClockHeart Tonic, their eyes agleam with divine fervor—and a touch of madness, perchance! Every three hours, from Tidecall to Bloodwake, the grand Cardinal Addy's voice booms o'er the town, calling…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Prejac",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…especially when delivered Quickety Cricket (the fastest postman in Pintland) and his trusty horse Prejac ##### Brewers Lane Brewers of Aleforge have been living here for generations ##### Hall…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Providence citizenship",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Library for thousands of gold, making him the wealthiest player that session and earning him Providence citizenship. Guinnie was a street reaper — mowing down Crimson Cutters in every gang confrontation, earning…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Providence Police Department",
+   "aliases": [
+    "Providence Police"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…none caught his attention like the life of The Guardian. The other Kings had been asked by Providence Police and the Aleforge Special Drinkers Unit to investigate a missing persons case that revolved…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Public beheading",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the reincarnation of the Brewmasters Deity. Cedrics rule came to an abrupt end when he was beheaded publicly by those who believed in the old Brewmasters Deity. It is said that the fountain…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Pythagoras",
+   "aliases": [
+    "Pythagorus"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…from luke and Stephans books i was able to figure out two of the three passwords for doors (Pythagorus and Odysseus) but im not sure how they figured out Volatile. Stephan and i went to the server…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "The Pale",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…batches that would send lesser drinkers to a healer's bed. At the top of this hierarchy sits the Pale, the highest-ranking official in the nation, tasked with: - Maintaining order across the…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "The pirate lords",
+   "aliases": [
+    "Pirate Lord"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of men trained in constructing these ships has been lost and only two are functional. The pirate Lord's who sail aboard the cloudrunners are masters of both sea and sky, deftly navigating trade…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "The pit",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Anyways, we searched around for a good while before ultimately finding.. It. We stumbled upon a great pit... After climbing to its depths, we discovered a labyrinth of unimaginable proportions. These…"
+   },
+   "rank": 17,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "PegButt Jr.",
+   "aliases": [
+    "Peg Butt Jr",
+    "PegButt Junior"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of Jameson Pilsner. Pegbutt was just like a father to us all. Just like a son to us. ### PegButt Jr. Will forever live in his father's shadow. He has awfully large horse shoes to fill. ###…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Percy Tapper",
+   "aliases": [
+    "Percy"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…establish ties with the Veilwalkers. This was a controversial decision at the time. Percy Tapper: Died in a brewing accident early into his rule Ingram the Hermit: One of the longest…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Piggly Wiggly",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Willslick ### Head ### Sir Robert CockPower Color Guards ### Cpt. Lincoln Dillydally ### Piggly Wiggly ### Winky Stinky ### Cheff Bigmeat ### Hornithan Buttlube ### Sheriff Edward Cocaine…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Pin the Peen on Rollo",
+   "aliases": [
+    "pin the peen"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Low and behold, I peer out the window and all the other Liquor kings are outside playing pin the Peen on Rollo (a popular kids activity). So I walk out there just to get the lowdown when all of…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Pius' Diary",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…N O P Q R S T U V W m n o p q r s t u v w X Y Z. x y z Numbers: 0 1 2 3 4 5 6 7 8 9 Pius' Diary Cycle 93, Day 1620: Dear Diary, I must once again requit myself of A NUMBER OF FRUSTRATIONS.…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Plundered goods",
+   "aliases": [
+    "plunder"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Thus began the first ocean-bound shop. Xi marketed his shop as being the perfect fence for plundered goods, as no one nation had legal control over the ocean. This was a HUGE success and Xi quickly…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Poopwater's brine",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…bards plenteous sing Hogwilly's mead and Taverna's red wine! The Bastion's whiskey and Poopwater's brine These will mark the trail of legend Until we in paradise dine Verse III - The Goldsun…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Pope",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Chess bar in the Cardinal Circle, and the moderator of the Shot-Chess association. ### Pope Used to be a big time mafia man working at the Buenacera Italian Restaurant on Vanity Street…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Postman",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the APO & PR. never a late delivery especially when delivered Quickety Cricket (the fastest postman in Pintland) and his trusty horse Prejac ##### Brewers Lane Brewers of Aleforge have been…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Powdered gold",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…from the gullet of the slain Leviathan, stirred with spiritweed from Fenwick, and sealed with powdered gold so fine it whispered when poured. They feared its power. Or maybe they feared each other…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Protection-enchanted armor",
+   "aliases": [
+    "protection armor"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…circumstances, was stripped of an iron chestplate as punishment from above. Ben received a full protection-enchanted armor set for arriving late. The investigation unfolded across multiple fronts. The Kings explored…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Providas",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the more reclusive parts of Owe Block, but it currently only has a small following. Providas: Celebrated in Providence on Bloodwake in the 13th keg of stormtide (day 115). It is a commemoration…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Providence Block Market",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…gossip. Don't tell her shit. ### Rachel Zlurs Runs a small leather shop down by the Providence Block Market with very little success due to her unfortunate name. As a push over, she will give almost…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Providence wheat deal",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drunkards of Aleforge something productive to do with their hands. Later turns saw emergency Providence wheat deals when the blight struck, subsidies for new farmers, a re-evaluation of barrel imports (the…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Puke Fartson",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…### Bartenders at T(horny) Thicket Tavern (employed by GBB): ### Beer Getta ### Puke Fartson ### Buck Setts ### Keg Minster ### Buck Setts ### Cheddar ### Fargo Willslick ### Head…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "The Pacific Blocean",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…I can promise a return to a time when Aleforge's name rang across the Gae Strait and over the Pacific Blocean as the greatest name in beer!! Before I cede my remaining time, I'd like us to remember…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "The Plindor Dynasty",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the title to pass by way of blood to his son, Scab Plindor II, this began the short lived Plindor Dynasty. Scab Plindor II: Afflicted by ambition, Plindor II dreamt of being Aleforges savior…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "The power to sober",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…MAA's underground lair. The MAA themselves were found hiding in a cave, where they had the power to sober up their enemies — a horrifying capability. The Kings fought through them regardless, slaughtered…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "The pre-orbital vehicle",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Cycles 10-30: Engines, engineering, navigation complete. Cycles 31-35: Launch platform and pre-orbital vehicle Cycle 36: Launch Cycles 37-40: Floor 0 Completion Cycles 41-45: Throne Room Cycles…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "The Prophet's writings",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a previously invisible hallway opened in the Cloister wall — the passage to New Haven. The Prophet's writings were found upstairs, documenting his years of waiting for their arrival. Edmond Blackmoor's…"
+   },
+   "rank": 34,
+   "percentile": 72.0,
+   "score": 61
+  },
+  {
+   "name": "Peedrick Cocaine Sr.",
+   "aliases": [
+    "Peedrick",
+    "Peedrick Cocaine"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Most duties have hence been replaced by the Castle of Alforge. The first Aleforge Sheriff was Peedrick Cocaine Sr. the current sheriff is Sheriff Edward Cocaine 3. The Color Guard: The Color Guard dates back…"
+   },
+   "rank": 54,
+   "percentile": 94.1,
+   "score": 91
+  },
+  {
+   "name": "Pintland Criminal Court",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…settled, who killed Peg Butt? The case was brought before the highest court in all the isles, the Pintland Criminal Court, located in Providence. The Honorable Judge Buke presided and an outside lot of jurors was…"
+   },
+   "rank": 54,
+   "percentile": 94.1,
+   "score": 91
+  },
+  {
+   "name": "Pope Leo XIV",
+   "aliases": [
+    "Pope Leo"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…victory 2-1. I could give more details about the events that preceded this, chicken jockey, pope leo XIV, King Von, but you'll have to visit Owe Block for that, but you best be wearing blue. Seaside…"
+   },
+   "rank": 54,
+   "percentile": 94.1,
+   "score": 91
+  },
+  {
+   "name": "Presentation room B",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…They called for the Liquor Kings to gather in the halls of Hoegaarden, second floor, presentation room B. Some kind of experiment in anthropology, or sociology, or just straight-up lunacy. I don't…"
+   },
+   "rank": 54,
+   "percentile": 94.1,
+   "score": 91
+  },
+  {
+   "name": "Providence Educational Foundation for Historical Preservation",
+   "aliases": [
+    "Providence Educational Foundation"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…member. The current state and operations of this business are not fully documented. ## Providence Educational Foundation for Historical Preservation / Aleforge Restoration Association (Cultural) Two of the civic…"
+   },
+   "rank": 54,
+   "percentile": 94.1,
+   "score": 91
+  },
+  {
+   "name": "The pub in Gyntonick",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "a night drowned in rye at the pub in Gyntonick",
+    "note": "Where Jack Anqoak robbed a Commodore and framed his brother Rum."
+   },
+   "rank": 54,
+   "percentile": 94.1,
+   "score": 91
+  },
+  {
+   "name": "The Pilsner house",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…other day. I was drunk and Gideon Drake was a bitch (damn I hate that guy) I was heading to the Pilsner house in Aleforge to start day drinking after a long morning of pregaming. Curse the gods above.....my…"
+   },
+   "rank": 60,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "records-only",
+  "prompt": "Name a character who appears only in the Hall of Records",
+  "blurb": "Never once named in the Master Lore Compendium. Only in the after-action reports and in-game books.",
+  "difficulty": "hard",
+  "gem": "Moby",
+  "derive": {
+    "scope": [
+      "liquor-kings",
+      "aleforge-locals",
+      "aleforge-officials",
+      "providence-people",
+      "station-crew",
+      "the-departed",
+      "villains",
+      "scholars-mystics",
+      "tradesfolk",
+      "pirates",
+      "women",
+      "titled",
+      "the-epithets",
+      "dirty-names",
+      "one-name",
+      "writers",
+      "betrayers",
+      "kings-before-six"
+    ],
+    "compendium": 0,
+    "records_min": 1,
+    "exclude": [
+      "Sackbeard's armada",
+      "Sackbeard's undead crew",
+      "The black market traders",
+      "The cannibals",
+      "The Barrel Breakers",
+      "The Bilgrats and Buttplugs",
+      "The Coral-eyed",
+      "The Cloister Beast",
+      "CUMsock",
+      "The Guardian"
+    ]
+  }
+}

@@ -1,0 +1,488 @@
+{
+ "id": "animal-kinds",
+ "prompt": "Name a kind of animal mentioned in the lore",
+ "blurb": "Species, not names: goat, not CUMsock.",
+ "difficulty": "easy",
+ "gem": "Axolotl",
+ "answerCount": 24,
+ "answers": [
+  {
+   "name": "Horse",
+   "aliases": [
+    "Horses"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 10,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…especially when delivered Quickety Cricket (the fastest postman in Pintland) and his trusty horse Prejac ##### Brewers Lane Brewers of Aleforge have been living here for generations #####…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Goat",
+   "aliases": [
+    "Goats"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 4,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…deep breath and scoffed at the proposition. ## Notable Animals ### CUMsock The GOAT ### Prejac Quickety Cricket's trusty horse….speedy too. Always delivering mail almost TOO…"
+   },
+   "rank": 2,
+   "percentile": 4.3,
+   "score": 1
+  },
+  {
+   "name": "Hog",
+   "aliases": [
+    "Hogs"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 5,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…side of the building in an alley way between the estate and the OAM building ##### Freddy Hog's Freaky Hogs Here you can buy the best quality (and the freakiest) hogs in all of Pintland…"
+   },
+   "rank": 3,
+   "percentile": 8.7,
+   "score": 3
+  },
+  {
+   "name": "Fish",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 5,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…gear and such for promises and vows. Whether that be a promise to plant a flower for every fish you catch. Or a vow to be more virtuous. Legend is that those who keep these promises have…"
+   },
+   "rank": 4,
+   "percentile": 15.2,
+   "score": 6
+  },
+  {
+   "name": "Frog",
+   "aliases": [
+    "Frogs"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…must've lost a game worse than I did. The old man lifted the cup. No pebble. Just a single frog turd. I blinked. \"That's... not a rock,\" I said, feeling the weight of dozens of eyes pressing…"
+   },
+   "rank": 4,
+   "percentile": 15.2,
+   "score": 6
+  },
+  {
+   "name": "Dog",
+   "aliases": [
+    "Dogs"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…where I am\" \"I am butt ass naked wondering around this spaceship like an actual retarded dog\" Finally I come out of it. My friends are trying to find. Guiding me through this maze.…"
+   },
+   "rank": 6,
+   "percentile": 21.7,
+   "score": 10
+  },
+  {
+   "name": "Bird",
+   "aliases": [
+    "Birds"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fish. Buke was breaking camp with the best catch of his life hanging from his pocket when a bird of considerable size came out of a darkening sky, sank its talons into him, and carried him…"
+   },
+   "rank": 7,
+   "percentile": 26.1,
+   "score": 13
+  },
+  {
+   "name": "Chicken",
+   "aliases": [
+    "Chickens"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…wearing nike dunks in Owe Block. We lost the battle that night. In the morning we played chicken jockey, a local game about shooting white animals, a parable perhaps? Good thing everyone…"
+   },
+   "rank": 8,
+   "percentile": 37.0,
+   "score": 22
+  },
+  {
+   "name": "Donkey",
+   "aliases": [
+    "Donkeys"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…delivered so fast they don't have time to grow in excitement and anticipation. Horses and Donkeys used by the Six to Travel to Pintland during the Walk of Shame: ### PegButt Most trusted…"
+   },
+   "rank": 8,
+   "percentile": 37.0,
+   "score": 22
+  },
+  {
+   "name": "Kraken",
+   "aliases": [
+    "Krakens"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…We're Desperate or Bored Their fancy brewing tools come wrapped in lace. Ours are built from kraken bone, rusted chain, and spite. We don't want their clean wares or their prayers. We want their…"
+   },
+   "rank": 8,
+   "percentile": 37.0,
+   "score": 22
+  },
+  {
+   "name": "Rat",
+   "aliases": [
+    "Rats"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…fiend, keen as a strumpet's eye for coin. \"Lad nabbed more Veil Walkers' treasures than a dock rat hoards scraps, including the Sword of Passion—a blade so wicked it'd make my vows quiver,…"
+   },
+   "rank": 8,
+   "percentile": 37.0,
+   "score": 22
+  },
+  {
+   "name": "Axolotl",
+   "aliases": [
+    "Axolotls"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…funny lookin' creature in a puddle and thought it was a frog. THE FROG Turns out it was an axolotl. Still ain't sure what that is. but I name it little homie #### Taverna After that we wandered…"
+   },
+   "rank": 12,
+   "percentile": 54.3,
+   "score": 40
+  },
+  {
+   "name": "Cow",
+   "aliases": [
+    "Cows"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…most of my days shootin' arrows at things. Eventually got good enough to shoot a flower off a cows pecker #### Bar Bastion I missed the boat to Bar Bastion 'cause I was asleep under said…"
+   },
+   "rank": 12,
+   "percentile": 54.3,
+   "score": 40
+  },
+  {
+   "name": "Owl",
+   "aliases": [
+    "Owls"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…seen it. Walked them clean cobbled lanes with their twitchy tonic-fiends starin' like barn owls on black powder. But ye want to know what we think of 'em? Good. Sit down, I'll talk. You'll…"
+   },
+   "rank": 12,
+   "percentile": 54.3,
+   "score": 40
+  },
+  {
+   "name": "Shark",
+   "aliases": [
+    "Sharks"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…you old lech, perk up those ears!\" Wagwan's leaning over his sushi bar, eyes flashing like a shark sniffing blood. \"Four strapping lads—Seamus Bonehardy, Guinne, Buke, and Jameson Pilsner,…"
+   },
+   "rank": 12,
+   "percentile": 54.3,
+   "score": 40
+  },
+  {
+   "name": "Butterfly",
+   "aliases": [
+    "Butterflys"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…might never see such pretty stuff again. One day I enjoying the weather and I saw a beautiful butterfly, real shiny like a coin, and I chased it for a while… started runnin and I fell straight into…"
+   },
+   "rank": 16,
+   "percentile": 82.6,
+   "score": 75
+  },
+  {
+   "name": "Cat",
+   "aliases": [
+    "Cats"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…fear, pride, and bandanas. Every alley is a trap. Every corner got eyes. even their dogs and cats are strapped. Before I joined a crew we met up with WagWan who was like a blood hound, sniffing…"
+   },
+   "rank": 16,
+   "percentile": 82.6,
+   "score": 75
+  },
+  {
+   "name": "Crab",
+   "aliases": [
+    "Crabs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…want their secrets. And trust me, one day some lucky crew's gonna crack that lake port like a crab leg and find out what really fuels those never-sleepin' bastards. They Call Us Sinners. We…"
+   },
+   "rank": 16,
+   "percentile": 82.6,
+   "score": 75
+  },
+  {
+   "name": "Deer",
+   "aliases": [
+    "Deers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tavern, this was placed by Sackbeard and his crew upon killing the beast. The second is a large deer like head which has become overgrown. The interior of the skull has a small altar within and…"
+   },
+   "rank": 16,
+   "percentile": 82.6,
+   "score": 75
+  },
+  {
+   "name": "Eel",
+   "aliases": [
+    "Eels"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Pilsner? They hitched with my Seaside Circus, Zara's Jamaican bomb-tossers, slick as greased eels. Mon, the chaos they kicked up—shootouts, relic grabs, and a mad hunt to nab Gobbler kneeling…"
+   },
+   "rank": 16,
+   "percentile": 82.6,
+   "score": 75
+  },
+  {
+   "name": "Lion",
+   "aliases": [
+    "Lions"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…where the torches burn low, I gave my heart to two Kings, let my love overflow. Buke, your lion's strength, that chiseled warrior's frame, Lit a fire in my chest, and set my peen aflame.…"
+   },
+   "rank": 16,
+   "percentile": 82.6,
+   "score": 75
+  },
+  {
+   "name": "Mule",
+   "aliases": [
+    "Mules"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…his father's shadow. He has awfully large horse shoes to fill. ### Shitty McFarts Slow Mule bred from a horse and donkey ### Farty McShits Hornse…..McFarts half brother ### Circ…"
+   },
+   "rank": 16,
+   "percentile": 82.6,
+   "score": 75
+  },
+  {
+   "name": "Wolf",
+   "aliases": [
+    "Wolfs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…journey alone with my donkey, Circ. He's a good boy. We crossed shiiiiit icy cliffs, fought off wolves, and huddled by fires until we got there. Hes such a good listener. I love my bvoy circ and…"
+   },
+   "rank": 16,
+   "percentile": 82.6,
+   "score": 75
+  },
+  {
+   "name": "Worm",
+   "aliases": [
+    "Worms"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…the dirt next to some fellas with some funny names. We all said hello and I showed them the worm I found. His name was Clancy. #### Hogwilly's We built our first tavern in the woods. we…"
+   },
+   "rank": 16,
+   "percentile": 82.6,
+   "score": 75
+  }
+ ]
+}

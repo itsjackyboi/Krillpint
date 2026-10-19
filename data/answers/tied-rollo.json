@@ -1,0 +1,400 @@
+{
+ "id": "tied-rollo",
+ "prompt": "Name something tied to Rollo",
+ "blurb": "The Gilded Tankard's tavern hand, his Newports and his many, many exes.",
+ "difficulty": "easy",
+ "gem": "The ick",
+ "answerCount": 19,
+ "answers": [
+  {
+   "name": "Jameson Pilsner",
+   "aliases": [
+    "JP",
+    "Japes",
+    "Pilsner",
+    "Jamison Pilsner",
+    "Slayer of Sobriety",
+    "Jameshon Pilshner"
+   ],
+   "mentions": {
+    "total": 101,
+    "compendium": 52,
+    "records": 49
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Buke",
+   "aliases": [
+    "Luke"
+   ],
+   "mentions": {
+    "total": 100,
+    "compendium": 42,
+    "records": 58
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run…"
+   },
+   "rank": 2,
+   "percentile": 5.6,
+   "score": 1
+  },
+  {
+   "name": "Glub Tuppus Wepple",
+   "aliases": [
+    "Wepple",
+    "Glub",
+    "Glub Tuppus"
+   ],
+   "mentions": {
+    "total": 35,
+    "compendium": 23,
+    "records": 12
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…away. This upset Blackmoor and after sitting in his anger and drinking at the Brewery owned by Glub Tuppus Wepple he went back to the cloister in a drunken stupor and killed the old prophet. He left a book…"
+   },
+   "rank": 3,
+   "percentile": 11.1,
+   "score": 4
+  },
+  {
+   "name": "Gilded Tankard",
+   "aliases": [
+    "The Tankard"
+   ],
+   "mentions": {
+    "total": 23,
+    "compendium": 19,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and tavern founded by Glub Tuppus Wepple. A newcomer named Gideon Drake rose to…"
+   },
+   "rank": 4,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Guinnie",
+   "aliases": [
+    "Steph O'Guinness"
+   ],
+   "mentions": {
+    "total": 36,
+    "compendium": 17,
+    "records": 19
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order,…"
+   },
+   "rank": 5,
+   "percentile": 22.2,
+   "score": 10
+  },
+  {
+   "name": "Old Salty",
+   "aliases": [
+    "Salty"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 10,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "unofficial residence at the Gilded Tankard",
+    "note": "Officially a Shanty Town resident, but practically lives at the Gilded Tankard."
+   },
+   "rank": 6,
+   "percentile": 27.8,
+   "score": 15
+  },
+  {
+   "name": "Susan Plinket",
+   "aliases": [
+    "Plinket",
+    "Susan",
+    "Jathan Round"
+   ],
+   "mentions": {
+    "total": 23,
+    "compendium": 14,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"an ick\". He was somewhat unfairly legally commanded into a relationship with MAMA leader, Susan Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport…"
+   },
+   "rank": 7,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "Fentmaxxer",
+   "aliases": [
+    "Fentmaxer"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher.…"
+   },
+   "rank": 8,
+   "percentile": 38.9,
+   "score": 24
+  },
+  {
+   "name": "Newports",
+   "aliases": [
+    "Fent",
+    "Fentmaxxer's Newports",
+    "Newport"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport cigarettes and will often reveal information if presented with some. He is a sensitive soul…"
+   },
+   "rank": 9,
+   "percentile": 44.4,
+   "score": 30
+  },
+  {
+   "name": "Anything for a Newport",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Gilded Tankard and Shanty Town. They are presented here as primary source documents. ## Anything for a Newport Attributed to Old Salty. A scathing ballad about Luke and JP's associations with Rollo.…"
+   },
+   "rank": 10,
+   "percentile": 61.1,
+   "score": 48
+  },
+  {
+   "name": "Rollo's Love Letter",
+   "aliases": [
+    "love letter"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…down with me. Take your gold and fuck off. Some \"religious piety\" you display. -XX Rollos Love Letter Dearest Jameson Pilsner, Haha it sure has been a while. I hope your meat is well. I would…"
+   },
+   "rank": 10,
+   "percentile": 61.1,
+   "score": 48
+  },
+  {
+   "name": "Rollo's Sex Whip",
+   "aliases": [
+    "Sex Whip"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…didn't sniff. Richard Cumhardy's Seaman Eyeglass: Lens clouded with trauma. Rollo's Sex Whip: Still warm, unfortunately. I rallied a random horse and charged into the dark depth…"
+   },
+   "rank": 10,
+   "percentile": 61.1,
+   "score": 48
+  },
+  {
+   "name": "The Heart Learns to Mend",
+   "aliases": [
+    "Heart Learns to Mend"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fright. A storm of fangs, a thousand blades, It drank our dreams in midnight's grave. ## The Heart Learns to Mend Attributed to Rollo. A lament about Buke and JP. In the Tavern's haze, where the torches…"
+   },
+   "rank": 10,
+   "percentile": 61.1,
+   "score": 48
+  },
+  {
+   "name": "The Rollo op-ed",
+   "aliases": [
+    "op-ed",
+    "Pitiable Everyman"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…ahead. Vote for Buke. A leader with a stronger pour.\" - Buke OP ED - Rollo is our Pitiable Everyman with some heroic traits - Rollo is a true ale forge citizen - He likes to drink just like…"
+   },
+   "rank": 10,
+   "percentile": 61.1,
+   "score": 48
+  },
+  {
+   "name": "Pin the Peen on Rollo",
+   "aliases": [
+    "pin the peen"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Low and behold, I peer out the window and all the other Liquor kings are outside playing pin the Peen on Rollo (a popular kids activity). So I walk out there just to get the lowdown when all of…"
+   },
+   "rank": 15,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "Rollo Journal",
+   "aliases": [
+    "Rollo's journal",
+    "Rollo's journals"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…significant news has come out of the business that would correspond with such a large investment. Rollo Journal 1 (SOA 2) Its Him, its always been Him. I cant stand the thought of living without his thick…"
+   },
+   "rank": 15,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "Rollo's Thoughts",
+   "aliases": [
+    "Rollos Thoughts"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…\"Kings\" are simply drunk imposters, clowns pretending to rule. Revolution is neigh. -J.R. Rollos Thoughts (SOA 4) Lets not get too ahead of ourselves here. Some of the other Liquor Kings are lookers…"
+   },
+   "rank": 15,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "Tavern hand",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…large influx of money has now hit the Aleforge ledger. ### Rollo Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends and situationships as often…"
+   },
+   "rank": 15,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "The ick",
+   "aliases": [
+    "an ick"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge but broke up with him after seeing him get beat up by Jack Anqoak, he described it as \"an ick\". He was somewhat unfairly legally commanded into a relationship with MAMA leader, Susan Plinket.…"
+   },
+   "rank": 15,
+   "percentile": 88.9,
+   "score": 84
+  }
+ ]
+}

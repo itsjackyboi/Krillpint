@@ -1,0 +1,28 @@
+{
+  "id": "afflictions",
+  "prompt": "Name a curse, sickness or affliction",
+  "blurb": "What ails the Isles: rot, blight, curses, addictions and one very bad tummy ache.",
+  "difficulty": "medium",
+  "gem": "Dreams that scream",
+  "answers": [
+    {"name": "The Rot", "aliases": ["Rot"], "count": ["re:\\b(ROT|Rot)\\b"], "obscurity": 2},
+    {"name": "Soullessness", "aliases": ["soulless"], "count": ["re:(?i)soulless"]},
+    {"ref": "The blight", "obscurity": 1},
+    {"ref": "Famine and disease"},
+    {"name": "Cardiomyopathy", "aliases": ["heart condition"], "count": ["re:(?i)cardiomyopathy"]},
+    {"name": "Lung cancer", "aliases": ["cancer"], "count": ["re:(?i)lung cancer"]},
+    {"name": "Addiction", "aliases": ["addicted"], "count": ["re:(?i)addict"]},
+    {"name": "Alcohol poisoning", "aliases": [], "count": ["re:(?i)alcohol poisoning"]},
+    {"name": "Hangovers", "aliases": ["hangover"], "count": ["re:(?i)hangovers?"]},
+    {"ref": "Cursed with eternal life"},
+    {"name": "Sobriety", "aliases": ["sobriety's curse", "sober"], "count": ["re:(?i)\\bsobriety\\b"]},
+    {"name": "Rotting teeth", "aliases": [], "count": ["re:(?i)rotting teeth"]},
+    {"name": "Dry barrels", "aliases": [], "count": ["re:(?i)dry barrels"]},
+    {"name": "Dreams that scream", "aliases": [], "count": ["re:(?i)dreams that scream"], "obscurity": 4},
+    {"name": "The underground tummy ache", "aliases": ["tummy ache"], "count": ["re:(?i)tummy ache"], "obscurity": 5},
+    {"name": "Nightmares", "aliases": ["nightmare"], "count": ["re:(?i)nightmares?"]},
+    {"name": "Madness", "aliases": ["insanity", "insane"], "count": ["re:(?i)\\bmadness\\b|\\binsane\\b"]},
+    {"ref": "The green sludge"},
+    {"name": "Radiation", "aliases": ["irradiated"], "count": ["re:(?i)irradiated|radioactive"]}
+  ]
+}

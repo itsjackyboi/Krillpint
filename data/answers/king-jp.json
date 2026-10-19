@@ -1,0 +1,531 @@
+{
+ "id": "king-jp",
+ "prompt": "Name something tied to Jameson Pilsner",
+ "blurb": "JP: born in a whiskey-soaked field, sworn against IPAs, convicted of killing Peg Butt.",
+ "difficulty": "easy",
+ "gem": "Max Trans",
+ "answerCount": 26,
+ "answers": [
+  {
+   "name": "Rollo",
+   "aliases": [],
+   "mentions": {
+    "total": 45,
+    "compendium": 22,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…happy to buy these bonds and a large influx of money has now hit the Aleforge ledger. ### Rollo Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "CUMsock",
+   "aliases": [
+    "Cumsock",
+    "Cum sock",
+    "the goat"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 9,
+    "records": 5
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Guster took a deep breath and scoffed at the proposition. ## Notable Animals ### CUMsock The GOAT ### Prejac Quickety Cricket's trusty horse….speedy too. Always delivering mail…"
+   },
+   "rank": 2,
+   "percentile": 4.0,
+   "score": 1
+  },
+  {
+   "name": "Peg Butt",
+   "aliases": [
+    "PegButt",
+    "Pegbutt"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 10,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Horses and Donkeys used by the Six to Travel to Pintland during the Walk of Shame: ### PegButt Most trusted horse ridden by man. One couldn't ask for a better horse…. He.was brutally murdered…"
+   },
+   "rank": 3,
+   "percentile": 8.0,
+   "score": 2
+  },
+  {
+   "name": "Seaside Circus",
+   "aliases": [
+    "Seasiders",
+    "The Circus"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 2,
+    "records": 15
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner,…"
+   },
+   "rank": 4,
+   "percentile": 12.0,
+   "score": 4
+  },
+  {
+   "name": "IPA",
+   "aliases": [
+    "IPAs",
+    "India Pale Ale"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 10,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…isolation is beginning to crack. The SBN is infamous for one thing above all: brewing the worst IPAs known to exist , bitter, rancid, and utterly beloved by their own people. Their entire culture,…"
+   },
+   "rank": 5,
+   "percentile": 16.0,
+   "score": 6
+  },
+  {
+   "name": "Jameson Pilsner's Ass Flask",
+   "aliases": [
+    "Ass Flask",
+    "ass-flask"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and missing his mark. His friends moved on—solving, succeeding, While Jameson wandered, ass-flask bleeding. Verse VI – Redemption Brewing At last, they found him, the prodigal mess,…"
+   },
+   "rank": 6,
+   "percentile": 20.0,
+   "score": 9
+  },
+  {
+   "name": "Amber Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels and Amber Ale (both drunks). They lived on a far away isolated island unknown to most named \"The Coors…"
+   },
+   "rank": 7,
+   "percentile": 24.0,
+   "score": 12
+  },
+  {
+   "name": "The Coors Golden Isles",
+   "aliases": [
+    "Coors Golden Isles",
+    "Golden Isle"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…seconds, cementing my place in the competition. ### Jameson Pilsner (JP) — Captain of the Coors Golden Isles Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels…"
+   },
+   "rank": 8,
+   "percentile": 28.0,
+   "score": 15
+  },
+  {
+   "name": "Japes",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…5 strangers, a surprisingly common event for the man who introduced himself at the fire as Japes. He gave his initials as JP and admitted he did not know what they stood for. His parents…"
+   },
+   "rank": 9,
+   "percentile": 38.0,
+   "score": 23
+  },
+  {
+   "name": "Mickey's Pipe Club",
+   "aliases": [
+    "Pipe Club"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…spectacular sequence, died first in the mines, lost everything, then hired a hit through Mickey's Pipe Club to have Seamus killed in revenge. The thread connecting all of it was Sexton Gobbler, who…"
+   },
+   "rank": 9,
+   "percentile": 38.0,
+   "score": 23
+  },
+  {
+   "name": "Slayer of Sobriety",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Face-first in fireball, banned from the yard. \"Useless drunk!\" the townsfolk sneered, \"The Slayer of Sobriety? More like Slayed by Beer.\" Verse II – The Sober Oath But a vow he made in the ruins…"
+   },
+   "rank": 9,
+   "percentile": 38.0,
+   "score": 23
+  },
+  {
+   "name": "The whiskey-soaked field",
+   "aliases": [
+    "whiskey field",
+    "born in a field"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…religion to them. They found the young Jameson after an accident they had at their homestead, spilling gallons of whisky and beer into an otherwise infertile field. Yet after the spill the field became lush and…"
+   },
+   "rank": 9,
+   "percentile": 38.0,
+   "score": 23
+  },
+  {
+   "name": "Drunkest of Them All",
+   "aliases": [
+    "JP Drunkest of Them All"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…trials, that's all the towns people speak about anymore They call me a useless drunk, the \"drunkest of them all\" My name has been ridiculed the last year. Because of that I have dedicated the last year…"
+   },
+   "rank": 13,
+   "percentile": 54.0,
+   "score": 40
+  },
+  {
+   "name": "Pilsner's Lament",
+   "aliases": [
+    "Pilsners Lament",
+    "The Rumrunners Rant"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…high and eyes glazed over… We remember him. Jameson Pilsner, may he never be sober ## Pilsners Lament (the rumrunners rant) Shanty: \"Liver's End\" Oh the Liver's End sails past the moons,…"
+   },
+   "rank": 13,
+   "percentile": 54.0,
+   "score": 40
+  },
+  {
+   "name": "The Liver's End",
+   "aliases": [
+    "Liver's End",
+    "Livers End"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jameson Pilsner, may he never be sober ## Pilsners Lament (the rumrunners rant) Shanty: \"Liver's End\" Oh the Liver's End sails past the moons, With rum in her sails and death in her tunes.…"
+   },
+   "rank": 13,
+   "percentile": 54.0,
+   "score": 40
+  },
+  {
+   "name": "The Rumrunners",
+   "aliases": [
+    "Rumrunners",
+    "Pilsner's men"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…over… We remember him. Jameson Pilsner, may he never be sober ## Pilsners Lament (the rumrunners rant) Shanty: \"Liver's End\" Oh the Liver's End sails past the moons, With rum in her…"
+   },
+   "rank": 13,
+   "percentile": 54.0,
+   "score": 40
+  },
+  {
+   "name": "Bluechew",
+   "aliases": [
+    "Blue Chew"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the mayoral election. Jameson Pilsner (JP) — Found Cumsock the goat in the sewers. Found Bluechew and Super Lube on Day 3. Died three times in the final battle, resurrected each time by Aleforge…"
+   },
+   "rank": 17,
+   "percentile": 64.0,
+   "score": 51
+  },
+  {
+   "name": "A Lesson Learned from Sobriety",
+   "aliases": [
+    "Lesson Learned from Sobriety"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…foes behind, full kegs ahead, Vote for Buke — A STRONGER POUR, till we're all dead! ## A Lesson Learned from Sobriety Pilsners After Action Report of LKT Verse I – The Shame Before Glory In a town soaked…"
+   },
+   "rank": 18,
+   "percentile": 80.0,
+   "score": 72
+  },
+  {
+   "name": "CUMsock zoo",
+   "aliases": [
+    "zoo for CUMsock",
+    "Cumsock zoo"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Declare the day of the attack as a national holiday. \"Ale Day\"-- Happy hour all day 4. Open a zoo for CUMsock to live out his days happily- so that we may never forget John Cum I believe a drunk…"
+   },
+   "rank": 18,
+   "percentile": 80.0,
+   "score": 72
+  },
+  {
+   "name": "Jack Daniels",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Golden Isles Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels and Amber Ale (both drunks). They lived on a far away isolated island unknown to most named…"
+   },
+   "rank": 18,
+   "percentile": 80.0,
+   "score": 72
+  },
+  {
+   "name": "Lifetime sobriety",
+   "aliases": [
+    "sentenced to sobriety"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jagerbauhm's case and Jameson Pilsner was found guilty of the murder of Peg Butt. He was sentenced to lifetime sobriety and a stint in the Aleforge jail. # VI. CULTURE, RELIGION & BUSINESS ## The Drunken Trials…"
+   },
+   "rank": 18,
+   "percentile": 80.0,
+   "score": 72
+  },
+  {
+   "name": "Max Trans",
+   "aliases": [
+    "JP's bird"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick Dickless # # IV. WORLD HISTORY…"
+   },
+   "rank": 18,
+   "percentile": 80.0,
+   "score": 72
+  },
+  {
+   "name": "Stealing the armor",
+   "aliases": [
+    "stole the armor"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Brewmaster Deity, leading the Aleforge we know today. Jameson Pilsner was successful in stealing from the fellow kings and delivering the bounty to the kidnappers. Cumsock was set free. The other Kings did hold…"
+   },
+   "rank": 18,
+   "percentile": 80.0,
+   "score": 72
+  },
+  {
+   "name": "Three-and-a-half day work week",
+   "aliases": [
+    "3 and a half day work week",
+    "3.5 day work week",
+    "three and a half day work week"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…King, Aleforge will prosper. My plans as Mayor 1. Build a John Cum Memorial 2. Make a 3 and a half day work week. With a mandatory work break from noon-3pm (time for more drinking) 3. Declare the day of…"
+   },
+   "rank": 18,
+   "percentile": 80.0,
+   "score": 72
+  },
+  {
+   "name": "Ale Day",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Declare the day of the attack as a national holiday. \"Ale Day\"",
+    "note": "Jameson Pilsner's mayoral promise: a national holiday on the day of the attack, with happy hour all day."
+   },
+   "rank": 25,
+   "percentile": 98.0,
+   "score": 97
+  },
+  {
+   "name": "Super Lube",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…election. Jameson Pilsner (JP) — Found Cumsock the goat in the sewers. Found Bluechew and Super Lube on Day 3. Died three times in the final battle, resurrected each time by Aleforge ale. Pro-Fenwick.…"
+   },
+   "rank": 25,
+   "percentile": 98.0,
+   "score": 97
+  }
+ ]
+}

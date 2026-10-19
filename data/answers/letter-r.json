@@ -1,0 +1,812 @@
+{
+ "id": "letter-r",
+ "prompt": "Name anything from the lore starting with R",
+ "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+ "difficulty": "medium",
+ "gem": "The ransom note",
+ "answerCount": 42,
+ "answers": [
+  {
+   "name": "Rollo",
+   "aliases": [],
+   "mentions": {
+    "total": 45,
+    "compendium": 22,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…happy to buy these bonds and a large influx of money has now hit the Aleforge ledger. ### Rollo Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Roto Kaiishi",
+   "aliases": [
+    "Roto",
+    "Rotto",
+    "Roto Kaishi"
+   ],
+   "mentions": {
+    "total": 69,
+    "compendium": 64,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Name — A settlement on the mainland, site of former pirate crewmembers' second lives.. - Roto Kaiishi — The famous floating merchant city anchored to the ocean floor. The only laws here…"
+   },
+   "rank": 2,
+   "percentile": 2.4,
+   "score": 0
+  },
+  {
+   "name": "The Rotted Soul",
+   "aliases": [
+    "Rotten King",
+    "The Rotten King"
+   ],
+   "mentions": {
+    "total": 37,
+    "compendium": 33,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…further South is a small river which drains to the sea. Some scholars believe the remains of the Rotted Soul may rest here, though until recently this was unknown. The Kings discovered the true location…"
+   },
+   "rank": 3,
+   "percentile": 4.9,
+   "score": 1
+  },
+  {
+   "name": "Rum (his brother)",
+   "aliases": [
+    "Rum"
+   ],
+   "mentions": {
+    "total": 19,
+    "compendium": 12,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…To us in Providence, Shanty Town is a raucous pit of pirate revelry, its streets a maze of rum-soaked taverns and cutlass clashes, lit by the flicker of stolen lanterns. We trade little…"
+   },
+   "rank": 4,
+   "percentile": 7.3,
+   "score": 2
+  },
+  {
+   "name": "The Rot",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…body, steadfast in mind and pure of soul, lest they join the dead and leave their soul to Rot with Him. The labyrinth lies beneath Hoegaarden, deep below the catacombs, sealed for…"
+   },
+   "rank": 5,
+   "percentile": 9.8,
+   "score": 3
+  },
+  {
+   "name": "Reverend Ambrose Ravenscroft",
+   "aliases": [
+    "Ravenscroft",
+    "Reverend Ambrose"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fear and died a slow and humbling death, warning others of the terror they would endure. ### Reverend Ambrose Ravenscroft The esteemed reverend originally came to Aleforge at the request of his superiors,…"
+   },
+   "rank": 6,
+   "percentile": 13.4,
+   "score": 5
+  },
+  {
+   "name": "Richard 'Cumhardy' Seaman",
+   "aliases": [
+    "Richard Seaman",
+    "Richard Cumhardy",
+    "Richard"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…can stay in the cloister before new residents are inevitably drawn to it's mysteries. ### Richard 'Cumhardy' Seaman (DECEASED) Richard had recently washed ashore aleforge on wreckage from…"
+   },
+   "rank": 6,
+   "percentile": 13.4,
+   "score": 5
+  },
+  {
+   "name": "Rye",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…nothing but the sea and drink, and his catalog of the latter was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders.…"
+   },
+   "rank": 8,
+   "percentile": 17.1,
+   "score": 7
+  },
+  {
+   "name": "Raise the Crown, Raise the Cup",
+   "aliases": [
+    "Raise the Crown"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…guide to the shore Six will make the journey final And knock on fate's perilous door ## Raise the Crown, Raise the Cup An Anthem For The Drunken Trials [Verse 1] Gather close and raise your cups,…"
+   },
+   "rank": 9,
+   "percentile": 25.6,
+   "score": 13
+  },
+  {
+   "name": "Rat",
+   "aliases": [
+    "Rats"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…fiend, keen as a strumpet's eye for coin. \"Lad nabbed more Veil Walkers' treasures than a dock rat hoards scraps, including the Sword of Passion—a blade so wicked it'd make my vows quiver,…"
+   },
+   "rank": 9,
+   "percentile": 25.6,
+   "score": 13
+  },
+  {
+   "name": "Rations",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…to find this, We found a way to distill vodka with the potatoes that they used to send as rations. I think they caught on and they removed potatoes from the inventory order, but us maintenance…"
+   },
+   "rank": 9,
+   "percentile": 25.6,
+   "score": 13
+  },
+  {
+   "name": "Recovery key",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…than those updates, however, the process is the same. Head of security will come around with recovery keys and show you the decryption process as soon as the change goes into effect. -Pius Earth…"
+   },
+   "rank": 9,
+   "percentile": 25.6,
+   "score": 13
+  },
+  {
+   "name": "Resuscitation stash",
+   "aliases": [
+    "resuscitation stashes"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…blockage has been cleared. helpful tip hey I passed out the other day on a floor without resuscitation stashes and got like all my stuff pickpocketed. Make sure you use the resuscitation stashes for…"
+   },
+   "rank": 9,
+   "percentile": 25.6,
+   "score": 13
+  },
+  {
+   "name": "The rumors",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…but unfortunately knew that the liquor kings would eventually be fated to kill the beast. Rumors of the beast's existence spread across the land and great adventurers came to try to kill…"
+   },
+   "rank": 9,
+   "percentile": 25.6,
+   "score": 13
+  },
+  {
+   "name": "Radiation",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…ship's got jokes. 11 PM Found a hazmat suit. Ugly thing, but it let me get through the irradiated sections near the valve controls. Luke and Jack were manning the control valve room. They…"
+   },
+   "rank": 15,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Realm of the Soulless",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…economic collapse, political uprisings and the arrival of a cursed crew arriving from the Realm of the Soulless seeking revenge on Gideon Drake. This lead to the banishment of Gideon Drake to Vodkonia.…"
+   },
+   "rank": 15,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Rec room",
+   "aliases": [
+    "recreation room"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…cryofrozen in liquor. I stumble into the room drunker than i have ever been before(seems like a rec room and kitchen). i can hear the faint whispers of my friends through the walls. I gather myself,…"
+   },
+   "rank": 15,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Red-earth mineral",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cardinal Addy's voice booms o'er the town, calling all to prayer with a bell forged from Roto's red-earth mineral, its clang a holy summons that sets the heart aflutter. 'Tis said the tonic's magic…"
+   },
+   "rank": 15,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Relic king",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Wagwan gifted him the Wagwan's Whopper, a mace of considerable impact force. Buke was the true relic king of the session, collecting more Veilwalker artifacts than anyone and claiming the first Black…"
+   },
+   "rank": 15,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Rollo's Love Letter",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…down with me. Take your gold and fuck off. Some \"religious piety\" you display. -XX Rollos Love Letter Dearest Jameson Pilsner, Haha it sure has been a while. I hope your meat is well. I would…"
+   },
+   "rank": 15,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Rollo's Sex Whip",
+   "aliases": [
+    "Rollo's whip"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…didn't sniff. Richard Cumhardy's Seaman Eyeglass: Lens clouded with trauma. Rollo's Sex Whip: Still warm, unfortunately. I rallied a random horse and charged into the dark depth…"
+   },
+   "rank": 15,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Rotting teeth",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…from Fenwick lands. Those lads often don't come back. Or if they do, they're cursed — with rotting teeth, dry barrels, or dreams that scream. There's whispers now that the Veilwalkers have marked…"
+   },
+   "rank": 15,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "The receipts",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…about to lose a lot more than money stupid bitch. Watch your back dumbass. -Jack Anqoak Receipts (SOA 5) RECEIPTS: Gideon Drake: +5 artifacts -500 gold Black Market Traders: +500 gold…"
+   },
+   "rank": 15,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "The relic hunt",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…explosive-specialists). What followed was a sprawling urban adventure involving gang warfare, relic hunting, and the unmasking of a corrupt Sexton. Seamus was a relic-hunting machine, navigating…"
+   },
+   "rank": 15,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "The Rollo op-ed",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…ahead. Vote for Buke. A leader with a stronger pour.\" - Buke OP ED - Rollo is our Pitiable Everyman with some heroic traits - Rollo is a true ale forge citizen - He likes to drink just like…"
+   },
+   "rank": 15,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "The Rumrunners",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…over… We remember him. Jameson Pilsner, may he never be sober ## Pilsners Lament (the rumrunners rant) Shanty: \"Liver's End\" Oh the Liver's End sails past the moons, With rum in her…"
+   },
+   "rank": 15,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Rachel Zlurs's leather shop",
+   "aliases": [
+    "Rachel Zlurs"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…being the \"most honest woman\" in Providence and terrible gossip. Don't tell her shit. ### Rachel Zlurs Runs a small leather shop down by the Providence Block Market with very little success due…"
+   },
+   "rank": 27,
+   "percentile": 63.4,
+   "score": 50
+  },
+  {
+   "name": "Record of the Grand Council",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…whatsoever to document what happened there. That silence, I think, is its own kind of answer. Record of the Grand Council, Year 340 of the Second Dynasty (5 pages) — Ceremonial Register, Court of Lagen Present and…"
+   },
+   "rank": 28,
+   "percentile": 80.5,
+   "score": 72
+  },
+  {
+   "name": "Richard Cumhardy's Seaman Eyeglass",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…regret. Jameson Pilsner's Ass Flask: I didn't ask. I didn't sniff. Richard Cumhardy's Seaman Eyeglass: Lens clouded with trauma. Rollo's Sex Whip: Still warm, unfortunately. I rallied…"
+   },
+   "rank": 28,
+   "percentile": 80.5,
+   "score": 72
+  },
+  {
+   "name": "Robert Watson-Watt",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…+$1,000,000 Max Knott: +$800,000 Karl Jansky: +$5,000,000 Edwin Armstrong: +$3,000,000 Robert Watson-Watt: +$8,000,000 Roy Plunkett: +$8,000,000 Expenses ------------------- Maintenance Materials:…"
+   },
+   "rank": 28,
+   "percentile": 80.5,
+   "score": 72
+  },
+  {
+   "name": "Roderick Hennessany",
+   "aliases": [
+    "Roderick",
+    "Roderick Hennessy"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…entire event by accident. He was unaware that he was crowned king until the next morning Roderick Hennessany: Negotiated a peace between the warring farmers clan and brewers guild. Some view this as…"
+   },
+   "rank": 28,
+   "percentile": 80.5,
+   "score": 72
+  },
+  {
+   "name": "Rollo Journal",
+   "aliases": [
+    "Rollo's journal",
+    "Rollo's journals"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…significant news has come out of the business that would correspond with such a large investment. Rollo Journal 1 (SOA 2) Its Him, its always been Him. I cant stand the thought of living without his thick…"
+   },
+   "rank": 28,
+   "percentile": 80.5,
+   "score": 72
+  },
+  {
+   "name": "Rollo's Thoughts",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…\"Kings\" are simply drunk imposters, clowns pretending to rule. Revolution is neigh. -J.R. Rollos Thoughts (SOA 4) Lets not get too ahead of ourselves here. Some of the other Liquor Kings are lookers…"
+   },
+   "rank": 28,
+   "percentile": 80.5,
+   "score": 72
+  },
+  {
+   "name": "Roto Free Trade Deal",
+   "aliases": [
+    "Roto trade deal"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…promote more competition so they are not reliant on one source of wheat for all of their ale. Roto Free Trade Deal: Gideon negotiated with the traders of Roto to promote mostly free trade of key resources.…"
+   },
+   "rank": 28,
+   "percentile": 80.5,
+   "score": 72
+  },
+  {
+   "name": "Roto National Anthem",
+   "aliases": [
+    "Roto Anthem"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…From tankard's spill to Rollo's bed, Ye're Aleforge's shame, and you give bad head! ## Roto National Anthem In Roto's ports, the gold did flow, Our smugglers danced where grog did glow. With wit…"
+   },
+   "rank": 28,
+   "percentile": 80.5,
+   "score": 72
+  },
+  {
+   "name": "Rotten Blade",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…frequency of something that has ended a great many lives and remembers each one. I held his blade, the Rotten Blade, which is exactly as pleasant to carry as the name suggests. I wore his chestplate, still…"
+   },
+   "rank": 28,
+   "percentile": 80.5,
+   "score": 72
+  },
+  {
+   "name": "Roy Plunkett",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Karl Jansky: +$5,000,000 Edwin Armstrong: +$3,000,000 Robert Watson-Watt: +$8,000,000 Roy Plunkett: +$8,000,000 Expenses ------------------- Maintenance Materials: -$40,000,000 Food &…"
+   },
+   "rank": 28,
+   "percentile": 80.5,
+   "score": 72
+  },
+  {
+   "name": "Rum Ridge",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…partly due to these mountains and their religious superstitions about what lay beyond them. - Rum Ridge — A lone peak which separates Shanty Town from the Hoegaarden Plains. Previously, this was…"
+   },
+   "rank": 28,
+   "percentile": 80.5,
+   "score": 72
+  },
+  {
+   "name": "The rap competition",
+   "aliases": [
+    "rap battle",
+    "rap contest"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Wagwan's afterwards to take the edge off. Littl did I know wagwan would have us competing in a rap competition. Homie after homie, the bars kept getting better. I had to step up to the plate after embarrassing…"
+   },
+   "rank": 28,
+   "percentile": 80.5,
+   "score": 72
+  },
+  {
+   "name": "The rusted key",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…than he was comfortable knowing. His body hung from the rafters and in his pocket was an old rusted key which at the time seemed like a stroke of luck. I know better now. From there we went…"
+   },
+   "rank": 28,
+   "percentile": 80.5,
+   "score": 72
+  },
+  {
+   "name": "Rudimentary tools",
+   "aliases": [
+    "rudimentary implements"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…USING THIS UPGRADE BENCH TO CREATE DANGEROUS WEAPONS, YOU WILL HAVE YOUR TOOLS REPLACED WITH RUDIMENTARY IMPLEMENTS WITH WHICH YOU WILL BE EXPECTED TO FULFILL THE SAME DUTIES. Hazmat Guide Hazmat Suit…"
+   },
+   "rank": 41,
+   "percentile": 97.6,
+   "score": 96
+  },
+  {
+   "name": "The ransom note",
+   "aliases": [
+    "ransom letter"
+   ],
+   "mentions": {
+    "total": 0,
+    "compendium": 0,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "If you ever want to see your silly little friend named CUMsock ever again",
+    "note": "Sent to Jameson Pilsner when CUMsock was kidnapped."
+   },
+   "rank": 42,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

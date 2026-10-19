@@ -1,0 +1,1064 @@
+{
+ "id": "letter-d",
+ "prompt": "Name anything from the lore starting with D",
+ "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+ "difficulty": "medium",
+ "gem": "Double blicky maneuver",
+ "answerCount": 56,
+ "answers": [
+  {
+   "name": "The Drunken Trials",
+   "aliases": [],
+   "mentions": {
+    "total": 53,
+    "compendium": 46,
+    "records": 7
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan),…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Dmitri",
+   "aliases": [
+    "Dimitri",
+    "Dmtri",
+    "Dimtri",
+    "Dimitri the Space Boy",
+    "Dimitri's grave",
+    "Dimitri: The Space Boy"
+   ],
+   "mentions": {
+    "total": 26,
+    "compendium": 12,
+    "records": 14
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…after they broke free, with Luke landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his…"
+   },
+   "rank": 2,
+   "percentile": 1.8,
+   "score": 0
+  },
+  {
+   "name": "Debt",
+   "aliases": [],
+   "mentions": {
+    "total": 19,
+    "compendium": 3,
+    "records": 16
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a less alcoholic governing body. The downside: they also accumulated significant national debt that they left for their successors. ### The Subplots Seamus Bonehardy found Rump's blackmail…"
+   },
+   "rank": 3,
+   "percentile": 3.6,
+   "score": 1
+  },
+  {
+   "name": "Dig Dug's mines",
+   "aliases": [],
+   "mentions": {
+    "total": 9,
+    "compendium": 2,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…you something in return…That is, if you can catch him. ### Dig Dug He's the Foreman of the Mines at the Basin at Bully Hill. Dig Dug is one of the biggest employers of Oweblock and is also…"
+   },
+   "rank": 4,
+   "percentile": 5.5,
+   "score": 1
+  },
+  {
+   "name": "Dulamon",
+   "aliases": [
+    "Dulamond",
+    "Dulemon"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 0,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Needless to say this wasnt the most welcoming of environments and we were greeted by a chap named Dulemon. He was not there to drink and plunder so I had absolutely nothing in common with this man.…"
+   },
+   "rank": 5,
+   "percentile": 7.3,
+   "score": 2
+  },
+  {
+   "name": "Decontamination",
+   "aliases": [
+    "Decon"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 0,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…maintenance shaft. Cycle 93 ------------------- Dimetreus Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei- Natural causes (age) Cycle 94 -------------------…"
+   },
+   "rank": 6,
+   "percentile": 9.1,
+   "score": 3
+  },
+  {
+   "name": "Durag",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 2,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…obligatory tithe was reduced to twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets. ## Concept V: Stewards of Aleforge Run by Jack.…"
+   },
+   "rank": 7,
+   "percentile": 10.9,
+   "score": 4
+  },
+  {
+   "name": "De-oxygenization",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…-Management Cycle 91 ------------------- Andrew Smith - Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim - Natural causes (cancer) Cycle 92 -------------------…"
+   },
+   "rank": 8,
+   "percentile": 13.6,
+   "score": 5
+  },
+  {
+   "name": "Dog",
+   "aliases": [
+    "Dogs"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…where I am\" \"I am butt ass naked wondering around this spaceship like an actual retarded dog\" Finally I come out of it. My friends are trying to find. Guiding me through this maze.…"
+   },
+   "rank": 8,
+   "percentile": 13.6,
+   "score": 5
+  },
+  {
+   "name": "Drycup Forest",
+   "aliases": [
+    "Drycup Woods",
+    "Drycup"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Anqoak through the streets until he wrapped the stolen scarf around his face and fled into Drycup Forest, where he stumbled into the company of strangers whose acquaintance he later called…"
+   },
+   "rank": 10,
+   "percentile": 16.4,
+   "score": 7
+  },
+  {
+   "name": "Dig Dug",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…him some, hes sure to give you something in return…That is, if you can catch him. ### Dig Dug He's the Foreman of the Mines at the Basin at Bully Hill. Dig Dug is one of the biggest employers…"
+   },
+   "rank": 11,
+   "percentile": 18.2,
+   "score": 8
+  },
+  {
+   "name": "Drunk driving",
+   "aliases": [
+    "drink driving"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…traits - Rollo is a true ale forge citizen - He likes to drink just like us, he likes to drink drive like us HE LIKes to suck didck just like some of yall - An aleforgian would never abandon…"
+   },
+   "rank": 12,
+   "percentile": 20.0,
+   "score": 9
+  },
+  {
+   "name": "David Krappenschitz",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Guard is Cpt. Lincoln Dillydally ##### The Krappenschitz Estate The Krappenschitz family (David and Iso) are rich snobbish aristocrats. They are generally more sober than most and thus hated by many.…"
+   },
+   "rank": 13,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Day of Hollow Tongues",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…founded on. Celebrated on Keeldrift in the 10th Keg of Veilfrost (day 323) The Day of Hollow Tongues: Based in Providence, observed on Keeldrift of the 9th Keg in goldsun (day 197) After…"
+   },
+   "rank": 13,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Death Log",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…to go down there too early cause then you'll have to waste a lot of time waiting around. Death Log (ext) Death Log (Cycles 91-95) This is a more extensive log of all the deaths from…"
+   },
+   "rank": 13,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Delaney",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Town's Mayor who was in charge of the festival's logistics. ### John Cum (DECEASED) and John Delaney (DECEASED) John cum is the main provider of wheat to the local villages, he has an impressive…"
+   },
+   "rank": 13,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Dementing Scarab",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…symbol of his divine right to rule. Fortunate Scarab — Shows a true vision of the future. Dementing Scarab — Shows a true and unfortunate vision of the past. Hollow Urn — A vessel for storing one's…"
+   },
+   "rank": 13,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Digital parts storage",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…is a punch card printer, able to create digitally recognized keys for the server banks and parts storage room. To use it, please align one of the blank punch cards with the corresponding shape on…"
+   },
+   "rank": 13,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Dimetreus Reynalds",
+   "aliases": [
+    "Dimetreus"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Lack of oxygen after getting stuck in a maintenance shaft. Cycle 93 ------------------- Dimetreus Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei-…"
+   },
+   "rank": 13,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Drunk Delivery",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…just so they can sell their grog. WE NEED TO lower our bond debts. Craftsmen and Miners, my Drunk Delivery has you building an ale-powered balloon to ship barrels to Shanty Town, tripling our loot…"
+   },
+   "rank": 13,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Drunkest of Them All",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…trials, that's all the towns people speak about anymore They call me a useless drunk, the \"drunkest of them all\" My name has been ridiculed the last year. Because of that I have dedicated the last year…"
+   },
+   "rank": 13,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Dusty Shidiz",
+   "aliases": [
+    "Dust Shidiz"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hated by many. Yet their wealth provides employment for many Aleforge citizens. Including Dusty Shidiz and Tanka Jahari their personal house servants. They also fund and house an artist, Salude…"
+   },
+   "rank": 13,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "The devil",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and guided only by confusion and rage, he eventually made contact with what he described as the devil himself and received knowledge far beyond ordinary human reach. His first invention was cryogenics,…"
+   },
+   "rank": 13,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "The Dread Harrow",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Drake was finally confronted in the castle with the artifacts in hand just as Sackbeard's Dread Harrow materialized through a portal. The undead crew poured into Aleforge, seeking revenge on Drake,…"
+   },
+   "rank": 13,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "The dumb monks in the cave",
+   "aliases": [
+    "dumb monks"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…spirit form. They are also referred to as \"healers\", \"mystics\", \"gardeners\" and even \"the dumb monks in the cave\" They are nomadic but only relative to their own life expectancy. So relative…"
+   },
+   "rank": 13,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "Da liqua store",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…imagine what that did to me. I haven't left that library since. Except for one quick run to da liqua store. Now, on top of all that Aleforge Special Drinkers Unit reached out to bring me on as a special…"
+   },
+   "rank": 26,
+   "percentile": 45.5,
+   "score": 31
+  },
+  {
+   "name": "Dead Man Hallows",
+   "aliases": [
+    "Dead Mans Hallows"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…overlooked by Blodello Bridge which crosses the bay leading from Shanty Town to Providence. - Dead Man Hallows — The stretch of ocean littered with shipwrecks, located in the Gae Strait between the mainland…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Deer",
+   "aliases": [
+    "Deers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tavern, this was placed by Sackbeard and his crew upon killing the beast. The second is a large deer like head which has become overgrown. The interior of the skull has a small altar within and…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Deserting the army",
+   "aliases": [
+    "deserter",
+    "deserted"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…turned steel on me own captain when ordered to torch a village o' innocents near Fenwick. Deserted that same night, with blood on me boots and a noose waitin' if I were caught. Vanished for…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Desertion",
+   "aliases": [
+    "deserting"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…turned steel on me own captain when ordered to torch a village o' innocents near Fenwick. Deserted that same night, with blood on me boots and a noose waitin' if I were caught. Vanished for…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Detective",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of interdimensional creatures during Gideon Drakes nefarious schemes. He also served as a detective for the ASDU before his promotion, making him the perfect person to lead an investigative…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Diamond boots",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…forgiven the Kings for their victory. The Kings were welcomed back with gifts: Stephan received diamond boots for his historic two-trial winning streak, Buke received a diamond sword as the newly crowned…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Diamond liquor crown",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…winning streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his spectacular drunkenness, and Nathan, having been forced to play sober…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Diamond sword",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Stephan received diamond boots for his historic two-trial winning streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Dick Wacker",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…M. Geiser ### Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick Dickless # #…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Dmitri's journal",
+   "aliases": [
+    "dmitri journal"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…\"inventors\" who receive credit for new innovations in return for an investment in the company. dmitri journal 93/4/350 Mom and dad are going to the throne room today with everyone else. They said I…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Don Julian of the Poplui",
+   "aliases": [
+    "Don Julian"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…crowned in a private ceremony and never left the castle for all 40 years of his rule Don Julian of the Poplui: He opened the castle to the public, hosting town halls each week. Wendell the Democrator:…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Dragons of ink",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to prevail Soon after the company battled for drink 'Gainst mothers and monsters and dragons of ink In those days began the story Of each of the six liquor kings Verse IV - Six fair crowns…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Drink for drink",
+   "aliases": [
+    "drinking contest"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…For those who sail with Pilsner's men. ## Ode to the Six One night after trying to go drink for drink with a pirate crew from Shantytown, Seamus Bonehardy got a distant look in his eyes and started…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Drug trade",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…all rules in Roto should be fiscally motivated, it turned out that some trades (slave trade, drug trade, dark magic markets) brought the wrong crowd and scared off potential high profile customers.…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Drunken Trials Revival Fund",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…government. Gideon wants to move away from reliance on just brewing to support the economy. Drunken Trials Revival Fund: At the heart of Aleforge culture is the Drunken Trials, Gideon aims to make the next one…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Dry barrels",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…lands. Those lads often don't come back. Or if they do, they're cursed — with rotting teeth, dry barrels, or dreams that scream. There's whispers now that the Veilwalkers have marked a handful of…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "The death of a child",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…death's near avoiding for love of the isle Station silent left forever The cost was the death of a child Verse VII - Now of late the sun as darkened And hatred awoke from its grave Labyrinth…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "The deer-like skull",
+   "aliases": [
+    "deer skull",
+    "deer head"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tavern, this was placed by Sackbeard and his crew upon killing the beast. The second is a large deer like head which has become overgrown. The interior of the skull has a small altar within and a floating…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "The destruction of Vodkonia",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…as they stood upon the council floor. In the 9th year of the 33rd Council's reign, a volcanic earthquake obliterated the island of Vodkonia. It was no natural disaster. The Wronged Walker, now twisted…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "The Dimitri files",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…a king.Disgusting. (there is a 10% chance this leaks to the public from here on out) (THE DIMITRI FILES ARE NOT PUBLIC AND RIGHT NOW ONLY THE LIQUOR KINGS AND MR. BBL ARE AWARE OF IT) Jack vs Wepple…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "The Dread Marrows",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- Fentmaxxer's Observatory — The hastily constructed observatory on Killdeath Peak. - The Dread Marrows — A region of dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "The Drifter's Call",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to Concept - Xi Jin Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass — Lost to time during a fight between Buke and Jagerbauhm.…"
+   },
+   "rank": 27,
+   "percentile": 66.4,
+   "score": 54
+  },
+  {
+   "name": "Dining hall",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…have as many difficulties with chases in full rooms. A well read engineer may remember the dining hall incident from cycle 71 where 15 casualties resulted from a poorly executed chase involving…"
+   },
+   "rank": 49,
+   "percentile": 90.0,
+   "score": 85
+  },
+  {
+   "name": "Dreams that scream",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…often don't come back. Or if they do, they're cursed — with rotting teeth, dry barrels, or dreams that scream. There's whispers now that the Veilwalkers have marked a handful of pirates — not with blades,…"
+   },
+   "rank": 49,
+   "percentile": 90.0,
+   "score": 85
+  },
+  {
+   "name": "Dulamon's chestplate",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…blade, the Rotten Blade, which is exactly as pleasant to carry as the name suggests. I wore his chestplate, still warm from him in a way that chestplates should not be warm. These are mine now. I earned…"
+   },
+   "rank": 49,
+   "percentile": 90.0,
+   "score": 85
+  },
+  {
+   "name": "The demonic altar",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…exterior and a large telescope in a dome shaped room. Underneath the well in courtyard is a demonic altar dedicated to the warden that fentmaxxer would use to divine information about how to control…"
+   },
+   "rank": 49,
+   "percentile": 90.0,
+   "score": 85
+  },
+  {
+   "name": "Double blicky maneuver",
+   "aliases": [
+    "double blicky"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Little did he know bootymane came strapped with a shiv. I dropped down from the sky with a double blicky maneuver to take him out before steph died. Gotta have eachothers backs in these streets.…"
+   },
+   "rank": 53,
+   "percentile": 96.4,
+   "score": 95
+  },
+  {
+   "name": "The dildo",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…pipe, lotta money bet on me fighting Guinnie. Unfortunately let the betters down and fell to the dildo. Its how the booty crumbles sometimes. This got me ready for the final gang war. Seaside…"
+   },
+   "rank": 53,
+   "percentile": 96.4,
+   "score": 95
+  },
+  {
+   "name": "The dining hall incident",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…shouldn't have as many difficulties with chases in full rooms. A well read engineer may remember the dining hall incident from cycle 71 where 15 casualties resulted from a poorly executed chase involving one (yes,…"
+   },
+   "rank": 53,
+   "percentile": 96.4,
+   "score": 95
+  },
+  {
+   "name": "Dmitri's heart device",
+   "aliases": [],
+   "mentions": {
+    "total": 0,
+    "compendium": 0,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "We've invented a new device that should help regulate his heartbeat",
+    "note": "Invented to regulate Dmitri's heartbeat after his space-born cardiomyopathy."
+   },
+   "rank": 56,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

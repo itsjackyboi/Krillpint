@@ -1,0 +1,33 @@
+{
+  "id": "crimes",
+  "prompt": "Name a crime",
+  "blurb": "Embezzlement to apostasy, with a side of jaywalking.",
+  "difficulty": "medium",
+  "gem": "Jaywalking",
+  "answers": [
+    {"name": "Embezzlement", "aliases": [], "count": ["re:(?i)embezzl"]},
+    {"name": "Blackmail", "aliases": [], "count": ["re:(?i)blackmail"]},
+    {"name": "Murder", "aliases": [], "count": ["re:(?i)murder"]},
+    {"name": "Smuggling", "aliases": [], "count": ["re:(?i)smuggl"]},
+    {"name": "Illegal artifact trade", "aliases": ["artifact trafficking"], "count": ["re:(?i)illegal trade"]},
+    {"name": "Theft", "aliases": ["stealing"], "count": ["re:(?i)\\btheft\\b|\\bstole\\b"]},
+    {"ref": "Assassination"},
+    {"name": "Arms dealing", "aliases": [], "count": ["re:(?i)arms dealing"]},
+    {"name": "Skimming tithes", "aliases": [], "count": ["re:(?i)skimming tithes"]},
+    {"name": "Money laundering", "aliases": ["laundering"], "count": ["re:(?i)launder"]},
+    {"name": "Bootleg tonic trafficking", "aliases": ["bootlegging"], "count": ["re:(?i)trafficking in bootleg"]},
+    {"name": "Kidnapping", "aliases": [], "count": ["re:(?i)kidnap|taken hostage"]},
+    {"name": "Arson", "aliases": ["burning crops"], "count": ["re:(?i)set fire"]},
+    {"name": "Cannibalism", "aliases": [], "count": ["re:(?i)cannibalism"]},
+    {"name": "Slavery", "aliases": ["slave trade"], "count": ["re:(?i)\\bslave"]},
+    {"name": "Drug trade", "aliases": [], "count": ["re:(?i)drug trade"]},
+    {"name": "Mutiny", "aliases": [], "count": ["re:(?i)\\bmutin"]},
+    {"name": "Desertion", "aliases": ["deserting"], "count": ["re:(?i)deserted"]},
+    {"name": "Apostasy", "aliases": [], "count": ["re:(?i)apostasy"]},
+    {"name": "Jaywalking", "aliases": [], "count": ["re:(?i)jaywalk"], "obscurity": 4},
+    {"name": "Drunk driving", "aliases": ["drink driving"], "count": ["re:(?i)drove with a little buzz|drink drive"], "obscurity": 4},
+    {"name": "Forgery", "aliases": ["forged letters"], "count": ["re:(?i)forged"]},
+    {"name": "Bribery", "aliases": ["bribe"], "count": ["re:(?i)bribe"]},
+    {"name": "Pickpocketing", "aliases": [], "count": ["re:(?i)pickpocket"]}
+  ]
+}

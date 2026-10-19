@@ -1,0 +1,11 @@
+{
+  "id": "named-once",
+  "prompt": "Name something mentioned exactly once in all the lore",
+  "blurb": "One mention across both documents. Anything else scores zero.",
+  "difficulty": "hard",
+  "gem": "The underground tummy ache",
+  "derive": {
+    "total": 1,
+    "rank_by": "spread"
+  }
+}

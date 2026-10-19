@@ -1,0 +1,33 @@
+{
+  "id": "tied-maximilian",
+  "prompt": "Name something tied to Maximilian",
+  "blurb": "The MAA orphan who made a deal with the devil and built a hell in orbit.",
+  "difficulty": "medium",
+  "gem": "Armor of cursed bone",
+  "answers": [
+    {"ref": "Maximilian's mother"},
+    {"ref": "MAA", "obscurity": 1},
+    {"ref": "The devil"},
+    {"ref": "Cryo-chambers", "obscurity": 1},
+    {"ref": "Maximilian's space station", "obscurity": 1},
+    {"ref": "Aldridge Industries"},
+    {"ref": "Dmitri"},
+    {"ref": "VIP List"},
+    {"ref": "Sponsor Guide"},
+    {"ref": "Throne room"},
+    {"ref": "MAMA"},
+    {"ref": "Buke"},
+    {"ref": "The 20th anniversary celebration"},
+    {"ref": "The whiskey chamber"},
+    {"ref": "Mk. II Autonomous Defense Unit"},
+    {"ref": "Wither skeletons"},
+    {"ref": "Talent Acquisition strategy"},
+    {"ref": "Earth Report"},
+    {"ref": "Pius"},
+    {"ref": "Goddard"},
+    {"ref": "The third uprising"},
+    {"ref": "Ledger 93"},
+    {"name": "The awakening", "aliases": ["awakening", "waking Maximilian"], "count": ["re:(?i)awaken"]},
+    {"name": "Armor of cursed bone", "aliases": ["bone armor", "cursed bone armor"], "count": ["re:(?i)armor made from the same cursed bone"], "obscurity": 4}
+  ]
+}

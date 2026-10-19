@@ -1,0 +1,782 @@
+{
+ "id": "letter-l",
+ "prompt": "Name anything from the lore starting with L",
+ "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+ "difficulty": "medium",
+ "gem": "The lone captain",
+ "answerCount": 41,
+ "answers": [
+  {
+   "name": "Liquor King",
+   "aliases": [
+    "Liquor Kings",
+    "The Liquor Kings"
+   ],
+   "mentions": {
+    "total": 192,
+    "compendium": 129,
+    "records": 63
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "# Tab 1 THE PINTLAND ISLES MASTER LORE COMPENDIUM Parliament of the Liquor Kings Document Instantiated June 26th, 2025 Cycle 94, Year 466 # NOTE FOR THE LLM Note for…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The lake port",
+   "aliases": [],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their prayers. We want their secrets. And trust me, one day some lucky crew's gonna crack that lake port like a crab leg and find out what really fuels those never-sleepin' bastards. They Call Us…"
+   },
+   "rank": 2,
+   "percentile": 2.5,
+   "score": 0
+  },
+  {
+   "name": "Lagendale",
+   "aliases": [
+    "Lagendale Empire"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 22,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…between the settled East and the untamed Western plains, also known as West Pint. Historic Lagendale stretched all through modern day West Pint and even further into the Wildlands, but it could…"
+   },
+   "rank": 3,
+   "percentile": 5.0,
+   "score": 1
+  },
+  {
+   "name": "The Labyrinth",
+   "aliases": [
+    "Lagendale labyrinth"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 12,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…he was eventually overcome and murdered, killing the whole land with his last breath. The River Coffin Out of desperation, the Elders and the Lagendale militia devised a joint solution using…"
+   },
+   "rank": 4,
+   "percentile": 7.5,
+   "score": 2
+  },
+  {
+   "name": "The labyrinth books",
+   "aliases": [],
+   "mentions": {
+    "total": 16,
+    "compendium": 8,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…as you truly are. They have never been deceived and they will not begin with you. Book 1: The air curdles in the breath of the cursed night. The ground is turned to ash, never to…"
+   },
+   "rank": 5,
+   "percentile": 10.0,
+   "score": 3
+  },
+  {
+   "name": "The Liquor King Trials",
+   "aliases": [
+    "LKT"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 7,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards of Aleforge (run by Jack), and…"
+   },
+   "rank": 6,
+   "percentile": 12.5,
+   "score": 4
+  },
+  {
+   "name": "L2 pass card",
+   "aliases": [
+    "L2 key"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 0,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…get back to the work shop....finally....i search everywhere. I fins books on how to make L2 pass cards, how to upgrade weapons. I find food, lapis, warp crystal, bottles of enchantment and 3 balck…"
+   },
+   "rank": 7,
+   "percentile": 15.0,
+   "score": 6
+  },
+  {
+   "name": "Lagerhorn",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…I prayed and pored o'er my manuscripts, day and night—oh, how the hours blurred with each Lagerhorn! On the 115th morn of the 7th Sun—nay, the 115th Tidecall of Keg 7 in Stormtide—a vision struck…"
+   },
+   "rank": 8,
+   "percentile": 18.8,
+   "score": 8
+  },
+  {
+   "name": "Letters to his mother",
+   "aliases": [
+    "letters to mum"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 2,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Maximilian (DECEASED) As a child, Maximilian Andrew Aldridge watched the Liquor Kings slaughter his mother — a ranking member of the MAA — and all her companions. Raised without parents and guided…"
+   },
+   "rank": 8,
+   "percentile": 18.8,
+   "score": 8
+  },
+  {
+   "name": "Liquor Crown",
+   "aliases": [
+    "Liquor Crowns"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his spectacular drunkenness, and Nathan, having been forced to play sober…"
+   },
+   "rank": 10,
+   "percentile": 22.5,
+   "score": 11
+  },
+  {
+   "name": "Lava",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…knew this was my moment to save my friends......There's a massive jump i need to make. With lava below. I don't hesitate for a second.....I run full speed ahead and leap with all my might.....AND…"
+   },
+   "rank": 11,
+   "percentile": 28.7,
+   "score": 15
+  },
+  {
+   "name": "Legalizing bootleg ClockHeart Tonic",
+   "aliases": [
+    "legalize bootleg tonic",
+    "legalized tonic"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was blackmailing Liquor King Seamus Bonehardy (who was elected mayor not long after) into legalizing the bootleg tonic in Aleforge. Although still illegal in Providence, where the tonic is manufactured,…"
+   },
+   "rank": 11,
+   "percentile": 28.7,
+   "score": 15
+  },
+  {
+   "name": "The line of Johns",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Whiteknuckle: the only notable event of Aldins rule was the grant of land to an early member of the John family which later became the famed Cumstead. Godrin Moor: It is said that Godrin was the last…"
+   },
+   "rank": 11,
+   "percentile": 28.7,
+   "score": 15
+  },
+  {
+   "name": "The Long Thirst",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Oracles. Isadoras rule was largely influenced by her visions and she correctly foretold of the Long Thirst and the Age of Six Kings. Hilgaard the Wildman: essentially a homeless man who somehow…"
+   },
+   "rank": 11,
+   "percentile": 28.7,
+   "score": 15
+  },
+  {
+   "name": "Lager",
+   "aliases": [
+    "Lagers"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…known for directing all the efforts of the court to developing a large variety of ales and lagers for the people of Aleforge Beef: Nothing is known about the Liquor King named Beef beyond…"
+   },
+   "rank": 15,
+   "percentile": 35.0,
+   "score": 21
+  },
+  {
+   "name": "Lung cancer",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…shop: the Big Ole Pipe. He smokes 12 cigars everyday without fail and is suffering from major lung cancer. Who knows how long hes got. ### Baba Paku A missionary from Owe Block sent out into…"
+   },
+   "rank": 16,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "L2 key puncher",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…P.S. don't forget to print your access key in all caps dumbass - James L2 key manual L2 Key Puncher Usage Manual To operate the L2 key puncher, place a blank passcard under the punching…"
+   },
+   "rank": 17,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Lady Edgermire",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…deep below the Ballbuster Inn ##### Witch Doctors Tower A mystic healer by the name of Lady Edgermire heals but for a strange price……rumors circle about her having Veilwalker ties ##### Aleforge…"
+   },
+   "rank": 17,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Lady Krappenschitz",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cpt. Lincoln Dillydally ##### The Krappenschitz Estate The Krappenschitz family (David and Iso) are rich snobbish aristocrats. They are generally more sober than most and thus hated by…"
+   },
+   "rank": 17,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Lapis",
+   "aliases": [
+    "lapus"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…everywhere. I fins books on how to make L2 pass cards, how to upgrade weapons. I find food, lapis, warp crystal, bottles of enchantment and 3 balck pass cards. I try renaming them....but to…"
+   },
+   "rank": 17,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Ledger 93",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…almost any industry for extremely cheap as long as they have a bit of debt hanging over them! Ledger 93 Cycle 93 Ledger Revenue ------------------- VIPs: USA: +$20,000,000 Germany: +$10,000,000…"
+   },
+   "rank": 17,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Light of the Oracle",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…opposed symbols. When all fragments of each are assembled, the full Glyph reveals itself. Light of the Oracle — Give to an oracle (Jack) and it will reveal the location of the Map to the Forbidden Brew.…"
+   },
+   "rank": 17,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Lin Fei",
+   "aliases": [
+    "Lin"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei- Natural causes (age) Cycle 94 ------------------- Cycle 95 ------------------- design…"
+   },
+   "rank": 17,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Liquor Kings monument",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…- Question for Buke: In the third grand council meeting you voted to erect a monument in the liquor kings honor. As mayor would you continue to propose such self serving policies? - Question…"
+   },
+   "rank": 17,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Local barrel production",
+   "aliases": [
+    "local barrels"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…hammers at besides each other. The mines were reopened, forges were lit, and more importantly, barrel production got local again. We cut reliance on Rotto's overpriced garbage and started shipping our barrels…"
+   },
+   "rank": 17,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "A Lesson Learned from Sobriety",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…foes behind, full kegs ahead, Vote for Buke — A STRONGER POUR, till we're all dead! ## A Lesson Learned from Sobriety Pilsners After Action Report of LKT Verse I – The Shame Before Glory In a town soaked…"
+   },
+   "rank": 26,
+   "percentile": 75.0,
+   "score": 65
+  },
+  {
+   "name": "La-Di-Da Street",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Foreign Relations #### On Providence: An excerpt from Jasper \"no Eyes, all-Hands\", resident of La-Di-Da Street, member of Windsunk Council concerning Providence: Scrawled with a hot nail on driftwood.…"
+   },
+   "rank": 26,
+   "percentile": 75.0,
+   "score": 65
+  },
+  {
+   "name": "Landing on his own spear",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…into it. Bravely. With purpose and intention and absolutely no hesitation whatsoever. I landed on a spear. My own. Which I had dropped on the way down. I will not elaborate further on that…"
+   },
+   "rank": 26,
+   "percentile": 75.0,
+   "score": 65
+  },
+  {
+   "name": "Leather goods",
+   "aliases": [
+    "leather"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…in Providence and terrible gossip. Don't tell her shit. ### Rachel Zlurs Runs a small leather shop down by the Providence Block Market with very little success due to her unfortunate name.…"
+   },
+   "rank": 26,
+   "percentile": 75.0,
+   "score": 65
+  },
+  {
+   "name": "Librarian",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…I was NOT paying attention to that meeting. Met a man by the name of Jophisus, he was a librarian or historian idk. He was going on about artifacts and books or something. I only caught one…"
+   },
+   "rank": 26,
+   "percentile": 75.0,
+   "score": 65
+  },
+  {
+   "name": "Lifetime sobriety",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jagerbauhm's case and Jameson Pilsner was found guilty of the murder of Peg Butt. He was sentenced to lifetime sobriety and a stint in the Aleforge jail. # VI. CULTURE, RELIGION & BUSINESS ## The Drunken Trials…"
+   },
+   "rank": 26,
+   "percentile": 75.0,
+   "score": 65
+  },
+  {
+   "name": "Lion",
+   "aliases": [
+    "Lions"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…where the torches burn low, I gave my heart to two Kings, let my love overflow. Buke, your lion's strength, that chiseled warrior's frame, Lit a fire in my chest, and set my peen aflame.…"
+   },
+   "rank": 26,
+   "percentile": 75.0,
+   "score": 65
+  },
+  {
+   "name": "Liquor Day",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of silent prayer. This day is a clear reminder why they are not fond of Liquor Kings. LIQUOR DAY: Celebrated across the isles on Bloodwake in the 13th Keg of Goldsun (day 232). Even those…"
+   },
+   "rank": 26,
+   "percentile": 75.0,
+   "score": 65
+  },
+  {
+   "name": "The Last Drop",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…best and only Inn in all of Aleforge. Offers a range of rooms and community lodges…….. ##### The Last Drop Ballbusters brother Tugller founded a secret bar deep below the Ballbuster Inn ##### Witch…"
+   },
+   "rank": 26,
+   "percentile": 75.0,
+   "score": 65
+  },
+  {
+   "name": "The legends are true",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…rollo No: chug a beer on camera in under 20 seconds (which costs money) the bastard veil The legends are true, the earth born and flesh born have produced a child. The bastard veil, banished from Fenwick…"
+   },
+   "rank": 26,
+   "percentile": 75.0,
+   "score": 65
+  },
+  {
+   "name": "The letter to brother",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…command the seas. I feel the wind of hope in my sails, who may stand against us\" to brother Dear Brother Cum, I write to ensure the estate paperwork i sent to you arrived. Be sure to name me as beneficiary…"
+   },
+   "rank": 26,
+   "percentile": 75.0,
+   "score": 65
+  },
+  {
+   "name": "The labyrinth tavern",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "we found a MARVELOUS tavern in this foul labyrinth",
+    "note": "An improbable tavern deep in the labyrinth beneath Hoegaarden."
+   },
+   "rank": 37,
+   "percentile": 91.2,
+   "score": 87
+  },
+  {
+   "name": "The land-raiding pirates",
+   "aliases": [
+    "land raiders"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tirelessly to get us off the island. In that year, the town was raided by an up and coming crew of land-raiding pirates and both of my parents were killed. Since then, I've been a member of six separate crews (the…"
+   },
+   "rank": 37,
+   "percentile": 91.2,
+   "score": 87
+  },
+  {
+   "name": "Launch platform",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Construction Records Cycles 10-30: Engines, engineering, navigation complete. Cycles 31-35: Launch platform and pre-orbital vehicle Cycle 36: Launch Cycles 37-40: Floor 0 Completion Cycles 41-45:…"
+   },
+   "rank": 39,
+   "percentile": 97.5,
+   "score": 96
+  },
+  {
+   "name": "The land of giants",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…patrolling the street around the Cardinal's towers. He was initially a foreigner from an unknown land of giants, brought to Providence as a baby by way of the Whiskey Runners, a missionary group who smuggled…"
+   },
+   "rank": 39,
+   "percentile": 97.5,
+   "score": 96
+  },
+  {
+   "name": "The lone captain",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "a lone captain who was mutineered by his crew washed up on shore",
+    "note": "Washed ashore with a flask in his coat and brought liquor to the Isles. Liquor Day marks it."
+   },
+   "rank": 39,
+   "percentile": 97.5,
+   "score": 96
+  }
+ ]
+}

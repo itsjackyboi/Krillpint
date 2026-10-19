@@ -1,0 +1,30 @@
+{
+  "id": "foods",
+  "prompt": "Name a food",
+  "blurb": "Anything eaten in the lore, however unappetizing.",
+  "difficulty": "medium",
+  "gem": "Sapgetti",
+  "distinct": [["Fish", "Fish guts"]],
+  "answers": [
+    {"name": "Sushi", "aliases": [], "count": ["re:(?i)sushi"]},
+    {"ref": "Hot chocolate"},
+    {"name": "Cereal", "aliases": ["serial"], "count": ["re:(?i)\\bserial\\b|\\bcereal\\b"]},
+    {"name": "Potatoes", "aliases": ["potato"], "count": ["re:(?i)potato"]},
+    {"name": "Moldy bread", "aliases": ["bread"], "count": ["re:(?i)moldy bread"]},
+    {"name": "Tomatoes and sawdust", "aliases": ["tomatoes", "sawdust"], "count": ["re:(?i)tomatoes"]},
+    {"name": "Sausage", "aliases": ["pork and beef"], "count": ["re:(?i)sausage"]},
+    {"name": "Nuts and berries", "aliases": ["berries", "nuts"], "count": ["re:(?i)nuts and berries"]},
+    {"name": "God apple", "aliases": ["golden apple"], "count": ["re:(?i)god apple"]},
+    {"name": "Human stew", "aliases": ["stew"], "count": ["re:(?i)human stew"]},
+    {"name": "Fish", "aliases": [], "count": ["re:(?i)\\bfish\\b"]},
+    {"ref": "Wheat"},
+    {"ref": "Barley"},
+    {"ref": "Ale Beans"},
+    {"name": "Sapgetti", "aliases": ["spaghetti"], "count": ["re:(?i)sapgetti"], "obscurity": 5},
+    {"name": "Spices", "aliases": [], "count": ["re:(?i)\\bspices\\b"]},
+    {"name": "Crab leg", "aliases": ["crab"], "count": ["re:(?i)crab leg"]},
+    {"name": "Fish guts", "aliases": [], "count": ["re:(?i)fish guts"]},
+    {"name": "Rations", "aliases": ["food rations"], "count": ["re:(?i)\\brations\\b"]},
+    {"name": "The grand feast", "aliases": ["feast"], "count": ["re:(?i)grand feast"]}
+  ]
+}

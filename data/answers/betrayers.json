@@ -1,0 +1,413 @@
+{
+ "id": "betrayers",
+ "prompt": "Name someone who betrayed someone",
+ "blurb": "Mutineers, embezzlers, double agents, and one Veilwalker who broke her vow.",
+ "difficulty": "hard",
+ "gem": "The Lagendale militia",
+ "answerCount": 19,
+ "answers": [
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Drake",
+    "Gidion Drake",
+    "the Bastard Veil",
+    "the Ironkeg"
+   ],
+   "mentions": {
+    "total": 145,
+    "compendium": 75,
+    "records": 70
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Jack Anqoak",
+   "aliases": [
+    "Anqoak",
+    "Jack",
+    "Anqok",
+    "Anquok",
+    "Jack Anquoke",
+    "Oracle of Aleforge",
+    "Jack and Coke"
+   ],
+   "mentions": {
+    "total": 142,
+    "compendium": 74,
+    "records": 68
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson…"
+   },
+   "rank": 2,
+   "percentile": 5.6,
+   "score": 1
+  },
+  {
+   "name": "Seamus Bonehardy",
+   "aliases": [
+    "Seamus",
+    "Bonehardy",
+    "Mayor Bonehardy"
+   ],
+   "mentions": {
+    "total": 116,
+    "compendium": 58,
+    "records": 58
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan),…"
+   },
+   "rank": 3,
+   "percentile": 11.1,
+   "score": 4
+  },
+  {
+   "name": "Jameson Pilsner",
+   "aliases": [
+    "JP",
+    "Japes",
+    "Pilsner",
+    "Jamison Pilsner",
+    "Slayer of Sobriety",
+    "Jameshon Pilshner"
+   ],
+   "mentions": {
+    "total": 101,
+    "compendium": 52,
+    "records": 49
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister…"
+   },
+   "rank": 4,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Sackbeard",
+   "aliases": [
+    "Captain Sackbeard"
+   ],
+   "mentions": {
+    "total": 77,
+    "compendium": 57,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death…"
+   },
+   "rank": 5,
+   "percentile": 22.2,
+   "score": 10
+  },
+  {
+   "name": "Maximilian",
+   "aliases": [
+    "Max",
+    "Maximilian Andrew Aldridge",
+    "Maximillian",
+    "Master Maximilian"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 20,
+    "records": 36
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…slaughter anyone they see as even a slight threat to their power. First MAA, then Thatcher, then Maximillian. She is actually the founder of MAMA, but that is not known even within those circles. She…"
+   },
+   "rank": 6,
+   "percentile": 27.8,
+   "score": 15
+  },
+  {
+   "name": "Rollo",
+   "aliases": [],
+   "mentions": {
+    "total": 45,
+    "compendium": 22,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…happy to buy these bonds and a large influx of money has now hit the Aleforge ledger. ### Rollo Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends…"
+   },
+   "rank": 7,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "Susan Plinket",
+   "aliases": [
+    "Plinket",
+    "Susan",
+    "Jathan Round"
+   ],
+   "mentions": {
+    "total": 23,
+    "compendium": 14,
+    "records": 9
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"an ick\". He was somewhat unfairly legally commanded into a relationship with MAMA leader, Susan Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport…"
+   },
+   "rank": 8,
+   "percentile": 38.9,
+   "score": 24
+  },
+  {
+   "name": "John Rump",
+   "aliases": [
+    "Rump"
+   ],
+   "mentions": {
+    "total": 37,
+    "compendium": 21,
+    "records": 16
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the hands of John Rump. - The Shrines — A scatter of ancient shrines across the Isles, origin debated. However,…"
+   },
+   "rank": 9,
+   "percentile": 44.4,
+   "score": 30
+  },
+  {
+   "name": "Sexton Gobbler",
+   "aliases": [
+    "Gobbler"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 7,
+    "records": 8
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Liquor Kings with safe haven during the Owe Block concept when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley…"
+   },
+   "rank": 10,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "The Rotted Soul",
+   "aliases": [
+    "Rotted Soul",
+    "Rotten King"
+   ],
+   "mentions": {
+    "total": 30,
+    "compendium": 28,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…further South is a small river which drains to the sea. Some scholars believe the remains of the Rotted Soul may rest here, though until recently this was unknown. The Kings discovered the true location…"
+   },
+   "rank": 11,
+   "percentile": 55.6,
+   "score": 41
+  },
+  {
+   "name": "Fentmaxxer",
+   "aliases": [
+    "Fentmaxer"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher.…"
+   },
+   "rank": 12,
+   "percentile": 61.1,
+   "score": 48
+  },
+  {
+   "name": "Gilligan Rape",
+   "aliases": [
+    "Gilligan"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 4,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…entirely on enthusiasm, having in eleven prior expeditions recovered nothing at all. Its leader, Gilligan Rape, funded the enterprise on inherited money and showed no sign of running out of either funds…"
+   },
+   "rank": 13,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Edmond Blackmoor",
+   "aliases": [
+    "Blackmoor",
+    "Edmund Blackmoor"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their arrival. He never met the liquor kings, however, as a great and pompous adventurer named Edmond Blackmoor came to the cloister to fight the beast and the Prophet turned him away. This upset Blackmoor…"
+   },
+   "rank": 14,
+   "percentile": 72.2,
+   "score": 61
+  },
+  {
+   "name": "The Veilwalker Elders",
+   "aliases": [
+    "Elders",
+    "The Elders"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Veilwalker. Female Walkers are seldom seen. By Veilwalker law, they are barred from serving as Elders or ambassadors, keeping them largely out of contact with the outside world. This particular…"
+   },
+   "rank": 15,
+   "percentile": 77.8,
+   "score": 69
+  },
+  {
+   "name": "Afanasi",
+   "aliases": [
+    "Afanassi"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…REACTIVATED. PLEASE CONSULT THE CHIEF ENGINEER BEFORE INTERFACING WITH THIS CONSOLE. note to afanasi afanassi, I've found a place for the boy to hide in one of the other crawlspaces. He can…"
+   },
+   "rank": 16,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Pius",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…recovery keys and show you the decryption process as soon as the change goes into effect. -Pius Earth Report 30 For your situational awareness: Earth aerospace and cosmology news…"
+   },
+   "rank": 16,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "The female Veilwalker",
+   "aliases": [
+    "female Walker",
+    "female Veilwalker"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Veilwalkers in their respective seasons, and encountered something he was never meant to find: a female Veilwalker. Female Walkers are seldom seen. By Veilwalker law, they are barred from serving as Elders…"
+   },
+   "rank": 18,
+   "percentile": 94.4,
+   "score": 92
+  },
+  {
+   "name": "The Lagendale militia",
+   "aliases": [
+    "militia",
+    "the militia"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the largest labyrinth in human history. When the work was done and the King was sealed, the militia that had protected those workers throughout the entire project turned on them, executing over 800 men to complete…"
+   },
+   "rank": 19,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

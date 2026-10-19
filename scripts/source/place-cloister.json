@@ -1,0 +1,29 @@
+{
+  "id": "place-cloister",
+  "prompt": "Name something tied to the Cloister",
+  "blurb": "The old monks' hall above a beast's prison and a door to hell.",
+  "difficulty": "medium",
+  "gem": "The wizard's curse",
+  "answers": [
+    {"ref": "The Old Prophet", "obscurity": 1},
+    {"ref": "Edmond Blackmoor"},
+    {"ref": "The Cloister Beast", "obscurity": 1},
+    {"ref": "The Cloister's prison dimension"},
+    {"ref": "New Haven"},
+    {"ref": "The Cloister's magical lights"},
+    {"ref": "The Beggar"},
+    {"ref": "Fayte Druids"},
+    {"name": "The vanished monks", "aliases": ["monks", "order of monks"], "count": ["re:(?i)order of monks"]},
+    {"name": "The gateway to hell", "aliases": ["hell", "gate to hell"], "count": ["re:(?i)leads directly to hell"]},
+    {"ref": "Richard 'Cumhardy' Seaman"},
+    {"ref": "Reverend Ambrose Ravenscroft"},
+    {"ref": "Ignatius De Montfort"},
+    {"ref": "Aleforge Restoration Association"},
+    {"name": "Aleforge's repair workers", "aliases": ["yearly workers", "builders"], "count": ["re:(?i)yearly workers", "re:(?i)sending builders to the cloister"]},
+    {"name": "The wizard's curse", "aliases": ["wizard", "wizard curse"], "count": ["re:(?i)wizard will curse"], "obscurity": 4},
+    {"ref": "The Prophet's writings"},
+    {"name": "The Kings' meeting hall", "aliases": ["meeting hall"], "count": ["re:(?i)meeting hall"]},
+    {"name": "The invisible hallway", "aliases": ["hidden hallway", "invisible hallway"], "count": ["re:(?i)invisible hallway"]},
+    {"name": "Happy hour", "aliases": ["weekly happy hour"], "count": ["re:(?i)happy hour"], "obscurity": 4}
+  ]
+}

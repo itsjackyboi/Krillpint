@@ -1,0 +1,441 @@
+{
+ "id": "titled",
+ "prompt": "Name a character known by a title (Sir, Lady, Captain…)",
+ "blurb": "Use the title as part of the answer: Sister Bertha, not Bertha.",
+ "difficulty": "medium",
+ "gem": "Constable Jökulsson",
+ "answerCount": 21,
+ "answers": [
+  {
+   "name": "Captain Sackbeard",
+   "aliases": [
+    "Sackbeard"
+   ],
+   "mentions": {
+    "total": 77,
+    "compendium": 57,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Master Maximilian",
+   "aliases": [
+    "Master Max"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 20,
+    "records": 36
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…slaughter anyone they see as even a slight threat to their power. First MAA, then Thatcher, then Maximillian. She is actually the founder of MAMA, but that is not known even within those circles. She…"
+   },
+   "rank": 2,
+   "percentile": 5.0,
+   "score": 1
+  },
+  {
+   "name": "Mr. BBL",
+   "aliases": [
+    "BBL",
+    "Mister BBL"
+   ],
+   "mentions": {
+    "total": 25,
+    "compendium": 7,
+    "records": 18
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Glendolph Galleyway: An unremarkable mayor, the only thing of note is his hiring of Mr. BBL, the current chancellor of Aleforge. Thomas Thatcher Sr.: Thomas Thatcher Sr. was an…"
+   },
+   "rank": 3,
+   "percentile": 10.0,
+   "score": 3
+  },
+  {
+   "name": "Mayor Thatcher",
+   "aliases": [
+    "Mayor Thomas Thatcher"
+   ],
+   "mentions": {
+    "total": 21,
+    "compendium": 17,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests - Brandywine Brush — The dense inland forest known locally as 'Thiccy…"
+   },
+   "rank": 4,
+   "percentile": 15.0,
+   "score": 6
+  },
+  {
+   "name": "Sexton Gobbler",
+   "aliases": [
+    "Gobbler"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 7,
+    "records": 8
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Liquor Kings with safe haven during the Owe Block concept when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley…"
+   },
+   "rank": 5,
+   "percentile": 20.0,
+   "score": 9
+  },
+  {
+   "name": "Cardinal Addy",
+   "aliases": [
+    "Addy"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 11,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Cardinal Addy, born to a Shanty whore",
+    "note": "The Cardinal of Providence was born in Shanty Town."
+   },
+   "rank": 6,
+   "percentile": 25.0,
+   "score": 12
+  },
+  {
+   "name": "Brother Silas",
+   "aliases": [
+    "Silas"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 1,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…upon their arrival in Owe Block and relayed the full account of their adventures there to Brother Silas. He serves sushi. ### Sexton Gobbler The corrupt Sexton of Owe Block who was secretly worshipping…"
+   },
+   "rank": 7,
+   "percentile": 30.0,
+   "score": 16
+  },
+  {
+   "name": "Reverend Ambrose Ravenscroft",
+   "aliases": [
+    "Ambrose Ravenscroft",
+    "Ravenscroft",
+    "Reverend Ambrose"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fear and died a slow and humbling death, warning others of the terror they would endure. ### Reverend Ambrose Ravenscroft The esteemed reverend originally came to Aleforge at the request of his superiors,…"
+   },
+   "rank": 8,
+   "percentile": 35.0,
+   "score": 21
+  },
+  {
+   "name": "Friar Leo",
+   "aliases": [
+    "Fr Leo",
+    "Leo"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…wrong type of booty has certainly been overheard after one too many tankards of grog. ### Friar Leo A friar who maintains a secret section of the Church of the Monk in Owe Block containing…"
+   },
+   "rank": 9,
+   "percentile": 40.0,
+   "score": 25
+  },
+  {
+   "name": "Constable Jökulsson",
+   "aliases": [
+    "Jokulsson",
+    "Constable Jokulsson"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…### Tugller ### Lady Edgermire ### Samuel Supplebottom ### Quickety Cricket Constable Jökulsson The de facto ruler of Bar Bastion. He took control in a time of disorder as the Whispering…"
+   },
+   "rank": 10,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Judge Buke",
+   "aliases": [
+    "the Honorable Judge Buke"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…court in all the isles, the Pintland Criminal Court, located in Providence. The Honorable Judge Buke presided and an outside lot of jurors was brought in to weigh judgement. Seamus Bonehardy…"
+   },
+   "rank": 10,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Sister Bertha",
+   "aliases": [
+    "Bertha"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…cardinal. His unusual size allowed him to stand out among the other guardian applicants. ### Sister Bertha Sister Bertha is a snitch. A big ole snitch. Her father was a high ranking Circ in the Cardinals…"
+   },
+   "rank": 10,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Captain Crawdad",
+   "aliases": [
+    "Crawdad"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Oweblock, but he tends to deal in some shady businesses such as arms dealing. ### Captain Crawdad Pilot and Captain of the Hook Line & Sinker Submarine, Captain Crawdad served in the ASDU…"
+   },
+   "rank": 13,
+   "percentile": 72.5,
+   "score": 62
+  },
+  {
+   "name": "Cpt. Lincoln Dillydally",
+   "aliases": [
+    "Lincoln Dillydally",
+    "Captain Lincoln Dillydally"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Color Guard was Cpt. William Dillydally. The current Captain of the Color Guard is Cpt. Lincoln Dillydally ##### The Krappenschitz Estate The Krappenschitz family (David and Iso) are rich snobbish…"
+   },
+   "rank": 13,
+   "percentile": 72.5,
+   "score": 62
+  },
+  {
+   "name": "Lady Edgermire",
+   "aliases": [
+    "Edgermire"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…deep below the Ballbuster Inn ##### Witch Doctors Tower A mystic healer by the name of Lady Edgermire heals but for a strange price……rumors circle about her having Veilwalker ties ##### Aleforge…"
+   },
+   "rank": 13,
+   "percentile": 72.5,
+   "score": 62
+  },
+  {
+   "name": "Lady Krappenschitz",
+   "aliases": [
+    "Iso Krappenschitz",
+    "Iso"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cpt. Lincoln Dillydally ##### The Krappenschitz Estate The Krappenschitz family (David and Iso) are rich snobbish aristocrats. They are generally more sober than most and thus hated by…"
+   },
+   "rank": 13,
+   "percentile": 72.5,
+   "score": 62
+  },
+  {
+   "name": "Sheriff Edward Cocaine",
+   "aliases": [
+    "Edward Cocaine",
+    "Sheriff Cocaine"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Alforge. The first Aleforge Sheriff was Peedrick Cocaine Sr. the current sheriff is Sheriff Edward Cocaine 3. The Color Guard: The Color Guard dates back to the founders of Aleforge. The first ones…"
+   },
+   "rank": 13,
+   "percentile": 72.5,
+   "score": 62
+  },
+  {
+   "name": "Sir Robert CockPower",
+   "aliases": [
+    "Robert CockPower",
+    "CockPower"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…##### CockPowers Clock Tower Built by the Cockpower family and currently maintained by Sir Robert CockPower. The CockPower family comes from a long line of timekeepers, not much is known about them…"
+   },
+   "rank": 13,
+   "percentile": 72.5,
+   "score": 62
+  },
+  {
+   "name": "Saint No-Snooze",
+   "aliases": [
+    "Saint No Snooze"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…just a driftwood sermon by some tonic-made monk screamin' on a rock. The same monk they call \"Saint No-Snooze\" now? Yeah, he once tried to drink in the Great Tavern and passed out tryin' to convert the…"
+   },
+   "rank": 19,
+   "percentile": 92.5,
+   "score": 89
+  },
+  {
+   "name": "Sergeant Hark",
+   "aliases": [
+    "Hark"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…founder of the T(horny) Thicket Tavern found deep in the middle of thiccy forest ### Sergeant Hark The Chief Officer for the Providence Guard ### Vlad the Kisser A small time wanna-be…"
+   },
+   "rank": 19,
+   "percentile": 92.5,
+   "score": 89
+  },
+  {
+   "name": "Cpt. William Dillydally",
+   "aliases": [
+    "William Dillydally",
+    "Captain William Dillydally"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to plant the flag of Aleforge on this island. The first Captain of the Color Guard was Cpt. William Dillydally. The current Captain of the Color Guard is Cpt. Lincoln Dillydally ##### The Krappenschitz…"
+   },
+   "rank": 21,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

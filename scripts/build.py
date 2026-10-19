@@ -39,12 +39,12 @@ TIER_ORDER = {"easy": 0, "medium": 1, "hard": 2}
 MIN_ANSWERS = 18  # approved floor for smaller questions; 25 is the goal
 
 
-def rarity_table(entries):
+def rarity_table(entries, key=lambda e: e["mentions"]["total"]):
     n = len(entries)
     for e in entries:
-        m = e["mentions"]["total"]
-        higher = sum(1 for o in entries if o["mentions"]["total"] > m)
-        equal = sum(1 for o in entries if o["mentions"]["total"] == m) - 1
+        m = key(e)
+        higher = sum(1 for o in entries if key(o) > m)
+        equal = sum(1 for o in entries if key(o) == m) - 1
         mech = (higher + 0.5 * equal) / (n - 1) if n > 1 else 1.0
         e["_adj"] = mech + OBSCURITY_WEIGHT * (e["obscurity"] - 3) / 2
     for e in entries:
@@ -54,7 +54,7 @@ def rarity_table(entries):
         e["rank"] = lower + 1  # 1 = most common
         e["percentile"] = round(pct * 100, 1)
         e["score"] = round(100 * pct ** SCORE_CURVE)
-    entries.sort(key=lambda e: (e["_adj"], -e["mentions"]["total"], e["name"].lower()))
+    entries.sort(key=lambda e: (e["_adj"], -key(e), e["name"].lower()))
     for e in entries:
         del e["_adj"]
 
@@ -75,13 +75,19 @@ def build_category(cat, lore):
             "mentions": {"total": sum(per_doc.values()), **per_doc},
             "obscurity": src.get("obscurity", 3),
             "inferred": bool(src.get("inferred", False)),
+            "_spread": src.get("_spread", 0),
         }
         if e["inferred"]:
             e["evidence"] = {"source": "inferred", "text": src.get("quote", ""), "note": src.get("note", "")}
         elif first:
             e["evidence"] = {"source": LORE_FILES[first[0]][0], "text": first[1]}
         entries.append(e)
-    rarity_table(entries)
+    if cat.get("derive", {}).get("rank_by") == "spread":
+        rarity_table(entries, key=lambda e: e["_spread"])
+    else:
+        rarity_table(entries)
+    for e in entries:
+        del e["_spread"]
     return {
         "id": cat["id"],
         "prompt": cat["prompt"],
@@ -136,7 +142,7 @@ def build_schedule(index, existing, today):
 def main():
     lore = load_lore()
     lore_hash = hashlib.sha256("".join(lore[k] for k in sorted(lore)).encode()).hexdigest()[:12]
-    cats = load_sources()
+    cats = load_sources(lore)
     answers_dir = DATA_DIR / "answers"
     answers_dir.mkdir(parents=True, exist_ok=True)
     for old in answers_dir.glob("*.json"):

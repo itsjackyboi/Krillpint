@@ -1,0 +1,1203 @@
+{
+ "id": "letter-f",
+ "prompt": "Name anything from the lore starting with F",
+ "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+ "difficulty": "medium",
+ "gem": "The flag of Aleforge",
+ "answerCount": 63,
+ "answers": [
+  {
+   "name": "Farmer",
+   "aliases": [
+    "Farmers",
+    "farmer from the northern fields"
+   ],
+   "mentions": {
+    "total": 33,
+    "compendium": 12,
+    "records": 21
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…forest, most prominent of these is the Thorny Thicket, a bar owned by George Bush. A disgruntled farmer has taken up residence deep in the forest as well and one of the very first shrines ever discovered…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Fenwick",
+   "aliases": [],
+   "mentions": {
+    "total": 32,
+    "compendium": 22,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…inland forest known locally as 'Thiccy Forest.' This is the home of the Veilwalker encampment, Fenwick. Many other notable locations are shrouded by the dense forest, most prominent of these is…"
+   },
+   "rank": 2,
+   "percentile": 1.6,
+   "score": 0
+  },
+  {
+   "name": "Fentmaxxer",
+   "aliases": [
+    "Fentmaxer"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher.…"
+   },
+   "rank": 3,
+   "percentile": 3.2,
+   "score": 1
+  },
+  {
+   "name": "Fentmaxxer's Observatory",
+   "aliases": [],
+   "mentions": {
+    "total": 12,
+    "compendium": 12,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests -…"
+   },
+   "rank": 4,
+   "percentile": 5.6,
+   "score": 1
+  },
+  {
+   "name": "The founding of Providence",
+   "aliases": [],
+   "mentions": {
+    "total": 12,
+    "compendium": 10,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Drifters, Traders, and Travlers: These are the non-permanent residents — merchants, adventurers, exiles, scholars, and outcasts. They move between Shanty Town, Roto, and beyond. Some are spies.…"
+   },
+   "rank": 4,
+   "percentile": 5.6,
+   "score": 1
+  },
+  {
+   "name": "First mate",
+   "aliases": [],
+   "mentions": {
+    "total": 11,
+    "compendium": 2,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…his image of unity and town pride. Gideon Drake is actually part VeilWalker, and he was the 1st mate of the legendary pirate Sackbeard who killed the tavern beast. Hundreds of years ago he cursed…"
+   },
+   "rank": 6,
+   "percentile": 8.9,
+   "score": 3
+  },
+  {
+   "name": "Friar",
+   "aliases": [
+    "Friars"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 11,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…seen what their holy town does after dark — when the tonic kicks in and the masks slip. Their Friars cry, their Circs dance, and their merchants whisper to drowned things. Truth is, Providence…"
+   },
+   "rank": 6,
+   "percentile": 8.9,
+   "score": 3
+  },
+  {
+   "name": "Flow control valves",
+   "aliases": [
+    "flow control",
+    "Flow control"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 0,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…entering the endgame, Luke opened up the navigation door i think and that gave us access to the flow controls and thankfully everyone else was able to understand how the system worked but i totally did…"
+   },
+   "rank": 8,
+   "percentile": 11.3,
+   "score": 4
+  },
+  {
+   "name": "Flesh born",
+   "aliases": [
+    "fleshborn"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 5,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"veilwalkers\". They were born from the dirt and soil of the earth. They refer to humans as \"The flesh born\" and themselves as \"earth born\". They live simple lives and live off of only what the earth…"
+   },
+   "rank": 9,
+   "percentile": 13.7,
+   "score": 5
+  },
+  {
+   "name": "Freddy Hog's Freaky Hogs",
+   "aliases": [
+    "Freaky Hogs",
+    "freaky hogs",
+    "Freaky hogs",
+    "Freaky Hog"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 4,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…on the side of the building in an alley way between the estate and the OAM building ##### Freddy Hog's Freaky Hogs Here you can buy the best quality (and the freakiest) hogs in all of Pintland and thats a…"
+   },
+   "rank": 9,
+   "percentile": 13.7,
+   "score": 5
+  },
+  {
+   "name": "The Factory artifacts",
+   "aliases": [],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hell Now he is plagued by nightmares of their return and revenge so he has been researching artifacts from the factory illegally to try to close the portal for good and prevent their escape Following the events…"
+   },
+   "rank": 11,
+   "percentile": 16.1,
+   "score": 6
+  },
+  {
+   "name": "Fish",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 5,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…gear and such for promises and vows. Whether that be a promise to plant a flower for every fish you catch. Or a vow to be more virtuous. Legend is that those who keep these promises have…"
+   },
+   "rank": 12,
+   "percentile": 18.5,
+   "score": 8
+  },
+  {
+   "name": "Frog",
+   "aliases": [
+    "Frogs"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…must've lost a game worse than I did. The old man lifted the cup. No pebble. Just a single frog turd. I blinked. \"That's... not a rock,\" I said, feeling the weight of dozens of eyes pressing…"
+   },
+   "rank": 12,
+   "percentile": 18.5,
+   "score": 8
+  },
+  {
+   "name": "Faige the Witch",
+   "aliases": [
+    "Faige",
+    "Faegi"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…providence as refugees. Lived there until 16 when i snagged a bit of fake clockheart tonic made by the Liquor witch Faegi which turned me into a functional alcoholic (had to hide my true drunkenness from the…"
+   },
+   "rank": 14,
+   "percentile": 21.8,
+   "score": 10
+  },
+  {
+   "name": "Fires of Scoul",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Enter as one who understands this, or do not enter at all. When you come before the Fires of Scoul, come as you truly are. They have never been deceived and they will not begin with you.…"
+   },
+   "rank": 14,
+   "percentile": 21.8,
+   "score": 10
+  },
+  {
+   "name": "Frenic Hallis",
+   "aliases": [
+    "Frenic"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…throne after his passing. This began the Hallis Dynasty, the 1st in Aleforge history. Frenic Hallis: It was during the time of his rule that the small settlement of Shanty Town which originated…"
+   },
+   "rank": 16,
+   "percentile": 24.2,
+   "score": 12
+  },
+  {
+   "name": "Fairies",
+   "aliases": [
+    "Fairy"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the earth destroying all semblance of life and nature. The woodland spirits (nymphs, gnomes, fairies and such) could do little against them. So they used their combined magic to birth \"protectors\"…"
+   },
+   "rank": 17,
+   "percentile": 30.6,
+   "score": 17
+  },
+  {
+   "name": "Forgery",
+   "aliases": [
+    "forged letters"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…barrel in the Shanty Square. The Truth of Providence (from Someone Who's Fought, Farted, and Forged in Shanty Town) Providence? Bah. Ye mean the gilded pisshole where cowards pickle their souls…"
+   },
+   "rank": 17,
+   "percentile": 30.6,
+   "score": 17
+  },
+  {
+   "name": "Friar Leo",
+   "aliases": [
+    "Fr Leo"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…wrong type of booty has certainly been overheard after one too many tankards of grog. ### Friar Leo A friar who maintains a secret section of the Church of the Monk in Owe Block containing…"
+   },
+   "rank": 17,
+   "percentile": 30.6,
+   "score": 17
+  },
+  {
+   "name": "Fuse Reset Rod",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Non-blown fuses knocked out of place by navigation-based inertial changes. Solution: Use fuse reset rod to push fuses back into the correct position (as denoted by the power indicator light) Entry…"
+   },
+   "rank": 17,
+   "percentile": 30.6,
+   "score": 17
+  },
+  {
+   "name": "The first King of Lagendale",
+   "aliases": [
+    "the first king"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…year's Liquor King! The lineage of the Liquor Kings are as follows. The ruling dates of the first kings have been lost to time, however, some of their founding achievements have remained in the…"
+   },
+   "rank": 17,
+   "percentile": 30.6,
+   "score": 17
+  },
+  {
+   "name": "The First Pour",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…with a crew and a ship of their own — they must earn it. Complete the trials. Survive the First Pour. Prove you're not just another drunk with a sword. That's how you get your name carved into…"
+   },
+   "rank": 17,
+   "percentile": 30.6,
+   "score": 17
+  },
+  {
+   "name": "The Forbidden Brew",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…soul cannot die, but they also cannot be considered truly alive. ### Key Artifacts Map to the Forbidden Brew — Currently blank. It will reveal itself when the bearer is deemed worthy — which is to say,…"
+   },
+   "rank": 17,
+   "percentile": 30.6,
+   "score": 17
+  },
+  {
+   "name": "Firecracker",
+   "aliases": [
+    "firecrackers"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the portal using the artifacts. Jagerbauhm took the artifacts and, using Elytra wings and a firecracker, flew to the Dread Harrow and fought through Sackbeard's crew to reach the cabin. He placed…"
+   },
+   "rank": 24,
+   "percentile": 41.1,
+   "score": 26
+  },
+  {
+   "name": "Fisherman",
+   "aliases": [
+    "fisher"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…If you want to catch a fish? You use bait and lures that they make (legend has it that the fisherman who slayed the great tavern beast used fishing gear from the \"Veilwalkers\". As well as wood…"
+   },
+   "rank": 24,
+   "percentile": 41.1,
+   "score": 26
+  },
+  {
+   "name": "Freddy Hog",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…on the side of the building in an alley way between the estate and the OAM building ##### Freddy Hog's Freaky Hogs Here you can buy the best quality (and the freakiest) hogs in all of Pintland…"
+   },
+   "rank": 24,
+   "percentile": 41.1,
+   "score": 26
+  },
+  {
+   "name": "Fulbert",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…soon I'll take it to upper management to get approved for manufacturing! -Fulbert email->pius Cipher Update ------------------- Pius, sorry it took me so long to get back…"
+   },
+   "rank": 24,
+   "percentile": 41.1,
+   "score": 26
+  },
+  {
+   "name": "The flat yearly fee",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…one of the biggest draws of Roto was its lack of regulation. One example of such a rule is a yearly set of fees for all merchants in Roto. Xi was strongly opposed to the idea of taxing any sales in Roto,…"
+   },
+   "rank": 24,
+   "percentile": 41.1,
+   "score": 26
+  },
+  {
+   "name": "The founders of Aleforge",
+   "aliases": [
+    "founders"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…keep and too wicked to share. A cask. A Pour Eternal. Brewed in madness, they say, by the founders of Aleforge and Sackbeard the Beast-Breaker himself. Brewed from blood pulled from the gullet of the slain…"
+   },
+   "rank": 24,
+   "percentile": 41.1,
+   "score": 26
+  },
+  {
+   "name": "Famine and disease",
+   "aliases": [
+    "famine"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…offend them or try to take too much from the earth are haunted by this tribe and are cursed by famine and disease. When they communicate with the woodland spirits they transform into ghostly figures and…"
+   },
+   "rank": 30,
+   "percentile": 54.8,
+   "score": 41
+  },
+  {
+   "name": "Farmhands",
+   "aliases": [
+    "farmhand"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the main provider of wheat to the local villages, he has an impressive farm with multiple farmhands. He is well off and self sustaining but ever since his wife passed away his life has become…"
+   },
+   "rank": 30,
+   "percentile": 54.8,
+   "score": 41
+  },
+  {
+   "name": "Fayte Druids",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The ancient monk's hall built over a mystical anomaly. Recently it has been closed off by the Fayte Druids - Fentmaxxer's Observatory — The hastily constructed observatory on Killdeath Peak. -…"
+   },
+   "rank": 30,
+   "percentile": 54.8,
+   "score": 41
+  },
+  {
+   "name": "Fin",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…attempting to contact her for week but she stays safe behind the walls of Providence. ### Fin A small boy running at light speed around the alleys of Providence. He is the son of Obvious…"
+   },
+   "rank": 30,
+   "percentile": 54.8,
+   "score": 41
+  },
+  {
+   "name": "Foamrot Scallywag crew",
+   "aliases": [
+    "Foamrot Scallywags",
+    "Foamrot"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…headquartered in Providence. Goldcoral Inc owns the ship The Bastards Requiem and employs the Foamrot Scallywag crew. Jack is currently searching for a worthy crew to bring in higher profits for…"
+   },
+   "rank": 30,
+   "percentile": 54.8,
+   "score": 41
+  },
+  {
+   "name": "Fortunate Scarab",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…slaughtered in the Rotted Soul's takeover. He wore these as a symbol of his divine right to rule. Fortunate Scarab — Shows a true vision of the future. Dementing Scarab — Shows a true and unfortunate vision…"
+   },
+   "rank": 30,
+   "percentile": 54.8,
+   "score": 41
+  },
+  {
+   "name": "The female Veilwalker",
+   "aliases": [
+    "female Walker"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Veilwalkers in their respective seasons, and encountered something he was never meant to find: a female Veilwalker. Female Walkers are seldom seen. By Veilwalker law, they are barred from serving as Elders…"
+   },
+   "rank": 30,
+   "percentile": 54.8,
+   "score": 41
+  },
+  {
+   "name": "The fifty percent tithe",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the folk serve as Apostles, their jittery hands raised in ceaseless devotion. Their tithes—half of all earnings—flow like a golden river into the church's coffers, fueling a cryptic agenda whispered only…"
+   },
+   "rank": 30,
+   "percentile": 54.8,
+   "score": 41
+  },
+  {
+   "name": "The fine suede cloak",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"Not this time, my dears.\" Verse III – The Cursed Chamber Led by Max, a madman in fine suede cloak, To caves and dens where mere mortals choke. Into a chamber of \"water\" they'd dive— Jameson…"
+   },
+   "rank": 30,
+   "percentile": 54.8,
+   "score": 41
+  },
+  {
+   "name": "The First Treaty",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…child was conceived, half human, half Veilwalker. A halfbreed. The first of its kind. The First Treaty When the union was discovered, it triggered a crisis on both sides. The Veilwalker Elders…"
+   },
+   "rank": 30,
+   "percentile": 54.8,
+   "score": 41
+  },
+  {
+   "name": "The Foreverglades",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…During the reign of the 33rd Council, a farmer from the northern fields wandered into the Foreverglades, an ancient forest shared by humans and Veilwalkers in their respective seasons, and encountered…"
+   },
+   "rank": 30,
+   "percentile": 54.8,
+   "score": 41
+  },
+  {
+   "name": "Fireball",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…pissed his armor that fateful night. Last Liquor Trials, he fell too hard, Face-first in fireball, banned from the yard. \"Useless drunk!\" the townsfolk sneered, \"The Slayer of Sobriety?…"
+   },
+   "rank": 41,
+   "percentile": 64.5,
+   "score": 52
+  },
+  {
+   "name": "Fargo Willslick",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Getta ### Puke Fartson ### Buck Setts ### Keg Minster ### Buck Setts ### Cheddar ### Fargo Willslick ### Head ### Sir Robert CockPower Color Guards ### Cpt. Lincoln Dillydally ### Piggly…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "Farty McShits",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…large horse shoes to fill. ### Shitty McFarts Slow Mule bred from a horse and donkey ### Farty McShits Hornse…..McFarts half brother ### Circ M. Geiser ### Willie Cumbag ### Skeet Budle ###…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "Fate's perilous door",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…glowing brightly to guide to the shore Six will make the journey final And knock on fate's perilous door ## Raise the Crown, Raise the Cup An Anthem For The Drunken Trials [Verse 1] Gather…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "Fauns",
+   "aliases": [
+    "Faun"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…entered into a deeper religious ferocity. He is often heard referring to sprites, nymphs, fauns and even centaurs speaking with him on his farm. Gale has developed a semi religious hierarchy…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "Feast of the Eternal Keg",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their annual feast—Stormtide, Keg 5, Lagerhorn—strikes us as pagan revelry, a contrast to our Feast of the Eternal Keg. Some say their leaders, descended from Sackbeard's crew, still bear pirate blood, their gin-fueled…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "Fenwick Fringe Fertile Fiesta",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…our loot while giving Farmers free rides to sell wheat. Hold your applause And Farmers, the Fenwick Fringe Fertile Fiesta leases land around Fenwick for you to farm. lets leave Fenwick's woods alone. They have no…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "Festival of the Red Tide",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…strength. Once a year, on the Ascension of the Lord in Goldsun, Keg 4, the port hosts the Festival of the Red Tide, where the townsfolk offer a tithe of tonic to the sea, its crimson waves said to bless the…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "Fianchetto Chess Bar",
+   "aliases": [
+    "Fianchetto"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…also responsible for most of the Gold in the treasury. ### Aberama Bong Owner of the Fianchetto Chess bar in the Cardinal Circle, and the moderator of the Shot-Chess association. ### Pope Used…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "Financial and accounting department",
+   "aliases": [
+    "financial department"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…the ID and the door opens, and finally escape. I get Teleported to a long hallway, there's a financial and accounting department. I open another door at the end of the hallway with my ID code where I'm reunited…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "Fish guts",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"principles,\" but let's not forget — Roto was built on pirate plunder. Without us, they'd be selling fish guts and paper fans from leaky rafts. That said, not every pirate spits on Roto. Some respect…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "Flat brewers tax",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…has a 20% flat tax, and a 150% tax if discovered smuggling the items into town. Changes on Brewers Tax: Gone are the days of Thomas Thatchers variable tax rate on breweries based on production.…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "Foreman",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to give you something in return…That is, if you can catch him. ### Dig Dug He's the Foreman of the Mines at the Basin at Bully Hill. Dig Dug is one of the biggest employers of Oweblock…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "Freddy Beerbell",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…### Winky Stinky ### Cheff Bigmeat ### Hornithan Buttlube ### Sheriff Edward Cocaine ### Freddy Beerbell ### Scummy Bumbadill ### David Krappenschitz ### Lady Krappenschitz ### Dust Shidiz ###…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "Free from Sobriety",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…near! Ho, Sackbeard's sails, fly high and free, His ale's the pride of our old sea! ## Free from Sobriety A celebration of the MAA's defeat. Those dry hags, with their pinched-up scowls, The Mothers…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "The fake MAMA note",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…crops, and was then killed by Gideon Drake, who staged the scene to implicate MAMA. A fake MAMA note was left with the body. Buke and JP noticed a trail of blood leading from the house to the…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "The farmers clan",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…king until the next morning Roderick Hennessany: Negotiated a peace between the warring farmers clan and brewers guild. Some view this as the true founding of Aleforge Cormac Bushlighted:…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "The fated night in the forest",
+   "aliases": [
+    "the forest"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…best as could be remembered by some of the townsfolk present. Verse I - One fated night amidst the forest Six wayward travellers met And though the stars foretold their story Their hearts on sadness…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "The First Captains",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…carved into the ribs of the beast itself. Long ago, afore the Windsunk sat in council, the First Captains buried pieces of a treasure too wild to keep and too wicked to share. A cask. A Pour Eternal.…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "The Forbidden Union",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…affairs, and humans were wise enough not to seek them out. That peace ended with a farmer. The Forbidden Union During the reign of the 33rd Council, a farmer from the northern fields wandered into…"
+   },
+   "rank": 42,
+   "percentile": 80.6,
+   "score": 72
+  },
+  {
+   "name": "A fateful tourist",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…ready to teach greedy boys and girls a lesson from the abyss! Sleep tight, me hearty, argh! a fateful tourist \"At first i thought he was a tourist that Gideon Drake. Seein as he washed up right about…"
+   },
+   "rank": 61,
+   "percentile": 98.4,
+   "score": 98
+  },
+  {
+   "name": "Free Boost",
+   "aliases": [
+    "Free Boost book"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…\"I saw it i did, Mr. Gideon holdin them factory gadgets, hell if i know what they're for\" Free Boost This book offers the finder one free enchant, netherite upgrade, piece of diamond armor,…"
+   },
+   "rank": 61,
+   "percentile": 98.4,
+   "score": 98
+  },
+  {
+   "name": "The flag of Aleforge",
+   "aliases": [
+    "flag"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Guard: The Color Guard dates back to the founders of Aleforge. The first ones to plant the flag of Aleforge on this island. The first Captain of the Color Guard was Cpt. William Dillydally. The current…"
+   },
+   "rank": 61,
+   "percentile": 98.4,
+   "score": 98
+  }
+ ]
+}

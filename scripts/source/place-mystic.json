@@ -1,0 +1,31 @@
+{
+  "id": "place-mystic",
+  "prompt": "Name something tied to New Haven, the Shrines or the beast skeletons",
+  "blurb": "The amethyst network nobody fully understands yet.",
+  "difficulty": "hard",
+  "gem": "The toothed skull",
+  "answers": [
+    {"ref": "Amethyst crystals", "obscurity": 1},
+    {"ref": "The Amethyst Fountain"},
+    {"ref": "New Haven", "obscurity": 1},
+    {"ref": "The Shrines"},
+    {"ref": "The shrine armor sets"},
+    {"ref": "The Great Beast Skeletons"},
+    {"ref": "The Tavern Beast"},
+    {"name": "The deer-like skull", "aliases": ["deer skull", "deer head"], "count": ["re:(?i)deer like head"]},
+    {"name": "The sea monster ribcage", "aliases": ["ribcage", "sea monster ribs"], "count": ["re:(?i)ribcage of a sea monster"]},
+    {"name": "The toothed skull", "aliases": ["toothed skull", "predator skull"], "count": ["re:(?i)toothed skull"]},
+    {"name": "The altar of skulls", "aliases": ["altar", "altar of skulls"], "count": ["re:(?i)altar built primarily out of human"]},
+    {"ref": "Ignatius De Montfort"},
+    {"ref": "Reverend Ambrose Ravenscroft"},
+    {"ref": "Bells of Imperion"},
+    {"name": "The secret vaults", "aliases": ["vaults"], "count": ["re:(?i)secret vaults"]},
+    {"ref": "The pale stranger"},
+    {"ref": "The invisible hallway"},
+    {"ref": "Tome Monuments"},
+    {"ref": "Crystalline Structure #7"},
+    {"ref": "The Veilwalker shrine in Owe Block"},
+    {"ref": "The vanished monks"},
+    {"name": "The Scholar, the Drunk and the Scalleywag", "aliases": ["Scholar the Drunk and the Scalleywag"], "count": ["re:(?i)scholar, the drunk"], "obscurity": 4}
+  ]
+}

@@ -1,0 +1,486 @@
+{
+ "id": "pirates",
+ "prompt": "Name a pirate",
+ "blurb": "Captains, crews, mutineers and retired cliff-dwellers. If they sailed for plunder, they count.",
+ "difficulty": "easy",
+ "gem": "The lone captain",
+ "answerCount": 22,
+ "answers": [
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Drake",
+    "Gidion Drake",
+    "the Bastard Veil",
+    "the Ironkeg"
+   ],
+   "mentions": {
+    "total": 145,
+    "compendium": 75,
+    "records": 70
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Jack Anqoak",
+   "aliases": [
+    "Anqoak",
+    "Jack",
+    "Anqok",
+    "Anquok",
+    "Jack Anquoke",
+    "Oracle of Aleforge",
+    "Jack and Coke"
+   ],
+   "mentions": {
+    "total": 142,
+    "compendium": 74,
+    "records": 68
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson…"
+   },
+   "rank": 2,
+   "percentile": 4.8,
+   "score": 1
+  },
+  {
+   "name": "Seamus Bonehardy",
+   "aliases": [
+    "Seamus",
+    "Bonehardy",
+    "Mayor Bonehardy"
+   ],
+   "mentions": {
+    "total": 116,
+    "compendium": 58,
+    "records": 58
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan),…"
+   },
+   "rank": 3,
+   "percentile": 9.5,
+   "score": 3
+  },
+  {
+   "name": "Jameson Pilsner",
+   "aliases": [
+    "JP",
+    "Japes",
+    "Pilsner",
+    "Jamison Pilsner",
+    "Slayer of Sobriety",
+    "Jameshon Pilshner"
+   ],
+   "mentions": {
+    "total": 101,
+    "compendium": 52,
+    "records": 49
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister…"
+   },
+   "rank": 4,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Buke",
+   "aliases": [
+    "Luke"
+   ],
+   "mentions": {
+    "total": 100,
+    "compendium": 42,
+    "records": 58
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run…"
+   },
+   "rank": 5,
+   "percentile": 19.0,
+   "score": 8
+  },
+  {
+   "name": "Sackbeard",
+   "aliases": [
+    "Captain Sackbeard"
+   ],
+   "mentions": {
+    "total": 77,
+    "compendium": 57,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death…"
+   },
+   "rank": 6,
+   "percentile": 23.8,
+   "score": 12
+  },
+  {
+   "name": "Jagerbauhm",
+   "aliases": [
+    "Jagerbaum",
+    "Jagerbaugm",
+    "Jagerbaumdani",
+    "Jaugerbomb",
+    "Ben",
+    "Drunken Angel",
+    "Lager Duke"
+   ],
+   "mentions": {
+    "total": 70,
+    "compendium": 28,
+    "records": 42
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts…"
+   },
+   "rank": 7,
+   "percentile": 28.6,
+   "score": 15
+  },
+  {
+   "name": "Guinnie",
+   "aliases": [
+    "Steph O'Guinness"
+   ],
+   "mentions": {
+    "total": 36,
+    "compendium": 17,
+    "records": 19
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order,…"
+   },
+   "rank": 8,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "Old Salty",
+   "aliases": [
+    "Salty"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 10,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "unofficial residence at the Gilded Tankard",
+    "note": "Officially a Shanty Town resident, but practically lives at the Gilded Tankard."
+   },
+   "rank": 9,
+   "percentile": 38.1,
+   "score": 24
+  },
+  {
+   "name": "Windsunk Council",
+   "aliases": [
+    "The Windsunk",
+    "Windsunk"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 11,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…currency. Trade was done in barrels, not coin. You wanted a room? A barrel. food? A pint. The Windsunk Council formed — old captains and clever drinkers who could hold their own. They set the first…"
+   },
+   "rank": 10,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Sackbeard's undead crew",
+   "aliases": [
+    "undead crew",
+    "cursed crew",
+    "Sackbeard's crew"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…navigate very difficult times of economic collapse, political uprisings and the arrival of a cursed crew arriving from the Realm of the Soulless seeking revenge on Gideon Drake. This lead to the…"
+   },
+   "rank": 11,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Sackbeard's armada",
+   "aliases": [
+    "armada",
+    "the eleven captains"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…when the traders go home? This fact firmly in mind, the great pirate Sackbeard assembled an armada of the best pirate crews from around the world and laid out a plan to kill the beast. The…"
+   },
+   "rank": 12,
+   "percentile": 52.4,
+   "score": 38
+  },
+  {
+   "name": "Foamrot Scallywag crew",
+   "aliases": [
+    "Foamrot Scallywags",
+    "Foamrot"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…headquartered in Providence. Goldcoral Inc owns the ship The Bastards Requiem and employs the Foamrot Scallywag crew. Jack is currently searching for a worthy crew to bring in higher profits for…"
+   },
+   "rank": 13,
+   "percentile": 61.9,
+   "score": 49
+  },
+  {
+   "name": "The pirate lords",
+   "aliases": [
+    "Pirate Lords",
+    "Cloudrunner pirates"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of men trained in constructing these ships has been lost and only two are functional. The pirate Lord's who sail aboard the cloudrunners are masters of both sea and sky, deftly navigating trade…"
+   },
+   "rank": 13,
+   "percentile": 61.9,
+   "score": 49
+  },
+  {
+   "name": "The Rumrunners",
+   "aliases": [
+    "Rumrunners",
+    "Pilsner's men"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…over… We remember him. Jameson Pilsner, may he never be sober ## Pilsners Lament (the rumrunners rant) Shanty: \"Liver's End\" Oh the Liver's End sails past the moons, With rum in her…"
+   },
+   "rank": 13,
+   "percentile": 61.9,
+   "score": 49
+  },
+  {
+   "name": "Jasper \"no Eyes, all-Hands\"",
+   "aliases": [
+    "Jasper",
+    "Jasper no Eyes all Hands"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…completely mad. ### Shanty Town's Foreign Relations #### On Providence: An excerpt from Jasper \"no Eyes, all-Hands\", resident of La-Di-Da Street, member of Windsunk Council concerning Providence:…"
+   },
+   "rank": 16,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "Mutineer parents",
+   "aliases": [
+    "his parents were mutineers",
+    "mutineers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…typically used for marooning pirates who had called for mutiny on otherwise harmonious ships. My parents were both mutineers, although of different ships. I don't think they intended to leave that island, but once my…"
+   },
+   "rank": 17,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "The Barrel Breakers",
+   "aliases": [
+    "Barrel Breakers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bootymane, luke (Buke), Stephan (Guinnie) ### Seamus Bonehardy (Nathan) \"King of Kegs\" — The Barrel Breakers / Ship: The Alemaster's Mortar Backstory: I was born on a small island typically used for…"
+   },
+   "rank": 17,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "The Bilgrats and Buttplugs",
+   "aliases": [
+    "Bilgrats and Buttplugs",
+    "Bilgrats"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…return home late to the liquor king trails part 1 ### Steph 'Guinnie' O'Guinness (Stephan) The Bilgrats and Buttplugs / Ship: Jolly Rammer Welp guess this is me Heard o' Steph O'Guinness, have…"
+   },
+   "rank": 17,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "The Coral-eyed",
+   "aliases": [
+    "Coral-eyed",
+    "Coral eyed"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…punishes arrogance. Most are former helmsmen, weather witches, or deep-sea interpreters. 2. The Coral-eyed: Once sailors and scavengers, these individuals spent far too long beneath the sea — trapped…"
+   },
+   "rank": 17,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "The land-raiding pirates",
+   "aliases": [
+    "land raiders"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tirelessly to get us off the island. In that year, the town was raided by an up and coming crew of land-raiding pirates and both of my parents were killed. Since then, I've been a member of six separate crews (the…"
+   },
+   "rank": 21,
+   "percentile": 95.2,
+   "score": 93
+  },
+  {
+   "name": "The lone captain",
+   "aliases": [
+    "lone captain"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "a lone captain who was mutineered by his crew washed up on shore",
+    "note": "Washed ashore with a flask in his coat and brought liquor to the Isles. Liquor Day marks it."
+   },
+   "rank": 22,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

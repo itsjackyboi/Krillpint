@@ -1,0 +1,616 @@
+{
+ "id": "ale-names",
+ "prompt": "Name something with \"Ale\" in its name",
+ "blurb": "Aleforge counts. So does anything else that has \"Ale\" in it.",
+ "difficulty": "easy",
+ "gem": "The Islands of Ale",
+ "answerCount": 30,
+ "answers": [
+  {
+   "name": "Aleforge",
+   "aliases": [
+    "Ale Forge",
+    "Alforge"
+   ],
+   "mentions": {
+    "total": 321,
+    "compendium": 180,
+    "records": 141
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards of Aleforge (run by Jack), and Horrors in Hoegaarden (written by Jack and Ben, run by Ben). Each concept…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Ale",
+   "aliases": [
+    "Ales"
+   ],
+   "mentions": {
+    "total": 105,
+    "compendium": 51,
+    "records": 54
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- Aleforge — Brewing capital of the Isles, home of the Drunken Trials. Known for it's fine ale and people. - Providence — The ordered, tonic-driven holy city on the cliffs. A strict theocracy…"
+   },
+   "rank": 2,
+   "percentile": 3.4,
+   "score": 1
+  },
+  {
+   "name": "Stewards of Aleforge",
+   "aliases": [
+    "SOA"
+   ],
+   "mentions": {
+    "total": 52,
+    "compendium": 16,
+    "records": 36
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Beast (run by Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards of Aleforge (run by Jack), and Horrors in Hoegaarden (written by Jack and Ben, run by Ben). Each concept…"
+   },
+   "rank": 3,
+   "percentile": 6.9,
+   "score": 2
+  },
+  {
+   "name": "Aleforge Militia",
+   "aliases": [
+    "The Militia"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 8,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the games. The goal is to attract tourism during the games and boost the economy. Aleforge Militia: Gideon has created a volunteer militia to watch over the town, and protect it against riots…"
+   },
+   "rank": 4,
+   "percentile": 10.3,
+   "score": 3
+  },
+  {
+   "name": "Aleforge Castle",
+   "aliases": [
+    "The Castle",
+    "Castle of Aleforge"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The largest island contains the vast majority of the infrastructure, including the prominent Aleforge Castle at the highest point in the city. The neighboring smaller islands hold the Aleforge Bazzar,…"
+   },
+   "rank": 5,
+   "percentile": 13.8,
+   "score": 5
+  },
+  {
+   "name": "Aleforge ale",
+   "aliases": [
+    "Aleforge brew",
+    "magical ale",
+    "spring ale"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 4,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…beaches, he gladly listened to stories about the Drunken Trials and the creation of the famous Aleforge brew. His charisma and calls for unity led to his election as mayor as the townspeople chose his…"
+   },
+   "rank": 6,
+   "percentile": 19.0,
+   "score": 8
+  },
+  {
+   "name": "Aleforge Special Drinkers Unit",
+   "aliases": [
+    "ASDU",
+    "Special Drinkers Unit",
+    "Aleforge Special Drinkers Association"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 6,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…near its coastline in living memory This uptick hasn't gone unnoticed. Both the Aleforge Special Drinkers Unit and the Providence Guard have flagged the increased SBN presence as worth watching but…"
+   },
+   "rank": 6,
+   "percentile": 19.0,
+   "score": 8
+  },
+  {
+   "name": "Aleforge Bond Market",
+   "aliases": [
+    "Aleforge Bonds",
+    "bond offering",
+    "Bond Market"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…only strong enough to deter small groups, a large riot or attack would be a real problem. Aleforge Bond Market: A portion of the funds for these projects has come from the issue of Aleforge Bonds, currently…"
+   },
+   "rank": 8,
+   "percentile": 25.9,
+   "score": 13
+  },
+  {
+   "name": "Amber Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels and Amber Ale (both drunks). They lived on a far away isolated island unknown to most named \"The Coors…"
+   },
+   "rank": 8,
+   "percentile": 25.9,
+   "score": 13
+  },
+  {
+   "name": "Ale Beans",
+   "aliases": [
+    "Ale Bean"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…### Technology & Industry Despite their isolation, the SBN is surprisingly advanced: - Ale Bean Processing: Sophisticated machinery ,part mill, part alchemical still grinds and ferments…"
+   },
+   "rank": 10,
+   "percentile": 31.0,
+   "score": 17
+  },
+  {
+   "name": "Aleforge International Academy for Aspiring Drinkers",
+   "aliases": [
+    "Aleforge Academy",
+    "Academy for Aspiring Drinkers",
+    "school of drinking"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…coin and fill our coffers. My plan is innovation and industry: the Aleforge International Academy for Aspiring Drinkers is our path to glory, a school rising by the Gilded Tankard to teach brewing and boozing like…"
+   },
+   "rank": 11,
+   "percentile": 39.7,
+   "score": 25
+  },
+  {
+   "name": "Aleforge Memorial Museum",
+   "aliases": [
+    "Memorial Museum"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…our right to drink, to dance, to live free. That is why I will fund the construction of the Aleforge Memorial Museum—a place of reverence, remembrance, and free drinks on the anniversary of our victory. We'll…"
+   },
+   "rank": 11,
+   "percentile": 39.7,
+   "score": 25
+  },
+  {
+   "name": "Aleforge Post Office and Public Records",
+   "aliases": [
+    "Post Office",
+    "APO & PR",
+    "Aleforge Post Office"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…heals but for a strange price……rumors circle about her having Veilwalker ties ##### Aleforge Post Office and Public Records Supplebottom runs a tight ship in the APO & PR. never a late delivery…"
+   },
+   "rank": 11,
+   "percentile": 39.7,
+   "score": 25
+  },
+  {
+   "name": "The Aleforge Chronicle",
+   "aliases": [
+    "Aleforge Chronicle"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…castle trying to psych myself up for the \"victory speech\" I'm supposed to give in front of the Aleforge Chronicle and Pintlands primary Network MCSPAN. Truth is it's not a victory speech it's a way out of…"
+   },
+   "rank": 11,
+   "percentile": 39.7,
+   "score": 25
+  },
+  {
+   "name": "Aleforge Bazaar",
+   "aliases": [
+    "Aleforge Bazzar",
+    "Bazaar",
+    "Bazzar"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Castle at the highest point in the city. The neighboring smaller islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and…"
+   },
+   "rank": 15,
+   "percentile": 55.2,
+   "score": 41
+  },
+  {
+   "name": "Aleforge Light House and Customs Control",
+   "aliases": [
+    "Lighthouse",
+    "Light House",
+    "Customs Control"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…at the highest point in the city. The neighboring smaller islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and tavern founded…"
+   },
+   "rank": 15,
+   "percentile": 55.2,
+   "score": 41
+  },
+  {
+   "name": "Aleforge Restoration Association",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fully documented. ## Providence Educational Foundation for Historical Preservation / Aleforge Restoration Association (Cultural) Two of the civic institutions operating in their respective cities. The Providence…"
+   },
+   "rank": 15,
+   "percentile": 55.2,
+   "score": 41
+  },
+  {
+   "name": "Stormtide Ale",
+   "aliases": [
+    "Stormtide brew",
+    "Storm tide brew"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…superior Aleforge recipes, I have made an agreement with Cardinal addy to brew the first batch of Stormtide Ale, mixin' Aleforge's malt with Providence's brewin' technology, without touchin' their guarded…"
+   },
+   "rank": 15,
+   "percentile": 55.2,
+   "score": 41
+  },
+  {
+   "name": "The ale fountain",
+   "aliases": [
+    "ale fountain",
+    "fountain of Ale",
+    "town square fountain"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…beheaded publicly by those who believed in the old Brewmasters Deity. It is said that the fountain of Ale overflowed that day and all drank until they were satisfied. Adcock: The last of the…"
+   },
+   "rank": 15,
+   "percentile": 55.2,
+   "score": 41
+  },
+  {
+   "name": "Oracle of Aleforge",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…other kings grumble about the number of times they saved his life. ### Jack Anqoak (Jack) \"Oracle of Aleforge\" — Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick…"
+   },
+   "rank": 20,
+   "percentile": 65.5,
+   "score": 53
+  },
+  {
+   "name": "Ale Points",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…alcohol poisoning but carries potent mystical effects the more one drinks. Competitors track Ale Points throughout the event, usable to gain advantages or force others to drink. ## The Gilded Tankard…"
+   },
+   "rank": 21,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Gulf of Aleforge",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Hoegaarden Library. - The Basin at Bully Hill — The lake adjacent to Providence. - Gulf of Aleforge — The bay in front of Sackbeard's Tavern, a natural harbor shaped by centuries of pirate traffic.…"
+   },
+   "rank": 21,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Hall of Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Prejac ##### Brewers Lane Brewers of Aleforge have been living here for generations ##### Hall Of Ale Once a month the brewers gather here for a grand feast and keg tap put on by a different…"
+   },
+   "rank": 21,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Olympics of Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Until we in paradise dine Verse III - The Goldsun of the kings' arrival Was marked by Olympics of Ale And though each man did strive for vict'ry Young Guinnie was first to prevail Soon…"
+   },
+   "rank": 21,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "The Alemaster's Mortar",
+   "aliases": [
+    "Alemaster's Mortar",
+    "Alemasters Mortar"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(Guinnie) ### Seamus Bonehardy (Nathan) \"King of Kegs\" — The Barrel Breakers / Ship: The Alemaster's Mortar Backstory: I was born on a small island typically used for marooning pirates who had called…"
+   },
+   "rank": 21,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "The Islands of Ale",
+   "aliases": [
+    "Islands of Ale"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to any As fortune unravels her tale Each must hold their burden steady To flourish the Islands of Ale Six Liquor Kings hold to six sturdy oars Their hearts glowing brightly to guide to the…"
+   },
+   "rank": 21,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Wepple Ale",
+   "aliases": [
+    "Wepple's ale"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hearing this news, Anqoak severely beat Glub Tuppus Wepple and stole the entire supply of Wepple Ale, giving to his company as new inventory. Currently, this inventory is being sold in secret…"
+   },
+   "rank": 21,
+   "percentile": 79.3,
+   "score": 71
+  },
+  {
+   "name": "Ale Day",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Declare the day of the attack as a national holiday. \"Ale Day\"",
+    "note": "Jameson Pilsner's mayoral promise: a national holiday on the day of the attack, with happy hour all day."
+   },
+   "rank": 28,
+   "percentile": 96.6,
+   "score": 95
+  },
+  {
+   "name": "The Aleforge Brewery",
+   "aliases": [
+    "Brewery"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…at the highest point in the city. The neighboring smaller islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and tavern founded by Glub…"
+   },
+   "rank": 28,
+   "percentile": 96.6,
+   "score": 95
+  },
+  {
+   "name": "The Aleforge jail",
+   "aliases": [
+    "Aleforge jail",
+    "jail"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…found guilty of the murder of Peg Butt. He was sentenced to lifetime sobriety and a stint in the Aleforge jail. # VI. CULTURE, RELIGION & BUSINESS ## The Drunken Trials (Cultural Event) The Drunken…"
+   },
+   "rank": 28,
+   "percentile": 96.6,
+   "score": 95
+  }
+ ]
+}

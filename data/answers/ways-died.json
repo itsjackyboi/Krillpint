@@ -1,0 +1,374 @@
+{
+ "id": "ways-died",
+ "prompt": "Name a way someone died",
+ "blurb": "How the dead got that way: traps, gas leaks, lava, brewing accidents, a horse fire.",
+ "difficulty": "medium",
+ "gem": "Brewing accident",
+ "answerCount": 19,
+ "answers": [
+  {
+   "name": "Execution",
+   "aliases": [
+    "executed"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 2,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was sent to the cloister by a benefactor to find a weak spot on the beast for an eventual execution. Being a biologist by trade he developed an obsessive fascination with the beast and was determined…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Alcohol poisoning",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 3,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Amber and the bottle. He lived a wonderful childhood until Jack and Amber eventually died of alcohol poisoning. This however was seen as being assumed into heaven. To die of alcohol is to achieve ever…"
+   },
+   "rank": 2,
+   "percentile": 13.9,
+   "score": 5
+  },
+  {
+   "name": "Assassination",
+   "aliases": [
+    "assassinated"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 4,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hilgaard the Wildman: essentially a homeless man who somehow won the crown. Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge…"
+   },
+   "rank": 2,
+   "percentile": 13.9,
+   "score": 5
+  },
+  {
+   "name": "De-oxygenization",
+   "aliases": [
+    "suffocation"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…-Management Cycle 91 ------------------- Andrew Smith - Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim - Natural causes (cancer) Cycle 92 -------------------…"
+   },
+   "rank": 2,
+   "percentile": 13.9,
+   "score": 5
+  },
+  {
+   "name": "Lava",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…knew this was my moment to save my friends......There's a massive jump i need to make. With lava below. I don't hesitate for a second.....I run full speed ahead and leap with all my might.....AND…"
+   },
+   "rank": 2,
+   "percentile": 13.9,
+   "score": 5
+  },
+  {
+   "name": "The cage under the well",
+   "aliases": [
+    "cage",
+    "Fentmaxxer's dungeon",
+    "the well"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…well with a hallway running around the exterior and a large telescope in a dome shaped room. Underneath the well in courtyard is a demonic altar dedicated to the warden that fentmaxxer would use to divine…"
+   },
+   "rank": 6,
+   "percentile": 27.8,
+   "score": 15
+  },
+  {
+   "name": "Gas leak",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…cases, executions. -Management Cycle 91 ------------------- Andrew Smith - Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim - Natural…"
+   },
+   "rank": 7,
+   "percentile": 36.1,
+   "score": 22
+  },
+  {
+   "name": "Overpressurization",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…getting stuck in a maintenance shaft. Cycle 93 ------------------- Dimetreus Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei- Natural causes (age)…"
+   },
+   "rank": 7,
+   "percentile": 36.1,
+   "score": 22
+  },
+  {
+   "name": "Immolation",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…(cancer) Cycle 92 ------------------- Geoffrey Dingle - apparent alcohol poisoning. Sam Park - Immolation (handled as suicide) Chen K - Lack of oxygen after getting stuck in a maintenance shaft.…"
+   },
+   "rank": 9,
+   "percentile": 55.6,
+   "score": 41
+  },
+  {
+   "name": "Killed in battle",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Pintland Isles. Great battles raged on for months until Scab Plindor I was tragically killed in battle. In this rare circumstance the people decided to suspend the Drunken Trials and allow the…"
+   },
+   "rank": 9,
+   "percentile": 55.6,
+   "score": 41
+  },
+  {
+   "name": "Natural causes",
+   "aliases": [
+    "old age",
+    "cancer"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim - Natural causes (cancer) Cycle 92 ------------------- Geoffrey Dingle - apparent alcohol poisoning. Sam…"
+   },
+   "rank": 9,
+   "percentile": 55.6,
+   "score": 41
+  },
+  {
+   "name": "Public beheading",
+   "aliases": [
+    "beheading",
+    "beheaded"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the reincarnation of the Brewmasters Deity. Cedrics rule came to an abrupt end when he was beheaded publicly by those who believed in the old Brewmasters Deity. It is said that the fountain…"
+   },
+   "rank": 9,
+   "percentile": 55.6,
+   "score": 41
+  },
+  {
+   "name": "Stuck in a maintenance shaft",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…poisoning. Sam Park - Immolation (handled as suicide) Chen K - Lack of oxygen after getting stuck in a maintenance shaft. Cycle 93 ------------------- Dimetreus Reynalds- overpressurization of decontamination…"
+   },
+   "rank": 9,
+   "percentile": 55.6,
+   "score": 41
+  },
+  {
+   "name": "Brewing accident",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Veilwalkers. This was a controversial decision at the time. Percy Tapper: Died in a brewing accident early into his rule Ingram the Hermit: One of the longest ruling Kings, curiously he…"
+   },
+   "rank": 14,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Burned to death",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…like a father to us all.\" On November 13, 2025 at 10:22:46 PM EST, Peg Butt died. \"Peg Butt burned to death.\" No player or mob is credited with the kill. There is no eyewitness confession, no \"was slain…"
+   },
+   "rank": 14,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Landing on his own spear",
+   "aliases": [
+    "own spear"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…into it. Bravely. With purpose and intention and absolutely no hesitation whatsoever. I landed on a spear. My own. Which I had dropped on the way down. I will not elaborate further on that…"
+   },
+   "rank": 14,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Missing the jump",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…more gear and we went up top to shut down the other modules, i of course died instantly from missing the jump and was naked from here on out, i punched max in the back one time and was immediately beheaded…"
+   },
+   "rank": 14,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Three traps",
+   "aliases": [
+    "traps"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…country that should have been picked over generations earlier. The research assistant died to three separate traps on the way in. Beyond them lay a chamber holding a chest filled with gold. Gilligan's reaction…"
+   },
+   "rank": 14,
+   "percentile": 86.1,
+   "score": 80
+  },
+  {
+   "name": "Throat slit",
+   "aliases": [
+    "slit throat"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…lightning in a squall! The traitorous first mate, quick as a shark, got the upper hand and slit ol' Sackbeard's throat with his own cursed dagger, argh! In a rage wilder than a typhoon, the first mate seized the…"
+   },
+   "rank": 14,
+   "percentile": 86.1,
+   "score": 80
+  }
+ ]
+}

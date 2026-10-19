@@ -1,0 +1,33 @@
+{
+  "id": "animal-kinds",
+  "prompt": "Name a kind of animal mentioned in the lore",
+  "blurb": "Species, not names: goat, not CUMsock.",
+  "difficulty": "easy",
+  "gem": "Axolotl",
+  "answers": [
+    {"name": "Goat", "aliases": ["Goats"], "count": ["re:(?i)\\bgoats?\\b"], "obscurity": 1},
+    {"name": "Horse", "aliases": ["Horses"], "count": ["re:(?i)\\bhorses?\\b"], "obscurity": 1},
+    {"name": "Donkey", "aliases": ["Donkeys"], "count": ["re:(?i)donkey"]},
+    {"name": "Mule", "aliases": ["Mules"], "count": ["re:(?i)\\bmules?\\b"]},
+    {"name": "Cow", "aliases": ["Cows"], "count": ["re:(?i)\\bcows?\\b"]},
+    {"name": "Hog", "aliases": ["Hogs"], "count": ["re:(?i)\\b(hog|pig)s?\\b"]},
+    {"name": "Wolf", "aliases": ["Wolfs"], "count": ["re:(?i)\\bwol(f|ves)\\b"]},
+    {"name": "Frog", "aliases": ["Frogs"], "count": ["re:(?i)\\bfo?ro?g\\b"]},
+    {"name": "Axolotl", "aliases": ["Axolotls"], "count": ["re:(?i)axolotl|axcylote"]},
+    {"name": "Worm", "aliases": ["Worms"], "count": ["re:(?i)\\bworm\\b"]},
+    {"name": "Butterfly", "aliases": ["Butterflys"], "count": ["re:(?i)butterfly"]},
+    {"name": "Bird", "aliases": ["Birds"], "count": ["re:(?i)\\bbirds?\\b"]},
+    {"name": "Kraken", "aliases": ["Krakens"], "count": ["re:(?i)kraken"]},
+    {"name": "Fish", "aliases": [], "count": ["re:(?i)\\bfish\\b"]},
+    {"name": "Crab", "aliases": ["Crabs"], "count": ["re:(?i)\\bcrab\\b"]},
+    {"name": "Shark", "aliases": ["Sharks"], "count": ["re:(?i)\\bshark\\b"]},
+    {"name": "Owl", "aliases": ["Owls"], "count": ["re:(?i)\\bowls?\\b"]},
+    {"name": "Eel", "aliases": ["Eels"], "count": ["re:(?i)\\beels?\\b"]},
+    {"name": "Rat", "aliases": ["Rats"], "count": ["re:(?i)\\brats?\\b"]},
+    {"name": "Dog", "aliases": ["Dogs"], "count": ["re:(?i)\\bdogs?\\b"]},
+    {"name": "Cat", "aliases": ["Cats"], "count": ["re:(?i)\\bcats?\\b"]},
+    {"name": "Deer", "aliases": ["Deers"], "count": ["re:(?i)\\bdeer\\b"]},
+    {"name": "Chicken", "aliases": ["Chickens"], "count": ["re:(?i)chicken"]},
+    {"name": "Lion", "aliases": ["Lions"], "count": ["re:(?i)\\blion"]}
+  ]
+}

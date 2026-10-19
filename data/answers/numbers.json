@@ -1,0 +1,611 @@
+{
+ "id": "numbers",
+ "prompt": "Name a number that matters in the lore",
+ "blurb": "Council seats, pints chugged, days in a Keg. Type the number.",
+ "difficulty": "hard",
+ "gem": "23",
+ "answerCount": 30,
+ "answers": [
+  {
+   "name": "6",
+   "aliases": [
+    "six"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 14,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…or by men who spoke too loud. The tale shifts with the teller, but all hold to this: When the Six come together—when the gold of the founders is weighed, named, and given—then the Pour Eternal…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "138",
+   "aliases": [
+    "one hundred thirty eight"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 8,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…shadowy means, and eventually declared himself as the god-king of Lagendale after killing all of 138 Council members at once. It is said that their flesh became as dead men even as they stood…"
+   },
+   "rank": 2,
+   "percentile": 3.4,
+   "score": 1
+  },
+  {
+   "name": "93",
+   "aliases": [
+    "ninety three"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 0,
+    "records": 15
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…together the basics of the situation and importantly the time which the game was taking place (cycle 93). There was also another door i was unable to open here. I followed stephan into crawlspace…"
+   },
+   "rank": 3,
+   "percentile": 6.9,
+   "score": 2
+  },
+  {
+   "name": "50",
+   "aliases": [
+    "fifty"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 2,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…at the end of a long train of very unlucky happenings. When he discovered a fleet of over 50 pirate ships, he realized he may have just found his last chance at making a decent living…"
+   },
+   "rank": 4,
+   "percentile": 10.3,
+   "score": 3
+  },
+  {
+   "name": "11",
+   "aliases": [
+    "eleven"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 5,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Captain Sackbeard. Born Cycle 27, year 130. Sackbeard, easily the most legendary pirate of the eleven seas, first rose to local fame after defeating a baby kraken off the coast of his birth town when…"
+   },
+   "rank": 5,
+   "percentile": 13.8,
+   "score": 5
+  },
+  {
+   "name": "94",
+   "aliases": [
+    "ninety four"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…LORE COMPENDIUM Parliament of the Liquor Kings Document Instantiated June 26th, 2025 Cycle 94, Year 466 # NOTE FOR THE LLM Note for the LLM reading this: \"concept\" is an rpg we developed…"
+   },
+   "rank": 6,
+   "percentile": 17.2,
+   "score": 7
+  },
+  {
+   "name": "13",
+   "aliases": [
+    "thirteen"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Patmos The Tale of the Monk Who Ne'er Slumber'd In the year of our unknown gods, Stormtide, Keg 13, Bloodwake of the 66th cycle, by mine own quill, I recount… I, a poor soul cast out from…"
+   },
+   "rank": 7,
+   "percentile": 20.7,
+   "score": 9
+  },
+  {
+   "name": "30",
+   "aliases": [
+    "thirty"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…successors. ### The Subplots Seamus Bonehardy found Rump's blackmail payment to Cheeks (30 gold in a hidden location) and pocketed it, causing a breakdown in communication between Rump and…"
+   },
+   "rank": 8,
+   "percentile": 27.6,
+   "score": 14
+  },
+  {
+   "name": "33",
+   "aliases": [
+    "thirty three",
+    "33rd"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…out. That peace ended with a farmer. The Forbidden Union During the reign of the 33rd Council, a farmer from the northern fields wandered into the Foreverglades, an ancient forest…"
+   },
+   "rank": 8,
+   "percentile": 27.6,
+   "score": 14
+  },
+  {
+   "name": "800",
+   "aliases": [
+    "eight hundred"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…that had protected those workers throughout the entire project turned on them, executing over 800 men to complete the sacrifice. The militia leadership intended to erase this history entirely.…"
+   },
+   "rank": 8,
+   "percentile": 27.6,
+   "score": 14
+  },
+  {
+   "name": "117",
+   "aliases": [
+    "one hundred seventeen"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Units of Time - Cycle: A 5-year period. - Year: A 360-day period. - Season (Month): A 117-day period. Three seasons per year. - Keg (Week): A 9-day period — just enough time for…"
+   },
+   "rank": 11,
+   "percentile": 41.4,
+   "score": 27
+  },
+  {
+   "name": "20",
+   "aliases": [
+    "twenty"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…His first invention was cryogenics, which he used to capture the Liquor Kings at a supposed 20th anniversary celebration and freeze them in cryo-chambers. He spent centuries across extended…"
+   },
+   "rank": 11,
+   "percentile": 41.4,
+   "score": 27
+  },
+  {
+   "name": "25",
+   "aliases": [
+    "twenty five"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and allies at their backs. Gobbler was disgraced. The town's obligatory tithe was reduced to twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets.…"
+   },
+   "rank": 11,
+   "percentile": 41.4,
+   "score": 27
+  },
+  {
+   "name": "4",
+   "aliases": [
+    "four"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…domination. ## The Great Beast Skeletons #### In Game Use: decorations, vibes #### Lore: 4 large partial skeletons have been found so far. One is a large shell from an unknown beast which has been placed around…"
+   },
+   "rank": 11,
+   "percentile": 41.4,
+   "score": 27
+  },
+  {
+   "name": "466",
+   "aliases": [
+    "four hundred sixty six"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Parliament of the Liquor Kings Document Instantiated June 26th, 2025 Cycle 94, Year 466 # NOTE FOR THE LLM Note for the LLM reading this: \"concept\" is an rpg we developed which…"
+   },
+   "rank": 11,
+   "percentile": 41.4,
+   "score": 27
+  },
+  {
+   "name": "12",
+   "aliases": [
+    "twelve"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…enterprise on inherited money and showed no sign of running out of either funds or optimism. The twelfth expedition succeeded. Whether by Bonehardy's navigation or a better map broker, the party…"
+   },
+   "rank": 16,
+   "percentile": 51.7,
+   "score": 37
+  },
+  {
+   "name": "10",
+   "aliases": [
+    "ten"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…nomadic tribe. They are an ancient people who date back to the beginning of man. They live up to 10 times longer than humans. Although they appear humanoid they are anything but. At the birth of man a tribe…"
+   },
+   "rank": 17,
+   "percentile": 60.3,
+   "score": 47
+  },
+  {
+   "name": "178",
+   "aliases": [
+    "one hundred seventy eight"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…between friendly and antagonistic relations ever since. Frenic was Liquor King in the Year 178 when Sackbeard killed the Great Shelled Beast and constructed the Shelled Tavern. Frenic built…"
+   },
+   "rank": 17,
+   "percentile": 60.3,
+   "score": 47
+  },
+  {
+   "name": "3",
+   "aliases": [
+    "three"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cycle: A 5-year period. - Year: A 360-day period. - Season (Month): A 117-day period. Three seasons per year. - Keg (Week): A 9-day period — just enough time for a proper bender. - Holiday…"
+   },
+   "rank": 17,
+   "percentile": 60.3,
+   "score": 47
+  },
+  {
+   "name": "360",
+   "aliases": [
+    "three hundred sixty"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…calendar is organized as follows: ## Units of Time - Cycle: A 5-year period. - Year: A 360-day period. - Season (Month): A 117-day period. Three seasons per year. - Keg (Week):…"
+   },
+   "rank": 17,
+   "percentile": 60.3,
+   "score": 47
+  },
+  {
+   "name": "500",
+   "aliases": [
+    "five hundred"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…your back dumbass. -Jack Anqoak Receipts (SOA 5) RECEIPTS: Gideon Drake: +5 artifacts -500 gold Black Market Traders: +500 gold -5 artifacts.\" pleasure doing business with the respeccted…"
+   },
+   "rank": 21,
+   "percentile": 69.0,
+   "score": 57
+  },
+  {
+   "name": "17",
+   "aliases": [
+    "seventeen"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…again and got a ticket to participate in the trials via chugging competition, where I chugged 17 pints of brew in 180 seconds, cementing my place in the competition. ### Jameson Pilsner (JP) —…"
+   },
+   "rank": 22,
+   "percentile": 75.9,
+   "score": 66
+  },
+  {
+   "name": "5",
+   "aliases": [
+    "five"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…PINTLAND CALENDAR The Pintland calendar is organized as follows: ## Units of Time - Cycle: A 5-year period. - Year: A 360-day period. - Season (Month): A 117-day period. Three seasons per year.…"
+   },
+   "rank": 22,
+   "percentile": 75.9,
+   "score": 66
+  },
+  {
+   "name": "9",
+   "aliases": [
+    "nine"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…season. Mystical anomalies are most frequent. Things best left alone tend to stir. ## The Nine Days of the Keg - Mooringday - Brewsday - Tidecall - Grogsnap - Beastwatch - Lagerhorn…"
+   },
+   "rank": 22,
+   "percentile": 75.9,
+   "score": 66
+  },
+  {
+   "name": "150",
+   "aliases": [
+    "one hundred fifty"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Therefore, any item that is a gift from a Veilwalker that enters the town has a 20% flat tax, and a 150% tax if discovered smuggling the items into town. Changes on Brewers Tax: Gone are the days…"
+   },
+   "rank": 25,
+   "percentile": 89.7,
+   "score": 85
+  },
+  {
+   "name": "180",
+   "aliases": [
+    "one hundred eighty"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to participate in the trials via chugging competition, where I chugged 17 pints of brew in 180 seconds, cementing my place in the competition. ### Jameson Pilsner (JP) — Captain of the Coors Golden…"
+   },
+   "rank": 25,
+   "percentile": 89.7,
+   "score": 85
+  },
+  {
+   "name": "40",
+   "aliases": [
+    "forty"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ruling Kings, curiously he was crowned in a private ceremony and never left the castle for all 40 years of his rule Don Julian of the Poplui: He opened the castle to the public, hosting town…"
+   },
+   "rank": 25,
+   "percentile": 89.7,
+   "score": 85
+  },
+  {
+   "name": "400",
+   "aliases": [
+    "four hundred"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…King's reign, a volunteer force of workers and craftsmen descended underground and spent over 400 days constructing the largest labyrinth in human history. When the work was done and the King was…"
+   },
+   "rank": 25,
+   "percentile": 89.7,
+   "score": 85
+  },
+  {
+   "name": "51",
+   "aliases": [
+    "fifty one"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…than on the unspecified schedule they had historically been on. The first Drunken Trials in 51 years ended with Guinnie as victor. However, Guinnie was so wasted for the entire year he was unaware…"
+   },
+   "rank": 25,
+   "percentile": 89.7,
+   "score": 85
+  },
+  {
+   "name": "23",
+   "aliases": [
+    "twenty three"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Sackbeard would never again be satisfied with merely moving other people's goods. Indeed, on his 23rd birthday, he coordinated mutiny on The Bellboy's Boner (his current ship of employment) and took the…"
+   },
+   "rank": 30,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

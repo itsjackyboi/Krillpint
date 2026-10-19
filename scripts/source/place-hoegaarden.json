@@ -1,0 +1,32 @@
+{
+  "id": "place-hoegaarden",
+  "prompt": "Name something tied to Hoegaarden Library",
+  "blurb": "The oldest library in the Isles, and what's buried beneath it.",
+  "difficulty": "hard",
+  "gem": "Presentation room B",
+  "answers": [
+    {"ref": "Josephus", "obscurity": 1},
+    {"ref": "Interns"},
+    {"ref": "The catacombs"},
+    {"ref": "The labyrinth"},
+    {"ref": "The Hoegaarden Library embassy"},
+    {"ref": "The wine cellar"},
+    {"name": "The mini library", "aliases": ["mini library"], "count": ["re:(?i)mini library"]},
+    {"name": "Presentation room B", "aliases": ["room B"], "count": ["re:(?i)presentation room b"], "obscurity": 4},
+    {"ref": "Jack Anqoak"},
+    {"ref": "Lagendale"},
+    {"ref": "The Guardian"},
+    {"ref": "The Rotted Soul"},
+    {"name": "The missing persons case", "aliases": ["missing persons", "missing persons case"], "count": ["re:(?i)missing persons"]},
+    {"name": "The ancient manuscripts", "aliases": ["manuscripts", "Hoegaarden manuscripts"], "count": ["re:(?i)manuscripts"]},
+    {"ref": "Bottomless Bay"},
+    {"ref": "Hoegaarden Plains"},
+    {"name": "The Hall of Records", "aliases": ["Hoegaarden Hall of Records", "Hall of Records"], "count": ["re:(?i)hall of records"]},
+    {"ref": "Selling relics to Hoegaarden"},
+    {"ref": "Dulamon"},
+    {"ref": "Apparitions"},
+    {"name": "The labyrinth books", "aliases": ["Book 1", "the books", "Books found in the labyrinth"], "count": ["re:\\bBook \\d"]},
+    {"ref": "Sexton Gobbler"},
+    {"ref": "Malchus"}
+  ]
+}

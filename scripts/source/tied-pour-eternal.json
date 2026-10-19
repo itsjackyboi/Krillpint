@@ -1,0 +1,28 @@
+{
+  "id": "tied-pour-eternal",
+  "prompt": "Name something tied to the Pour Eternal legend",
+  "blurb": "Shanty Town's tale of a cursed cask and six scattered maps.",
+  "difficulty": "hard",
+  "gem": "Powdered gold",
+  "answers": [
+    {"ref": "The Pour Eternal", "obscurity": 1},
+    {"ref": "The six maps"},
+    {"ref": "The Mapmaker"},
+    {"ref": "Hollowgrim"},
+    {"ref": "Sackbeard"},
+    {"name": "The founders of Aleforge", "aliases": ["founders"], "count": ["re:(?i)founders of aleforge"]},
+    {"name": "Blood of the Leviathan", "aliases": ["Leviathan blood", "blood"], "count": ["re:(?i)blood pulled from the gullet"]},
+    {"ref": "Spiritweed"},
+    {"name": "Powdered gold", "aliases": ["gold"], "count": ["re:(?i)powdered gold"]},
+    {"ref": "Windsunk Council"},
+    {"name": "The First Captains", "aliases": ["First Captains"], "count": ["re:(?i)first captains"]},
+    {"ref": "The god of pirates"},
+    {"name": "Ghost riddles", "aliases": ["riddles"], "count": ["re:(?i)ghost riddles"]},
+    {"ref": "Map to the Forbidden Brew"},
+    {"ref": "Light of the Oracle"},
+    {"ref": "The Forbidden Brew"},
+    {"ref": "Shanty Town"},
+    {"name": "When the Six come together", "aliases": ["the Six"], "count": ["re:(?i)when the six come together"], "obscurity": 4},
+    {"name": "Your kin will drown", "aliases": ["kin will drown"], "count": ["re:(?i)kin will drown"], "obscurity": 4}
+  ]
+}

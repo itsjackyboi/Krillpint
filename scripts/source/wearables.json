@@ -1,0 +1,33 @@
+{
+  "id": "wearables",
+  "prompt": "Name something you can wear",
+  "blurb": "Armor, crowns, durags, suits, scarves, and one cloak of human skin.",
+  "difficulty": "medium",
+  "gem": "The blue yarmulke",
+  "answers": [
+    {"ref": "Durag", "obscurity": 1},
+    {"ref": "Nike Dunks"},
+    {"ref": "Hazmat Suit"},
+    {"ref": "Diamond boots"},
+    {"ref": "Liquor Crown", "obscurity": 1},
+    {"ref": "Iron chestplate"},
+    {"ref": "Dulamon's chestplate"},
+    {"ref": "The copper scarf"},
+    {"ref": "Elytra"},
+    {"ref": "Sackbeard's Armor"},
+    {"ref": "The shrine armor sets"},
+    {"ref": "Skin of the 138"},
+    {"ref": "Protection-enchanted armor"},
+    {"ref": "Netherite equipment"},
+    {"ref": "Diamond liquor crown"},
+    {"name": "Prayer robes", "aliases": ["robes", "robe"], "count": ["re:(?i)\\brobes?\\b"]},
+    {"name": "Bandanas", "aliases": ["bandana"], "count": ["re:(?i)bandanas?"]},
+    {"name": "The blue yarmulke", "aliases": ["yarmulke"], "count": ["re:(?i)yarmulke"], "obscurity": 4},
+    {"name": "Jagerbauhm's suit", "aliases": ["suit"], "count": ["re:(?i)on my suit"]},
+    {"name": "The captain's coat", "aliases": ["coat"], "count": ["re:(?i)captain'?s coat"]},
+    {"name": "The fine suede cloak", "aliases": ["suede cloak", "cloak"], "count": ["re:(?i)suede cloak"]},
+    {"ref": "Armor of cursed bone"},
+    {"name": "Sandals", "aliases": ["the priests' sandals"], "count": ["re:(?i)sandals"]},
+    {"name": "Britches", "aliases": ["pants"], "count": ["re:(?i)britches"]}
+  ]
+}

@@ -1,0 +1,452 @@
+{
+ "id": "the-epithets",
+ "prompt": "Name a character known as \"the something\"",
+ "blurb": "Brannock the Drunk, Vlad the Kisser: a name with a title tacked on the end.",
+ "difficulty": "medium",
+ "gem": "Wendell the Democrator",
+ "answerCount": 22,
+ "answers": [
+  {
+   "name": "The Old Prophet",
+   "aliases": [
+    "Old Prophet",
+    "Prophet"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 18,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of monks long ago and later abandoned after their order disappeared, it is rumored that the prophet murdered them in order to get access to this mysterious place. An old prophet took up residence…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The Guardian",
+   "aliases": [
+    "Guardian"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the known waters. It was in these stacks that Jack Anqoak first encountered references to the Guardian and the Rotted Soul, setting in motion the events of the Horror in Hoegaarden concept. The…"
+   },
+   "rank": 2,
+   "percentile": 4.8,
+   "score": 1
+  },
+  {
+   "name": "The Bastard Veil",
+   "aliases": [
+    "Bastard Veil"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…would serve as the place of pirate celebration for many cycles to come. ### Gideon Drake the Bastard Veil (formerly 'the Ironkeg') — BANISHED TO VODKONIA Gideon Drake sailed into Shanty Town 20 years…"
+   },
+   "rank": 3,
+   "percentile": 9.5,
+   "score": 3
+  },
+  {
+   "name": "The Beggar",
+   "aliases": [
+    "Beggar"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…past. Makes you wonder how much he really knows. Makes you wonder if he even is human? ### The Beggar The beggar is the illegitimate son of Glub Tuppus Wepple and is therefore not eligible to…"
+   },
+   "rank": 4,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "The Warden",
+   "aliases": [
+    "Warden"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…heretical religious beliefs. What he saw as an asteroid was the egg of a great beast (the warden) which he sought to raise and use as a weapon against the townspeople and eventually the world.…"
+   },
+   "rank": 4,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Cedric the Vicar",
+   "aliases": [
+    "Cedric"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…nomadic lifestyle, even though that will take hundreds of years from a human perspective. Cedric the Vicar: A religious extremist, Cedric established a short lived religious cult surrounding him as…"
+   },
+   "rank": 6,
+   "percentile": 28.6,
+   "score": 15
+  },
+  {
+   "name": "Commodore",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…unwisely, he insulted the merchant's trade in front of the room. The merchant turned out to be a Commodore of the Imperial Navy. When the loss was discovered, Anqoak pointed at his brother, who was…"
+   },
+   "rank": 6,
+   "percentile": 28.6,
+   "score": 15
+  },
+  {
+   "name": "Faige the Witch",
+   "aliases": [
+    "Faige",
+    "Faegi",
+    "Liquor Witch"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Lived there until 16 when i snagged a bit of fake clockheart tonic made by the Liquor witch Faegi which turned me into a functional alcoholic (had to hide my true drunkenness from the church).…"
+   },
+   "rank": 6,
+   "percentile": 28.6,
+   "score": 15
+  },
+  {
+   "name": "Brannock the Drunk",
+   "aliases": [
+    "Brannock"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their founding achievements have remained in the records. #### Early Leaders: (pre history) Brannock the Drunk: Legend has it that Brannock stumbled into the Drunken Trials already blackout drunk as he…"
+   },
+   "rank": 9,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Hilgaard the Wildman",
+   "aliases": [
+    "Hilgaard"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…by her visions and she correctly foretold of the Long Thirst and the Age of Six Kings. Hilgaard the Wildman: essentially a homeless man who somehow won the crown. Hilgaard was assassinated by a radical…"
+   },
+   "rank": 9,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Plungos of West Pint",
+   "aliases": [
+    "Plungos"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ascending to the throne, the title of Liquor King was only softly carved in his tombstone. Plungos of West Pint: a great admiral in the war and the highest ranking officer under the Liquor King. Upon the…"
+   },
+   "rank": 9,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "The Pale",
+   "aliases": [
+    "Pale"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…batches that would send lesser drinkers to a healer's bed. At the top of this hierarchy sits the Pale, the highest-ranking official in the nation, tasked with: - Maintaining order across the…"
+   },
+   "rank": 9,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Wendell the Democrator",
+   "aliases": [
+    "Wendell"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Julian of the Poplui: He opened the castle to the public, hosting town halls each week. Wendell the Democrator: A natural progression to the town hall system, Wendell incorporated a democratic election…"
+   },
+   "rank": 9,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Hunk the Monk",
+   "aliases": [
+    "Hunk"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(ironically). The Guards have been keeping a watch on him for suspicious activity. ### Hunk the Monk Cardinal Addy's primary protector/secret service agent. While extremely dumb, he takes his…"
+   },
+   "rank": 14,
+   "percentile": 64.3,
+   "score": 52
+  },
+  {
+   "name": "Vlad the Kisser",
+   "aliases": [
+    "Vlad"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…thiccy forest ### Sergeant Hark The Chief Officer for the Providence Guard ### Vlad the Kisser A small time wanna-be comedian working part time at the Theocrat. He does shows on the weekend…"
+   },
+   "rank": 14,
+   "percentile": 64.3,
+   "score": 52
+  },
+  {
+   "name": "Don Julian of the Poplui",
+   "aliases": [
+    "Don Julian"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…crowned in a private ceremony and never left the castle for all 40 years of his rule Don Julian of the Poplui: He opened the castle to the public, hosting town halls each week. Wendell the Democrator:…"
+   },
+   "rank": 16,
+   "percentile": 85.7,
+   "score": 79
+  },
+  {
+   "name": "Gormun the Wise",
+   "aliases": [
+    "Gormun"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ounce of brew in all his days. It is unknown how he managed to win the Drunken Trials Gormun the Wise: A prolific writer and political innovator, many of the political and cultural norms in Aleforge…"
+   },
+   "rank": 16,
+   "percentile": 85.7,
+   "score": 79
+  },
+  {
+   "name": "Ingram the Hermit",
+   "aliases": [
+    "Ingram"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…decision at the time. Percy Tapper: Died in a brewing accident early into his rule Ingram the Hermit: One of the longest ruling Kings, curiously he was crowned in a private ceremony and never…"
+   },
+   "rank": 16,
+   "percentile": 85.7,
+   "score": 79
+  },
+  {
+   "name": "Kottrblod the Soulcarver",
+   "aliases": [
+    "Kottrblod"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…built underneath the Bastion. Some interesting figures who can be found entombed here include, Kottrblod the Soulcarver, Nottulf, Prince of Sin and Yoslef the Mutilator. They may have only remembered the bad ones.…"
+   },
+   "rank": 16,
+   "percentile": 85.7,
+   "score": 79
+  },
+  {
+   "name": "Nottulf, Prince of Sin",
+   "aliases": [
+    "Nottulf",
+    "Prince of Sin"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Some interesting figures who can be found entombed here include, Kottrblod the Soulcarver, Nottulf, Prince of Sin and Yoslef the Mutilator. They may have only remembered the bad ones. It is…"
+   },
+   "rank": 16,
+   "percentile": 85.7,
+   "score": 79
+  },
+  {
+   "name": "Yoslef the Mutilator",
+   "aliases": [
+    "Yoslef"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…who can be found entombed here include, Kottrblod the Soulcarver, Nottulf, Prince of Sin and Yoslef the Mutilator. They may have only remembered the bad ones. It is said that in the culture of the Bjor Hjarta,…"
+   },
+   "rank": 16,
+   "percentile": 85.7,
+   "score": 79
+  },
+  {
+   "name": "Zaar the Edgemaster",
+   "aliases": [
+    "the Edgemaster"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Seaside Circus, blue flag crew—loud, proud, and ready to pull triggers. First night? Zaar the Edgemaster gave us a warspeech and we set off to claim some souls... and we did brother, we did. We wrecked…"
+   },
+   "rank": 16,
+   "percentile": 85.7,
+   "score": 79
+  }
+ ]
+}

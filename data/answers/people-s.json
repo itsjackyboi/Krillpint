@@ -1,0 +1,392 @@
+{
+ "id": "people-s",
+ "prompt": "Name a character whose name starts with S",
+ "blurb": "Anyone with a name in the lore. Leading titles like \"The\" are ignored, but Sir, Lady and Captain count.",
+ "difficulty": "hard",
+ "gem": "Skeet Budle",
+ "answerCount": 20,
+ "answers": [
+  {
+   "name": "Seamus Bonehardy",
+   "aliases": [
+    "Seamus",
+    "Shamus Bonehardy",
+    "Shameless Bonehardy"
+   ],
+   "mentions": {
+    "total": 116,
+    "compendium": 58,
+    "records": 58
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan),…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Sackbeard",
+   "aliases": [
+    "Sacky"
+   ],
+   "mentions": {
+    "total": 77,
+    "compendium": 57,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death…"
+   },
+   "rank": 2,
+   "percentile": 5.3,
+   "score": 1
+  },
+  {
+   "name": "Sexton Gobbler",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 7,
+    "records": 8
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Liquor Kings with safe haven during the Owe Block concept when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley…"
+   },
+   "rank": 3,
+   "percentile": 10.5,
+   "score": 3
+  },
+  {
+   "name": "Susan Plinket",
+   "aliases": [
+    "Susan"
+   ],
+   "mentions": {
+    "total": 23,
+    "compendium": 14,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"an ick\". He was somewhat unfairly legally commanded into a relationship with MAMA leader, Susan Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport…"
+   },
+   "rank": 4,
+   "percentile": 15.8,
+   "score": 6
+  },
+  {
+   "name": "Scab Plindor II",
+   "aliases": [
+    "Scab Plindor the Second"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to suspend the Drunken Trials and allow the title to pass by way of blood to his son, Scab Plindor II, this began the short lived Plindor Dynasty. Scab Plindor II: Afflicted by ambition,…"
+   },
+   "rank": 5,
+   "percentile": 21.1,
+   "score": 10
+  },
+  {
+   "name": "Sister Bertha",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…cardinal. His unusual size allowed him to stand out among the other guardian applicants. ### Sister Bertha Sister Bertha is a snitch. A big ole snitch. Her father was a high ranking Circ in the Cardinals…"
+   },
+   "rank": 6,
+   "percentile": 26.3,
+   "score": 13
+  },
+  {
+   "name": "Shorelan Herb",
+   "aliases": [
+    "Shorelan"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…subsidized farmers and brewers, cementing these as the two core industries in Aleforge. Shorelan Herb: The only event of note under Shorelans rule is the exile of a terrorbrewist who created something…"
+   },
+   "rank": 7,
+   "percentile": 31.6,
+   "score": 18
+  },
+  {
+   "name": "Salude Gonzalez",
+   "aliases": [
+    "Salude"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Shidiz and Tanka Jahari their personal house servants. They also fund and house an artist, Salude Gonzalez, who lives in their attic and paints. His living quarters are completely cut off from the…"
+   },
+   "rank": 8,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "Sam Park",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…causes (cancer) Cycle 92 ------------------- Geoffrey Dingle - apparent alcohol poisoning. Sam Park - Immolation (handled as suicide) Chen K - Lack of oxygen after getting stuck in a maintenance…"
+   },
+   "rank": 8,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "Samuel Supplebottom",
+   "aliases": [
+    "Supplebottom"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…price……rumors circle about her having Veilwalker ties ##### Aleforge Post Office and Public Records Supplebottom runs a tight ship in the APO & PR. never a late delivery especially when delivered Quickety…"
+   },
+   "rank": 8,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "Scab Plindor I",
+   "aliases": [
+    "Scab Plindor the First"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…stayed in effect until Liquor King, Seamus Bonehardy legalized it in recent history. Scab Plindor I: A wartime king, a large fleet of unknown origin sailed into view, their goal was to overpower…"
+   },
+   "rank": 8,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "Sean Assbell",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…attack would be necessary. In modern times these have been refitted into a sewer network. Sean Assbell: An admirer of Miller and Stein; Assbell sought to increase Aleforges cultural exports by…"
+   },
+   "rank": 8,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "Sheriff Edward Cocaine",
+   "aliases": [
+    "Sheriff Cocaine"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Alforge. The first Aleforge Sheriff was Peedrick Cocaine Sr. the current sheriff is Sheriff Edward Cocaine 3. The Color Guard: The Color Guard dates back to the founders of Aleforge. The first ones…"
+   },
+   "rank": 8,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "Shitty McFarts",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Will forever live in his father's shadow. He has awfully large horse shoes to fill. ### Shitty McFarts Slow Mule bred from a horse and donkey ### Farty McShits Hornse…..McFarts half brother…"
+   },
+   "rank": 8,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "Sir Robert CockPower",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…##### CockPowers Clock Tower Built by the Cockpower family and currently maintained by Sir Robert CockPower. The CockPower family comes from a long line of timekeepers, not much is known about them…"
+   },
+   "rank": 8,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "Scipium Ofkra",
+   "aliases": [
+    "Scipium"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge but educated in Providence, Scipiums polical and social ideals were far…"
+   },
+   "rank": 16,
+   "percentile": 89.5,
+   "score": 85
+  },
+  {
+   "name": "Scummy Bumbadill",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cheff Bigmeat ### Hornithan Buttlube ### Sheriff Edward Cocaine ### Freddy Beerbell ### Scummy Bumbadill ### David Krappenschitz ### Lady Krappenschitz ### Dust Shidiz ### Tanka Jahari ### Salude…"
+   },
+   "rank": 16,
+   "percentile": 89.5,
+   "score": 85
+  },
+  {
+   "name": "Sergeant Hark",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…founder of the T(horny) Thicket Tavern found deep in the middle of thiccy forest ### Sergeant Hark The Chief Officer for the Providence Guard ### Vlad the Kisser A small time wanna-be…"
+   },
+   "rank": 16,
+   "percentile": 89.5,
+   "score": 85
+  },
+  {
+   "name": "Skeet Budle",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Farty McShits Hornse…..McFarts half brother ### Circ M. Geiser ### Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick…"
+   },
+   "rank": 16,
+   "percentile": 89.5,
+   "score": 85
+  },
+  {
+   "name": "Slick Dickless",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick Dickless # # IV. WORLD HISTORY & TIMELINE Current Date:…"
+   },
+   "rank": 16,
+   "percentile": 89.5,
+   "score": 85
+  }
+ ]
+}

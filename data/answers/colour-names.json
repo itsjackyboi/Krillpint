@@ -1,0 +1,478 @@
+{
+ "id": "colour-names",
+ "prompt": "Name something with a colour in its name",
+ "blurb": "Red, gold, black, green, blue, amber, white, copper, ivory…",
+ "difficulty": "medium",
+ "gem": "Aldin Whiteknuckle",
+ "answerCount": 23,
+ "answers": [
+  {
+   "name": "Goldcoral Incorporated",
+   "aliases": [
+    "Goldcoral",
+    "Goldcoral Inc"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 14,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley is a subsidiary of Goldcoral Incorporated A small cave entrance off the coast of Vodkonia leads to the site of an ancient…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Crimson Cutters",
+   "aliases": [
+    "The Cutters",
+    "Cutters"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 4,
+    "records": 10
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…King Trials. During the events of A Walk on Owe Block, Anqoak joined the infamous Crimson Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside…"
+   },
+   "rank": 2,
+   "percentile": 4.5,
+   "score": 1
+  },
+  {
+   "name": "Black-boned demons",
+   "aliases": [
+    "bone demons",
+    "demons",
+    "black boned demons"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 1,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drinks 'til he's dead! He's bound by the booze and sworn to the barley — The ale-drinking demon — SHAME-US BONEHARDY! ## A Stronger Pour Buke's mayoral campaign song. In Aleforge town…"
+   },
+   "rank": 3,
+   "percentile": 15.9,
+   "score": 6
+  },
+  {
+   "name": "Edmond Blackmoor",
+   "aliases": [
+    "Blackmoor",
+    "Edmund Blackmoor"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their arrival. He never met the liquor kings, however, as a great and pompous adventurer named Edmond Blackmoor came to the cloister to fight the beast and the Prophet turned him away. This upset Blackmoor…"
+   },
+   "rank": 3,
+   "percentile": 15.9,
+   "score": 6
+  },
+  {
+   "name": "Goldsun",
+   "aliases": [],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…by Apostles who wield tonic-fueled strength. Once a year, on the Ascension of the Lord in Goldsun, Keg 4, the port hosts the Festival of the Red Tide, where the townsfolk offer a tithe of…"
+   },
+   "rank": 3,
+   "percentile": 15.9,
+   "score": 6
+  },
+  {
+   "name": "The copper scarf",
+   "aliases": [
+    "copper scarf",
+    "copper-colored scarf",
+    "scarf"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 4,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…brother Rum, he marked a visiting merchant carrying a loose coin purse and a copper-colored scarf. He approached with charm, asked after the scarf, offered a drink for the story, and lifted…"
+   },
+   "rank": 3,
+   "percentile": 15.9,
+   "score": 6
+  },
+  {
+   "name": "Amethyst crystals",
+   "aliases": [
+    "Amethyst crystal",
+    "crystals"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…which has become overgrown. The interior of the skull has a small altar within and a floating amethyst crystal. The third is the ribcage of a sea monster which has sunk into a small ravine, inside this…"
+   },
+   "rank": 7,
+   "percentile": 29.5,
+   "score": 16
+  },
+  {
+   "name": "The glowing green frog",
+   "aliases": [
+    "green frog",
+    "frog",
+    "soul nugget"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…must've lost a game worse than I did. The old man lifted the cup. No pebble. Just a single frog turd. I blinked. \"That's... not a rock,\" I said, feeling the weight of dozens of eyes pressing…"
+   },
+   "rank": 7,
+   "percentile": 29.5,
+   "score": 16
+  },
+  {
+   "name": "Amber Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels and Amber Ale (both drunks). They lived on a far away isolated island unknown to most named \"The Coors…"
+   },
+   "rank": 9,
+   "percentile": 38.6,
+   "score": 24
+  },
+  {
+   "name": "The green sludge",
+   "aliases": [
+    "green sludge",
+    "sludge",
+    "green substance"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…confines. Attempts to deactivate the portal resulted in a horrific byproduct—a viscous, toxic green sludge—that consumed corridors and labs, choking escape routes and claiming the lives of many workers.…"
+   },
+   "rank": 9,
+   "percentile": 38.6,
+   "score": 24
+  },
+  {
+   "name": "The Coors Golden Isles",
+   "aliases": [
+    "Coors Golden Isles",
+    "Golden Isle"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…seconds, cementing my place in the competition. ### Jameson Pilsner (JP) — Captain of the Coors Golden Isles Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels…"
+   },
+   "rank": 11,
+   "percentile": 45.5,
+   "score": 31
+  },
+  {
+   "name": "The Golden Taps",
+   "aliases": [
+    "Golden Taps"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…powers. He died with no heir and the people gathered to host a new Drunken Trials. #### The Golden Taps: Rulers from Year 193 - 411 Wystan Miller: The winner of the reinstated Drunken Trials, a…"
+   },
+   "rank": 12,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Blackburn",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…an inertial event. Solution: fuck if i know, please let me know if you figure it out - Blackburn email->amrutha Amrutha, When you get a chance, could you take a look at server 0x08, in…"
+   },
+   "rank": 13,
+   "percentile": 61.4,
+   "score": 48
+  },
+  {
+   "name": "Ivory skin",
+   "aliases": [
+    "ivory-pale skin",
+    "dark amber apparel"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fascinating and faintly repulsive to outsiders. ### The People - Appearance: Bright, ivory-pale skin, almost luminous in low light — a trait locals attribute to generations spent indoors…"
+   },
+   "rank": 13,
+   "percentile": 61.4,
+   "score": 48
+  },
+  {
+   "name": "Red-earth mineral",
+   "aliases": [
+    "red earth mineral"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cardinal Addy's voice booms o'er the town, calling all to prayer with a bell forged from Roto's red-earth mineral, its clang a holy summons that sets the heart aflutter. 'Tis said the tonic's magic…"
+   },
+   "rank": 13,
+   "percentile": 61.4,
+   "score": 48
+  },
+  {
+   "name": "The blue sword",
+   "aliases": [
+    "blue sword",
+    "saber",
+    "sword handle"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and there's items scattered like someone left in a hurry—or died trying. found some type of sword handle. I accidentally fiddled with its buttons and a blue light spun out. Feels light, humming.…"
+   },
+   "rank": 13,
+   "percentile": 61.4,
+   "score": 48
+  },
+  {
+   "name": "Black Pepper Dividend",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…king of the session, collecting more Veilwalker artifacts than anyone and claiming the first Black Pepper Dividend stock payout. Jack rapped a freestyle at the Stank Tank that became a regional hit when the…"
+   },
+   "rank": 17,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "Bluechew",
+   "aliases": [
+    "Blue Chew"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the mayoral election. Jameson Pilsner (JP) — Found Cumsock the goat in the sewers. Found Bluechew and Super Lube on Day 3. Died three times in the final battle, resurrected each time by Aleforge…"
+   },
+   "rank": 17,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "The blue yarmulke",
+   "aliases": [
+    "yarmulke"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…once we got there the neighborhood seemed like a pretty nice place. They even gave me a blue yarmulke so I could be affiliated with their group of friends. This place is so inclusive! We went…"
+   },
+   "rank": 17,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "Aldin Whiteknuckle",
+   "aliases": [
+    "Aldin"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the political and cultural norms in Aleforge can be traced back to his writings. Aldin Whiteknuckle: the only notable event of Aldins rule was the grant of land to an early member of the John…"
+   },
+   "rank": 20,
+   "percentile": 90.9,
+   "score": 87
+  },
+  {
+   "name": "Festival of the Red Tide",
+   "aliases": [
+    "Red Tide"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…strength. Once a year, on the Ascension of the Lord in Goldsun, Keg 4, the port hosts the Festival of the Red Tide, where the townsfolk offer a tithe of tonic to the sea, its crimson waves said to bless the…"
+   },
+   "rank": 20,
+   "percentile": 90.9,
+   "score": 87
+  },
+  {
+   "name": "Ulthar Goldbrew",
+   "aliases": [
+    "Ulthar"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge Beef: Nothing is known about the Liquor King named Beef beyond his name Ulthar Goldbrew: A controversial leader, it is said that he never drank an ounce of brew in all his days.…"
+   },
+   "rank": 20,
+   "percentile": 90.9,
+   "score": 87
+  },
+  {
+   "name": "Golden Corral Inc",
+   "aliases": [
+    "Golden Corral"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…order. Once day two arrived, we found that Glub Tuppus Wepple had received a large sum from Golden Corral Inc. but nothing else especially pertinent. It was also during the second day that we were forced…"
+   },
+   "rank": 23,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

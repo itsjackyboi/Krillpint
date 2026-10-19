@@ -1,0 +1,10 @@
+{
+  "id": "letter-g",
+  "prompt": "Name anything from the lore starting with G",
+  "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+  "difficulty": "medium",
+  "gem": "The god of pirates",
+  "derive": {
+    "letter": "G"
+  }
+}

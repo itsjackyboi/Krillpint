@@ -11,6 +11,7 @@ Warnings:
   - an explicit count pattern that never matches
   - a category under the minimum answer count
 A category can list intentionally similar answers under "distinct": [["A", "B"]].
+Refs and rule-based ("derive") questions are expanded first, so they get the same checks.
 
 Usage: python3 scripts/validate.py
 """
@@ -30,10 +31,14 @@ def main():
     corpus = " ".join(loose(t) for t in lore.values())
     errors, warnings = [], []
 
-    for cat in load_sources():
+    for cat in load_sources(lore):
         where = cat["_path"]
         answers = cat["answers"]
         names = [a["name"] for a in answers]
+        for a in answers:
+            if a.get("_error"):
+                errors.append(f"{where}: {a['_error']}")
+        answers = [a for a in answers if not a.get("_error")]
 
         if cat.get("gem") not in names:
             errors.append(f"{where}: gem {cat.get('gem')!r} is not an answer")
@@ -52,7 +57,7 @@ def main():
                 errors.append(f"{where}: {k!r} is shared by {sorted(who)}")
 
         distinct = {frozenset(pair) for pair in cat.get("distinct", [])}
-        for a, b in combinations(answers, 2):
+        for a, b in ([] if "derive" in cat else combinations(answers, 2)):  # derived answers are checked at the source
             if frozenset((a["name"], b["name"])) in distinct:
                 continue
             ka = {normalize(x) for x in [a["name"], *a.get("aliases", [])]}
@@ -62,7 +67,7 @@ def main():
                 warnings.append(f"{where}: near-duplicate {a['name']!r} / {b['name']!r} ({best[1]!r} ~ {best[2]!r})")
 
         for a in answers:
-            for p in a.get("count", []):
+            for p in ([] if "derive" in cat else a.get("count", [])):  # derived copies are checked at the source
                 try:
                     rx = compile_pattern(p)
                 except re.error as exc:

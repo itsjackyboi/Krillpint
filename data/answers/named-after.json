@@ -1,0 +1,811 @@
+{
+ "id": "named-after",
+ "prompt": "Name something named after a person",
+ "blurb": "Sackbeard's this, Wagwan's that: anything that carries someone's name.",
+ "difficulty": "medium",
+ "gem": "Moby's TNT crew",
+ "answerCount": 40,
+ "answers": [
+  {
+   "name": "CUMsock",
+   "aliases": [
+    "Cumsock",
+    "Cum sock",
+    "the goat"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 9,
+    "records": 5
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Guster took a deep breath and scoffed at the proposition. ## Notable Animals ### CUMsock The GOAT ### Prejac Quickety Cricket's trusty horse….speedy too. Always delivering mail…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Sackbeard's Tavern",
+   "aliases": [
+    "Shell Tavern",
+    "The Shell Tavern",
+    "Great Shell Tavern"
+   ],
+   "mentions": {
+    "total": 13,
+    "compendium": 13,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for…"
+   },
+   "rank": 2,
+   "percentile": 2.6,
+   "score": 0
+  },
+  {
+   "name": "Gideon Drake Commission",
+   "aliases": [
+    "GDC"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 4,
+    "records": 14
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…proportioned that Buke wrote an ode to it. Mr. BBL is a competent, honest administrator who led the Gideon Drake Commission with integrity. He was the first to suspect Wepple's financial irregularities, the first to…"
+   },
+   "rank": 3,
+   "percentile": 5.1,
+   "score": 1
+  },
+  {
+   "name": "The Cumstead",
+   "aliases": [
+    "Cumstead",
+    "John Cum's Cumstead"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 9,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…observatory on Killdeath Peak. - The Dread Marrows — A region of dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the hands of John Rump. - The Shrines — A scatter of ancient…"
+   },
+   "rank": 4,
+   "percentile": 7.7,
+   "score": 2
+  },
+  {
+   "name": "Fentmaxxer's Observatory",
+   "aliases": [
+    "The Observatory",
+    "Observatory"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 12,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests -…"
+   },
+   "rank": 5,
+   "percentile": 10.3,
+   "score": 3
+  },
+  {
+   "name": "Dig Dug's mines",
+   "aliases": [
+    "the mines",
+    "mines at the Basin"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 2,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…you something in return…That is, if you can catch him. ### Dig Dug He's the Foreman of the Mines at the Basin at Bully Hill. Dig Dug is one of the biggest employers of Oweblock and is also…"
+   },
+   "rank": 6,
+   "percentile": 12.8,
+   "score": 5
+  },
+  {
+   "name": "Jack Anqoak's Grog Galley",
+   "aliases": [
+    "Grog Galley"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley is a subsidiary of Goldcoral Incorporated A small cave entrance…"
+   },
+   "rank": 7,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Jameson Pilsner's Ass Flask",
+   "aliases": [
+    "Ass Flask",
+    "ass-flask"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and missing his mark. His friends moved on—solving, succeeding, While Jameson wandered, ass-flask bleeding. Verse VI – Redemption Brewing At last, they found him, the prodigal mess,…"
+   },
+   "rank": 7,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Aldridge Industries",
+   "aliases": [
+    "Aldridge"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 1,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…interest rates. The resulting debt was handed to Seamus Bonehardy's mayoral administration. ## Aldridge Industries (Business) Named for the Aldridge family — of which Maximilian Andrew Aldridge was the last…"
+   },
+   "rank": 9,
+   "percentile": 20.5,
+   "score": 9
+  },
+  {
+   "name": "Maximilian's space station",
+   "aliases": [
+    "space station",
+    "the station"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 4,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…using cryosleep cycles to multiply his lifespan fivefold — directing the construction of a space station and the infrastructure for a perfect hell in which to trap the Kings. He was ultimately killed…"
+   },
+   "rank": 10,
+   "percentile": 23.1,
+   "score": 11
+  },
+  {
+   "name": "Mickey's Pipe Club",
+   "aliases": [
+    "Pipe Club"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…spectacular sequence, died first in the mines, lost everything, then hired a hit through Mickey's Pipe Club to have Seamus killed in revenge. The thread connecting all of it was Sexton Gobbler, who…"
+   },
+   "rank": 11,
+   "percentile": 25.6,
+   "score": 13
+  },
+  {
+   "name": "Billy Ball Busters Inn",
+   "aliases": [
+    "Ballbuster Inn",
+    "Ball Buster Inn"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(and the freakiest) hogs in all of Pintland and thats a Freddy Hog guarantee. ##### Billy Ball Busters Inn The best and only Inn in all of Aleforge. Offers a range of rooms and community lodges……..…"
+   },
+   "rank": 12,
+   "percentile": 37.2,
+   "score": 23
+  },
+  {
+   "name": "Gobbler's manor",
+   "aliases": [
+    "Gobbler's posh manor",
+    "corrupt noble's manor"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Stank Tank to the library to the Chronicle HQ to a burger joint under a corrupt noble's manor to the Brothel to the Treasury, eventually finding a hidden stone button in the Church of…"
+   },
+   "rank": 12,
+   "percentile": 37.2,
+   "score": 23
+  },
+  {
+   "name": "Ode to Mr. BBL",
+   "aliases": [
+    "Ode to Mr BBL"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…before have my eyes been graced with such an exquisite sight. I am truly a changed man. \"Ode to Mr. BBL\" I wandered life in dull disguise, No fire, no stars behind my eyes. A mundane path,…"
+   },
+   "rank": 12,
+   "percentile": 37.2,
+   "score": 23
+  },
+  {
+   "name": "Pilsner's Lament",
+   "aliases": [
+    "Pilsners Lament",
+    "The Rumrunners Rant",
+    "Liver's End"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…high and eyes glazed over… We remember him. Jameson Pilsner, may he never be sober ## Pilsners Lament (the rumrunners rant) Shanty: \"Liver's End\" Oh the Liver's End sails past the moons,…"
+   },
+   "rank": 12,
+   "percentile": 37.2,
+   "score": 23
+  },
+  {
+   "name": "Rollo's Sex Whip",
+   "aliases": [
+    "Sex Whip"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…didn't sniff. Richard Cumhardy's Seaman Eyeglass: Lens clouded with trauma. Rollo's Sex Whip: Still warm, unfortunately. I rallied a random horse and charged into the dark depth…"
+   },
+   "rank": 12,
+   "percentile": 37.2,
+   "score": 23
+  },
+  {
+   "name": "Sackbeard's Sails",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…every breath. He lived a life of ale and brew, And died a good man, through and through. ## Sackbeard's Sails Old Sackbeard sailed with ale in hold, His beard as white as waves, so bold. To distant…"
+   },
+   "rank": 12,
+   "percentile": 37.2,
+   "score": 23
+  },
+  {
+   "name": "The Hallis Dynasty",
+   "aliases": [
+    "Hallis Dynasty"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…during his reign in order to allow his son to take the throne after his passing. This began the Hallis Dynasty, the 1st in Aleforge history. Frenic Hallis: It was during the time of his rule that…"
+   },
+   "rank": 12,
+   "percentile": 37.2,
+   "score": 23
+  },
+  {
+   "name": "Wagwan's Whopper",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…gang confrontation, earning near-zero gold but prodigious kill counts. Wagwan gifted him the Wagwan's Whopper, a mace of considerable impact force. Buke was the true relic king of the session, collecting…"
+   },
+   "rank": 12,
+   "percentile": 37.2,
+   "score": 23
+  },
+  {
+   "name": "Bucket's Burgers",
+   "aliases": [
+    "Buckets Burgers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…rifling the Owe Block Public Library, snooping at the Chronicle Newspaper HQ, grubbing at Bucket's Burgers under Gobbler's posh manor, slipping into the Brothel—bet he lingered there, the dog!—and…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "CockPowers Clock Tower",
+   "aliases": [
+    "Clock Tower",
+    "CockPower's Clock Tower"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…population is supportive of the new administration. #### Notable Locations: ##### CockPowers Clock Tower Built by the Cockpower family and currently maintained by Sir Robert CockPower. The CockPower…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "Freddy Hog's Freaky Hogs",
+   "aliases": [
+    "Freaky Hogs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…on the side of the building in an alley way between the estate and the OAM building ##### Freddy Hog's Freaky Hogs Here you can buy the best quality (and the freakiest) hogs in all of Pintland and thats…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "Gideon Drake's chalice",
+   "aliases": [
+    "Drake's chalice"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…JP noticed a trail of blood leading from the house to the forest, where they found Gideon Drake's chalice. ### The Resolution Susan Plinket's identity as the founder of MAMA was exposed by Jagerbauhm,…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "John Cum Memorial",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…is in the hands of a Liquor King, Aleforge will prosper. My plans as Mayor 1. Build a John Cum Memorial 2. Make a 3 and a half day work week. With a mandatory work break from noon-3pm (time for…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "John Cum's Shears",
+   "aliases": [
+    "Shears"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…runoff from the Factory, staining the roots of Aleforge's soul. I found some relics: John Cum's Shears: Still bloody from some barley-stained regret. Jameson Pilsner's Ass Flask: I didn't…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "Richard Cumhardy's Seaman Eyeglass",
+   "aliases": [
+    "Seaman Eyeglass",
+    "Eyeglass"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…regret. Jameson Pilsner's Ass Flask: I didn't ask. I didn't sniff. Richard Cumhardy's Seaman Eyeglass: Lens clouded with trauma. Rollo's Sex Whip: Still warm, unfortunately. I rallied…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "Sackbeard Memorial Well",
+   "aliases": [
+    "Memorial Well"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Sackbeard killed the Great Shelled Beast and constructed the Shelled Tavern. Frenic built the Sackbeard Memorial Well in the town square. Trodon Hallis: The last member of the Hallis Dynasty. Trodon was…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "Sackbeard's Armor",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- Durag - Blicky (also: Blinky) - Nike Dunks - Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "Sackbeard's Axe",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Blinky) - Nike Dunks - Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden - Map to the Forbidden…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "Sackbeard's Cutlass",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass — Lost to time during a fight between Buke and Jagerbauhm.…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "Sackbeard's Dagger",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden - Map to the Forbidden Brew — Currently blank.…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "Thatcher's Last Toast",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…By moonlight, ships slipped past the law, Their holds brimmed full of treasures raw. ## Thatcher's Last Toast Thomas Thatcher raised his glass, In Cloister's dark, his life did pass. We mourn our mayor,…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "The Krappenschitz Estate",
+   "aliases": [
+    "Krappenschitz Estate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…William Dillydally. The current Captain of the Color Guard is Cpt. Lincoln Dillydally ##### The Krappenschitz Estate The Krappenschitz family (David and Iso) are rich snobbish aristocrats. They are generally…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "The Plindor Dynasty",
+   "aliases": [
+    "Plindor Dynasty"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the title to pass by way of blood to his son, Scab Plindor II, this began the short lived Plindor Dynasty. Scab Plindor II: Afflicted by ambition, Plindor II dreamt of being Aleforges savior…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "The Shorelan ban",
+   "aliases": [
+    "Shorelan ban"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…This man was banished from the city but eventually became the founder of Providence. The \"Shorelan ban\" on Clockheart Tonic as it came to be known, stayed in effect until Liquor King, Seamus Bonehardy…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "Thomas Thatcher Memorial Scholarship",
+   "aliases": [
+    "Thatcher Scholarship"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…silk road sh-t, it's time for the Barley road now\" (leaked scroll from an internal meeting) Thomas Thatcher Memorial Scholarship: Gideon has implemented a scholarship system to promote education in emerging crafts, mainly…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "Wepple Ale",
+   "aliases": [
+    "Wepple's ale"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hearing this news, Anqoak severely beat Glub Tuppus Wepple and stole the entire supply of Wepple Ale, giving to his company as new inventory. Currently, this inventory is being sold in secret…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "Xi Jin Ping's Lucky Arrow",
+   "aliases": [
+    "Lucky Arrow"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…descendant of the Rotted Soul. ## Open World / Unattributed to Concept - Xi Jin Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass…"
+   },
+   "rank": 20,
+   "percentile": 71.8,
+   "score": 61
+  },
+  {
+   "name": "Moby's TNT crew",
+   "aliases": [
+    "Moby's crew",
+    "TNT crew"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Veil Oath book and Veil Chalice from the shrine, proving his sin. Fr Leo, Krag, Zara, and Moby's TNT crew backed them in a scrap with Gobbler in that shrine's narrow hall, water sloshing…"
+   },
+   "rank": 39,
+   "percentile": 98.7,
+   "score": 98
+  },
+  {
+   "name": "Rachel Zlurs's leather shop",
+   "aliases": [
+    "leather shop",
+    "Rachel Zlurs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…in Providence and terrible gossip. Don't tell her shit. ### Rachel Zlurs Runs a small leather shop down by the Providence Block Market with very little success due to her unfortunate name.…"
+   },
+   "rank": 39,
+   "percentile": 98.7,
+   "score": 98
+  }
+ ]
+}

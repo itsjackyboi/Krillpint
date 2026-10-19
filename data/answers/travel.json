@@ -1,0 +1,457 @@
+{
+ "id": "travel",
+ "prompt": "Name a way to get around",
+ "blurb": "Ships, sky ships, gliders, submarines, horses, warps and one ale-powered balloon.",
+ "difficulty": "medium",
+ "gem": "The stolen rowboat",
+ "answerCount": 22,
+ "answers": [
+  {
+   "name": "Ships",
+   "aliases": [
+    "ship"
+   ],
+   "mentions": {
+    "total": 82,
+    "compendium": 48,
+    "records": 34
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…above. However, scholars still debate what exactly caused the tavern beast to start attacking ships. Local academics have drawn parallels to similar activity with the ancient beasts of the island,…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Horses",
+   "aliases": [
+    "horse"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 10,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…especially when delivered Quickety Cricket (the fastest postman in Pintland) and his trusty horse Prejac ##### Brewers Lane Brewers of Aleforge have been living here for generations #####…"
+   },
+   "rank": 2,
+   "percentile": 4.8,
+   "score": 1
+  },
+  {
+   "name": "Boats",
+   "aliases": [
+    "boat"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tavern beast used fishing gear from the \"Veilwalkers\". As well as wood and fabrics to build his boat) - You want to travel through the thick forest? They will guide you through safely Their…"
+   },
+   "rank": 3,
+   "percentile": 11.9,
+   "score": 4
+  },
+  {
+   "name": "The Cloudrunners",
+   "aliases": [
+    "Cloudrunners"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…echo of a lost age where unchecked curiosity led humanity too close to oblivion. ## The Cloudrunners #### In Game Use: Used for pvp focused games played during HH. #### Lore: The Two built…"
+   },
+   "rank": 3,
+   "percentile": 11.9,
+   "score": 4
+  },
+  {
+   "name": "Warp crystals",
+   "aliases": [
+    "Warp Shard",
+    "warp crystal",
+    "shiny crystals"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 2,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction from Rollo). ## Concept…"
+   },
+   "rank": 5,
+   "percentile": 19.0,
+   "score": 8
+  },
+  {
+   "name": "The Albatross",
+   "aliases": [
+    "Albatross"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the night or the barrels of winds sold to the Stormveil Trading Co to keep their sky ship, the Albatross, afloat. Whatever your breeze needs may be you can find them at Wolendi. Two of the biggest…"
+   },
+   "rank": 6,
+   "percentile": 23.8,
+   "score": 12
+  },
+  {
+   "name": "Elevator",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…trigger everything at the same time. First try. We ran together into the entrance. It was… an elevator. I've learned so much in just three hours. Elevators. Keycards. Teleporters. Computers.…"
+   },
+   "rank": 7,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "Mules and donkeys",
+   "aliases": [
+    "mule",
+    "donkey"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…delivered so fast they don't have time to grow in excitement and anticipation. Horses and Donkeys used by the Six to Travel to Pintland during the Walk of Shame: ### PegButt Most trusted…"
+   },
+   "rank": 7,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "Nethergate Teleporter",
+   "aliases": [
+    "Nethergate"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pintland. - Orchenk Manufactory (The Factory) — The abandoned industrial facility where the Nethergate disaster occurred. - The Vanishing House (The Mansion) — Known in folklore as such; canonical…"
+   },
+   "rank": 7,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "Barley Road Initiative",
+   "aliases": [
+    "Barley Road"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tolls on the other hand have increased by 50% to improve maintenance and to pay for Gideons \"Barley Road Initiative.\" Barley Road Initiative: A comprehensive road system connecting Aleforge with…"
+   },
+   "rank": 10,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Firecracker",
+   "aliases": [
+    "firecrackers"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the portal using the artifacts. Jagerbauhm took the artifacts and, using Elytra wings and a firecracker, flew to the Dread Harrow and fought through Sackbeard's crew to reach the cabin. He placed…"
+   },
+   "rank": 10,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "The sewers",
+   "aliases": [
+    "sewers",
+    "sewer network",
+    "Oswain's tunnels"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…event that a swift attack would be necessary. In modern times these have been refitted into a sewer network. Sean Assbell: An admirer of Miller and Stein; Assbell sought to increase Aleforges…"
+   },
+   "rank": 10,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Blodello Bridge",
+   "aliases": [
+    "Blodello"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of Hoegaarden Library. Another entry way into Providence, notably this bay is overlooked by Blodello Bridge which crosses the bay leading from Shanty Town to Providence. - Dead Man Hallows…"
+   },
+   "rank": 13,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Drunk Delivery",
+   "aliases": [
+    "ale-powered balloon"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…just so they can sell their grog. WE NEED TO lower our bond debts. Craftsmen and Miners, my Drunk Delivery has you building an ale-powered balloon to ship barrels to Shanty Town, tripling our loot…"
+   },
+   "rank": 13,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Elytra",
+   "aliases": [
+    "Elytra wings"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…solution was to close the portal using the artifacts. Jagerbauhm took the artifacts and, using Elytra wings and a firecracker, flew to the Dread Harrow and fought through Sackbeard's crew to reach the…"
+   },
+   "rank": 13,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Steam-powered gliders",
+   "aliases": [
+    "gliders",
+    "steam gliders"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…brews that fuel their economy. - Aviation: The SBN has mastered flight through steam-powered gliders, skeletal wing-craft that hiss and creak across the southern skies, letting them scout and…"
+   },
+   "rank": 13,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "The Dread Harrow",
+   "aliases": [
+    "Dread Harrow"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Drake was finally confronted in the castle with the artifacts in hand just as Sackbeard's Dread Harrow materialized through a portal. The undead crew poured into Aleforge, seeking revenge on Drake,…"
+   },
+   "rank": 13,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Hook Line & Sinker",
+   "aliases": [
+    "Hook Line and Sinker",
+    "Hook Line & Sinker Submarine"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…businesses such as arms dealing. ### Captain Crawdad Pilot and Captain of the Hook Line & Sinker Submarine, Captain Crawdad served in the ASDU for 5 years before being instated. He is a military…"
+   },
+   "rank": 18,
+   "percentile": 88.1,
+   "score": 83
+  },
+  {
+   "name": "Swimming",
+   "aliases": [
+    "swam"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pintland. Upon hearing of the Drunken Trials, a chance to become more than a simple fisherman, I swam across the sea to the shores of aleforge once again and got a ticket to participate in the…"
+   },
+   "rank": 18,
+   "percentile": 88.1,
+   "score": 83
+  },
+  {
+   "name": "The pre-orbital vehicle",
+   "aliases": [
+    "rocket"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Cycles 10-30: Engines, engineering, navigation complete. Cycles 31-35: Launch platform and pre-orbital vehicle Cycle 36: Launch Cycles 37-40: Floor 0 Completion Cycles 41-45: Throne Room Cycles…"
+   },
+   "rank": 18,
+   "percentile": 88.1,
+   "score": 83
+  },
+  {
+   "name": "The stolen rowboat",
+   "aliases": [
+    "rowboat"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…boating accident. He had escaped a life of indentured servitude by stealing his employer's rowboat and set sail on the high seas. He really didn't think past that and he experienced a long…"
+   },
+   "rank": 18,
+   "percentile": 88.1,
+   "score": 83
+  },
+  {
+   "name": "The giant bird",
+   "aliases": [
+    "giant bird",
+    "bird of considerable size"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "a bird of considerable size came out of a darkening sky",
+    "note": "Carried Buke off for days until his britches gave out."
+   },
+   "rank": 22,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

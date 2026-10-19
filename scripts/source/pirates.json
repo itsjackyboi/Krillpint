@@ -1,0 +1,31 @@
+{
+  "id": "pirates",
+  "prompt": "Name a pirate",
+  "blurb": "Captains, crews, mutineers and retired cliff-dwellers. If they sailed for plunder, they count.",
+  "difficulty": "easy",
+  "gem": "The lone captain",
+  "answers": [
+    {"ref": "Sackbeard", "obscurity": 1},
+    {"ref": "Old Salty"},
+    {"ref": "Jasper \"no Eyes, all-Hands\""},
+    {"ref": "Gideon Drake"},
+    {"ref": "Seamus Bonehardy", "obscurity": 1},
+    {"ref": "Jack Anqoak", "obscurity": 1},
+    {"ref": "Guinnie", "obscurity": 1},
+    {"ref": "Jameson Pilsner", "obscurity": 1},
+    {"ref": "Jagerbauhm"},
+    {"ref": "Buke"},
+    {"ref": "Sackbeard's undead crew"},
+    {"ref": "Sackbeard's armada"},
+    {"ref": "The Coral-eyed"},
+    {"name": "The pirate lords", "aliases": ["Pirate Lords", "Cloudrunner pirates"], "count": ["re:(?i)pirate lord"]},
+    {"ref": "Windsunk Council"},
+    {"ref": "Foamrot Scallywag crew"},
+    {"ref": "The Rumrunners"},
+    {"ref": "The Barrel Breakers"},
+    {"ref": "The Bilgrats and Buttplugs"},
+    {"ref": "The lone captain"},
+    {"name": "The land-raiding pirates", "aliases": ["land raiders"], "count": ["re:(?i)land-raiding pirates"], "obscurity": 4},
+    {"ref": "Mutineer parents"}
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tied-tonic",
+  "prompt": "Name something tied to ClockHeart Tonic",
+  "blurb": "Providence's holy, sleepless, much-smuggled drink.",
+  "difficulty": "medium",
+  "gem": "The Hangover bell",
+  "answers": [
+    {"ref": "ClockHeart Tonic", "obscurity": 1},
+    {"ref": "Providence", "obscurity": 1},
+    {"ref": "The Monk Who Ne'er Slumber'd"},
+    {"ref": "Shorelan ban"},
+    {"ref": "Faige the Witch"},
+    {"ref": "Jagerbauhm"},
+    {"ref": "John Rump"},
+    {"ref": "Cheeks"},
+    {"ref": "Legalizing bootleg ClockHeart Tonic"},
+    {"ref": "Seamus Bonehardy"},
+    {"ref": "The Apostles"},
+    {"ref": "Red-earth mineral"},
+    {"ref": "Whiskey Runners"},
+    {"ref": "Festival of the Red Tide"},
+    {"ref": "Kalifart"},
+    {"ref": "Circ"},
+    {"ref": "Vlad the Kisser"},
+    {"ref": "George O'Queef"},
+    {"ref": "Cardinal Addy"},
+    {"ref": "Liquor Day"},
+    {"ref": "Grogsnap"},
+    {"name": "The Hangover bell", "aliases": ["Hangover bell"], "count": ["re:(?i)hangover bell"], "obscurity": 4}
+  ]
+}

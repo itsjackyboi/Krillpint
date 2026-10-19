@@ -1,0 +1,653 @@
+{
+ "id": "drake-clues",
+ "prompt": "Name a clue from the Gideon Drake investigation",
+ "blurb": "The letters, diaries, notes and findings the Kings dug up in Stewards of Aleforge.",
+ "difficulty": "hard",
+ "gem": "A message to MAMA",
+ "answerCount": 33,
+ "answers": [
+  {
+   "name": "GDC Findings",
+   "aliases": [
+    "Gideon Drake Commission findings"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…sent to you arrived. Be sure to name me as beneficiary haha. - John rump GDC 2 (SOA 2) GDC Findings: In continuing our investigation, we looked to a few members in the top echelons on Aleforge…"
+   },
+   "rank": 1,
+   "percentile": 1.6,
+   "score": 0
+  },
+  {
+   "name": "The witnesses",
+   "aliases": [
+    "witness",
+    "witness statements"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…this history entirely. They killed the soldiers who carried out the massacre to ensure no witnesses survived. All the slaves who buried his body were killed, and all the slaves who killed…"
+   },
+   "rank": 1,
+   "percentile": 1.6,
+   "score": 0
+  },
+  {
+   "name": "Mr. BBL's findings",
+   "aliases": [
+    "BBLs Findings"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…scheming to nick their glory—or at least their ale. # STEWARDS OF ALEFORE — BOOKS # BBLs Findings I have examined the letters that had been sent to a currently unknown figure with the initials…"
+   },
+   "rank": 3,
+   "percentile": 6.2,
+   "score": 2
+  },
+  {
+   "name": "Blackmail notes",
+   "aliases": [
+    "blackmail"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Wepple is a solid 3 inches, but wow He was at least triple that. I may be in love. - Rollo Blackmail (SOA 2) You caught me at the wrong time. I will make sure you cannot blackmail me forever.…"
+   },
+   "rank": 4,
+   "percentile": 12.5,
+   "score": 4
+  },
+  {
+   "name": "Sackbeard Diary",
+   "aliases": [
+    "Sackbeard's diary",
+    "sackbeard memorial journal"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…leave Thatcher to die, but also saved the land. - Free trade above all, no tariffs or tax sackbeard memorial journal \"My crew are in high spirits, my first mate and all the rest are determined to command the…"
+   },
+   "rank": 4,
+   "percentile": 12.5,
+   "score": 4
+  },
+  {
+   "name": "The rumors",
+   "aliases": [
+    "rumors"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…but unfortunately knew that the liquor kings would eventually be fated to kill the beast. Rumors of the beast's existence spread across the land and great adventurers came to try to kill…"
+   },
+   "rank": 4,
+   "percentile": 12.5,
+   "score": 4
+  },
+  {
+   "name": "Breaking News",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…is definitely hiding something. We are not sure yet, but our investigation will continue. Breaking News (SOA 6) Aleforge Chronicle: Special Edition: Breaking News! John Cum allegedly has lost…"
+   },
+   "rank": 7,
+   "percentile": 31.2,
+   "score": 17
+  },
+  {
+   "name": "Burn it down",
+   "aliases": [
+    "burn it down",
+    "WTF"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Goldcoral Inc. control. John Cum went completely insane, wrote walls full of variations on 'burn it down,' set fire to his remaining crops, and was then killed by Gideon Drake, who staged the scene…"
+   },
+   "rank": 7,
+   "percentile": 31.2,
+   "score": 17
+  },
+  {
+   "name": "Gideon Drake's journal",
+   "aliases": [
+    "Gideon Drakes Journal",
+    "insomnia"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…loyal MAMAists. No longer JR, I am Susan Plinket and the Liquor Kings will die at my hand Gideon Drakes Journal I heard of this factory accident and a hellish world and I knew I needed to be close. What…"
+   },
+   "rank": 7,
+   "percentile": 31.2,
+   "score": 17
+  },
+  {
+   "name": "MAMA to JR",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…birn is dowbq bdshe sd don fhur eis sdin ens eh down dsin eiwn wb - cum cum cum cum MAMA to JR 1 (SOA 3) Our Esteemed Leader, J.R, The Liquor \"Kings\" taking rule is great blessing. They…"
+   },
+   "rank": 7,
+   "percentile": 31.2,
+   "score": 17
+  },
+  {
+   "name": "Mr. BBL Diary",
+   "aliases": [
+    "A Cheeked Up Journal"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…The biggest question is.... why did he want these artifacts in the first place? -Mr. BBL Mr. BBL Diary 1 (SOA 1) Mr. BBL: A Cheeked Up Journal. The Liquor Kings arrived today. Frankly, a lot of…"
+   },
+   "rank": 7,
+   "percentile": 31.2,
+   "score": 17
+  },
+  {
+   "name": "Plinket's talking points",
+   "aliases": [
+    "Plinkettalkpoints",
+    "Susan Plinket Talking Points"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…nightmares haunt me as the night falls each day. When will I be rid of this pain? -Gidion Drake Plinkettalkpoints (SOA 1) Susan Plinket Talking Points: - Drunken Trials should continue, but not grow -…"
+   },
+   "rank": 7,
+   "percentile": 31.2,
+   "score": 17
+  },
+  {
+   "name": "Rollo's Love Letter",
+   "aliases": [
+    "love letter"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…down with me. Take your gold and fuck off. Some \"religious piety\" you display. -XX Rollos Love Letter Dearest Jameson Pilsner, Haha it sure has been a while. I hope your meat is well. I would…"
+   },
+   "rank": 7,
+   "percentile": 31.2,
+   "score": 17
+  },
+  {
+   "name": "The JR letters",
+   "aliases": [
+    "JR to MAMA",
+    "letters to MAMA"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…forever. In the meantime, here is 30 gold as agreed. You will not get away with this. -XX JR to MAMA 1 (SOA 2) To the esteemed leaders of MAMA. A change in power has occured. The Liquor \"Kings\"…"
+   },
+   "rank": 7,
+   "percentile": 31.2,
+   "score": 17
+  },
+  {
+   "name": "The receipts",
+   "aliases": [
+    "receipts"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…about to lose a lot more than money stupid bitch. Watch your back dumbass. -Jack Anqoak Receipts (SOA 5) RECEIPTS: Gideon Drake: +5 artifacts -500 gold Black Market Traders: +500 gold…"
+   },
+   "rank": 7,
+   "percentile": 31.2,
+   "score": 17
+  },
+  {
+   "name": "A message to MAMA",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…You know what, he never did mention what his ship was called\" - glub tuppus wepple gossip A message to MAMA Our time is soon, prepare everyone. We strike while they are down. - SP JR GDC Update…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "Bedtime stories",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…but have recently been moved. This gives us a key clue, the items must be frequently moved. bedtime stories Argh, me son, gather 'round and lend an ear to the wild tale of ol' Captain Sackbeard and…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "Cheeks Diary",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…will display incompetence immediately.Our goal will be completed at their own hands. -MAMA Cheeks Diary 1 (SOA 3) I saw something that night and Im scared. He was buying bootleg Tonic. Im pretty…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "Cum Diary",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…his burning love, kissing Oinkers for a quick sec there. Weird guy. - a concerned citizen Cum Diary (SOA 2) My Dearest Delaney,The world has soured without your sweet touch. I miss you every…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "Jack vs Wepple",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…DIMITRI FILES ARE NOT PUBLIC AND RIGHT NOW ONLY THE LIQUOR KINGS AND MR. BBL ARE AWARE OF IT) Jack vs Wepple (SOA 5) Wepple you dumb fuck. You used my money to gamble and you lost. Guess what, youre…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "MAMA Authority",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…NOW, THEY WILL NOT GET AWAY WITH IT! (upon discovery a small MAMA raid will take place) MAMA Authority I am the leader of this organization and I will not be treated otherwise! We strike when…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "MAMA Rises",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…lightly Liquor Kings, observe, don't interfere, there may be forces unknown at play here. MAMA Rises IT WAS THEM LIQUOR KINGS WHO SLAUGHTERED CUM! FRAMIN US FOR A MURDER? DISGUSTIN! I TELL YA…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "Note about Cum",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…to the throne. This may present a wonderful opportunity to finally end their reign. -J.R. Note about cum (SOA 2) John Cum has been making absolute bands selling wheat.But damn he has been acting…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "Rollo Journal",
+   "aliases": [
+    "Rollo's journal",
+    "Rollo's journals"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…significant news has come out of the business that would correspond with such a large investment. Rollo Journal 1 (SOA 2) Its Him, its always been Him. I cant stand the thought of living without his thick…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "Rollo's Thoughts",
+   "aliases": [
+    "Rollos Thoughts"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…\"Kings\" are simply drunk imposters, clowns pretending to rule. Revolution is neigh. -J.R. Rollos Thoughts (SOA 4) Lets not get too ahead of ourselves here. Some of the other Liquor Kings are lookers…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "The legends are true",
+   "aliases": [
+    "the bastard veil note"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…rollo No: chug a beer on camera in under 20 seconds (which costs money) the bastard veil The legends are true, the earth born and flesh born have produced a child. The bastard veil, banished from Fenwick…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "The letter to brother",
+   "aliases": [
+    "to brother"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…command the seas. I feel the wind of hope in my sails, who may stand against us\" to brother Dear Brother Cum, I write to ensure the estate paperwork i sent to you arrived. Be sure to name me as beneficiary…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "The offer to kill Cheeks",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…recipe for disaster. Only time will tell, i pray to the gods this bastard child finds his way. offer to kill cheeks dear (name of liquor king) I have a business opportunity i would like to offer to you. It…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "The vague confession",
+   "aliases": [
+    "confession"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…otherwise I will forced to drastic action. Fuck the Liquor Kings!!!!! - Glub Tuppus Wepple Vague Confession (SOA 4) I confess, to all the gods, my unforgivable sin.Have mercy upon me, for I have committed…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "Wepple vs Kings",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…us\" \"I thought Pilsner pissed off some gods\" \"its those Owe Block s always causing trouble\" Wepple vs Kings (SOA 4) These damn Liquor Kings dont know what they are doing!! Holy fuck if the farms go…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "Wepple's letter to Cum",
+   "aliases": [
+    "Wepple to Cum"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…gold, you greedy bastard.dont think this wont come back to bite you, you filthy whore. -XX Wepple to Cum (SOA 3) Dear Mr. Cum, As my biggest supplier, I must ask. Should I be worried about the…"
+   },
+   "rank": 16,
+   "percentile": 70.3,
+   "score": 59
+  },
+  {
+   "name": "A fateful tourist",
+   "aliases": [
+    "fateful tourist"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…ready to teach greedy boys and girls a lesson from the abyss! Sleep tight, me hearty, argh! a fateful tourist \"At first i thought he was a tourist that Gideon Drake. Seein as he washed up right about…"
+   },
+   "rank": 32,
+   "percentile": 98.4,
+   "score": 98
+  },
+  {
+   "name": "Free Boost",
+   "aliases": [
+    "Free Boost book"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…\"I saw it i did, Mr. Gideon holdin them factory gadgets, hell if i know what they're for\" Free Boost This book offers the finder one free enchant, netherite upgrade, piece of diamond armor,…"
+   },
+   "rank": 32,
+   "percentile": 98.4,
+   "score": 98
+  }
+ ]
+}

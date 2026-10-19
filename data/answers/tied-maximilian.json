@@ -1,0 +1,501 @@
+{
+ "id": "tied-maximilian",
+ "prompt": "Name something tied to Maximilian",
+ "blurb": "The MAA orphan who made a deal with the devil and built a hell in orbit.",
+ "difficulty": "medium",
+ "gem": "Armor of cursed bone",
+ "answerCount": 24,
+ "answers": [
+  {
+   "name": "Buke",
+   "aliases": [
+    "Luke"
+   ],
+   "mentions": {
+    "total": 100,
+    "compendium": 42,
+    "records": 58
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "MAA",
+   "aliases": [
+    "Mothers Against Alcohol"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 23,
+    "records": 5
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the crown. Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge but educated in Providence, Scipiums polical and social…"
+   },
+   "rank": 2,
+   "percentile": 4.3,
+   "score": 1
+  },
+  {
+   "name": "Dmitri",
+   "aliases": [
+    "Dimitri",
+    "Dmtri",
+    "Dimtri",
+    "Dimitri the Space Boy"
+   ],
+   "mentions": {
+    "total": 24,
+    "compendium": 10,
+    "records": 14
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…after they broke free, with Luke landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his…"
+   },
+   "rank": 3,
+   "percentile": 8.7,
+   "score": 3
+  },
+  {
+   "name": "Throne room",
+   "aliases": [
+    "The Throne Room"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 0,
+    "records": 12
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…luke around until we ended up in the engine room. We all hit the buttons and went into the throne room. Ben gave an inspiring speech and we walked into the final fight and i was certain it was…"
+   },
+   "rank": 4,
+   "percentile": 13.0,
+   "score": 5
+  },
+  {
+   "name": "MAMA",
+   "aliases": [
+    "Mothers Against Maximillians Assassination",
+    "Mothers Against Maximilian's Assassination"
+   ],
+   "mentions": {
+    "total": 35,
+    "compendium": 14,
+    "records": 21
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…extent of his interaction with the mystical aspects on the island Gideon is strongly anti MAMA, while he too is no fan of the liquor kings, he believes there is no place for extremism in…"
+   },
+   "rank": 5,
+   "percentile": 17.4,
+   "score": 7
+  },
+  {
+   "name": "Cryo-chambers",
+   "aliases": [
+    "cryo chamber",
+    "cryogenics",
+    "cryo"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 8,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…devil himself and received knowledge far beyond ordinary human reach. His first invention was cryogenics, which he used to capture the Liquor Kings at a supposed 20th anniversary celebration…"
+   },
+   "rank": 6,
+   "percentile": 21.7,
+   "score": 10
+  },
+  {
+   "name": "Maximilian's space station",
+   "aliases": [
+    "space station",
+    "the station"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 4,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…using cryosleep cycles to multiply his lifespan fivefold — directing the construction of a space station and the infrastructure for a perfect hell in which to trap the Kings. He was ultimately killed…"
+   },
+   "rank": 7,
+   "percentile": 26.1,
+   "score": 13
+  },
+  {
+   "name": "Aldridge Industries",
+   "aliases": [
+    "Aldridge"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 1,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…interest rates. The resulting debt was handed to Seamus Bonehardy's mayoral administration. ## Aldridge Industries (Business) Named for the Aldridge family — of which Maximilian Andrew Aldridge was the last…"
+   },
+   "rank": 8,
+   "percentile": 34.8,
+   "score": 21
+  },
+  {
+   "name": "Goddard",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…in one of the pipes. Hope you get some good use out of it, it's served me well so far. -Goddard Maint. Logbook Maintenance Logbook Cycle 93, Year 1 [+] Replace all piping from before…"
+   },
+   "rank": 8,
+   "percentile": 34.8,
+   "score": 21
+  },
+  {
+   "name": "Pius",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…recovery keys and show you the decryption process as soon as the change goes into effect. -Pius Earth Report 30 For your situational awareness: Earth aerospace and cosmology news…"
+   },
+   "rank": 8,
+   "percentile": 34.8,
+   "score": 21
+  },
+  {
+   "name": "Mk. II Autonomous Defense Unit",
+   "aliases": [
+    "Mk II",
+    "security bots",
+    "Autonomous Defense Unit",
+    "defense units"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Address leakages at joints between new and old pipes. [+] Integrate pathfinding nodes for new security bots Cycle 93, Year 3 [+] fuckin hate this job and i don't even think anyone reads these logs.…"
+   },
+   "rank": 11,
+   "percentile": 47.8,
+   "score": 33
+  },
+  {
+   "name": "The awakening",
+   "aliases": [
+    "awakening",
+    "waking Maximilian"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…elevator just go down to the throne room floor, walk up to the door, and open it at the scheduled awakening time. If you open it too far before, defensive troops may be deployed to prevent an unsafe…"
+   },
+   "rank": 11,
+   "percentile": 47.8,
+   "score": 33
+  },
+  {
+   "name": "The whiskey chamber",
+   "aliases": [
+    "water chamber",
+    "chamber of water"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…by Max, a madman in fine suede cloak, To caves and dens where mere mortals choke. Into a chamber of \"water\" they'd dive— Jameson leapt in, praying to survive. But the water was whiskey, aged and…"
+   },
+   "rank": 11,
+   "percentile": 47.8,
+   "score": 33
+  },
+  {
+   "name": "Earth Report",
+   "aliases": [
+    "Earth Reports"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…recovery keys and show you the decryption process as soon as the change goes into effect. -Pius Earth Report 30 For your situational awareness: Earth aerospace and cosmology news (Cycle…"
+   },
+   "rank": 14,
+   "percentile": 60.9,
+   "score": 47
+  },
+  {
+   "name": "Talent Acquisition strategy",
+   "aliases": [
+    "Talent Acquis'n",
+    "Employee Acquisition Strategy"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…best and brightest up there, rotational ciphers are seriously weak if you know the trick. Talent Acquis'n Employee Acquisition Strategy [INTERNAL] Aldridge Industries has always…"
+   },
+   "rank": 14,
+   "percentile": 60.9,
+   "score": 47
+  },
+  {
+   "name": "The 20th anniversary celebration",
+   "aliases": [
+    "20th anniversary",
+    "anniversary"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…His first invention was cryogenics, which he used to capture the Liquor Kings at a supposed 20th anniversary celebration and freeze them in cryo-chambers. He spent centuries across extended waking periods…"
+   },
+   "rank": 14,
+   "percentile": 60.9,
+   "score": 47
+  },
+  {
+   "name": "The third uprising",
+   "aliases": [
+    "the uprising",
+    "workforce revolt"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his parents failed to return from the uprising, Dimitri…"
+   },
+   "rank": 17,
+   "percentile": 69.6,
+   "score": 58
+  },
+  {
+   "name": "Ledger 93",
+   "aliases": [
+    "Cycle 93 Ledger"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…almost any industry for extremely cheap as long as they have a bit of debt hanging over them! Ledger 93 Cycle 93 Ledger Revenue ------------------- VIPs: USA: +$20,000,000 Germany: +$10,000,000…"
+   },
+   "rank": 18,
+   "percentile": 78.3,
+   "score": 69
+  },
+  {
+   "name": "The devil",
+   "aliases": [
+    "Devil"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and guided only by confusion and rage, he eventually made contact with what he described as the devil himself and received knowledge far beyond ordinary human reach. His first invention was cryogenics,…"
+   },
+   "rank": 18,
+   "percentile": 78.3,
+   "score": 69
+  },
+  {
+   "name": "VIP List",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…opened unless we have confirmed the presence of at least 3 VIP members at the cycle meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide…"
+   },
+   "rank": 18,
+   "percentile": 78.3,
+   "score": 69
+  },
+  {
+   "name": "Sponsor Guide",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide Sponsor Information Hello valued sponsor! We thank you for investing in our vision for the…"
+   },
+   "rank": 21,
+   "percentile": 89.1,
+   "score": 84
+  },
+  {
+   "name": "Wither skeletons",
+   "aliases": [
+    "Wither skeleton"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…i was certain it was going to be good for me. Unfortunately i was actually as close to the wither skeleton spawner as you could be, and was killed instantly before i even saw what was there. It was…"
+   },
+   "rank": 21,
+   "percentile": 89.1,
+   "score": 84
+  },
+  {
+   "name": "Armor of cursed bone",
+   "aliases": [
+    "bone armor",
+    "cursed bone armor"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…burning flesh and black bones. Maximillian was waiting for us. the god of demons, Cloaked in armor made from the same cursed bone as his minions. Their purpose was simple: destroy us endlessly until our minds broke and our…"
+   },
+   "rank": 23,
+   "percentile": 97.8,
+   "score": 97
+  },
+  {
+   "name": "Maximilian's mother",
+   "aliases": [
+    "Max's mom",
+    "Maximilian's mom",
+    "Max's mother"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "His mother was one of the ranking members of the MAA and was among those killed",
+    "note": "A ranking member of the MAA, killed in the Liquor Kings' raid."
+   },
+   "rank": 23,
+   "percentile": 97.8,
+   "score": 97
+  }
+ ]
+}

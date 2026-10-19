@@ -1,0 +1,519 @@
+{
+ "id": "king-jack",
+ "prompt": "Name something tied to Jack Anqoak",
+ "blurb": "The thief from Gyntonick: his family, his company, his ship and his soul.",
+ "difficulty": "easy",
+ "gem": "Rum (his brother)",
+ "answerCount": 25,
+ "answers": [
+  {
+   "name": "Glub Tuppus Wepple",
+   "aliases": [
+    "Wepple",
+    "Glub",
+    "Glub Tuppus"
+   ],
+   "mentions": {
+    "total": 35,
+    "compendium": 23,
+    "records": 12
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…away. This upset Blackmoor and after sitting in his anger and drinking at the Brewery owned by Glub Tuppus Wepple he went back to the cloister in a drunken stupor and killed the old prophet. He left a book…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Goldcoral Incorporated",
+   "aliases": [
+    "Goldcoral",
+    "Goldcoral Inc"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 14,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley is a subsidiary of Goldcoral Incorporated A small cave entrance off the coast of Vodkonia leads to the site of an ancient…"
+   },
+   "rank": 2,
+   "percentile": 4.2,
+   "score": 1
+  },
+  {
+   "name": "Lagendale",
+   "aliases": [
+    "Lagendale Empire",
+    "Kingdom of Lagendale"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 22,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…between the settled East and the untamed Western plains, also known as West Pint. Historic Lagendale stretched all through modern day West Pint and even further into the Wildlands, but it could…"
+   },
+   "rank": 3,
+   "percentile": 8.3,
+   "score": 2
+  },
+  {
+   "name": "Hoegaarden Library",
+   "aliases": [
+    "Hoegaarden",
+    "Hoegaarden Hall",
+    "the library"
+   ],
+   "mentions": {
+    "total": 24,
+    "compendium": 14,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…though until recently this was unknown. The Kings discovered the true location underneath the Hoegaarden Library. - The Basin at Bully Hill — The lake adjacent to Providence. - Gulf of Aleforge — The…"
+   },
+   "rank": 4,
+   "percentile": 12.5,
+   "score": 4
+  },
+  {
+   "name": "Crimson Cutters",
+   "aliases": [
+    "The Cutters",
+    "Cutters"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 4,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…King Trials. During the events of A Walk on Owe Block, Anqoak joined the infamous Crimson Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside…"
+   },
+   "rank": 5,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "The copper scarf",
+   "aliases": [
+    "copper scarf",
+    "copper-colored scarf",
+    "scarf"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 4,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…brother Rum, he marked a visiting merchant carrying a loose coin purse and a copper-colored scarf. He approached with charm, asked after the scarf, offered a drink for the story, and lifted…"
+   },
+   "rank": 6,
+   "percentile": 20.8,
+   "score": 10
+  },
+  {
+   "name": "Jack Anqoak's Grog Galley",
+   "aliases": [
+    "Grog Galley"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley is a subsidiary of Goldcoral Incorporated A small cave entrance…"
+   },
+   "rank": 7,
+   "percentile": 25.0,
+   "score": 12
+  },
+  {
+   "name": "Rum (his brother)",
+   "aliases": [
+    "Rum",
+    "his brother Rum",
+    "brother Rum"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 3,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…moved in one direction. One night in a tavern there, fresh from a quarrel with his brother Rum, he marked a visiting merchant carrying a loose coin purse and a copper-colored scarf. He…"
+   },
+   "rank": 8,
+   "percentile": 29.2,
+   "score": 16
+  },
+  {
+   "name": "Drycup Forest",
+   "aliases": [
+    "Drycup Woods",
+    "Drycup"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Anqoak through the streets until he wrapped the stolen scarf around his face and fled into Drycup Forest, where he stumbled into the company of strangers whose acquaintance he later called…"
+   },
+   "rank": 9,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "Thief",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick as a thief, though he preferred to describe himself as a redistributor of wealth, a claim undermined…"
+   },
+   "rank": 9,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "Commodore",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…unwisely, he insulted the merchant's trade in front of the room. The merchant turned out to be a Commodore of the Imperial Navy. When the loss was discovered, Anqoak pointed at his brother, who was…"
+   },
+   "rank": 11,
+   "percentile": 45.8,
+   "score": 31
+  },
+  {
+   "name": "His lost soul",
+   "aliases": [
+    "lost soul",
+    "soulless",
+    "husk"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to assist the Liquor Kings in the adventure of Horrors in Hoegaarden. Unfortunately, Jack lost his soul in those events and has been a husk of his former self ever since. ### Jagerbauhm (Ben)…"
+   },
+   "rank": 11,
+   "percentile": 45.8,
+   "score": 31
+  },
+  {
+   "name": "The Bastard's Requiem",
+   "aliases": [
+    "Bastard's Requiem",
+    "Bastards Requiem"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…his life. ### Jack Anqoak (Jack) \"Oracle of Aleforge\" — Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick as a thief, though he preferred to describe himself as…"
+   },
+   "rank": 11,
+   "percentile": 45.8,
+   "score": 31
+  },
+  {
+   "name": "Jack's freestyle",
+   "aliases": [
+    "Jack Anqoak's freestyle",
+    "I am black",
+    "freestyle rap"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…rival gang the Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner, Wagwan was very persuasive with his memorable line \"I am black.\"…"
+   },
+   "rank": 14,
+   "percentile": 54.2,
+   "score": 40
+  },
+  {
+   "name": "Foamrot Scallywag crew",
+   "aliases": [
+    "Foamrot Scallywags",
+    "Foamrot"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…headquartered in Providence. Goldcoral Inc owns the ship The Bastards Requiem and employs the Foamrot Scallywag crew. Jack is currently searching for a worthy crew to bring in higher profits for…"
+   },
+   "rank": 15,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Gyntonick",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge\" — Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick as a thief, though he preferred to describe himself as a redistributor of wealth, a claim…"
+   },
+   "rank": 15,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Jack & Coke",
+   "aliases": [
+    "Jack and Coke",
+    "Jack&coke"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…families never go hungry. My fellow Liquor Kings—Seamus, Jaugerbomb, JamesonPilsner, buke, Jack&coke— these are fine lads. Seamus's trade deals kept coins clinking, Ben sealed that hellhole portal,…"
+   },
+   "rank": 15,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Light of the Oracle",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…opposed symbols. When all fragments of each are assembled, the full Glyph reveals itself. Light of the Oracle — Give to an oracle (Jack) and it will reveal the location of the Map to the Forbidden Brew.…"
+   },
+   "rank": 15,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Master puzzle solver",
+   "aliases": [
+    "puzzles",
+    "puzzle solver"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…shenanigans which the Liquor King's rule brought to the isles. Notably, Jack was cited as a master puzzle solver in the Liquor King Trials. During the events of A Walk on Owe Block, Anqoak joined the infamous…"
+   },
+   "rank": 15,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Da liqua store",
+   "aliases": [
+    "the liquor store",
+    "liqua store"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…imagine what that did to me. I haven't left that library since. Except for one quick run to da liqua store. Now, on top of all that Aleforge Special Drinkers Unit reached out to bring me on as a special…"
+   },
+   "rank": 20,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Oracle of Aleforge",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…other kings grumble about the number of times they saved his life. ### Jack Anqoak (Jack) \"Oracle of Aleforge\" — Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick…"
+   },
+   "rank": 21,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "The Drifter's Call",
+   "aliases": [
+    "Drifter's Call"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to Concept - Xi Jin Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass — Lost to time during a fight between Buke and Jagerbauhm.…"
+   },
+   "rank": 22,
+   "percentile": 89.6,
+   "score": 85
+  },
+  {
+   "name": "Xi Jin Ping's Lucky Arrow",
+   "aliases": [
+    "Lucky Arrow"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…descendant of the Rotted Soul. ## Open World / Unattributed to Concept - Xi Jin Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass…"
+   },
+   "rank": 22,
+   "percentile": 89.6,
+   "score": 85
+  },
+  {
+   "name": "Big Jack",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…took our parents ashes. ● A vote for Jack anquoke is a vote to obliterate half our city to Big Jack. Instead fellow citizens I say we vote to rob Jack anquoke of HIS LAST NAME to see how HE…"
+   },
+   "rank": 24,
+   "percentile": 97.9,
+   "score": 97
+  },
+  {
+   "name": "Throbbin Hood",
+   "aliases": [
+    "throbbin hood"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…id done that fateful night. I'm known round town as a bit o' a thief, i call it more of a throbbin hood motif. i steal from the rich and give to meself. That night, I spotted a drunk merchant from…"
+   },
+   "rank": 24,
+   "percentile": 97.9,
+   "score": 97
+  }
+ ]
+}

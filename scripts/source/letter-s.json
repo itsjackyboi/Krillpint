@@ -1,0 +1,10 @@
+{
+  "id": "letter-s",
+  "prompt": "Name anything from the lore starting with S",
+  "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+  "difficulty": "easy",
+  "gem": "Sapgetti",
+  "derive": {
+    "letter": "S"
+  }
+}

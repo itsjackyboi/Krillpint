@@ -1,0 +1,439 @@
+{
+ "id": "tied-wepple",
+ "prompt": "Name something tied to Glub Tuppus Wepple",
+ "blurb": "The Gilded Tankard's gruff, gambling brewmaster.",
+ "difficulty": "medium",
+ "gem": "A fateful tourist",
+ "answerCount": 21,
+ "answers": [
+  {
+   "name": "Jack Anqoak",
+   "aliases": [
+    "Anqoak",
+    "Jack",
+    "Anqok",
+    "Anquok",
+    "Jack Anquoke",
+    "Oracle of Aleforge",
+    "Jack and Coke"
+   ],
+   "mentions": {
+    "total": 142,
+    "compendium": 74,
+    "records": 68
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "John Cum",
+   "aliases": [
+    "Cum",
+    "Mr. Cum"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 21,
+    "records": 35
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "John Cum is the key supplier of barley for the ale",
+    "note": "Lives at the Cumstead outside town, but the lore treats him as Aleforge's own wheat supplier."
+   },
+   "rank": 2,
+   "percentile": 5.0,
+   "score": 1
+  },
+  {
+   "name": "The Drunken Trials",
+   "aliases": [
+    "Drunken Trials"
+   ],
+   "mentions": {
+    "total": 53,
+    "compendium": 46,
+    "records": 7
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan),…"
+   },
+   "rank": 3,
+   "percentile": 10.0,
+   "score": 3
+  },
+  {
+   "name": "Rollo",
+   "aliases": [],
+   "mentions": {
+    "total": 45,
+    "compendium": 22,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…happy to buy these bonds and a large influx of money has now hit the Aleforge ledger. ### Rollo Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends…"
+   },
+   "rank": 4,
+   "percentile": 15.0,
+   "score": 6
+  },
+  {
+   "name": "Gilded Tankard",
+   "aliases": [
+    "The Tankard"
+   ],
+   "mentions": {
+    "total": 23,
+    "compendium": 19,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and tavern founded by Glub Tuppus Wepple. A newcomer named Gideon Drake rose to…"
+   },
+   "rank": 5,
+   "percentile": 20.0,
+   "score": 9
+  },
+  {
+   "name": "Goldcoral Incorporated",
+   "aliases": [
+    "Goldcoral",
+    "Goldcoral Inc"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 14,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley is a subsidiary of Goldcoral Incorporated A small cave entrance off the coast of Vodkonia leads to the site of an ancient…"
+   },
+   "rank": 6,
+   "percentile": 25.0,
+   "score": 12
+  },
+  {
+   "name": "Old Salty",
+   "aliases": [
+    "Salty"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 10,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "unofficial residence at the Gilded Tankard",
+    "note": "Officially a Shanty Town resident, but practically lives at the Gilded Tankard."
+   },
+   "rank": 7,
+   "percentile": 30.0,
+   "score": 16
+  },
+  {
+   "name": "Edmond Blackmoor",
+   "aliases": [
+    "Blackmoor",
+    "Edmund Blackmoor"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their arrival. He never met the liquor kings, however, as a great and pompous adventurer named Edmond Blackmoor came to the cloister to fight the beast and the Prophet turned him away. This upset Blackmoor…"
+   },
+   "rank": 8,
+   "percentile": 35.0,
+   "score": 21
+  },
+  {
+   "name": "Jack Anqoak's Grog Galley",
+   "aliases": [
+    "Grog Galley"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley is a subsidiary of Goldcoral Incorporated A small cave entrance…"
+   },
+   "rank": 9,
+   "percentile": 40.0,
+   "score": 25
+  },
+  {
+   "name": "Wepple's gambling",
+   "aliases": [
+    "gambling",
+    "gambled"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 5,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge, Mr. Anqoak severely beat Wepple and stole his entire supply of ale after Wepple had gambled and lost a large sum of investment money from Mr. Anqoak's company, Goldcoral Incorporated.…"
+   },
+   "rank": 10,
+   "percentile": 45.0,
+   "score": 30
+  },
+  {
+   "name": "Gregor Ashford",
+   "aliases": [
+    "Gregor",
+    "Greg Ashford"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Montfort although it was clear that somebody or something had indeed been in the New Haven. ### Gregor Ashford A bard who sings at the Gilded Tankard, often too drunk to play well. He knows a lot of gossip…"
+   },
+   "rank": 11,
+   "percentile": 52.5,
+   "score": 38
+  },
+  {
+   "name": "The Beggar",
+   "aliases": [
+    "Beggar"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…past. Makes you wonder how much he really knows. Makes you wonder if he even is human? ### The Beggar The beggar is the illegitimate son of Glub Tuppus Wepple and is therefore not eligible to…"
+   },
+   "rank": 11,
+   "percentile": 52.5,
+   "score": 38
+  },
+  {
+   "name": "Glub Tuppus Wepple's new brew",
+   "aliases": [
+    "new brew",
+    "secret brew"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "He is currently developing a new brew in secret",
+    "note": "Wepple is quietly brewing something new while stuck at the Grog Galley."
+   },
+   "rank": 13,
+   "percentile": 60.0,
+   "score": 46
+  },
+  {
+   "name": "The magical spring",
+   "aliases": [
+    "spring",
+    "magical spring"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…brewmaster deity was saved by the town's founders, and in return, he blessed the town with a spring that flows with the finest ale. The deity enjoys revelry, cheer, and the occasional chaos, and so decreed…"
+   },
+   "rank": 14,
+   "percentile": 65.0,
+   "score": 52
+  },
+  {
+   "name": "Gilded Tankard Grant",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of cheap grog, however, to protect Aleforges key export until other industries have grown. Gilded Tankard Grant: The Aleforge government has granted the gilded tankard a significant amount of money to upgrade…"
+   },
+   "rank": 15,
+   "percentile": 70.0,
+   "score": 59
+  },
+  {
+   "name": "Jack vs Wepple",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…DIMITRI FILES ARE NOT PUBLIC AND RIGHT NOW ONLY THE LIQUOR KINGS AND MR. BBL ARE AWARE OF IT) Jack vs Wepple (SOA 5) Wepple you dumb fuck. You used my money to gamble and you lost. Guess what, youre…"
+   },
+   "rank": 16,
+   "percentile": 82.5,
+   "score": 75
+  },
+  {
+   "name": "Wepple Ale",
+   "aliases": [
+    "Wepple's ale"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hearing this news, Anqoak severely beat Glub Tuppus Wepple and stole the entire supply of Wepple Ale, giving to his company as new inventory. Currently, this inventory is being sold in secret…"
+   },
+   "rank": 16,
+   "percentile": 82.5,
+   "score": 75
+  },
+  {
+   "name": "Wepple vs Kings",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…us\" \"I thought Pilsner pissed off some gods\" \"its those Owe Block s always causing trouble\" Wepple vs Kings (SOA 4) These damn Liquor Kings dont know what they are doing!! Holy fuck if the farms go…"
+   },
+   "rank": 16,
+   "percentile": 82.5,
+   "score": 75
+  },
+  {
+   "name": "Wepple's letter to Cum",
+   "aliases": [
+    "Wepple to Cum"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…gold, you greedy bastard.dont think this wont come back to bite you, you filthy whore. -XX Wepple to Cum (SOA 3) Dear Mr. Cum, As my biggest supplier, I must ask. Should I be worried about the…"
+   },
+   "rank": 16,
+   "percentile": 82.5,
+   "score": 75
+  },
+  {
+   "name": "A fateful tourist",
+   "aliases": [
+    "fateful tourist"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…ready to teach greedy boys and girls a lesson from the abyss! Sleep tight, me hearty, argh! a fateful tourist \"At first i thought he was a tourist that Gideon Drake. Seein as he washed up right about…"
+   },
+   "rank": 20,
+   "percentile": 95.0,
+   "score": 93
+  },
+  {
+   "name": "A solid 3 inches",
+   "aliases": [
+    "3 inches",
+    "three inches"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…thick girthy pipe in my rear. Wow He was simply the best boyfriend Ive ever had. Wepple is a solid 3 inches, but wow He was at least triple that. I may be in love. - Rollo Blackmail (SOA 2) You caught…"
+   },
+   "rank": 21,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

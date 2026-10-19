@@ -1,0 +1,694 @@
+{
+ "id": "dirty-names",
+ "prompt": "Name a character whose name is a dirty joke",
+ "blurb": "People and animals only. You know the ones.",
+ "difficulty": "easy",
+ "gem": "Skeet Budle",
+ "answerCount": 34,
+ "answers": [
+  {
+   "name": "John Cum",
+   "aliases": [
+    "Cum",
+    "Mr. Cum"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 21,
+    "records": 35
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "John Cum is the key supplier of barley for the ale",
+    "note": "Lives at the Cumstead outside town, but the lore treats him as Aleforge's own wheat supplier."
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Mr. BBL",
+   "aliases": [
+    "BBL",
+    "Mister BBL"
+   ],
+   "mentions": {
+    "total": 25,
+    "compendium": 7,
+    "records": 18
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Glendolph Galleyway: An unremarkable mayor, the only thing of note is his hiring of Mr. BBL, the current chancellor of Aleforge. Thomas Thatcher Sr.: Thomas Thatcher Sr. was an…"
+   },
+   "rank": 2,
+   "percentile": 3.0,
+   "score": 1
+  },
+  {
+   "name": "Sexton Gobbler",
+   "aliases": [
+    "Gobbler"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 7,
+    "records": 8
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Liquor Kings with safe haven during the Owe Block concept when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley…"
+   },
+   "rank": 3,
+   "percentile": 6.1,
+   "score": 1
+  },
+  {
+   "name": "CUMsock",
+   "aliases": [
+    "Cumsock",
+    "Cum sock",
+    "the goat"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 9,
+    "records": 5
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Guster took a deep breath and scoffed at the proposition. ## Notable Animals ### CUMsock The GOAT ### Prejac Quickety Cricket's trusty horse….speedy too. Always delivering mail…"
+   },
+   "rank": 4,
+   "percentile": 9.1,
+   "score": 3
+  },
+  {
+   "name": "Peg Butt",
+   "aliases": [
+    "PegButt",
+    "Pegbutt"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 10,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Horses and Donkeys used by the Six to Travel to Pintland during the Walk of Shame: ### PegButt Most trusted horse ridden by man. One couldn't ask for a better horse…. He.was brutally murdered…"
+   },
+   "rank": 5,
+   "percentile": 12.1,
+   "score": 4
+  },
+  {
+   "name": "Gilligan Rape",
+   "aliases": [
+    "Gilligan"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 4,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…entirely on enthusiasm, having in eleven prior expeditions recovered nothing at all. Its leader, Gilligan Rape, funded the enterprise on inherited money and showed no sign of running out of either funds…"
+   },
+   "rank": 6,
+   "percentile": 15.2,
+   "score": 6
+  },
+  {
+   "name": "Richard 'Cumhardy' Seaman",
+   "aliases": [
+    "Richard Seaman",
+    "Richard Cumhardy",
+    "Cumhardy",
+    "Richard"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…can stay in the cloister before new residents are inevitably drawn to it's mysteries. ### Richard 'Cumhardy' Seaman (DECEASED) Richard had recently washed ashore aleforge on wreckage from…"
+   },
+   "rank": 7,
+   "percentile": 18.2,
+   "score": 8
+  },
+  {
+   "name": "Billy Ball Buster",
+   "aliases": [
+    "Ballbuster",
+    "Billy Ballbuster",
+    "Billy Ball Busters"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…quality (and the freakiest) hogs in all of Pintland and thats a Freddy Hog guarantee. ##### Billy Ball Busters Inn The best and only Inn in all of Aleforge. Offers a range of rooms and community lodges……..…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "Buck Setts",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bartenders at T(horny) Thicket Tavern (employed by GBB): ### Beer Getta ### Puke Fartson ### Buck Setts ### Keg Minster ### Buck Setts ### Cheddar ### Fargo Willslick ### Head ### Sir Robert…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "Chi Ton Pissbulls",
+   "aliases": [
+    "Pissbulls",
+    "Pissballs"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hornse…..McFarts half brother ### Circ M. Geiser ### Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick Dickless…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "David Krappenschitz",
+   "aliases": [
+    "Krappenschitz"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Guard is Cpt. Lincoln Dillydally ##### The Krappenschitz Estate The Krappenschitz family (David and Iso) are rich snobbish aristocrats. They are generally more sober than most and thus hated by many.…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "Dusty Shidiz",
+   "aliases": [
+    "Dust Shidiz",
+    "Shidiz"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hated by many. Yet their wealth provides employment for many Aleforge citizens. Including Dusty Shidiz and Tanka Jahari their personal house servants. They also fund and house an artist, Salude…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "Hornithan Buttlube",
+   "aliases": [
+    "Hornithan"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…first Aleforge comptroller was Bigbag-o Buttlube the ancestor of the current office holder, Hornithan Buttlube 2. The Sheriffs Offices: This Sheriffs office was the first form of law and order in old…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "Lady Krappenschitz",
+   "aliases": [
+    "Iso Krappenschitz",
+    "Iso"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cpt. Lincoln Dillydally ##### The Krappenschitz Estate The Krappenschitz family (David and Iso) are rich snobbish aristocrats. They are generally more sober than most and thus hated by…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "Sean Assbell",
+   "aliases": [
+    "Assbell"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…attack would be necessary. In modern times these have been refitted into a sewer network. Sean Assbell: An admirer of Miller and Stein; Assbell sought to increase Aleforges cultural exports by…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "Sheriff Edward Cocaine",
+   "aliases": [
+    "Edward Cocaine",
+    "Sheriff Cocaine"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Alforge. The first Aleforge Sheriff was Peedrick Cocaine Sr. the current sheriff is Sheriff Edward Cocaine 3. The Color Guard: The Color Guard dates back to the founders of Aleforge. The first ones…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "Shitty McFarts",
+   "aliases": [
+    "McFarts"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Will forever live in his father's shadow. He has awfully large horse shoes to fill. ### Shitty McFarts Slow Mule bred from a horse and donkey ### Farty McShits Hornse…..McFarts half brother…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "Sir Robert CockPower",
+   "aliases": [
+    "Robert CockPower",
+    "CockPower"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…##### CockPowers Clock Tower Built by the Cockpower family and currently maintained by Sir Robert CockPower. The CockPower family comes from a long line of timekeepers, not much is known about them…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "Beer Getta",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…### Bartenders at T(horny) Thicket Tavern (employed by GBB): ### Beer Getta ### Puke Fartson ### Buck Setts ### Keg Minster ### Buck Setts ### Cheddar ### Fargo…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Cheff Bigmeat",
+   "aliases": [
+    "Chef Bigmeat",
+    "Bigmeat"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…CockPower Color Guards ### Cpt. Lincoln Dillydally ### Piggly Wiggly ### Winky Stinky ### Cheff Bigmeat ### Hornithan Buttlube ### Sheriff Edward Cocaine ### Freddy Beerbell ### Scummy Bumbadill…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Dick Wacker",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…M. Geiser ### Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick Dickless # #…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Fargo Willslick",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Getta ### Puke Fartson ### Buck Setts ### Keg Minster ### Buck Setts ### Cheddar ### Fargo Willslick ### Head ### Sir Robert CockPower Color Guards ### Cpt. Lincoln Dillydally ### Piggly…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Farty McShits",
+   "aliases": [
+    "McShits"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…large horse shoes to fill. ### Shitty McFarts Slow Mule bred from a horse and donkey ### Farty McShits Hornse…..McFarts half brother ### Circ M. Geiser ### Willie Cumbag ### Skeet Budle ###…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "George O'Queef",
+   "aliases": [
+    "O'Queef",
+    "George O Queef"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…making him the perfect person to lead an investigative envoy in the Southern Blocean. ### George O' Queef A famous landscape painter in Providence tasked with creating a prophetic landscape painting…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Max Trans",
+   "aliases": [
+    "JP's bird"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick Dickless # # IV. WORLD HISTORY…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Obvious Dickstien",
+   "aliases": [
+    "Dickstien",
+    "Obvious Dickstein"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fin A small boy running at light speed around the alleys of Providence. He is the son of Obvious Dickstien, owner of the Jui Vuitton store on Vanity street. Ever since the divorce, Fin has been running…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Puke Fartson",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…### Bartenders at T(horny) Thicket Tavern (employed by GBB): ### Beer Getta ### Puke Fartson ### Buck Setts ### Keg Minster ### Buck Setts ### Cheddar ### Fargo Willslick ### Head…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Rachel Zlurs",
+   "aliases": [
+    "Zlurs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…being the \"most honest woman\" in Providence and terrible gossip. Don't tell her shit. ### Rachel Zlurs Runs a small leather shop down by the Providence Block Market with very little success due…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Scummy Bumbadill",
+   "aliases": [
+    "Bumbadill"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cheff Bigmeat ### Hornithan Buttlube ### Sheriff Edward Cocaine ### Freddy Beerbell ### Scummy Bumbadill ### David Krappenschitz ### Lady Krappenschitz ### Dust Shidiz ### Tanka Jahari ### Salude…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Skeet Budle",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Farty McShits Hornse…..McFarts half brother ### Circ M. Geiser ### Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Slick Dickless",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick Dickless # # IV. WORLD HISTORY & TIMELINE Current Date:…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Willie Cumbag",
+   "aliases": [
+    "Cumbag"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…horse and donkey ### Farty McShits Hornse…..McFarts half brother ### Circ M. Geiser ### Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Winky Stinky",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Sir Robert CockPower Color Guards ### Cpt. Lincoln Dillydally ### Piggly Wiggly ### Winky Stinky ### Cheff Bigmeat ### Hornithan Buttlube ### Sheriff Edward Cocaine ### Freddy Beerbell…"
+   },
+   "rank": 19,
+   "percentile": 75.8,
+   "score": 66
+  },
+  {
+   "name": "Bigbag-o Buttlube",
+   "aliases": [
+    "Bigbag-o",
+    "Bigbago Buttlube"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…historic office Aleforge could never have begun to thrive. The first Aleforge comptroller was Bigbag-o Buttlube the ancestor of the current office holder, Hornithan Buttlube 2. The Sheriffs Offices: This…"
+   },
+   "rank": 34,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

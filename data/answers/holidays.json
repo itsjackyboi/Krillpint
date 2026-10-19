@@ -1,0 +1,360 @@
+{
+ "id": "holidays",
+ "prompt": "Name a holiday or festival",
+ "blurb": "Feasts, fasts and bar crawls. Not the days of the Keg or the seasons.",
+ "difficulty": "medium",
+ "gem": "Feast of the Eternal Keg",
+ "answerCount": 18,
+ "answers": [
+  {
+   "name": "The Drunken Trials",
+   "aliases": [
+    "Drunken Trials"
+   ],
+   "mentions": {
+    "total": 53,
+    "compendium": 46,
+    "records": 7
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan),…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Beer Day",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…stationed outside the tavern who will throw you in if you are looking too sober. - - BEER DAY: - Celebrated primarily in Shanty Town on the last day of the 5th Keg in Goldsun. (June…"
+   },
+   "rank": 2,
+   "percentile": 5.9,
+   "score": 1
+  },
+  {
+   "name": "Brewmasters Day",
+   "aliases": [
+    "Brewmaster's Day"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…religious ferocity and writings. Trodon established the religious holidays of Brewmasters Eve and Brewmasters Day. The off shore trade hub of Roto Kaiishi was founded by Kim Jong Un during his rule, however,…"
+   },
+   "rank": 3,
+   "percentile": 11.8,
+   "score": 4
+  },
+  {
+   "name": "Beckoning the New Brews",
+   "aliases": [
+    "Beckoning The New Brews"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a new brew they've been working on. Additionally Once a year they hold a festival called \"Beckoning The New Brews\" where the young present their first brew. This is a coming of age ceremony where the young…"
+   },
+   "rank": 4,
+   "percentile": 29.4,
+   "score": 16
+  },
+  {
+   "name": "Brewmasters Eve",
+   "aliases": [
+    "Brewmaster's Eve"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…through his religious ferocity and writings. Trodon established the religious holidays of Brewmasters Eve and Brewmasters Day. The off shore trade hub of Roto Kaiishi was founded by Kim Jong Un during…"
+   },
+   "rank": 4,
+   "percentile": 29.4,
+   "score": 16
+  },
+  {
+   "name": "Day of Hollow Tongues",
+   "aliases": [
+    "Hollow Tongues"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…founded on. Celebrated on Keeldrift in the 10th Keg of Veilfrost (day 323) The Day of Hollow Tongues: Based in Providence, observed on Keeldrift of the 9th Keg in goldsun (day 197) After…"
+   },
+   "rank": 4,
+   "percentile": 29.4,
+   "score": 16
+  },
+  {
+   "name": "Holiday Keg",
+   "aliases": [
+    "The Holiday Keg"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…seasons per year. - Keg (Week): A 9-day period — just enough time for a proper bender. - Holiday Keg: Because 3 seasons x 13 kegs = 351 days, there are 9 leftover days at the end of each year.…"
+   },
+   "rank": 4,
+   "percentile": 29.4,
+   "score": 16
+  },
+  {
+   "name": "The Unholy Pilgrimage",
+   "aliases": [
+    "Unholy Pilgrimage"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…here that liquor was introduced to the isles and the peoples have rejoiced ever since. The Unholy Pilgrimage: The Unholy Pilgrimage: A classic celebration for all in the isles, this is celebrated on…"
+   },
+   "rank": 4,
+   "percentile": 29.4,
+   "score": 16
+  },
+  {
+   "name": "Feast of the Eternal Keg",
+   "aliases": [
+    "Eternal Keg"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their annual feast—Stormtide, Keg 5, Lagerhorn—strikes us as pagan revelry, a contrast to our Feast of the Eternal Keg. Some say their leaders, descended from Sackbeard's crew, still bear pirate blood, their gin-fueled…"
+   },
+   "rank": 9,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Festival of the Red Tide",
+   "aliases": [
+    "Red Tide"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…strength. Once a year, on the Ascension of the Lord in Goldsun, Keg 4, the port hosts the Festival of the Red Tide, where the townsfolk offer a tithe of tonic to the sea, its crimson waves said to bless the…"
+   },
+   "rank": 9,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Hoppy Holidays",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(build) a tree somewhere and say a prayer (drink a pint) of thanksgiving with a friend. Hoppy Holidays: The last Keg of the year (Dec 18-26, 2026 and Dec 13-21, 2027). All the pirates gather…"
+   },
+   "rank": 9,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Liquor Day",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of silent prayer. This day is a clear reminder why they are not fond of Liquor Kings. LIQUOR DAY: Celebrated across the isles on Bloodwake in the 13th Keg of Goldsun (day 232). Even those…"
+   },
+   "rank": 9,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Night of the Earthen Veil",
+   "aliases": [
+    "Earthen Veil"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Absolutely no work is to be done this day and the ale flows free for all to share. Night of the Earthen Veil: Celebrated all around Pintland on the last day of the 4th Keg in Veilfrost (Sept 27, 2026…"
+   },
+   "rank": 9,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Night of the False Sun",
+   "aliases": [
+    "False Sun"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drink a beer at each one. Don't stop until your body gives up or you get to each bar! Night of the False Sun: A lesser known \"celebration\" only observed by the Ashen Oath. Deep into the first night…"
+   },
+   "rank": 9,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Providas",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the more reclusive parts of Owe Block, but it currently only has a small following. Providas: Celebrated in Providence on Bloodwake in the 13th keg of stormtide (day 115). It is a commemoration…"
+   },
+   "rank": 9,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "The Beggars Dance",
+   "aliases": [
+    "Beggars Dance",
+    "Beggar's Dance"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…pipe, cigarette or cigar in silence as that small light sparks up across the bay. The Beggars Dance: This is a day in Aleforge to commemorate the humble beginnings of the town. Legend has…"
+   },
+   "rank": 9,
+   "percentile": 67.6,
+   "score": 56
+  },
+  {
+   "name": "Ale Day",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Declare the day of the attack as a national holiday. \"Ale Day\"",
+    "note": "Jameson Pilsner's mayoral promise: a national holiday on the day of the attack, with happy hour all day."
+   },
+   "rank": 17,
+   "percentile": 97.1,
+   "score": 96
+  },
+  {
+   "name": "Ascension of the Lord",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…shouts of traders, guarded by Apostles who wield tonic-fueled strength. Once a year, on the Ascension of the Lord in Goldsun, Keg 4, the port hosts the Festival of the Red Tide, where the townsfolk offer…"
+   },
+   "rank": 17,
+   "percentile": 97.1,
+   "score": 96
+  }
+ ]
+}

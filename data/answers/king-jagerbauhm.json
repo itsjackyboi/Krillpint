@@ -1,0 +1,458 @@
+{
+ "id": "king-jagerbauhm",
+ "prompt": "Name something tied to Jagerbauhm",
+ "blurb": "The Drunken Angel from Shanty Town and Providence, who flew into a hell portal.",
+ "difficulty": "easy",
+ "gem": "Iron golems",
+ "answerCount": 22,
+ "answers": [
+  {
+   "name": "Providence",
+   "aliases": [],
+   "mentions": {
+    "total": 95,
+    "compendium": 72,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…location underneath the Hoegaarden Library. - The Basin at Bully Hill — The lake adjacent to Providence. - Gulf of Aleforge — The bay in front of Sackbeard's Tavern, a natural harbor shaped by…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "ClockHeart Tonic",
+   "aliases": [
+    "Clockheart",
+    "Tonic",
+    "Clockeart Tonic",
+    "bootleg tonic",
+    "bootleg ClockHeart Tonic"
+   ],
+   "mentions": {
+    "total": 72,
+    "compendium": 57,
+    "records": 15
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…home of the Drunken Trials. Known for it's fine ale and people. - Providence — The ordered, tonic-driven holy city on the cliffs. A strict theocracy ruled by Cardinal Addy, head of the Church…"
+   },
+   "rank": 2,
+   "percentile": 4.8,
+   "score": 1
+  },
+  {
+   "name": "Shanty Town",
+   "aliases": [
+    "Shantytown"
+   ],
+   "mentions": {
+    "total": 47,
+    "compendium": 43,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…religious superstitions about what lay beyond them. - Rum Ridge — A lone peak which separates Shanty Town from the Hoegaarden Plains. Previously, this was the site of a vast arena for public gladiatorial…"
+   },
+   "rank": 3,
+   "percentile": 9.5,
+   "score": 3
+  },
+  {
+   "name": "Dmitri",
+   "aliases": [
+    "Dimitri",
+    "Dmtri",
+    "Dimtri",
+    "Dimitri the Space Boy"
+   ],
+   "mentions": {
+    "total": 24,
+    "compendium": 10,
+    "records": 14
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…after they broke free, with Luke landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his…"
+   },
+   "rank": 4,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Gilded Tankard",
+   "aliases": [
+    "The Tankard"
+   ],
+   "mentions": {
+    "total": 23,
+    "compendium": 19,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and tavern founded by Glub Tuppus Wepple. A newcomer named Gideon Drake rose to…"
+   },
+   "rank": 5,
+   "percentile": 19.0,
+   "score": 8
+  },
+  {
+   "name": "Susan Plinket",
+   "aliases": [
+    "Plinket",
+    "Susan",
+    "Jathan Round"
+   ],
+   "mentions": {
+    "total": 23,
+    "compendium": 14,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"an ick\". He was somewhat unfairly legally commanded into a relationship with MAMA leader, Susan Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport…"
+   },
+   "rank": 6,
+   "percentile": 23.8,
+   "score": 12
+  },
+  {
+   "name": "Cardinal Addy",
+   "aliases": [
+    "Addy"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 11,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Cardinal Addy, born to a Shanty whore",
+    "note": "The Cardinal of Providence was born in Shanty Town."
+   },
+   "rank": 7,
+   "percentile": 28.6,
+   "score": 15
+  },
+  {
+   "name": "Aleforge International Academy for Aspiring Drinkers",
+   "aliases": [
+    "Aleforge Academy",
+    "Academy for Aspiring Drinkers",
+    "school of drinking"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…coin and fill our coffers. My plan is innovation and industry: the Aleforge International Academy for Aspiring Drinkers is our path to glory, a school rising by the Gilded Tankard to teach brewing and boozing like…"
+   },
+   "rank": 8,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Arriving late",
+   "aliases": [
+    "always late",
+    "late"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drunkenness from the church). Abandoned my town by 17 and went off adventuring only to return home late to the liquor king trails part 1 ### Steph 'Guinnie' O'Guinness (Stephan) The Bilgrats and Buttplugs / Ship: Jolly…"
+   },
+   "rank": 8,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Closing the portal",
+   "aliases": [
+    "closed the portal",
+    "the portal"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…return and revenge so he has been researching artifacts from the factory illegally to try to close the portal for good and prevent their escape Following the events of Stewards of Aleforge, Drake was…"
+   },
+   "rank": 8,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Faige the Witch",
+   "aliases": [
+    "Faige",
+    "Faegi",
+    "Liquor Witch"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Lived there until 16 when i snagged a bit of fake clockheart tonic made by the Liquor witch Faegi which turned me into a functional alcoholic (had to hide my true drunkenness from the church).…"
+   },
+   "rank": 8,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Firecracker",
+   "aliases": [
+    "firecrackers"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the portal using the artifacts. Jagerbauhm took the artifacts and, using Elytra wings and a firecracker, flew to the Dread Harrow and fought through Sackbeard's crew to reach the cabin. He placed…"
+   },
+   "rank": 8,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Elytra",
+   "aliases": [
+    "Elytra wings"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…solution was to close the portal using the artifacts. Jagerbauhm took the artifacts and, using Elytra wings and a firecracker, flew to the Dread Harrow and fought through Sackbeard's crew to reach the…"
+   },
+   "rank": 13,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "Stormtide Ale",
+   "aliases": [
+    "Stormtide brew",
+    "Storm tide brew"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…superior Aleforge recipes, I have made an agreement with Cardinal addy to brew the first batch of Stormtide Ale, mixin' Aleforge's malt with Providence's brewin' technology, without touchin' their guarded…"
+   },
+   "rank": 13,
+   "percentile": 59.5,
+   "score": 46
+  },
+  {
+   "name": "Drunken Angel",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…those events and has been a husk of his former self ever since. ### Jagerbauhm (Ben) \"Drunken Angel\" — The Lager Duke Yeah id say from ages 0-2 grew up in shanty town until parents (both just…"
+   },
+   "rank": 15,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Iron golems",
+   "aliases": [
+    "Iron golem",
+    "golems"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…into the failsafe and halting the flow of enemies. The rest was history: the 50 iron golems I was shamelessly holding onto did the rest… And now I'm here…in the bathroom…throwing…"
+   },
+   "rank": 15,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Jaugerbomb",
+   "aliases": [
+    "Jagerbomb"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…fields overflow with wheat so your families never go hungry. My fellow Liquor Kings—Seamus, Jaugerbomb, JamesonPilsner, buke, Jack&coke— these are fine lads. Seamus's trade deals kept coins clinking,…"
+   },
+   "rank": 15,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Sackbeard's Dagger",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden - Map to the Forbidden Brew — Currently blank.…"
+   },
+   "rank": 15,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "The Dimitri files",
+   "aliases": [
+    "Dimitri files"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…a king.Disgusting. (there is a 10% chance this leaks to the public from here on out) (THE DIMITRI FILES ARE NOT PUBLIC AND RIGHT NOW ONLY THE LIQUOR KINGS AND MR. BBL ARE AWARE OF IT) Jack vs Wepple…"
+   },
+   "rank": 15,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "The Lager Duke",
+   "aliases": [
+    "Lager Duke"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…has been a husk of his former self ever since. ### Jagerbauhm (Ben) \"Drunken Angel\" — The Lager Duke Yeah id say from ages 0-2 grew up in shanty town until parents (both just poopdeck swabbers)…"
+   },
+   "rank": 15,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Tithe of Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…I know our citizens want to drink, so as a part of aleforge academy, we will institute the tithe of ale, where students give out samples to all aleforge citizens to test their beer before it goes…"
+   },
+   "rank": 15,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Trident",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…a coward but I was lowkey bussin it down on em' BAM BAP POW (ya feel meh). I was tossin my trident and shooting my bows as my fellow Liquor kings died around me, kinda weird cause I thought…"
+   },
+   "rank": 15,
+   "percentile": 83.3,
+   "score": 76
+  }
+ ]
+}

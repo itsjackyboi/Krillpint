@@ -1,0 +1,30 @@
+{
+  "id": "punishments",
+  "prompt": "Name a punishment or sentence",
+  "blurb": "Exile, jail, sobriety, or worse: becoming Rollo's girlfriend.",
+  "difficulty": "medium",
+  "gem": "Extra kitchen duty",
+  "answers": [
+    {"ref": "Banishment to Vodkonia", "obscurity": 1},
+    {"name": "Sentenced to be Rollo's girlfriend", "aliases": ["Rollo's girlfriend"], "count": ["re:(?i)sentenced to be rollo"]},
+    {"ref": "Lifetime sobriety"},
+    {"ref": "The Aleforge jail"},
+    {"ref": "Crashing your ship into the cliffs"},
+    {"name": "Public beheading", "aliases": ["beheading", "beheaded"], "count": ["re:(?i)beheaded"]},
+    {"name": "Welded cells", "aliases": ["welded shut"], "count": ["re:(?i)welded shut"]},
+    {"name": "The Monk's exile", "aliases": ["exile", "exiled"], "count": ["re:(?i)\\bexile"]},
+    {"name": "Extra kitchen duty", "aliases": ["kitchen duty"], "count": ["re:(?i)kitchen duty"], "obscurity": 4},
+    {"name": "Rudimentary tools", "aliases": ["rudimentary implements"], "count": ["re:(?i)rudimentary implements"], "obscurity": 4},
+    {"name": "Execution", "aliases": ["executed"], "count": ["re:(?i)\\bexecut(ion|ed|ing)\\b"]},
+    {"name": "Being stripped of armor", "aliases": ["stripped of his chestplate"], "count": ["re:(?i)was stripped of"]},
+    {"name": "Thrown into prison", "aliases": ["prison"], "count": ["re:(?i)thrown into prison"]},
+    {"ref": "Famine and disease"},
+    {"name": "Cursed with eternal life", "aliases": ["eternal life"], "count": ["re:(?i)eternal life"]},
+    {"name": "Banished for not smelling of stout", "aliases": ["outcast"], "count": ["re:(?i)smell(s)? (strongly )?of stout"]},
+    {"name": "The 150% smuggling tax", "aliases": ["150%"], "count": ["re:150%"]},
+    {"name": "Tossed off the cliffs", "aliases": [], "count": ["re:(?i)tossed off the cliffs"]},
+    {"name": "The 50% mining tax", "aliases": ["mining tax", "50% tax"], "count": ["re:(?i)another 50%|50% of my"]},
+    {"name": "The noose", "aliases": ["noose"], "count": ["re:(?i)noose"]},
+    {"name": "Chug a beer on camera", "aliases": [], "count": ["re:(?i)chug a beer on camera"]}
+  ]
+}

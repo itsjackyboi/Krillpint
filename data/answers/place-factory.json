@@ -1,0 +1,433 @@
+{
+ "id": "place-factory",
+ "prompt": "Name something tied to the Factory",
+ "blurb": "Orchenk Manufactory, where the Nethergate tore open and never closed.",
+ "difficulty": "medium",
+ "gem": "Mutated experiments",
+ "answerCount": 20,
+ "answers": [
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Drake",
+    "Gidion Drake",
+    "the Bastard Veil",
+    "the Ironkeg"
+   ],
+   "mentions": {
+    "total": 145,
+    "compendium": 75,
+    "records": 70
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "John Cum",
+   "aliases": [
+    "Cum",
+    "Mr. Cum"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 21,
+    "records": 35
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "John Cum is the key supplier of barley for the ale",
+    "note": "Lives at the Cumstead outside town, but the lore treats him as Aleforge's own wheat supplier."
+   },
+   "rank": 2,
+   "percentile": 5.3,
+   "score": 1
+  },
+  {
+   "name": "Mr. BBL",
+   "aliases": [
+    "BBL",
+    "Mister BBL"
+   ],
+   "mentions": {
+    "total": 25,
+    "compendium": 7,
+    "records": 18
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Glendolph Galleyway: An unremarkable mayor, the only thing of note is his hiring of Mr. BBL, the current chancellor of Aleforge. Thomas Thatcher Sr.: Thomas Thatcher Sr. was an…"
+   },
+   "rank": 3,
+   "percentile": 10.5,
+   "score": 3
+  },
+  {
+   "name": "Roto Kaiishi",
+   "aliases": [
+    "Roto",
+    "Rotto"
+   ],
+   "mentions": {
+    "total": 69,
+    "compendium": 64,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Name — A settlement on the mainland, site of former pirate crewmembers' second lives.. - Roto Kaiishi — The famous floating merchant city anchored to the ocean floor. The only laws here…"
+   },
+   "rank": 4,
+   "percentile": 15.8,
+   "score": 6
+  },
+  {
+   "name": "The Factory artifacts",
+   "aliases": [
+    "Factory artifacts",
+    "six Factory Artifacts",
+    "artifacts from the factory"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hell Now he is plagued by nightmares of their return and revenge so he has been researching artifacts from the factory illegally to try to close the portal for good and prevent their escape Following the events…"
+   },
+   "rank": 5,
+   "percentile": 21.1,
+   "score": 10
+  },
+  {
+   "name": "Sackbeard's undead crew",
+   "aliases": [
+    "undead crew",
+    "cursed crew",
+    "Sackbeard's crew"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…navigate very difficult times of economic collapse, political uprisings and the arrival of a cursed crew arriving from the Realm of the Soulless seeking revenge on Gideon Drake. This lead to the…"
+   },
+   "rank": 6,
+   "percentile": 26.3,
+   "score": 13
+  },
+  {
+   "name": "The green sludge",
+   "aliases": [
+    "green sludge",
+    "sludge",
+    "green substance"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…confines. Attempts to deactivate the portal resulted in a horrific byproduct—a viscous, toxic green sludge—that consumed corridors and labs, choking escape routes and claiming the lives of many workers.…"
+   },
+   "rank": 7,
+   "percentile": 34.2,
+   "score": 20
+  },
+  {
+   "name": "The witnesses",
+   "aliases": [
+    "witness",
+    "witness statements"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…this history entirely. They killed the soldiers who carried out the massacre to ensure no witnesses survived. All the slaves who buried his body were killed, and all the slaves who killed…"
+   },
+   "rank": 7,
+   "percentile": 34.2,
+   "score": 20
+  },
+  {
+   "name": "Nethergate Teleporter",
+   "aliases": [
+    "Nethergate"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pintland. - Orchenk Manufactory (The Factory) — The abandoned industrial facility where the Nethergate disaster occurred. - The Vanishing House (The Mansion) — Known in folklore as such; canonical…"
+   },
+   "rank": 9,
+   "percentile": 47.4,
+   "score": 33
+  },
+  {
+   "name": "The Nether",
+   "aliases": [
+    "Nether"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…instantaneously. However, ambition unchecked by caution led the scientists to inadvertently breach the Nether, a hellish dimension teeming with monstrous beings. In an instant, the ambitious experiment…"
+   },
+   "rank": 9,
+   "percentile": 47.4,
+   "score": 33
+  },
+  {
+   "name": "The Nethergate disaster",
+   "aliases": [
+    "Nethergate disaster",
+    "the factory accident"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pintland. - Orchenk Manufactory (The Factory) — The abandoned industrial facility where the Nethergate disaster occurred. - The Vanishing House (The Mansion) — Known in folklore as such; canonical name…"
+   },
+   "rank": 9,
+   "percentile": 47.4,
+   "score": 33
+  },
+  {
+   "name": "Closing the portal",
+   "aliases": [
+    "closed the portal",
+    "the portal"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…return and revenge so he has been researching artifacts from the factory illegally to try to close the portal for good and prevent their escape Following the events of Stewards of Aleforge, Drake was…"
+   },
+   "rank": 12,
+   "percentile": 60.5,
+   "score": 47
+  },
+  {
+   "name": "The scientists",
+   "aliases": [
+    "scientists",
+    "brightest minds"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Mostly vibes #### Lore: Driven by their insatiable desire to master instant travel, the brightest minds constructed a colossal device—The Nethergate Teleporter. Engineered with a fusion of advanced…"
+   },
+   "rank": 12,
+   "percentile": 60.5,
+   "score": 47
+  },
+  {
+   "name": "Orchenk Manufactory",
+   "aliases": [
+    "The Factory",
+    "Orchenk"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hoegaarden — An ancient library, houses the largest collection of knowledge in all of Pintland. - Orchenk Manufactory (The Factory) — The abandoned industrial facility where the Nethergate disaster…"
+   },
+   "rank": 14,
+   "percentile": 68.4,
+   "score": 57
+  },
+  {
+   "name": "Gideon Drake's journal",
+   "aliases": [
+    "Gideon Drakes Journal",
+    "insomnia"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…loyal MAMAists. No longer JR, I am Susan Plinket and the Liquor Kings will die at my hand Gideon Drakes Journal I heard of this factory accident and a hellish world and I knew I needed to be close. What…"
+   },
+   "rank": 15,
+   "percentile": 81.6,
+   "score": 74
+  },
+  {
+   "name": "Hellish beasts",
+   "aliases": [
+    "Nether beasts",
+    "monstrous beings"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…caution led the scientists to inadvertently breach the Nether, a hellish dimension teeming with monstrous beings. In an instant, the ambitious experiment devolved into catastrophe. Hellish beasts poured…"
+   },
+   "rank": 15,
+   "percentile": 81.6,
+   "score": 74
+  },
+  {
+   "name": "The Dread Harrow",
+   "aliases": [
+    "Dread Harrow"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Drake was finally confronted in the castle with the artifacts in hand just as Sackbeard's Dread Harrow materialized through a portal. The undead crew poured into Aleforge, seeking revenge on Drake,…"
+   },
+   "rank": 15,
+   "percentile": 81.6,
+   "score": 74
+  },
+  {
+   "name": "The receipts",
+   "aliases": [
+    "receipts"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…about to lose a lot more than money stupid bitch. Watch your back dumbass. -Jack Anqoak Receipts (SOA 5) RECEIPTS: Gideon Drake: +5 artifacts -500 gold Black Market Traders: +500 gold…"
+   },
+   "rank": 15,
+   "percentile": 81.6,
+   "score": 74
+  },
+  {
+   "name": "Mutated experiments",
+   "aliases": [
+    "mutations",
+    "mutated creatures"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…escape routes and claiming the lives of many workers. As chaos unfolded, isolated experiments mutated grotesquely, merging creatures and equipment into nightmarish forms. Communication dwindled…"
+   },
+   "rank": 19,
+   "percentile": 94.7,
+   "score": 92
+  },
+  {
+   "name": "The black market traders",
+   "aliases": [
+    "black market traders"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "pleasure doing business with the respeccted mayor",
+    "note": "Sold Gideon Drake five Factory artifacts for 500 gold."
+   },
+   "rank": 20,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

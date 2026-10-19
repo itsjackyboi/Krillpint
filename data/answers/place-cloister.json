@@ -1,0 +1,422 @@
+{
+ "id": "place-cloister",
+ "prompt": "Name something tied to the Cloister",
+ "blurb": "The old monks' hall above a beast's prison and a door to hell.",
+ "difficulty": "medium",
+ "gem": "The wizard's curse",
+ "answerCount": 20,
+ "answers": [
+  {
+   "name": "The Cloister Beast",
+   "aliases": [
+    "Cloister Beast"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 16,
+    "records": 2
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards…"
+   },
+   "rank": 1,
+   "percentile": 2.6,
+   "score": 0
+  },
+  {
+   "name": "The Old Prophet",
+   "aliases": [
+    "Old Prophet",
+    "Prophet"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 18,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of monks long ago and later abandoned after their order disappeared, it is rumored that the prophet murdered them in order to get access to this mysterious place. An old prophet took up residence…"
+   },
+   "rank": 1,
+   "percentile": 2.6,
+   "score": 0
+  },
+  {
+   "name": "New Haven",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the worst of the worst and they are never leaving, most of the cells are welded shut. - New Haven — The aetherial realm accessible only to a select few through the Cloister. - Hoegaarden…"
+   },
+   "rank": 3,
+   "percentile": 10.5,
+   "score": 3
+  },
+  {
+   "name": "Ignatius De Montfort",
+   "aliases": [
+    "Ignatius",
+    "De Montfort"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 12,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…known who built this or for what purpose. This exact question is currently being researched by Ignatius De Montfort. ## The Cloister #### In Game Use: concept gameplay area #### Lore: this…"
+   },
+   "rank": 4,
+   "percentile": 15.8,
+   "score": 6
+  },
+  {
+   "name": "Edmond Blackmoor",
+   "aliases": [
+    "Blackmoor",
+    "Edmund Blackmoor"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their arrival. He never met the liquor kings, however, as a great and pompous adventurer named Edmond Blackmoor came to the cloister to fight the beast and the Prophet turned him away. This upset Blackmoor…"
+   },
+   "rank": 5,
+   "percentile": 21.1,
+   "score": 10
+  },
+  {
+   "name": "Reverend Ambrose Ravenscroft",
+   "aliases": [
+    "Ambrose Ravenscroft",
+    "Ravenscroft",
+    "Reverend Ambrose"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fear and died a slow and humbling death, warning others of the terror they would endure. ### Reverend Ambrose Ravenscroft The esteemed reverend originally came to Aleforge at the request of his superiors,…"
+   },
+   "rank": 6,
+   "percentile": 28.9,
+   "score": 16
+  },
+  {
+   "name": "Richard 'Cumhardy' Seaman",
+   "aliases": [
+    "Richard Seaman",
+    "Richard Cumhardy",
+    "Cumhardy",
+    "Richard"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…can stay in the cloister before new residents are inevitably drawn to it's mysteries. ### Richard 'Cumhardy' Seaman (DECEASED) Richard had recently washed ashore aleforge on wreckage from…"
+   },
+   "rank": 6,
+   "percentile": 28.9,
+   "score": 16
+  },
+  {
+   "name": "The Beggar",
+   "aliases": [
+    "Beggar"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…past. Makes you wonder how much he really knows. Makes you wonder if he even is human? ### The Beggar The beggar is the illegitimate son of Glub Tuppus Wepple and is therefore not eligible to…"
+   },
+   "rank": 8,
+   "percentile": 39.5,
+   "score": 25
+  },
+  {
+   "name": "The Cloister's prison dimension",
+   "aliases": [
+    "prison dimension"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…phenomena which leads directly to hell, and that itself is on top of a hole which leads to a prison dimension holding a great beast in captivity. Within the hillside which the cloister is built on, there…"
+   },
+   "rank": 8,
+   "percentile": 39.5,
+   "score": 25
+  },
+  {
+   "name": "The vanished monks",
+   "aliases": [
+    "monks",
+    "order of monks"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…put their trust in them (light up dice) The cloister was built on top of all of this by an order of monks long ago and later abandoned after their order disappeared, it is rumored that the prophet…"
+   },
+   "rank": 10,
+   "percentile": 47.4,
+   "score": 33
+  },
+  {
+   "name": "The Cloister's magical lights",
+   "aliases": [
+    "magical lights",
+    "light up dice",
+    "lights in the wall"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "there are magical lights which are used to determine the fate of those who put their trust in them",
+    "note": "The lights in the Cloister hillside that decide the fate of those who trust them."
+   },
+   "rank": 11,
+   "percentile": 52.6,
+   "score": 38
+  },
+  {
+   "name": "Aleforge Restoration Association",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fully documented. ## Providence Educational Foundation for Historical Preservation / Aleforge Restoration Association (Cultural) Two of the civic institutions operating in their respective cities. The Providence…"
+   },
+   "rank": 12,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "Aleforge's repair workers",
+   "aliases": [
+    "yearly workers",
+    "builders"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…too quick — settin' up brew routes and trade posts that stink of empire. Worse, they've been sending builders to the Cloister, and that building don't belong to them. The Cloister's power don't sleep forever, and messing…"
+   },
+   "rank": 12,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "Fayte Druids",
+   "aliases": [
+    "The Fayte Druids"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The ancient monk's hall built over a mystical anomaly. Recently it has been closed off by the Fayte Druids - Fentmaxxer's Observatory — The hastily constructed observatory on Killdeath Peak. -…"
+   },
+   "rank": 12,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "The invisible hallway",
+   "aliases": [
+    "hidden hallway",
+    "invisible hallway"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the hands of fate using the magical lights in the wall. Upon their arrival back a previously invisible hallway opened up which leads to the aetherial location of New Haven. ## The Shrines ####…"
+   },
+   "rank": 12,
+   "percentile": 65.8,
+   "score": 53
+  },
+  {
+   "name": "Happy hour",
+   "aliases": [
+    "weekly happy hour"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…day, drinking in the cloister with the same guys I always drink with. Another week, another happy hour, but this week someone new came. A day of celebration was taking place to honor our…"
+   },
+   "rank": 16,
+   "percentile": 78.9,
+   "score": 70
+  },
+  {
+   "name": "The gateway to hell",
+   "aliases": [
+    "hell",
+    "gate to hell"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cloister has had a troubled past, it is built on top of an unexplained natural phenomena which leads directly to hell, and that itself is on top of a hole which leads to a prison dimension holding a great beast…"
+   },
+   "rank": 17,
+   "percentile": 89.5,
+   "score": 85
+  },
+  {
+   "name": "The Kings' meeting hall",
+   "aliases": [
+    "meeting hall"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…availed and killed the beast, returning to the cloister triumphantly and they now use it as a meeting hall during their adventures often leaving important decisions in the hands of fate using the magical…"
+   },
+   "rank": 17,
+   "percentile": 89.5,
+   "score": 85
+  },
+  {
+   "name": "The Prophet's writings",
+   "aliases": [
+    "Prophet's writings"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a previously invisible hallway opened in the Cloister wall — the passage to New Haven. The Prophet's writings were found upstairs, documenting his years of waiting for their arrival. Edmond Blackmoor's…"
+   },
+   "rank": 17,
+   "percentile": 89.5,
+   "score": 85
+  },
+  {
+   "name": "The wizard's curse",
+   "aliases": [
+    "wizard",
+    "wizard curse"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…damage to it by the weather/time. The town's folk fear the Cloister's power and believe a wizard will curse them if they don't repair any damage to the building. #### Founding and History: Legend…"
+   },
+   "rank": 20,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

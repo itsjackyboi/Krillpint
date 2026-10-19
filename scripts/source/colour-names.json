@@ -1,0 +1,32 @@
+{
+  "id": "colour-names",
+  "prompt": "Name something with a colour in its name",
+  "blurb": "Red, gold, black, green, blue, amber, white, copper, ivory…",
+  "difficulty": "medium",
+  "gem": "Aldin Whiteknuckle",
+  "answers": [
+    {"ref": "Crimson Cutters", "obscurity": 1},
+    {"ref": "Festival of the Red Tide"},
+    {"ref": "Goldsun"},
+    {"ref": "The Golden Taps"},
+    {"ref": "Goldcoral Incorporated"},
+    {"ref": "Black Pepper Dividend"},
+    {"ref": "Amber Ale"},
+    {"ref": "The green sludge"},
+    {"ref": "The glowing green frog"},
+    {"ref": "The copper scarf"},
+    {"ref": "Red-earth mineral"},
+    {"ref": "Edmond Blackmoor"},
+    {"ref": "Blackburn"},
+    {"ref": "Aldin Whiteknuckle"},
+    {"ref": "Ivory skin"},
+    {"ref": "Black-boned demons"},
+    {"ref": "Bluechew"},
+    {"ref": "The blue sword"},
+    {"ref": "Ulthar Goldbrew"},
+    {"ref": "The Coors Golden Isles"},
+    {"ref": "Golden Corral Inc"},
+    {"ref": "The blue yarmulke"},
+    {"ref": "Amethyst crystals"}
+  ]
+}

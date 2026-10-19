@@ -1,0 +1,559 @@
+{
+ "id": "place-shanty-town",
+ "prompt": "Name something tied to Shanty Town",
+ "blurb": "The pirate cliff town built from wrecks, bones and grog.",
+ "difficulty": "easy",
+ "gem": "La-Di-Da Street",
+ "answerCount": 27,
+ "answers": [
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Drake",
+    "Gidion Drake",
+    "the Bastard Veil",
+    "the Ironkeg"
+   ],
+   "mentions": {
+    "total": 145,
+    "compendium": 75,
+    "records": 70
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Jagerbauhm",
+   "aliases": [
+    "Jagerbaum",
+    "Jagerbaugm",
+    "Jagerbaumdani",
+    "Jaugerbomb",
+    "Ben",
+    "Drunken Angel",
+    "Lager Duke"
+   ],
+   "mentions": {
+    "total": 70,
+    "compendium": 28,
+    "records": 42
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts…"
+   },
+   "rank": 2,
+   "percentile": 3.8,
+   "score": 1
+  },
+  {
+   "name": "Grog",
+   "aliases": [],
+   "mentions": {
+    "total": 21,
+    "compendium": 14,
+    "records": 7
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The pirate cliff settlement adjacent to the Tavern. A lawless place build on reputation and grog. - Aleforge — Brewing capital of the Isles, home of the Drunken Trials. Known for it's fine…"
+   },
+   "rank": 3,
+   "percentile": 7.7,
+   "score": 2
+  },
+  {
+   "name": "Sackbeard's Tavern",
+   "aliases": [
+    "Shell Tavern",
+    "The Shell Tavern",
+    "Great Shell Tavern"
+   ],
+   "mentions": {
+    "total": 13,
+    "compendium": 13,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for…"
+   },
+   "rank": 4,
+   "percentile": 11.5,
+   "score": 4
+  },
+  {
+   "name": "Guinnie",
+   "aliases": [
+    "Steph O'Guinness"
+   ],
+   "mentions": {
+    "total": 36,
+    "compendium": 17,
+    "records": 19
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order,…"
+   },
+   "rank": 5,
+   "percentile": 15.4,
+   "score": 6
+  },
+  {
+   "name": "Old Salty",
+   "aliases": [
+    "Salty"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 10,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "unofficial residence at the Gilded Tankard",
+    "note": "Officially a Shanty Town resident, but practically lives at the Gilded Tankard."
+   },
+   "rank": 6,
+   "percentile": 21.2,
+   "score": 10
+  },
+  {
+   "name": "Windsunk Council",
+   "aliases": [
+    "The Windsunk",
+    "Windsunk"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 11,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…currency. Trade was done in barrels, not coin. You wanted a room? A barrel. food? A pint. The Windsunk Council formed — old captains and clever drinkers who could hold their own. They set the first…"
+   },
+   "rank": 6,
+   "percentile": 21.2,
+   "score": 10
+  },
+  {
+   "name": "Cardinal Addy",
+   "aliases": [
+    "Addy"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 11,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Cardinal Addy, born to a Shanty whore",
+    "note": "The Cardinal of Providence was born in Shanty Town."
+   },
+   "rank": 8,
+   "percentile": 26.9,
+   "score": 14
+  },
+  {
+   "name": "The Pour Eternal",
+   "aliases": [
+    "Pour Eternal"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…new lungs. You ain't just living in a ruin. You're living in the bones of a choice.\" ### The Pour Eternal (Shanty Town Folklore) tattered, half-forgotten tavern tale, passed down through generations,…"
+   },
+   "rank": 9,
+   "percentile": 30.8,
+   "score": 17
+  },
+  {
+   "name": "Frenic Hallis",
+   "aliases": [
+    "Frenic"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…throne after his passing. This began the Hallis Dynasty, the 1st in Aleforge history. Frenic Hallis: It was during the time of his rule that the small settlement of Shanty Town which originated…"
+   },
+   "rank": 10,
+   "percentile": 34.6,
+   "score": 20
+  },
+  {
+   "name": "Beer Day",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…stationed outside the tavern who will throw you in if you are looking too sober. - - BEER DAY: - Celebrated primarily in Shanty Town on the last day of the 5th Keg in Goldsun. (June…"
+   },
+   "rank": 11,
+   "percentile": 42.3,
+   "score": 28
+  },
+  {
+   "name": "The First Pour",
+   "aliases": [
+    "First Pour"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…with a crew and a ship of their own — they must earn it. Complete the trials. Survive the First Pour. Prove you're not just another drunk with a sword. That's how you get your name carved into…"
+   },
+   "rank": 11,
+   "percentile": 42.3,
+   "score": 28
+  },
+  {
+   "name": "The Shoals",
+   "aliases": [
+    "Shoals"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…cliffs — a spot to crash, dock, or lash yer vessel to the bones. Ye must swear loyalty to the Shoals — no scallywag games, no claimin' king, and no settin' sail to plunder the town what gave…"
+   },
+   "rank": 11,
+   "percentile": 42.3,
+   "score": 28
+  },
+  {
+   "name": "The Ashen Oath",
+   "aliases": [
+    "Ashen Oath"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"kissed by the trench.\" Now, they are something less than human and more than drowned. 3. The Ashen Oath: Hidden fanatics and idealists who believe the sea, pirates, and grog have tainted the world.…"
+   },
+   "rank": 14,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Blodello Bridge",
+   "aliases": [
+    "Blodello"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of Hoegaarden Library. Another entry way into Providence, notably this bay is overlooked by Blodello Bridge which crosses the bay leading from Shanty Town to Providence. - Dead Man Hallows…"
+   },
+   "rank": 15,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "Crashing your ship into the cliffs",
+   "aliases": [
+    "crash your vessel",
+    "crashing ships"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…for one thing: a place to stop running. But there was a price. To live here, you had to crash your vessel into the cliffs. A literal oath — tear your mast from the sea, hang your flag on the wall,…"
+   },
+   "rank": 15,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "Jasper \"no Eyes, all-Hands\"",
+   "aliases": [
+    "Jasper",
+    "Jasper no Eyes all Hands"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…completely mad. ### Shanty Town's Foreign Relations #### On Providence: An excerpt from Jasper \"no Eyes, all-Hands\", resident of La-Di-Da Street, member of Windsunk Council concerning Providence:…"
+   },
+   "rank": 17,
+   "percentile": 61.5,
+   "score": 48
+  },
+  {
+   "name": "Books of Captains",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…you're not just another drunk with a sword. That's how you get your name carved into the Books of Captains. That's how Shanty Town still breathes — old salt in new lungs. You ain't just living in…"
+   },
+   "rank": 18,
+   "percentile": 76.9,
+   "score": 67
+  },
+  {
+   "name": "Grog and favors",
+   "aliases": [
+    "favors"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…whatever washed up: beast ribs, stone, crates, even bones. What bound it all together was grog. Grog and favors became currency. Trade was done in barrels, not coin. You wanted a room? A barrel. food? A…"
+   },
+   "rank": 18,
+   "percentile": 76.9,
+   "score": 67
+  },
+  {
+   "name": "La-Di-Da Street",
+   "aliases": [
+    "La Di Da Street"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Foreign Relations #### On Providence: An excerpt from Jasper \"no Eyes, all-Hands\", resident of La-Di-Da Street, member of Windsunk Council concerning Providence: Scrawled with a hot nail on driftwood.…"
+   },
+   "rank": 18,
+   "percentile": 76.9,
+   "score": 67
+  },
+  {
+   "name": "Night of the False Sun",
+   "aliases": [
+    "False Sun"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drink a beer at each one. Don't stop until your body gives up or you get to each bar! Night of the False Sun: A lesser known \"celebration\" only observed by the Ashen Oath. Deep into the first night…"
+   },
+   "rank": 18,
+   "percentile": 76.9,
+   "score": 67
+  },
+  {
+   "name": "Shanty Square",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…concerning Providence: Scrawled with a hot nail on driftwood. Found nailed to a salt barrel in the Shanty Square. The Truth of Providence (from Someone Who's Fought, Farted, and Forged in Shanty Town)…"
+   },
+   "rank": 18,
+   "percentile": 76.9,
+   "score": 67
+  },
+  {
+   "name": "The Coral-eyed",
+   "aliases": [
+    "Coral-eyed",
+    "Coral eyed"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…punishes arrogance. Most are former helmsmen, weather witches, or deep-sea interpreters. 2. The Coral-eyed: Once sailors and scavengers, these individuals spent far too long beneath the sea — trapped…"
+   },
+   "rank": 18,
+   "percentile": 76.9,
+   "score": 67
+  },
+  {
+   "name": "Tide Callers",
+   "aliases": [
+    "The Tide Callers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the windsunk Council initiation (the first Pour) ### Shanty Town's Political Factions 1. The Tide Callers: A semi-religious order of mystics, navigators, and storm-readers. They believe the ocean…"
+   },
+   "rank": 18,
+   "percentile": 76.9,
+   "score": 67
+  },
+  {
+   "name": "Hollowgrim",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and storm. Some maps are whispered to rest with the Mapmaker that vanished. Others tied to Hollowgrim's curses and the ghost riddles that slither through the cliffs. But most say the words have…"
+   },
+   "rank": 25,
+   "percentile": 96.2,
+   "score": 94
+  },
+  {
+   "name": "The Mapmaker",
+   "aliases": [
+    "Mapmaker"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…only for those who still dream in salt and storm. Some maps are whispered to rest with the Mapmaker that vanished. Others tied to Hollowgrim's curses and the ghost riddles that slither through…"
+   },
+   "rank": 25,
+   "percentile": 96.2,
+   "score": 94
+  },
+  {
+   "name": "The sacred cliffs",
+   "aliases": [
+    "sacred cliffs",
+    "the cliffs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…exiting the blood-binding pirate cap't contract, All captains must crash their vessel into the sacred cliffs — a rite o' quittin' the open sea. We still raid, of course. But only ships that deserve…"
+   },
+   "rank": 25,
+   "percentile": 96.2,
+   "score": 94
+  }
+ ]
+}

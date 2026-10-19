@@ -1,0 +1,433 @@
+{
+ "id": "punishments",
+ "prompt": "Name a punishment or sentence",
+ "blurb": "Exile, jail, sobriety, or worse: becoming Rollo's girlfriend.",
+ "difficulty": "medium",
+ "gem": "Extra kitchen duty",
+ "answerCount": 21,
+ "answers": [
+  {
+   "name": "Banishment to Vodkonia",
+   "aliases": [
+    "banishment",
+    "banished"
+   ],
+   "mentions": {
+    "total": 20,
+    "compendium": 11,
+    "records": 9
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the ancient Lagendale…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The Monk's exile",
+   "aliases": [
+    "exile",
+    "exiled"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 9,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Drifters, Traders, and Travlers: These are the non-permanent residents — merchants, adventurers, exiles, scholars, and outcasts. They move between Shanty Town, Roto, and beyond. Some are spies.…"
+   },
+   "rank": 2,
+   "percentile": 5.0,
+   "score": 1
+  },
+  {
+   "name": "Execution",
+   "aliases": [
+    "executed"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 2,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was sent to the cloister by a benefactor to find a weak spot on the beast for an eventual execution. Being a biologist by trade he developed an obsessive fascination with the beast and was determined…"
+   },
+   "rank": 3,
+   "percentile": 10.0,
+   "score": 3
+  },
+  {
+   "name": "Cursed with eternal life",
+   "aliases": [
+    "eternal life"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 3,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…pirate Sackbeard who killed the tavern beast. Hundreds of years ago he cursed the crew with eternal life and sacrificed the crew into the nether because they attacked a veilwalker settlement. Later…"
+   },
+   "rank": 4,
+   "percentile": 15.0,
+   "score": 6
+  },
+  {
+   "name": "Sentenced to be Rollo's girlfriend",
+   "aliases": [
+    "Rollo's girlfriend"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of \"Johns\" was found to be half Veilwalker and half human. ### Susan Plinket — CONVICTED, Sentenced to Be Rollo's Girlfriend Susan Plinket is a moderate foreign affairs expert for the kings. She respects…"
+   },
+   "rank": 5,
+   "percentile": 22.5,
+   "score": 11
+  },
+  {
+   "name": "The 50% mining tax",
+   "aliases": [
+    "mining tax",
+    "50% tax"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…eventually just dug down and found diamonds. I was banded upppp. This dumbass british guy took 50% of my money and a slap on the ass and told me to get lost. There weren't even social programs or…"
+   },
+   "rank": 5,
+   "percentile": 22.5,
+   "score": 11
+  },
+  {
+   "name": "Chug a beer on camera",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…invite you to dinner tonight. Please tell the messenger yes or no. Yes: dinner with rollo No: chug a beer on camera in under 20 seconds (which costs money) the bastard veil The legends are true, the earth…"
+   },
+   "rank": 7,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "Crashing your ship into the cliffs",
+   "aliases": [
+    "crash your vessel",
+    "crashing ships"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…for one thing: a place to stop running. But there was a price. To live here, you had to crash your vessel into the cliffs. A literal oath — tear your mast from the sea, hang your flag on the wall,…"
+   },
+   "rank": 7,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "Famine and disease",
+   "aliases": [
+    "curse",
+    "famine"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…offend them or try to take too much from the earth are haunted by this tribe and are cursed by famine and disease. When they communicate with the woodland spirits they transform into ghostly figures and…"
+   },
+   "rank": 7,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "Public beheading",
+   "aliases": [
+    "beheading",
+    "beheaded"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the reincarnation of the Brewmasters Deity. Cedrics rule came to an abrupt end when he was beheaded publicly by those who believed in the old Brewmasters Deity. It is said that the fountain…"
+   },
+   "rank": 7,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "Banished for not smelling of stout",
+   "aliases": [
+    "outcast"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and most refreshing stout ever tasted, they are also known to outcast anyone who does not smell strongly of Stout. Long ago in their past they dug too deep in the mountain, and woke something deep in the…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "Being stripped of armor",
+   "aliases": [
+    "stripped of his chestplate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…spectacular drunkenness, and Nathan, having been forced to play sober due to circumstances, was stripped of an iron chestplate as punishment from above. Ben received a full protection-enchanted armor…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "Lifetime sobriety",
+   "aliases": [
+    "sentenced to sobriety"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jagerbauhm's case and Jameson Pilsner was found guilty of the murder of Peg Butt. He was sentenced to lifetime sobriety and a stint in the Aleforge jail. # VI. CULTURE, RELIGION & BUSINESS ## The Drunken Trials…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "The 150% smuggling tax",
+   "aliases": [
+    "150%"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Therefore, any item that is a gift from a Veilwalker that enters the town has a 20% flat tax, and a 150% tax if discovered smuggling the items into town. Changes on Brewers Tax: Gone are the days…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "The noose",
+   "aliases": [
+    "noose"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…village o' innocents near Fenwick. Deserted that same night, with blood on me boots and a noose waitin' if I were caught. Vanished for a while, till I fancied myself to pull up in Shanty…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "Thrown into prison",
+   "aliases": [
+    "prison"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of Vanity Street; guess who caught him…Thats right sister Bertha. Ever since her father was thrown into prison, she's made a name for herself as being the \"most honest woman\" in Providence and terrible…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "Tossed off the cliffs",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…old pirates who gave up sailing, not scheming. They decide who eats, who raids, and who gets tossed off the cliffs. Simple. Fair. Brutal. Trade With Providence? Only When We're Desperate or Bored Their fancy…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "Welded cells",
+   "aliases": [
+    "welded shut"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…This prison is for the worst of the worst and they are never leaving, most of the cells are welded shut. - New Haven — The aetherial realm accessible only to a select few through the Cloister.…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "Extra kitchen duty",
+   "aliases": [
+    "kitchen duty"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…games on this system will lead to a temporary revokation of game time, to be replaced by extra kitchen duty. There is no room for anger in deep space. Please enjoy this marvel of technology from master…"
+   },
+   "rank": 19,
+   "percentile": 95.0,
+   "score": 93
+  },
+  {
+   "name": "Rudimentary tools",
+   "aliases": [
+    "rudimentary implements"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…USING THIS UPGRADE BENCH TO CREATE DANGEROUS WEAPONS, YOU WILL HAVE YOUR TOOLS REPLACED WITH RUDIMENTARY IMPLEMENTS WITH WHICH YOU WILL BE EXPECTED TO FULFILL THE SAME DUTIES. Hazmat Guide Hazmat Suit…"
+   },
+   "rank": 19,
+   "percentile": 95.0,
+   "score": 93
+  },
+  {
+   "name": "The Aleforge jail",
+   "aliases": [
+    "Aleforge jail",
+    "jail"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…found guilty of the murder of Peg Butt. He was sentenced to lifetime sobriety and a stint in the Aleforge jail. # VI. CULTURE, RELIGION & BUSINESS ## The Drunken Trials (Cultural Event) The Drunken…"
+   },
+   "rank": 19,
+   "percentile": 95.0,
+   "score": 93
+  }
+ ]
+}

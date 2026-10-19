@@ -1,0 +1,31 @@
+{
+  "id": "king-jagerbauhm",
+  "prompt": "Name something tied to Jagerbauhm",
+  "blurb": "The Drunken Angel from Shanty Town and Providence, who flew into a hell portal.",
+  "difficulty": "easy",
+  "gem": "Iron golems",
+  "answers": [
+    {"ref": "Shanty Town"},
+    {"ref": "Providence"},
+    {"ref": "Faige the Witch"},
+    {"ref": "ClockHeart Tonic"},
+    {"ref": "Dmitri"},
+    {"ref": "Drunken Angel"},
+    {"ref": "The Lager Duke"},
+    {"ref": "Elytra"},
+    {"ref": "Firecracker"},
+    {"name": "Closing the portal", "aliases": ["closed the portal", "the portal"], "count": ["re:(?i)clos(e|ed|ing) the portal"]},
+    {"ref": "Aleforge International Academy for Aspiring Drinkers"},
+    {"ref": "Stormtide Ale"},
+    {"name": "The Dimitri files", "aliases": ["Dimitri files"], "count": ["re:(?i)dimitri files"]},
+    {"ref": "Iron golems"},
+    {"ref": "Trident"},
+    {"ref": "Sackbeard's Dagger"},
+    {"ref": "Tithe of Ale"},
+    {"name": "Arriving late", "aliases": ["always late", "late"], "count": ["re:(?i)arriving late", "re:(?i)late to the liquor king trails", "re:(?i)a few minutes late"]},
+    {"ref": "Susan Plinket"},
+    {"ref": "Jaugerbomb"},
+    {"ref": "Cardinal Addy"},
+    {"ref": "Gilded Tankard"}
+  ]
+}

@@ -1,0 +1,433 @@
+{
+ "id": "killed-by-kings",
+ "prompt": "Name someone or something the Liquor Kings killed",
+ "blurb": "On purpose, by accident, or by forgetting to open a cage.",
+ "difficulty": "medium",
+ "gem": "Peg Butt",
+ "answerCount": 20,
+ "answers": [
+  {
+   "name": "Maximilian",
+   "aliases": [
+    "Max",
+    "Maximilian Andrew Aldridge",
+    "Maximillian",
+    "Master Maximilian"
+   ],
+   "mentions": {
+    "total": 56,
+    "compendium": 20,
+    "records": 36
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…slaughter anyone they see as even a slight threat to their power. First MAA, then Thatcher, then Maximillian. She is actually the founder of MAMA, but that is not known even within those circles. She…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "MAA",
+   "aliases": [
+    "Mothers Against Alcohol"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 23,
+    "records": 5
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the crown. Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge but educated in Providence, Scipiums polical and social…"
+   },
+   "rank": 2,
+   "percentile": 5.3,
+   "score": 1
+  },
+  {
+   "name": "MAMA",
+   "aliases": [
+    "Mothers Against Maximillians Assassination",
+    "Mothers Against Maximilian's Assassination"
+   ],
+   "mentions": {
+    "total": 35,
+    "compendium": 14,
+    "records": 21
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…extent of his interaction with the mystical aspects on the island Gideon is strongly anti MAMA, while he too is no fan of the liquor kings, he believes there is no place for extremism in…"
+   },
+   "rank": 3,
+   "percentile": 10.5,
+   "score": 3
+  },
+  {
+   "name": "The Rotted Soul",
+   "aliases": [
+    "Rotted Soul",
+    "Rotten King"
+   ],
+   "mentions": {
+    "total": 30,
+    "compendium": 28,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…further South is a small river which drains to the sea. Some scholars believe the remains of the Rotted Soul may rest here, though until recently this was unknown. The Kings discovered the true location…"
+   },
+   "rank": 4,
+   "percentile": 15.8,
+   "score": 6
+  },
+  {
+   "name": "Thomas Thatcher",
+   "aliases": [
+    "Thatcher"
+   ],
+   "mentions": {
+    "total": 21,
+    "compendium": 17,
+    "records": 4
+   },
+   "obscurity": 2,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "forgot to rescue him in their excitement",
+    "note": "They found him caged and walked away. He died there."
+   },
+   "rank": 5,
+   "percentile": 21.1,
+   "score": 10
+  },
+  {
+   "name": "The Cloister Beast",
+   "aliases": [
+    "Cloister Beast"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 16,
+    "records": 2
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards…"
+   },
+   "rank": 6,
+   "percentile": 26.3,
+   "score": 13
+  },
+  {
+   "name": "The guards",
+   "aliases": [
+    "guards",
+    "security guards"
+   ],
+   "mentions": {
+    "total": 21,
+    "compendium": 14,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of Roto Kaiishi was founded by Kim Jong Un during his rule, however, Trodon was caught off guard by the sudden influx of new trade demand. Roto quickly grew to become one of the strongest…"
+   },
+   "rank": 7,
+   "percentile": 31.6,
+   "score": 18
+  },
+  {
+   "name": "Seaside Circus",
+   "aliases": [
+    "Seasiders",
+    "The Circus"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 2,
+    "records": 15
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner,…"
+   },
+   "rank": 8,
+   "percentile": 36.8,
+   "score": 22
+  },
+  {
+   "name": "Peg Butt",
+   "aliases": [
+    "PegButt",
+    "Pegbutt"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 10,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Horses and Donkeys used by the Six to Travel to Pintland during the Walk of Shame: ### PegButt Most trusted horse ridden by man. One couldn't ask for a better horse…. He.was brutally murdered…"
+   },
+   "rank": 9,
+   "percentile": 42.1,
+   "score": 27
+  },
+  {
+   "name": "Fentmaxxer",
+   "aliases": [
+    "Fentmaxer"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher.…"
+   },
+   "rank": 10,
+   "percentile": 47.4,
+   "score": 33
+  },
+  {
+   "name": "Crimson Cutters",
+   "aliases": [
+    "The Cutters",
+    "Cutters"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 4,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…King Trials. During the events of A Walk on Owe Block, Anqoak joined the infamous Crimson Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside…"
+   },
+   "rank": 11,
+   "percentile": 52.6,
+   "score": 38
+  },
+  {
+   "name": "Black-boned demons",
+   "aliases": [
+    "bone demons",
+    "demons",
+    "black boned demons"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 1,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drinks 'til he's dead! He's bound by the booze and sworn to the barley — The ale-drinking demon — SHAME-US BONEHARDY! ## A Stronger Pour Buke's mayoral campaign song. In Aleforge town…"
+   },
+   "rank": 12,
+   "percentile": 60.5,
+   "score": 47
+  },
+  {
+   "name": "Dulamon",
+   "aliases": [
+    "Dulamond",
+    "Dulemon"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 0,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Needless to say this wasnt the most welcoming of environments and we were greeted by a chap named Dulemon. He was not there to drink and plunder so I had absolutely nothing in common with this man.…"
+   },
+   "rank": 12,
+   "percentile": 60.5,
+   "score": 47
+  },
+  {
+   "name": "Sackbeard's undead crew",
+   "aliases": [
+    "undead crew",
+    "cursed crew",
+    "Sackbeard's crew"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…navigate very difficult times of economic collapse, political uprisings and the arrival of a cursed crew arriving from the Realm of the Soulless seeking revenge on Gideon Drake. This lead to the…"
+   },
+   "rank": 14,
+   "percentile": 68.4,
+   "score": 57
+  },
+  {
+   "name": "Mk. II Autonomous Defense Unit",
+   "aliases": [
+    "Mk II",
+    "security bots",
+    "Autonomous Defense Unit",
+    "defense units"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Address leakages at joints between new and old pipes. [+] Integrate pathfinding nodes for new security bots Cycle 93, Year 3 [+] fuckin hate this job and i don't even think anyone reads these logs.…"
+   },
+   "rank": 15,
+   "percentile": 73.7,
+   "score": 63
+  },
+  {
+   "name": "The Whispering Deep",
+   "aliases": [
+    "Whispering Deep",
+    "Whispering Dark",
+    "The Whispering Dark"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…they dug too deep in the mountain, and woke something deep in the earth, known to them as the Whispering Deep. Ever since then it has been slowly hunting them, forcing them to build upwards, now at the…"
+   },
+   "rank": 16,
+   "percentile": 81.6,
+   "score": 74
+  },
+  {
+   "name": "Zombies",
+   "aliases": [
+    "Zombie"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…murder anyone who had a blue bandana on. Our first task, mining. I was brutalized by a few zombies in the mines but eventually just dug down and found diamonds. I was banded upppp. This dumbass…"
+   },
+   "rank": 16,
+   "percentile": 81.6,
+   "score": 74
+  },
+  {
+   "name": "Ender skeletons",
+   "aliases": [
+    "Ender skeleton"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and so much gear. How the hell do i have nothing? Luke and I look around, there's an ender skeleton in a room that he kills for me. Together we teleport to the workshop. Hmmm. This room forsure…"
+   },
+   "rank": 18,
+   "percentile": 89.5,
+   "score": 85
+  },
+  {
+   "name": "Wither skeletons",
+   "aliases": [
+    "Wither skeleton"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…i was certain it was going to be good for me. Unfortunately i was actually as close to the wither skeleton spawner as you could be, and was killed instantly before i even saw what was there. It was…"
+   },
+   "rank": 19,
+   "percentile": 94.7,
+   "score": 92
+  },
+  {
+   "name": "Maximilian's mother",
+   "aliases": [
+    "Max's mom",
+    "Maximilian's mom",
+    "Max's mother"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "His mother was one of the ranking members of the MAA and was among those killed",
+    "note": "A ranking member of the MAA, killed in the Liquor Kings' raid."
+   },
+   "rank": 20,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

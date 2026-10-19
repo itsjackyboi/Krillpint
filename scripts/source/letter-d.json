@@ -1,0 +1,10 @@
+{
+  "id": "letter-d",
+  "prompt": "Name anything from the lore starting with D",
+  "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+  "difficulty": "medium",
+  "gem": "Double blicky maneuver",
+  "derive": {
+    "letter": "D"
+  }
+}

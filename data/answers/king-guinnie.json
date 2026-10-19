@@ -1,0 +1,606 @@
+{
+ "id": "king-guinnie",
+ "prompt": "Name something tied to Guinnie",
+ "blurb": "Deserter, bouncer, first winner of the Trials, and keeper of a worm named Clancy.",
+ "difficulty": "easy",
+ "gem": "Little Homie",
+ "answerCount": 30,
+ "answers": [
+  {
+   "name": "The Drunken Trials",
+   "aliases": [
+    "Drunken Trials"
+   ],
+   "mentions": {
+    "total": 53,
+    "compendium": 46,
+    "records": 7
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan),…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Shanty Town",
+   "aliases": [
+    "Shantytown"
+   ],
+   "mentions": {
+    "total": 47,
+    "compendium": 43,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…religious superstitions about what lay beyond them. - Rum Ridge — A lone peak which separates Shanty Town from the Hoegaarden Plains. Previously, this was the site of a vast arena for public gladiatorial…"
+   },
+   "rank": 2,
+   "percentile": 3.4,
+   "score": 1
+  },
+  {
+   "name": "Fenwick",
+   "aliases": [],
+   "mentions": {
+    "total": 32,
+    "compendium": 22,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…inland forest known locally as 'Thiccy Forest.' This is the home of the Veilwalker encampment, Fenwick. Many other notable locations are shrouded by the dense forest, most prominent of these is…"
+   },
+   "rank": 3,
+   "percentile": 6.9,
+   "score": 2
+  },
+  {
+   "name": "Seaside Circus",
+   "aliases": [
+    "Seasiders",
+    "The Circus"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 2,
+    "records": 15
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner,…"
+   },
+   "rank": 4,
+   "percentile": 10.3,
+   "score": 3
+  },
+  {
+   "name": "The glowing green frog",
+   "aliases": [
+    "green frog",
+    "frog",
+    "soul nugget"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…must've lost a game worse than I did. The old man lifted the cup. No pebble. Just a single frog turd. I blinked. \"That's... not a rock,\" I said, feeling the weight of dozens of eyes pressing…"
+   },
+   "rank": 5,
+   "percentile": 13.8,
+   "score": 5
+  },
+  {
+   "name": "Circ M. Geiser",
+   "aliases": [
+    "Circ",
+    "Circ the donkey",
+    "Circ M Geiser"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Sister Bertha Sister Bertha is a snitch. A big ole snitch. Her father was a high ranking Circ in the Cardinals court before being caught for skimming tithes off the residents of Vanity…"
+   },
+   "rank": 6,
+   "percentile": 19.0,
+   "score": 8
+  },
+  {
+   "name": "Little Homie",
+   "aliases": [
+    "Lil Homie",
+    "the axolotl",
+    "axolotl"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…funny lookin' creature in a puddle and thought it was a frog. THE FROG Turns out it was an axolotl. Still ain't sure what that is. but I name it little homie #### Taverna After that we wandered…"
+   },
+   "rank": 6,
+   "percentile": 19.0,
+   "score": 8
+  },
+  {
+   "name": "Drunk Delivery",
+   "aliases": [
+    "ale-powered balloon"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…just so they can sell their grog. WE NEED TO lower our bond debts. Craftsmen and Miners, my Drunk Delivery has you building an ale-powered balloon to ship barrels to Shanty Town, tripling our loot…"
+   },
+   "rank": 8,
+   "percentile": 29.3,
+   "score": 16
+  },
+  {
+   "name": "Guinnie's spear",
+   "aliases": [
+    "spear"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Bravely. With purpose and intention and absolutely no hesitation whatsoever. I landed on a spear. My own. Which I had dropped on the way down. I will not elaborate further on that…"
+   },
+   "rank": 8,
+   "percentile": 29.3,
+   "score": 16
+  },
+  {
+   "name": "Rollo's Sex Whip",
+   "aliases": [
+    "Sex Whip"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…didn't sniff. Richard Cumhardy's Seaman Eyeglass: Lens clouded with trauma. Rollo's Sex Whip: Still warm, unfortunately. I rallied a random horse and charged into the dark depth…"
+   },
+   "rank": 8,
+   "percentile": 29.3,
+   "score": 16
+  },
+  {
+   "name": "Wagwan's Whopper",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…gang confrontation, earning near-zero gold but prodigious kill counts. Wagwan gifted him the Wagwan's Whopper, a mace of considerable impact force. Buke was the true relic king of the session, collecting…"
+   },
+   "rank": 8,
+   "percentile": 29.3,
+   "score": 16
+  },
+  {
+   "name": "Guinnie's saplings",
+   "aliases": [
+    "saplings"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…smokey taste. Anyways It was cozy, and I made a little garden next to it with flowers and saplings. I keep those saplins in my pocket thinkin' I might never see such pretty stuff again. One…"
+   },
+   "rank": 12,
+   "percentile": 37.9,
+   "score": 23
+  },
+  {
+   "name": "Arriving naked",
+   "aliases": [
+    "naked",
+    "naked in Shanty Town"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…waitin' if I were caught. Vanished for a while, till I fancied myself to pull up in Shanty Town naked wid nothin' but whiskey and a swinging cock. Took up bouncin' in the roughest taverns, built a crew of…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "Bouncer",
+   "aliases": [
+    "Bouncers",
+    "bouncing"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Tavern and set their differences aside as they tell tales of adventure and gold. There are bouncers stationed outside the tavern who will throw you in if you are looking too sober. -…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "Clancy",
+   "aliases": [
+    "Clancy the worm"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…with some funny names. We all said hello and I showed them the worm I found. His name was Clancy. #### Hogwilly's We built our first tavern in the woods. we called it Hogwilly's i dont…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "Deserting the army",
+   "aliases": [
+    "deserter",
+    "deserted",
+    "the army"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…turned steel on me own captain when ordered to torch a village o' innocents near Fenwick. Deserted that same night, with blood on me boots and a noose waitin' if I were caught. Vanished for…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "Diamond boots",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…forgiven the Kings for their victory. The Kings were welcomed back with gifts: Stephan received diamond boots for his historic two-trial winning streak, Buke received a diamond sword as the newly crowned…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "Fenwick Fringe Fertile Fiesta",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…our loot while giving Farmers free rides to sell wheat. Hold your applause And Farmers, the Fenwick Fringe Fertile Fiesta leases land around Fenwick for you to farm. lets leave Fenwick's woods alone. They have no…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "Gilded Grog Shacks",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…I'm sick and tired of these rebels trying to destroy the peace we have created. Traders, my Gilded Grog Shacks policy will be to set up coastal taverns for Rotto's and providence traders, charging triple…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "Grog Guzzle Gala",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…sing! Let me lay out some of the changes I would enact if you were to elect me Governor. My Grog Guzzle Gala policy will entail Aleforge throws a biweekly bash where all ale's 25% off, so Brewers, Pirates,…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "Jolly Rammer",
+   "aliases": [
+    "The Jolly Rammer"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…trails part 1 ### Steph 'Guinnie' O'Guinness (Stephan) The Bilgrats and Buttplugs / Ship: Jolly Rammer Welp guess this is me Heard o' Steph O'Guinness, have ye? Folks here call him Guinnie I…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "M.A.A. Mandatory Alcohol Antidote",
+   "aliases": [
+    "Mandatory Alcohol Antidote"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…crasftmen with cheaper alcohol and pull in money for the brewers. my 2nd policy titled \"M.A.A. Mandatory Alcohol Antidote\" spits in the face of Plinket, God help her, and all the faces of the MAA as we will make…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "Necrosis",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…returned I took something from him. A piece of what he carried. By the end I held his spear, Necrosis, a weapon that hums with the particular frequency of something that has ended a great many…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "Rotten Blade",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…something that has ended a great many lives and remembers each one. I held his blade, the Rotten Blade, which is exactly as pleasant to carry as the name suggests. I wore his chestplate, still…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "The Bilgrats and Buttplugs",
+   "aliases": [
+    "Bilgrats and Buttplugs",
+    "Bilgrats"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…return home late to the liquor king trails part 1 ### Steph 'Guinnie' O'Guinness (Stephan) The Bilgrats and Buttplugs / Ship: Jolly Rammer Welp guess this is me Heard o' Steph O'Guinness, have…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "Veilwalker manifest destiny",
+   "aliases": [
+    "manifest destiny"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…is definitely more sure about his sexuality than Buke, but he was the ONLY king to vote for Veilwalker manifest destiny. Now I'm no Fenwick lover, but only a dumbass would go and piss off a town of mages right…"
+   },
+   "rank": 13,
+   "percentile": 63.8,
+   "score": 51
+  },
+  {
+   "name": "Captain of the Shoals",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…would very much like to be wrong about what comes next. — Steph O'Guinness Liquor King, Captain of the Shoals, Formerly of the King's Army Currently of the opinion that basements are never just basements…"
+   },
+   "rank": 27,
+   "percentile": 91.4,
+   "score": 87
+  },
+  {
+   "name": "Dulamon's chestplate",
+   "aliases": [
+    "chestplate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…blade, the Rotten Blade, which is exactly as pleasant to carry as the name suggests. I wore his chestplate, still warm from him in a way that chestplates should not be warm. These are mine now. I earned…"
+   },
+   "rank": 27,
+   "percentile": 91.4,
+   "score": 87
+  },
+  {
+   "name": "Guinnie's victory bars",
+   "aliases": [
+    "Call me Thanos",
+    "victory bars"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and I stormed in and ended it clean. We claimed the turf. We earned it. Ya, had to drop some victory bars in the club that night. Not a rapper but did hit them with \"Call me thanos cause I'll snap…"
+   },
+   "rank": 29,
+   "percentile": 96.6,
+   "score": 95
+  },
+  {
+   "name": "The cannibal tavern",
+   "aliases": [
+    "cannibal tavern"
+   ],
+   "mentions": {
+    "total": 0,
+    "compendium": 0,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "the tavern I had just escaped was a front for ritualistic cannibalism",
+    "note": "Where Guinnie got dosed twice before chasing the green frog into the woods."
+   },
+   "rank": 30,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

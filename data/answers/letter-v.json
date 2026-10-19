@@ -1,0 +1,535 @@
+{
+ "id": "letter-v",
+ "prompt": "Name anything from the lore starting with V",
+ "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+ "difficulty": "medium",
+ "gem": "Vlad the Kisser",
+ "answerCount": 28,
+ "answers": [
+  {
+   "name": "The Veilwalkers",
+   "aliases": [
+    "Veil Walkers",
+    "Veilwalker"
+   ],
+   "mentions": {
+    "total": 96,
+    "compendium": 68,
+    "records": 28
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Brush — The dense inland forest known locally as 'Thiccy Forest.' This is the home of the Veilwalker encampment, Fenwick. Many other notable locations are shrouded by the dense forest, most prominent…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Vodkonia",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 12,
+    "records": 3
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…stretch of ocean littered with shipwrecks, located in the Gae Strait between the mainland and Vodkonia. ### Towns & Settlements - Shanty Town — The pirate cliff settlement adjacent to the…"
+   },
+   "rank": 2,
+   "percentile": 3.7,
+   "score": 1
+  },
+  {
+   "name": "VeilRunner",
+   "aliases": [
+    "Veil Runner",
+    "Veilrunners"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 12,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the streets at night by burning slaves alive. His kind had a name for what he had become: a VeilRunner. What Is a VeilRunner? A VeilRunner is a Veilwalker who has turned against the very…"
+   },
+   "rank": 3,
+   "percentile": 7.4,
+   "score": 2
+  },
+  {
+   "name": "The Veilwalker Elders",
+   "aliases": [],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Veilwalker. Female Walkers are seldom seen. By Veilwalker law, they are barred from serving as Elders or ambassadors, keeping them largely out of contact with the outside world. This particular…"
+   },
+   "rank": 4,
+   "percentile": 11.1,
+   "score": 4
+  },
+  {
+   "name": "Veilfrost",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Foreign Relations: The Enigmatic Accord with Fenwick Beyond our rocky isle, the mists of Veilfrost, Keg 11, Keeldrift whisper tales of Fenwick, a wetland settlement shrouded in mystery and…"
+   },
+   "rank": 5,
+   "percentile": 14.8,
+   "score": 6
+  },
+  {
+   "name": "Veilwalker fishing gear",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…wheat for the whole island\") Since they have no need for money or gold, they trade their fishing gear and such for promises and vows. Whether that be a promise to plant a flower for every fish…"
+   },
+   "rank": 6,
+   "percentile": 20.4,
+   "score": 9
+  },
+  {
+   "name": "Volatile",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…become empty. It is clear she was everything to him and his mental stability has been quite volatile lately. Often times a strange noise can be heard from below his house, but there is no apparent…"
+   },
+   "rank": 6,
+   "percentile": 20.4,
+   "score": 9
+  },
+  {
+   "name": "The Veilwalker settlement raid",
+   "aliases": [
+    "Veilwalker settlement"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the crew with eternal life and sacrificed the crew into the nether because they attacked a veilwalker settlement. Later on hundreds of years afterwards, he hears word of an experiment gone wrong at the factory,…"
+   },
+   "rank": 8,
+   "percentile": 25.9,
+   "score": 13
+  },
+  {
+   "name": "Veil Oath",
+   "aliases": [
+    "Veil Oath book"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hoegaarden Library embassy. Gobbler was subsequently exposed by the Kings using the stolen Veil Oath book and the Veil Chalice from his shrine. ### Cardinal Addy The Cardinal of Providence — beloved…"
+   },
+   "rank": 9,
+   "percentile": 29.6,
+   "score": 16
+  },
+  {
+   "name": "The vanished monks",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…put their trust in them (light up dice) The cloister was built on top of all of this by an order of monks long ago and later abandoned after their order disappeared, it is rumored that the prophet…"
+   },
+   "rank": 10,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "The Veilwalker shrine in Owe Block",
+   "aliases": [
+    "Veilwalker shrine",
+    "The Veilwalker shrine"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Slumber'd. Seamus Bonehardy found the stone button in the church's narrow hall that opens the Veilwalkers' shrine — an obsidian and amethyst chamber where Leo guards the Monk's hidden materials. ### Faige…"
+   },
+   "rank": 10,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Vanity Street",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ranking Circ in the Cardinals court before being caught for skimming tithes off the residents of Vanity Street; guess who caught him…Thats right sister Bertha. Ever since her father was thrown into prison,…"
+   },
+   "rank": 10,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Veil Chalice",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…embassy. Gobbler was subsequently exposed by the Kings using the stolen Veil Oath book and the Veil Chalice from his shrine. ### Cardinal Addy The Cardinal of Providence — beloved leader, born to…"
+   },
+   "rank": 10,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "Vodka",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…catalog of the latter was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders. The list admitted exactly one exclusion, the…"
+   },
+   "rank": 10,
+   "percentile": 40.7,
+   "score": 26
+  },
+  {
+   "name": "The Veilwalker blessing",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…has taken ownership and is faced with the prospect of continuing the effort, but without the Veilwalker blessing. ## Hoegaarden Library Read the entire collection of books in the Hoegaarden Library…"
+   },
+   "rank": 15,
+   "percentile": 59.3,
+   "score": 46
+  },
+  {
+   "name": "Vermouth",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders. The list admitted exactly one exclusion, the IPA, which he regarded…"
+   },
+   "rank": 15,
+   "percentile": 59.3,
+   "score": 46
+  },
+  {
+   "name": "VIP Guide",
+   "aliases": [
+    "VIP Treatment Guide"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…until security is back up! However, you will be able to escape with the help of this key. VIP Guide VIP Treatment Guide 1. Seating VIP Members are to be seated in the obsidian chairs on a…"
+   },
+   "rank": 15,
+   "percentile": 59.3,
+   "score": 46
+  },
+  {
+   "name": "VIP List",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…opened unless we have confirmed the presence of at least 3 VIP members at the cycle meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide…"
+   },
+   "rank": 15,
+   "percentile": 59.3,
+   "score": 46
+  },
+  {
+   "name": "VIP room",
+   "aliases": [
+    "VIP area"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…available, the tables are definitely beginning to turn. Ben found his way to us in the VIP room and we all went to HRBIO. Reading through the endless pages of information is overwhelming,…"
+   },
+   "rank": 15,
+   "percentile": 59.3,
+   "score": 46
+  },
+  {
+   "name": "The vague confession",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…otherwise I will forced to drastic action. Fuck the Liquor Kings!!!!! - Glub Tuppus Wepple Vague Confession (SOA 4) I confess, to all the gods, my unforgivable sin.Have mercy upon me, for I have committed…"
+   },
+   "rank": 20,
+   "percentile": 85.2,
+   "score": 79
+  },
+  {
+   "name": "The Vanishing House",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Factory) — The abandoned industrial facility where the Nethergate disaster occurred. - The Vanishing House (The Mansion) — Known in folklore as such; canonical name unknown. - Sackbeard's Tavern…"
+   },
+   "rank": 20,
+   "percentile": 85.2,
+   "score": 79
+  },
+  {
+   "name": "The Vodkonian refugees",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…warrior of light, the Wronged Walker manipulated the Lagendale Council into believing that the Vodkonian refugees, innocent people fleeing for their lives, were invaders intent on conquest. He led the slaughter…"
+   },
+   "rank": 20,
+   "percentile": 85.2,
+   "score": 79
+  },
+  {
+   "name": "The Vow of Mate",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…them largely out of contact with the outside world. This particular Walker had already taken The Vow of Mate, a sacred and unbreakable bond in Veil culture. When two Walkers take this vow before the…"
+   },
+   "rank": 20,
+   "percentile": 85.2,
+   "score": 79
+  },
+  {
+   "name": "Vannevar Bush",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…+$20,000,000 Germany: +$10,000,000 Budapest: +$10,000,000 Russia: +$10,000,000 Sponsors: Vannevar Bush: +$500,000 Otto Rohwedder: +$1,000,000 Max Knott: +$800,000 Karl Jansky: +$5,000,000…"
+   },
+   "rank": 20,
+   "percentile": 85.2,
+   "score": 79
+  },
+  {
+   "name": "Variable brewers tax",
+   "aliases": [
+    "variable tax rate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…smuggling the items into town. Changes on Brewers Tax: Gone are the days of Thomas Thatchers variable tax rate on breweries based on production. Gideon has implemented a lower, flat tax on brewers to increase…"
+   },
+   "rank": 20,
+   "percentile": 85.2,
+   "score": 79
+  },
+  {
+   "name": "Veilwalker Artifact Tariff",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…investing directly into private business but most agree that more Ale can only be a good thing. Veilwalker Artifact Tariff: Gideon is uneasy with the thought of trade with the Veilwalkers as he sees them as almost…"
+   },
+   "rank": 20,
+   "percentile": 85.2,
+   "score": 79
+  },
+  {
+   "name": "Veilwalker manifest destiny",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…is definitely more sure about his sexuality than Buke, but he was the ONLY king to vote for Veilwalker manifest destiny. Now I'm no Fenwick lover, but only a dumbass would go and piss off a town of mages right…"
+   },
+   "rank": 20,
+   "percentile": 85.2,
+   "score": 79
+  },
+  {
+   "name": "Vlad the Kisser",
+   "aliases": [
+    "Vlad"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…thiccy forest ### Sergeant Hark The Chief Officer for the Providence Guard ### Vlad the Kisser A small time wanna-be comedian working part time at the Theocrat. He does shows on the weekend…"
+   },
+   "rank": 20,
+   "percentile": 85.2,
+   "score": 79
+  }
+ ]
+}

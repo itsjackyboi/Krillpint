@@ -1,0 +1,10 @@
+{
+  "id": "letter-p",
+  "prompt": "Name anything from the lore starting with P",
+  "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+  "difficulty": "medium",
+  "gem": "Presentation room B",
+  "derive": {
+    "letter": "P"
+  }
+}

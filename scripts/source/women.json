@@ -1,0 +1,27 @@
+{
+  "id": "women",
+  "prompt": "Name a woman from the lore",
+  "blurb": "Queens, witches, mothers, crew, and the occasional head of a terrorist group.",
+  "difficulty": "medium",
+  "gem": "Maria Telkes",
+  "answers": [
+    {"ref": "Susan Plinket", "obscurity": 1},
+    {"ref": "Isadora Beerchelli"},
+    {"ref": "Sister Bertha"},
+    {"ref": "Rachel Zlurs"},
+    {"ref": "Lady Edgermire"},
+    {"ref": "Lady Krappenschitz"},
+    {"ref": "Faige the Witch"},
+    {"ref": "Amber Ale"},
+    {"ref": "Delaney"},
+    {"ref": "Zara"},
+    {"ref": "Amrutha"},
+    {"ref": "Yulia"},
+    {"ref": "Lin Fei"},
+    {"ref": "Maria Telkes"},
+    {"ref": "Maximilian's mother"},
+    {"ref": "The female Veilwalker"},
+    {"name": "Dmitri's mother", "aliases": ["Dmitri's mom", "his mother"], "obscurity": 4, "inferred": true, "note": "Worked on the station with Afanasi and never came back from the throne room.", "quote": "his mother and i work on the station"},
+    {"name": "Cardinal Addy's mother", "aliases": ["Addy's mother", "Shanty whore"], "obscurity": 5, "inferred": true, "note": "Raised the Cardinal in Shanty Town.", "quote": "Cardinal Addy, born to a Shanty whore"}
+  ]
+}

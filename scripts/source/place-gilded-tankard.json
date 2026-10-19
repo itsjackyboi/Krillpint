@@ -1,0 +1,29 @@
+{
+  "id": "place-gilded-tankard",
+  "prompt": "Name something tied to the Gilded Tankard",
+  "blurb": "Aleforge's great inn and brewery, home of the Drunken Trials' ale.",
+  "difficulty": "medium",
+  "gem": "Names etched in the walls",
+  "answers": [
+    {"ref": "Glub Tuppus Wepple", "obscurity": 1},
+    {"ref": "Gregor Ashford"},
+    {"ref": "Old Salty"},
+    {"ref": "Rollo"},
+    {"ref": "The Drunken Trials", "obscurity": 1},
+    {"name": "The magical spring", "aliases": ["spring", "magical spring"], "count": ["re:(?i)magical spring", "re:(?i)spring that flows"]},
+    {"ref": "Wepple Ale"},
+    {"ref": "Gilded Tankard Grant"},
+    {"ref": "Goldcoral Incorporated"},
+    {"ref": "Jack Anqoak"},
+    {"name": "Names etched in the walls", "aliases": ["names on the walls", "etched names"], "count": ["re:(?i)etched into the walls"], "obscurity": 4},
+    {"ref": "The town square"},
+    {"ref": "Raise the Crown, Raise the Cup"},
+    {"ref": "Edmond Blackmoor"},
+    {"name": "Wepple's gambling", "aliases": ["gambling", "gambled"], "count": ["re:(?i)gambl"]},
+    {"name": "The brewing facility", "aliases": ["brewery", "brewing facilities"], "count": ["re:(?i)brewing facilit"]},
+    {"ref": "Ale Points"},
+    {"ref": "The Beggar"},
+    {"ref": "Jagerbauhm"},
+    {"name": "Glub Tuppus Wepple's new brew", "aliases": ["new brew", "secret brew"], "obscurity": 4, "inferred": true, "note": "Wepple is quietly brewing something new while stuck at the Grog Galley.", "quote": "He is currently developing a new brew in secret"}
+  ]
+}

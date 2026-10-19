@@ -1,0 +1,30 @@
+{
+  "id": "tied-wepple",
+  "prompt": "Name something tied to Glub Tuppus Wepple",
+  "blurb": "The Gilded Tankard's gruff, gambling brewmaster.",
+  "difficulty": "medium",
+  "gem": "A fateful tourist",
+  "answers": [
+    {"ref": "Gilded Tankard", "obscurity": 1},
+    {"ref": "Goldcoral Incorporated"},
+    {"ref": "Wepple's gambling"},
+    {"ref": "Jack Anqoak", "obscurity": 1},
+    {"ref": "Jack Anqoak's Grog Galley"},
+    {"ref": "Rollo"},
+    {"ref": "The Beggar"},
+    {"ref": "Edmond Blackmoor"},
+    {"ref": "Wepple Ale"},
+    {"ref": "Gilded Tankard Grant"},
+    {"ref": "Glub Tuppus Wepple's new brew"},
+    {"name": "Wepple's letter to Cum", "aliases": ["Wepple to Cum"], "count": ["re:(?i)wepple to cum"]},
+    {"name": "Wepple vs Kings", "aliases": [], "count": ["re:(?i)wepple vs kings"]},
+    {"name": "A fateful tourist", "aliases": ["fateful tourist"], "count": ["re:(?i)fateful tourist"], "obscurity": 4},
+    {"name": "Jack vs Wepple", "aliases": [], "count": ["re:(?i)jack vs wepple"]},
+    {"ref": "The magical spring"},
+    {"ref": "The Drunken Trials"},
+    {"ref": "Old Salty"},
+    {"ref": "Gregor Ashford"},
+    {"name": "A solid 3 inches", "aliases": ["3 inches", "three inches"], "count": ["re:(?i)solid 3 inches"], "obscurity": 5},
+    {"ref": "John Cum"}
+  ]
+}

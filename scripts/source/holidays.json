@@ -1,0 +1,27 @@
+{
+  "id": "holidays",
+  "prompt": "Name a holiday or festival",
+  "blurb": "Feasts, fasts and bar crawls. Not the days of the Keg or the seasons.",
+  "difficulty": "medium",
+  "gem": "Feast of the Eternal Keg",
+  "answers": [
+    {"ref": "Brewmasters Eve"},
+    {"ref": "Brewmasters Day"},
+    {"ref": "Night of the Earthen Veil"},
+    {"ref": "Hoppy Holidays"},
+    {"ref": "Beer Day"},
+    {"ref": "Providas"},
+    {"ref": "Liquor Day"},
+    {"ref": "The Unholy Pilgrimage"},
+    {"ref": "Night of the False Sun"},
+    {"ref": "The Beggars Dance"},
+    {"ref": "Day of Hollow Tongues"},
+    {"ref": "Beckoning the New Brews"},
+    {"ref": "Festival of the Red Tide"},
+    {"ref": "Ascension of the Lord"},
+    {"ref": "Feast of the Eternal Keg"},
+    {"ref": "The Drunken Trials"},
+    {"ref": "Ale Day"},
+    {"ref": "Holiday Keg"}
+  ]
+}

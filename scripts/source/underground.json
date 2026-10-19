@@ -1,0 +1,29 @@
+{
+  "id": "underground",
+  "prompt": "Name something underground",
+  "blurb": "Cellars, catacombs, caves, mines and things that are best left buried.",
+  "difficulty": "medium",
+  "gem": "The demonic altar",
+  "answers": [
+    {"ref": "The Last Drop"},
+    {"ref": "The sewers"},
+    {"ref": "The catacombs", "obscurity": 1},
+    {"ref": "The labyrinth", "obscurity": 1, "aliases": ["labyrinth", "Rotted Soul's prison"]},
+    {"ref": "The secret room"},
+    {"ref": "The cage under the well"},
+    {"ref": "The Whispering Deep"},
+    {"ref": "The MAA cave"},
+    {"ref": "The shrine cave raid"},
+    {"ref": "Jack Anqoak's Grog Galley"},
+    {"ref": "Dig Dug's mines"},
+    {"ref": "The wine cellar"},
+    {"ref": "The Cloister's prison dimension"},
+    {"ref": "The River Coffin"},
+    {"ref": "The Styx"},
+    {"name": "Gilligan's cave", "aliases": ["treasure cave"], "count": ["re:(?i)cramped cave"]},
+    {"ref": "The pit"},
+    {"ref": "The old miners exit"},
+    {"name": "The demonic altar", "aliases": ["altar under the well"], "count": ["re:(?i)demonic altar"], "obscurity": 4},
+    {"ref": "The Rotted Soul"}
+  ]
+}

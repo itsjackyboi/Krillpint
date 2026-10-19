@@ -1,0 +1,904 @@
+{
+ "id": "letter-t",
+ "prompt": "Name anything from the lore starting with T",
+ "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+ "difficulty": "medium",
+ "gem": "Throbbin Hood",
+ "answerCount": 48,
+ "answers": [
+  {
+   "name": "Thomas Thatcher",
+   "aliases": [
+    "Thatcher"
+   ],
+   "mentions": {
+    "total": 21,
+    "compendium": 17,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests - Brandywine Brush — The dense inland forest known locally as 'Thiccy…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The Tavern Beast",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 14,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…unknown. - Sackbeard's Tavern — The great Shell Tavern built around the carcass of the slain Tavern Beast. Each year the pirates put their differences aside and celebrate together here. - The Cloister…"
+   },
+   "rank": 2,
+   "percentile": 2.1,
+   "score": 0
+  },
+  {
+   "name": "Throne room",
+   "aliases": [],
+   "mentions": {
+    "total": 12,
+    "compendium": 0,
+    "records": 12
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…luke around until we ended up in the engine room. We all hit the buttons and went into the throne room. Ben gave an inspiring speech and we walked into the final fight and i was certain it was…"
+   },
+   "rank": 3,
+   "percentile": 4.3,
+   "score": 1
+  },
+  {
+   "name": "The Taverna",
+   "aliases": [],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…any of them had been crowned king, let alone set foot on the Pintland Isles. ## The Taverna An idyllic lush countryside villa and vineyard. It was here that the 6 Liquor Kings first…"
+   },
+   "rank": 4,
+   "percentile": 7.4,
+   "score": 2
+  },
+  {
+   "name": "Treasurer",
+   "aliases": [],
+   "mentions": {
+    "total": 7,
+    "compendium": 5,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…longer applied. Only the future will tell what is in store for the Cumstead. ### John Rump — Treasurer, Embezzler, Addict John Rump is the crooked treasurer of Aleforge. He has been coasting off…"
+   },
+   "rank": 4,
+   "percentile": 7.4,
+   "score": 2
+  },
+  {
+   "name": "The town square",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Beast and constructed the Shelled Tavern. Frenic built the Sackbeard Memorial Well in the town square. Trodon Hallis: The last member of the Hallis Dynasty. Trodon was a weak and sickly man…"
+   },
+   "rank": 6,
+   "percentile": 10.6,
+   "score": 3
+  },
+  {
+   "name": "The Third Dynasty",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…they ever made. The Rotten King The Rotted Soul was a king in between the 2nd and 3rd dynasties of Lagendale. As far as history knows, he was not a part of either royal family. He was…"
+   },
+   "rank": 7,
+   "percentile": 14.9,
+   "score": 6
+  },
+  {
+   "name": "Tidecall",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…how the hours blurred with each Lagerhorn! On the 115th morn of the 7th Sun—nay, the 115th Tidecall of Keg 7 in Stormtide—a vision struck me like a thunderbolt from the unknown gods! \"Build…"
+   },
+   "rank": 7,
+   "percentile": 14.9,
+   "score": 6
+  },
+  {
+   "name": "TV Manual",
+   "aliases": [
+    "TV manuel"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Spiral \"I can do this,\" he swore, staggering blind, As puzzles mocked his weakened mind. TV manuals, books, and tic-tac-toe, He searched high and low, incredibly slow. Then—behold!—on the…"
+   },
+   "rank": 7,
+   "percentile": 14.9,
+   "score": 6
+  },
+  {
+   "name": "Thief",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick as a thief, though he preferred to describe himself as a redistributor of wealth, a claim undermined…"
+   },
+   "rank": 10,
+   "percentile": 20.2,
+   "score": 9
+  },
+  {
+   "name": "Trodon Hallis",
+   "aliases": [
+    "Trodon"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…constructed the Shelled Tavern. Frenic built the Sackbeard Memorial Well in the town square. Trodon Hallis: The last member of the Hallis Dynasty. Trodon was a weak and sickly man from birth and showed…"
+   },
+   "rank": 10,
+   "percentile": 20.2,
+   "score": 9
+  },
+  {
+   "name": "Talent Acquisition strategy",
+   "aliases": [
+    "Talent Acquis'n"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…best and brightest up there, rotational ciphers are seriously weak if you know the trick. Talent Acquis'n Employee Acquisition Strategy [INTERNAL] Aldridge Industries has always…"
+   },
+   "rank": 12,
+   "percentile": 28.7,
+   "score": 15
+  },
+  {
+   "name": "Taser",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…All these doors needed keys. I had HR, Security, and Financiers. I already used HR and got a taser. Some doors wouldn't open and I could see some much needed food and weapons. We found a machine…"
+   },
+   "rank": 12,
+   "percentile": 28.7,
+   "score": 15
+  },
+  {
+   "name": "Theft",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…business in Roto. You might expect Roto to need a good security force in order to help prevent theft and keep businesses close, but they were actually able to do without this for decades because…"
+   },
+   "rank": 12,
+   "percentile": 28.7,
+   "score": 15
+  },
+  {
+   "name": "Thorny Thicket",
+   "aliases": [
+    "T(horny) Thicket Tavern",
+    "Thorny Thicket Tavern",
+    "Thicket Tavern"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Many other notable locations are shrouded by the dense forest, most prominent of these is the Thorny Thicket, a bar owned by George Bush. A disgruntled farmer has taken up residence deep in the forest…"
+   },
+   "rank": 12,
+   "percentile": 28.7,
+   "score": 15
+  },
+  {
+   "name": "Tic-tac-toe",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…he swore, staggering blind, As puzzles mocked his weakened mind. TV manuals, books, and tic-tac-toe, He searched high and low, incredibly slow. Then—behold!—on the TV clear as day, An ID…"
+   },
+   "rank": 12,
+   "percentile": 28.7,
+   "score": 15
+  },
+  {
+   "name": "Tool upgrade station",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…the code you'd like to imprint on it. upgrade manual Tool Upgrade Manual To use the tool upgrade station, take some of the upgrade serum and a corresponding amount of lapus and place both in the…"
+   },
+   "rank": 12,
+   "percentile": 28.7,
+   "score": 15
+  },
+  {
+   "name": "The third uprising",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his parents failed to return from the uprising, Dimitri…"
+   },
+   "rank": 18,
+   "percentile": 36.2,
+   "score": 22
+  },
+  {
+   "name": "Tanka Jahari",
+   "aliases": [
+    "Tanka"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Yet their wealth provides employment for many Aleforge citizens. Including Dusty Shidiz and Tanka Jahari their personal house servants. They also fund and house an artist, Salude Gonzalez, who lives…"
+   },
+   "rank": 19,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "Tequila",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and his catalog of the latter was exhaustive: whiskey, rum, rye, mead, ales, wines, bourbon, tequila, vodka, gin, brandy, vermouth, stouts, lagers, ciders. The list admitted exactly one exclusion,…"
+   },
+   "rank": 19,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "The taboo system",
+   "aliases": [
+    "taboos",
+    "taboo"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…profile customers. For this reason, although nothing is illegal, there is a rigid system of taboos in Roto that largely determines what can be sold in the main city versus what must be sold…"
+   },
+   "rank": 19,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "The treasure chest",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…assistant died to three separate traps on the way in. Beyond them lay a chamber holding a chest filled with gold. Gilligan's reaction to the sight made plain that his long and fruitless obsession had never…"
+   },
+   "rank": 19,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "The Treasury",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to the Chronicle HQ to a burger joint under a corrupt noble's manor to the Brothel to the Treasury, eventually finding a hidden stone button in the Church of the Monk that opened a Veilwalker…"
+   },
+   "rank": 19,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "Thomas Thatcher Sr.",
+   "aliases": [
+    "Thomas Thatcher Senior",
+    "Thatcher Sr"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…only thing of note is his hiring of Mr. BBL, the current chancellor of Aleforge. Thomas Thatcher Sr.: Thomas Thatcher Sr. was an avid historian and wanted to reinstate the old ways of Aleforge…"
+   },
+   "rank": 19,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "Tugller",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Offers a range of rooms and community lodges…….. ##### The Last Drop Ballbusters brother Tugller founded a secret bar deep below the Ballbuster Inn ##### Witch Doctors Tower A mystic healer…"
+   },
+   "rank": 19,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "A Treatise on the Veilwalkers",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…born from blood and mud and the particular stubbornness of men who grow things for a living. A Treatise on the Veilwalkers (4 pages) — Excerpt, author unknown, pre-Third Dynasty Much ignorance surrounds our people's…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Tavern hand",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…large influx of money has now hit the Aleforge ledger. ### Rollo Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends and situationships as often…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Thatcher Memorial",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…mistakes, what makes them great is how they rectify them. And I will rectify it by building a Thatcher Memorial and giving free Ale to all who are poor and thirsty, It's what he wouldve wanted. The…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Thatcher's Last Toast",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…By moonlight, ships slipped past the law, Their holds brimmed full of treasures raw. ## Thatcher's Last Toast Thomas Thatcher raised his glass, In Cloister's dark, his life did pass. We mourn our mayor,…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "The Theocrat",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Providence Guard ### Vlad the Kisser A small time wanna-be comedian working part time at the Theocrat. He does shows on the weekend to the few late-night drinkers who come around for the final…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "The toothed skull",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elements inside as well as another amethyst crystal floating in the air. The last is a large toothed skull, likely from some ancient predatory animal. This too has an amethyst crystal inside the cranium.…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "The Trial of Peg Butt",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…indeed been in the New Haven. Only time will tell who or what that was. ## Canon Event: The Trial of Peg Butt Jagerbauhm and Jameson Pilsner are on trial for the murder of the beloved horse, Peg Butt.…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Thomas Thatcher Memorial Scholarship",
+   "aliases": [
+    "Thatcher Scholarship"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…silk road sh-t, it's time for the Barley road now\" (leaked scroll from an internal meeting) Thomas Thatcher Memorial Scholarship: Gideon has implemented a scholarship system to promote education in emerging crafts, mainly…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Three traps",
+   "aliases": [
+    "traps"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…country that should have been picked over generations earlier. The research assistant died to three separate traps on the way in. Beyond them lay a chamber holding a chest filled with gold. Gilligan's reaction…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Three-and-a-half day work week",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…King, Aleforge will prosper. My plans as Mayor 1. Build a John Cum Memorial 2. Make a 3 and a half day work week. With a mandatory work break from noon-3pm (time for more drinking) 3. Declare the day of…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Throat slit",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…lightning in a squall! The traitorous first mate, quick as a shark, got the upper hand and slit ol' Sackbeard's throat with his own cursed dagger, argh! In a rage wilder than a typhoon, the first mate seized the…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Thrown into prison",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of Vanity Street; guess who caught him…Thats right sister Bertha. Ever since her father was thrown into prison, she's made a name for herself as being the \"most honest woman\" in Providence and terrible…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Tide Callers",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the windsunk Council initiation (the first Pour) ### Shanty Town's Political Factions 1. The Tide Callers: A semi-religious order of mystics, navigators, and storm-readers. They believe the ocean…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Timekeeper",
+   "aliases": [
+    "Timekeepers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…currently maintained by Sir Robert CockPower. The CockPower family comes from a long line of timekeepers, not much is known about them but some believe they have their origin in Vodkonia. #####…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Tithe of Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…I know our citizens want to drink, so as a part of aleforge academy, we will institute the tithe of ale, where students give out samples to all aleforge citizens to test their beer before it goes…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Tomatoes and sawdust",
+   "aliases": [
+    "tomatoes"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…tavern that looked like one of those itAAlian willas. I slept in the stables and lived off tomatoes and sawdust. Spent most of my days shootin' arrows at things. Eventually got good enough to…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Tossed off the cliffs",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…old pirates who gave up sailing, not scheming. They decide who eats, who raids, and who gets tossed off the cliffs. Simple. Fair. Brutal. Trade With Providence? Only When We're Desperate or Bored Their fancy…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Trident",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…a coward but I was lowkey bussin it down on em' BAM BAP POW (ya feel meh). I was tossin my trident and shooting my bows as my fellow Liquor kings died around me, kinda weird cause I thought…"
+   },
+   "rank": 26,
+   "percentile": 71.3,
+   "score": 60
+  },
+  {
+   "name": "Taverner",
+   "aliases": [
+    "taverners"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…reign. Elric Stein: As Aleforge grew as an economic force in the region, Elric sent out taverners all across the isles to build more pubs and bars across all parts of the land. This normalized…"
+   },
+   "rank": 44,
+   "percentile": 94.7,
+   "score": 92
+  },
+  {
+   "name": "Thanos",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…drop some victory bars in the club that night. Not a rapper but did hit them with \"Call me thanos cause I'll snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon,…"
+   },
+   "rank": 44,
+   "percentile": 94.7,
+   "score": 92
+  },
+  {
+   "name": "To die in drink's a noble end",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…purpose is far more noble than my own. Back when I visted the Cumstead Mr. Cum told me this \"to die in drinks a noble end. for in the cup, all burdens mend\" John Cum is our eternal bartender. Ale flows from his…"
+   },
+   "rank": 44,
+   "percentile": 94.7,
+   "score": 92
+  },
+  {
+   "name": "Tome Monuments",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…months ago and strange chants and lights can be observed outside, what does this mean? - The Tome Monuments -- 1 of 6 has been found, — End of the Master Lore Compendium — Parliament of…"
+   },
+   "rank": 44,
+   "percentile": 94.7,
+   "score": 92
+  },
+  {
+   "name": "Throbbin Hood",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…id done that fateful night. I'm known round town as a bit o' a thief, i call it more of a throbbin hood motif. i steal from the rich and give to meself. That night, I spotted a drunk merchant from…"
+   },
+   "rank": 48,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

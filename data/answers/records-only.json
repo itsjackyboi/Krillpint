@@ -1,0 +1,529 @@
+{
+ "id": "records-only",
+ "prompt": "Name a character who appears only in the Hall of Records",
+ "blurb": "Never once named in the Master Lore Compendium. Only in the after-action reports and in-game books.",
+ "difficulty": "hard",
+ "gem": "Moby",
+ "answerCount": 27,
+ "answers": [
+  {
+   "name": "Dulamon",
+   "aliases": [
+    "Dulamond",
+    "Dulemon"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 0,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Needless to say this wasnt the most welcoming of environments and we were greeted by a chap named Dulemon. He was not there to drink and plunder so I had absolutely nothing in common with this man.…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Afanasi",
+   "aliases": [
+    "Afanassi"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…REACTIVATED. PLEASE CONSULT THE CHIEF ENGINEER BEFORE INTERFACING WITH THIS CONSOLE. note to afanasi afanassi, I've found a place for the boy to hide in one of the other crawlspaces. He can…"
+   },
+   "rank": 2,
+   "percentile": 11.5,
+   "score": 4
+  },
+  {
+   "name": "Goddard",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…in one of the pipes. Hope you get some good use out of it, it's served me well so far. -Goddard Maint. Logbook Maintenance Logbook Cycle 93, Year 1 [+] Replace all piping from before…"
+   },
+   "rank": 2,
+   "percentile": 11.5,
+   "score": 4
+  },
+  {
+   "name": "James",
+   "aliases": [
+    "James from security"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…biometrics or at least security office access controls I'd sleep a lot better at night. Thanks, James TV Manual Entertainment System Manual 1. Power The TV itself has no buttons,…"
+   },
+   "rank": 2,
+   "percentile": 11.5,
+   "score": 4
+  },
+  {
+   "name": "Jerry",
+   "aliases": [
+    "Jerry Finch"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…93 ------------------- Dimetreus Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei- Natural causes (age) Cycle 94 ------------------- Cycle…"
+   },
+   "rank": 2,
+   "percentile": 11.5,
+   "score": 4
+  },
+  {
+   "name": "Pius",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…recovery keys and show you the decryption process as soon as the change goes into effect. -Pius Earth Report 30 For your situational awareness: Earth aerospace and cosmology news…"
+   },
+   "rank": 2,
+   "percentile": 11.5,
+   "score": 4
+  },
+  {
+   "name": "Amrutha",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…event. Solution: fuck if i know, please let me know if you figure it out - Blackburn email->amrutha Amrutha, When you get a chance, could you take a look at server 0x08, in cluster 3? It…"
+   },
+   "rank": 7,
+   "percentile": 26.9,
+   "score": 14
+  },
+  {
+   "name": "Cheeks",
+   "aliases": [
+    "Cheekz"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…policies, for himself ● Seamus Blackmailed his fellow citizens of aleforge and robbed our beloved Cheekz. ● Cheekz was born to a loving home on north side of Aleforge to two happy caring parents,…"
+   },
+   "rank": 7,
+   "percentile": 26.9,
+   "score": 14
+  },
+  {
+   "name": "Zhi",
+   "aliases": [
+    "Zhu"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…but I feel like I can relate to them in a weird way. I just found food and this guy Zhu wrote in his journal where the key card was, so that made things easy. I can hear the…"
+   },
+   "rank": 7,
+   "percentile": 26.9,
+   "score": 14
+  },
+  {
+   "name": "Chen K",
+   "aliases": [
+    "Chen"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Geoffrey Dingle - apparent alcohol poisoning. Sam Park - Immolation (handled as suicide) Chen K - Lack of oxygen after getting stuck in a maintenance shaft. Cycle 93 -------------------…"
+   },
+   "rank": 10,
+   "percentile": 36.5,
+   "score": 22
+  },
+  {
+   "name": "Fulbert",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…soon I'll take it to upper management to get approved for manufacturing! -Fulbert email->pius Cipher Update ------------------- Pius, sorry it took me so long to get back…"
+   },
+   "rank": 10,
+   "percentile": 36.5,
+   "score": 22
+  },
+  {
+   "name": "Andrew Smith",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and, in rare cases, executions. -Management Cycle 91 ------------------- Andrew Smith - Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim…"
+   },
+   "rank": 12,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "Blackburn",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…an inertial event. Solution: fuck if i know, please let me know if you figure it out - Blackburn email->amrutha Amrutha, When you get a chance, could you take a look at server 0x08, in…"
+   },
+   "rank": 12,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "Dimetreus Reynalds",
+   "aliases": [
+    "Dimetreus",
+    "Reynalds"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Lack of oxygen after getting stuck in a maintenance shaft. Cycle 93 ------------------- Dimetreus Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei-…"
+   },
+   "rank": 12,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "Geoffrey Dingle",
+   "aliases": [
+    "Dingle"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…exterior tunnel. Muhammed Qasim - Natural causes (cancer) Cycle 92 ------------------- Geoffrey Dingle - apparent alcohol poisoning. Sam Park - Immolation (handled as suicide) Chen K - Lack…"
+   },
+   "rank": 12,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "Lin Fei",
+   "aliases": [
+    "Lin"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei- Natural causes (age) Cycle 94 ------------------- Cycle 95 ------------------- design…"
+   },
+   "rank": 12,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "Nikolai",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…make sure they don't go telling anyone about the keys or asking too many questions. email->nikolai Hey Nikolai, I saw Yulia doing something suspicious the other day. Please keep a close…"
+   },
+   "rank": 12,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "Quang Lai",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…-Management Cycle 91 ------------------- Andrew Smith - Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim - Natural causes (cancer) Cycle 92…"
+   },
+   "rank": 12,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "Sam Park",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…causes (cancer) Cycle 92 ------------------- Geoffrey Dingle - apparent alcohol poisoning. Sam Park - Immolation (handled as suicide) Chen K - Lack of oxygen after getting stuck in a maintenance…"
+   },
+   "rank": 12,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "Malchus",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…crumbs and no satisfying explanation. that kind. We went to Providence. Found a man named Malchus who knew more than he was comfortable knowing. His body hung from the rafters and in his pocket…"
+   },
+   "rank": 20,
+   "percentile": 82.7,
+   "score": 75
+  },
+  {
+   "name": "Maria Telkes",
+   "aliases": [
+    "Telkes"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…cycle meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide Sponsor Information Hello valued sponsor! We thank you for investing in our…"
+   },
+   "rank": 20,
+   "percentile": 82.7,
+   "score": 75
+  },
+  {
+   "name": "Mr Sir",
+   "aliases": [
+    "Mister Sir"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…school) really if you can make either of those happen you'll never hear another peep from me -mr sir case #00018 can we have serial up heer? mom and dad said they have that on erth and you…"
+   },
+   "rank": 20,
+   "percentile": 82.7,
+   "score": 75
+  },
+  {
+   "name": "Muhammed Qasim",
+   "aliases": [
+    "Muhammad Qasim"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Andrew Smith - Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim - Natural causes (cancer) Cycle 92 ------------------- Geoffrey Dingle - apparent alcohol…"
+   },
+   "rank": 20,
+   "percentile": 82.7,
+   "score": 75
+  },
+  {
+   "name": "Xiulan",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…version of the recovery key on its external display and as I'm sure you know, that's a problem -Xiulan Printer Manual Printer Manual This is a punch card printer, able to create digitally recognized…"
+   },
+   "rank": 20,
+   "percentile": 82.7,
+   "score": 75
+  },
+  {
+   "name": "Yulia",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…anyone about the keys or asking too many questions. email->nikolai Hey Nikolai, I saw Yulia doing something suspicious the other day. Please keep a close eye on her and make sure she's…"
+   },
+   "rank": 20,
+   "percentile": 82.7,
+   "score": 75
+  },
+  {
+   "name": "Maximilian's mother",
+   "aliases": [
+    "Max's mom",
+    "Maximilian's mom",
+    "Max's mother"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "His mother was one of the ranking members of the MAA and was among those killed",
+    "note": "A ranking member of the MAA, killed in the Liquor Kings' raid."
+   },
+   "rank": 26,
+   "percentile": 98.1,
+   "score": 97
+  },
+  {
+   "name": "Moby",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Veil Oath book and Veil Chalice from the shrine, proving his sin. Fr Leo, Krag, Zara, and Moby's TNT crew backed them in a scrap with Gobbler in that shrine's narrow hall, water sloshing…"
+   },
+   "rank": 26,
+   "percentile": 98.1,
+   "score": 97
+  }
+ ]
+}

@@ -1,0 +1,769 @@
+{
+ "id": "one-name",
+ "prompt": "Name a character who goes by only one name",
+ "blurb": "No surname, no title. Just the one word.",
+ "difficulty": "medium",
+ "gem": "Head",
+ "answerCount": 39,
+ "answers": [
+  {
+   "name": "Buke",
+   "aliases": [
+    "Luke"
+   ],
+   "mentions": {
+    "total": 100,
+    "compendium": 42,
+    "records": 58
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Sackbeard",
+   "aliases": [
+    "Captain Sackbeard"
+   ],
+   "mentions": {
+    "total": 77,
+    "compendium": 57,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death…"
+   },
+   "rank": 2,
+   "percentile": 2.6,
+   "score": 0
+  },
+  {
+   "name": "Jagerbauhm",
+   "aliases": [
+    "Jagerbaum",
+    "Jagerbaugm",
+    "Jagerbaumdani",
+    "Jaugerbomb",
+    "Ben",
+    "Drunken Angel",
+    "Lager Duke"
+   ],
+   "mentions": {
+    "total": 70,
+    "compendium": 28,
+    "records": 42
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts…"
+   },
+   "rank": 3,
+   "percentile": 5.3,
+   "score": 1
+  },
+  {
+   "name": "Rollo",
+   "aliases": [],
+   "mentions": {
+    "total": 45,
+    "compendium": 22,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…happy to buy these bonds and a large influx of money has now hit the Aleforge ledger. ### Rollo Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends…"
+   },
+   "rank": 4,
+   "percentile": 7.9,
+   "score": 2
+  },
+  {
+   "name": "Wagwan",
+   "aliases": [
+    "Wag Wan"
+   ],
+   "mentions": {
+    "total": 30,
+    "compendium": 5,
+    "records": 25
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner, Wagwan was very persuasive with his memorable line \"I am black.\" During the events of Stewards of…"
+   },
+   "rank": 5,
+   "percentile": 10.5,
+   "score": 3
+  },
+  {
+   "name": "Dmitri",
+   "aliases": [
+    "Dimitri",
+    "Dmtri",
+    "Dimtri",
+    "Dimitri the Space Boy"
+   ],
+   "mentions": {
+    "total": 24,
+    "compendium": 10,
+    "records": 14
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…after they broke free, with Luke landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his…"
+   },
+   "rank": 6,
+   "percentile": 13.2,
+   "score": 5
+  },
+  {
+   "name": "Josephus",
+   "aliases": [
+    "Jophisus",
+    "Jophesis",
+    "Johnephus",
+    "Jonephesus",
+    "Josiphus",
+    "Jonophesus"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 1,
+    "records": 17
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Kings go to the city. The Liquor Kings arrived in Owe Block carrying a book from the scholar Josiphus, ostensibly there to study the district's culture and relics. Wagwan, the sharp-eyed owner…"
+   },
+   "rank": 7,
+   "percentile": 15.8,
+   "score": 6
+  },
+  {
+   "name": "Fentmaxxer",
+   "aliases": [
+    "Fentmaxer"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher.…"
+   },
+   "rank": 8,
+   "percentile": 18.4,
+   "score": 8
+  },
+  {
+   "name": "Dulamon",
+   "aliases": [
+    "Dulamond",
+    "Dulemon"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 0,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Needless to say this wasnt the most welcoming of environments and we were greeted by a chap named Dulemon. He was not there to drink and plunder so I had absolutely nothing in common with this man.…"
+   },
+   "rank": 9,
+   "percentile": 21.1,
+   "score": 10
+  },
+  {
+   "name": "Afanasi",
+   "aliases": [
+    "Afanassi"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…REACTIVATED. PLEASE CONSULT THE CHIEF ENGINEER BEFORE INTERFACING WITH THIS CONSOLE. note to afanasi afanassi, I've found a place for the boy to hide in one of the other crawlspaces. He can…"
+   },
+   "rank": 10,
+   "percentile": 28.9,
+   "score": 16
+  },
+  {
+   "name": "Goddard",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…in one of the pipes. Hope you get some good use out of it, it's served me well so far. -Goddard Maint. Logbook Maintenance Logbook Cycle 93, Year 1 [+] Replace all piping from before…"
+   },
+   "rank": 10,
+   "percentile": 28.9,
+   "score": 16
+  },
+  {
+   "name": "James",
+   "aliases": [
+    "James from security"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…biometrics or at least security office access controls I'd sleep a lot better at night. Thanks, James TV Manual Entertainment System Manual 1. Power The TV itself has no buttons,…"
+   },
+   "rank": 10,
+   "percentile": 28.9,
+   "score": 16
+  },
+  {
+   "name": "Jerry",
+   "aliases": [
+    "Jerry Finch"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…93 ------------------- Dimetreus Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei- Natural causes (age) Cycle 94 -------------------…"
+   },
+   "rank": 10,
+   "percentile": 28.9,
+   "score": 16
+  },
+  {
+   "name": "Pius",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…recovery keys and show you the decryption process as soon as the change goes into effect. -Pius Earth Report 30 For your situational awareness: Earth aerospace and cosmology news…"
+   },
+   "rank": 10,
+   "percentile": 28.9,
+   "score": 16
+  },
+  {
+   "name": "Amrutha",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…event. Solution: fuck if i know, please let me know if you figure it out - Blackburn email->amrutha Amrutha, When you get a chance, could you take a look at server 0x08, in cluster 3? It…"
+   },
+   "rank": 15,
+   "percentile": 43.4,
+   "score": 29
+  },
+  {
+   "name": "Cheeks",
+   "aliases": [
+    "Cheekz"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…policies, for himself ● Seamus Blackmailed his fellow citizens of aleforge and robbed our beloved Cheekz. ● Cheekz was born to a loving home on north side of Aleforge to two happy caring parents,…"
+   },
+   "rank": 15,
+   "percentile": 43.4,
+   "score": 29
+  },
+  {
+   "name": "Guisepee",
+   "aliases": [
+    "Giuseppe"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their journey in that direction. Here they met the grandson of the founder of the vineyard, Guisepee. He mentions that the Tavern was founded after his grandfather, a very religious man, had…"
+   },
+   "rank": 15,
+   "percentile": 43.4,
+   "score": 29
+  },
+  {
+   "name": "Krag",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…into two rival gang factions: Seamus Bonehardy and Jack Anqoak joined the Crimson Cutters (Krag's Irish-inflected blade fighters), while Guinnie, Buke, and Jameson Pilsner joined the Seaside…"
+   },
+   "rank": 15,
+   "percentile": 43.4,
+   "score": 29
+  },
+  {
+   "name": "Zara",
+   "aliases": [
+    "Zaar the Edgemaster",
+    "Zaar"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Irish-inflected blade fighters), while Guinnie, Buke, and Jameson Pilsner joined the Seaside Circus (Zara's Jamaican explosive-specialists). What followed was a sprawling urban adventure involving…"
+   },
+   "rank": 15,
+   "percentile": 43.4,
+   "score": 29
+  },
+  {
+   "name": "Zhi",
+   "aliases": [
+    "Zhu"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…but I feel like I can relate to them in a weird way. I just found food and this guy Zhu wrote in his journal where the key card was, so that made things easy. I can hear the…"
+   },
+   "rank": 15,
+   "percentile": 43.4,
+   "score": 29
+  },
+  {
+   "name": "Adcock",
+   "aliases": [
+    "King Adcock"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…that the fountain of Ale overflowed that day and all drank until they were satisfied. Adcock: The last of the prehistorical Kings. Adcock believed in some separation of powers following…"
+   },
+   "rank": 21,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "Cromwell",
+   "aliases": [
+    "Mayor Cromwell"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Long Thirst: Year 412 - 464, A Time without Liquor Kings, Aleforge is governed by Mayors. Cromwell: An independently wealthy businessman before taking the role of mayor. Cromwell was more interested…"
+   },
+   "rank": 21,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "Fulbert",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…soon I'll take it to upper management to get approved for manufacturing! -Fulbert email->pius Cipher Update ------------------- Pius, sorry it took me so long to get back…"
+   },
+   "rank": 21,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "Blackburn",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…an inertial event. Solution: fuck if i know, please let me know if you figure it out - Blackburn email->amrutha Amrutha, When you get a chance, could you take a look at server 0x08, in…"
+   },
+   "rank": 24,
+   "percentile": 67.1,
+   "score": 55
+  },
+  {
+   "name": "Delaney",
+   "aliases": [
+    "John Delaney",
+    "his wife"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Town's Mayor who was in charge of the festival's logistics. ### John Cum (DECEASED) and John Delaney (DECEASED) John cum is the main provider of wheat to the local villages, he has an impressive…"
+   },
+   "rank": 24,
+   "percentile": 67.1,
+   "score": 55
+  },
+  {
+   "name": "Fin",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…attempting to contact her for week but she stays safe behind the walls of Providence. ### Fin A small boy running at light speed around the alleys of Providence. He is the son of Obvious…"
+   },
+   "rank": 24,
+   "percentile": 67.1,
+   "score": 55
+  },
+  {
+   "name": "Mickey",
+   "aliases": [
+    "Mickey of the Pipe Club"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a spectacular sequence, died first in the mines, lost everything, then hired a hit through Mickey's Pipe Club to have Seamus killed in revenge. The thread connecting all of it was Sexton…"
+   },
+   "rank": 24,
+   "percentile": 67.1,
+   "score": 55
+  },
+  {
+   "name": "Nikolai",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…make sure they don't go telling anyone about the keys or asking too many questions. email->nikolai Hey Nikolai, I saw Yulia doing something suspicious the other day. Please keep a close…"
+   },
+   "rank": 24,
+   "percentile": 67.1,
+   "score": 55
+  },
+  {
+   "name": "Tugller",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Offers a range of rooms and community lodges…….. ##### The Last Drop Ballbusters brother Tugller founded a secret bar deep below the Ballbuster Inn ##### Witch Doctors Tower A mystic healer…"
+   },
+   "rank": 24,
+   "percentile": 67.1,
+   "score": 55
+  },
+  {
+   "name": "Beef",
+   "aliases": [
+    "King Beef"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the court to developing a large variety of ales and lagers for the people of Aleforge Beef: Nothing is known about the Liquor King named Beef beyond his name Ulthar Goldbrew: A…"
+   },
+   "rank": 30,
+   "percentile": 76.3,
+   "score": 67
+  },
+  {
+   "name": "Cheddar",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…GBB): ### Beer Getta ### Puke Fartson ### Buck Setts ### Keg Minster ### Buck Setts ### Cheddar ### Fargo Willslick ### Head ### Sir Robert CockPower Color Guards ### Cpt. Lincoln…"
+   },
+   "rank": 31,
+   "percentile": 85.5,
+   "score": 79
+  },
+  {
+   "name": "Guinnesston",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fought a quiet but brutal war against the smugglers gallery along the cliffs of Aleforge. Guinnesston: The first king to send a diplomatic envoy to Fenwick and establish ties with the Veilwalkers.…"
+   },
+   "rank": 31,
+   "percentile": 85.5,
+   "score": 79
+  },
+  {
+   "name": "Malchus",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…crumbs and no satisfying explanation. that kind. We went to Providence. Found a man named Malchus who knew more than he was comfortable knowing. His body hung from the rafters and in his pocket…"
+   },
+   "rank": 31,
+   "percentile": 85.5,
+   "score": 79
+  },
+  {
+   "name": "Pope",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Chess bar in the Cardinal Circle, and the moderator of the Shot-Chess association. ### Pope Used to be a big time mafia man working at the Buenacera Italian Restaurant on Vanity Street…"
+   },
+   "rank": 31,
+   "percentile": 85.5,
+   "score": 79
+  },
+  {
+   "name": "Xiulan",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…version of the recovery key on its external display and as I'm sure you know, that's a problem -Xiulan Printer Manual Printer Manual This is a punch card printer, able to create digitally recognized…"
+   },
+   "rank": 31,
+   "percentile": 85.5,
+   "score": 79
+  },
+  {
+   "name": "Yulia",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…anyone about the keys or asking too many questions. email->nikolai Hey Nikolai, I saw Yulia doing something suspicious the other day. Please keep a close eye on her and make sure she's…"
+   },
+   "rank": 31,
+   "percentile": 85.5,
+   "score": 79
+  },
+  {
+   "name": "Jopsi",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…major religions in the area, he is deeply superstitious and will do everything he can to avoid Jopsi, a small annoying sprite who is summoned by bad luck. Recently, Gale has entered into a deeper…"
+   },
+   "rank": 37,
+   "percentile": 96.1,
+   "score": 94
+  },
+  {
+   "name": "Moby",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Veil Oath book and Veil Chalice from the shrine, proving his sin. Fr Leo, Krag, Zara, and Moby's TNT crew backed them in a scrap with Gobbler in that shrine's narrow hall, water sloshing…"
+   },
+   "rank": 37,
+   "percentile": 96.1,
+   "score": 94
+  },
+  {
+   "name": "Head",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fartson ### Buck Setts ### Keg Minster ### Buck Setts ### Cheddar ### Fargo Willslick ### Head ### Sir Robert CockPower Color Guards ### Cpt. Lincoln Dillydally ### Piggly Wiggly…"
+   },
+   "rank": 39,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

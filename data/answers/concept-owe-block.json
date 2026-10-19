@@ -1,0 +1,743 @@
+{
+ "id": "concept-owe-block",
+ "prompt": "Name something from A Walk on Owe Block",
+ "blurb": "Gang wars, mining taxes, relic hunts and a corrupt Sexton in Providence's district city.",
+ "difficulty": "medium",
+ "gem": "Chicken jockey",
+ "answerCount": 37,
+ "answers": [
+  {
+   "name": "Wagwan",
+   "aliases": [
+    "Wag Wan"
+   ],
+   "mentions": {
+    "total": 30,
+    "compendium": 5,
+    "records": 25
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner, Wagwan was very persuasive with his memorable line \"I am black.\" During the events of Stewards of…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Sexton Gobbler",
+   "aliases": [
+    "Gobbler"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 7,
+    "records": 8
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Liquor Kings with safe haven during the Owe Block concept when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley…"
+   },
+   "rank": 2,
+   "percentile": 2.8,
+   "score": 0
+  },
+  {
+   "name": "Josephus",
+   "aliases": [
+    "Jophisus",
+    "Jophesis",
+    "Johnephus",
+    "Jonephesus",
+    "Josiphus",
+    "Jonophesus"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 1,
+    "records": 17
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Kings go to the city. The Liquor Kings arrived in Owe Block carrying a book from the scholar Josiphus, ostensibly there to study the district's culture and relics. Wagwan, the sharp-eyed owner…"
+   },
+   "rank": 3,
+   "percentile": 5.6,
+   "score": 1
+  },
+  {
+   "name": "Seaside Circus",
+   "aliases": [
+    "Seasiders",
+    "The Circus"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 2,
+    "records": 15
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner,…"
+   },
+   "rank": 4,
+   "percentile": 8.3,
+   "score": 2
+  },
+  {
+   "name": "Crimson Cutters",
+   "aliases": [
+    "The Cutters",
+    "Cutters"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 4,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…King Trials. During the events of A Walk on Owe Block, Anqoak joined the infamous Crimson Cutters gang alongside Seamus Bonehardy and Jagerbaugm. Unfortunately, their rival gang the Seaside…"
+   },
+   "rank": 5,
+   "percentile": 11.1,
+   "score": 4
+  },
+  {
+   "name": "Blicky",
+   "aliases": [
+    "Blinky"
+   ],
+   "mentions": {
+    "total": 13,
+    "compendium": 4,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tithe was reduced to twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets. ## Concept V: Stewards of Aleforge Run by Jack. The Kings…"
+   },
+   "rank": 6,
+   "percentile": 13.9,
+   "score": 5
+  },
+  {
+   "name": "The gang wars",
+   "aliases": [
+    "gang war",
+    "gang warfare"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 2,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jagerbaugm. Unfortunately, their rival gang the Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner, Wagwan was very persuasive with his…"
+   },
+   "rank": 7,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Dig Dug's mines",
+   "aliases": [
+    "the mines",
+    "mines at the Basin"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 2,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…you something in return…That is, if you can catch him. ### Dig Dug He's the Foreman of the Mines at the Basin at Bully Hill. Dig Dug is one of the biggest employers of Oweblock and is also…"
+   },
+   "rank": 8,
+   "percentile": 19.4,
+   "score": 9
+  },
+  {
+   "name": "Stank Tank",
+   "aliases": [],
+   "mentions": {
+    "total": 8,
+    "compendium": 5,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner, Wagwan was very persuasive with his memorable line \"I am black.\" During the events…"
+   },
+   "rank": 9,
+   "percentile": 22.2,
+   "score": 10
+  },
+  {
+   "name": "Durag",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 2,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…obligatory tithe was reduced to twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets. ## Concept V: Stewards of Aleforge Run by Jack.…"
+   },
+   "rank": 10,
+   "percentile": 25.0,
+   "score": 12
+  },
+  {
+   "name": "Baba Paku",
+   "aliases": [
+    "Babu Packo",
+    "Baby Pagu",
+    "Paku"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…without fail and is suffering from major lung cancer. Who knows how long hes got. ### Baba Paku A missionary from Owe Block sent out into the World to spread Unknownism. He is often found…"
+   },
+   "rank": 11,
+   "percentile": 27.8,
+   "score": 15
+  },
+  {
+   "name": "Friar Leo",
+   "aliases": [
+    "Fr Leo",
+    "Leo"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…wrong type of booty has certainly been overheard after one too many tankards of grog. ### Friar Leo A friar who maintains a secret section of the Church of the Monk in Owe Block containing…"
+   },
+   "rank": 12,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "Krag",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…into two rival gang factions: Seamus Bonehardy and Jack Anqoak joined the Crimson Cutters (Krag's Irish-inflected blade fighters), while Guinnie, Buke, and Jameson Pilsner joined the Seaside…"
+   },
+   "rank": 12,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "Nike Dunks",
+   "aliases": [
+    "Nikes",
+    "Dunks"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets. ## Concept V: Stewards of Aleforge Run by Jack. The Kings learn to govern…"
+   },
+   "rank": 12,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "The Brothel",
+   "aliases": [
+    "Brothel"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…mayor. Cromwell was more interested in using his newfound fame to sleep his way through every brothel and eligible woman in Aleforge. Some recent Liquor Kings have been said to exhibit \"Cromwellian\"…"
+   },
+   "rank": 12,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "The Hoegaarden Library embassy",
+   "aliases": [
+    "embassy",
+    "library embassy"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…documents so ancient remains unclear. The library above is also home to the Hoegaarden Library Embassy, which provided the Liquor Kings with safe haven during the Owe Block concept when they needed…"
+   },
+   "rank": 12,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "Zara",
+   "aliases": [
+    "Zaar the Edgemaster",
+    "Zaar"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Irish-inflected blade fighters), while Guinnie, Buke, and Jameson Pilsner joined the Seaside Circus (Zara's Jamaican explosive-specialists). What followed was a sprawling urban adventure involving…"
+   },
+   "rank": 12,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "Veil Oath",
+   "aliases": [
+    "Veil Oath book"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hoegaarden Library embassy. Gobbler was subsequently exposed by the Kings using the stolen Veil Oath book and the Veil Chalice from his shrine. ### Cardinal Addy The Cardinal of Providence — beloved…"
+   },
+   "rank": 18,
+   "percentile": 47.2,
+   "score": 32
+  },
+  {
+   "name": "Bullets",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets. ## Concept V: Stewards of Aleforge Run by Jack. The Kings learn to govern — sort of.…"
+   },
+   "rank": 19,
+   "percentile": 54.2,
+   "score": 40
+  },
+  {
+   "name": "Church of the Monk",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…one too many tankards of grog. ### Friar Leo A friar who maintains a secret section of the Church of the Monk in Owe Block containing forbidden documents about the Monk Who Ne'er Slumber'd. Seamus Bonehardy…"
+   },
+   "rank": 19,
+   "percentile": 54.2,
+   "score": 40
+  },
+  {
+   "name": "Mickey's Pipe Club",
+   "aliases": [
+    "Pipe Club"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…spectacular sequence, died first in the mines, lost everything, then hired a hit through Mickey's Pipe Club to have Seamus killed in revenge. The thread connecting all of it was Sexton Gobbler, who…"
+   },
+   "rank": 19,
+   "percentile": 54.2,
+   "score": 40
+  },
+  {
+   "name": "Veil Chalice",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…embassy. Gobbler was subsequently exposed by the Kings using the stolen Veil Oath book and the Veil Chalice from his shrine. ### Cardinal Addy The Cardinal of Providence — beloved leader, born to…"
+   },
+   "rank": 19,
+   "percentile": 54.2,
+   "score": 40
+  },
+  {
+   "name": "Chicken jockey",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…wearing nike dunks in Owe Block. We lost the battle that night. In the morning we played chicken jockey, a local game about shooting white animals, a parable perhaps? Good thing everyone still thought…"
+   },
+   "rank": 23,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "The British tax man",
+   "aliases": [
+    "the brit",
+    "british guy",
+    "tax man",
+    "dumb british guy"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…the mines but eventually just dug down and found diamonds. I was banded upppp. This dumbass british guy took 50% of my money and a slap on the ass and told me to get lost. There weren't even social…"
+   },
+   "rank": 23,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "The Treasury",
+   "aliases": [
+    "Treasury"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to the Chronicle HQ to a burger joint under a corrupt noble's manor to the Brothel to the Treasury, eventually finding a hidden stone button in the Church of the Monk that opened a Veilwalker…"
+   },
+   "rank": 23,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Wagwan's Whopper",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…gang confrontation, earning near-zero gold but prodigious kill counts. Wagwan gifted him the Wagwan's Whopper, a mace of considerable impact force. Buke was the true relic king of the session, collecting…"
+   },
+   "rank": 23,
+   "percentile": 65.3,
+   "score": 53
+  },
+  {
+   "name": "Black Pepper Dividend",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…king of the session, collecting more Veilwalker artifacts than anyone and claiming the first Black Pepper Dividend stock payout. Jack rapped a freestyle at the Stank Tank that became a regional hit when the…"
+   },
+   "rank": 27,
+   "percentile": 72.2,
+   "score": 61
+  },
+  {
+   "name": "Ancient Pot",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon, Old Staff, Ancient Pot—don't ask me what they are, but they're now sitting safely away from gentrifiers and young…"
+   },
+   "rank": 28,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Bucket's Burgers",
+   "aliases": [
+    "Buckets Burgers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…rifling the Owe Block Public Library, snooping at the Chronicle Newspaper HQ, grubbing at Bucket's Burgers under Gobbler's posh manor, slipping into the Brothel—bet he lingered there, the dog!—and…"
+   },
+   "rank": 28,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Old Staff",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…cause I'll snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon, Old Staff, Ancient Pot—don't ask me what they are, but they're now sitting safely away from gentrifiers…"
+   },
+   "rank": 28,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Sad Sermon",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…me thanos cause I'll snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon, Old Staff, Ancient Pot—don't ask me what they are, but they're now sitting safely away from…"
+   },
+   "rank": 28,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Sword of Passion",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…coin. \"Lad nabbed more Veil Walkers' treasures than a dock rat hoards scraps, including the Sword of Passion—a blade so wicked it'd make my vows quiver, humming with dark juju.\" Seamus cracked them riddles…"
+   },
+   "rank": 28,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "The 25% tithe",
+   "aliases": [
+    "twenty-five percent",
+    "25 percent tithe"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and allies at their backs. Gobbler was disgraced. The town's obligatory tithe was reduced to twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets.…"
+   },
+   "rank": 28,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "The rap competition",
+   "aliases": [
+    "rap battle",
+    "rap contest"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Wagwan's afterwards to take the edge off. Littl did I know wagwan would have us competing in a rap competition. Homie after homie, the bars kept getting better. I had to step up to the plate after embarrassing…"
+   },
+   "rank": 28,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "King Von",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…could give more details about the events that preceded this, chicken jockey, pope leo XIV, King Von, but you'll have to visit Owe Block for that, but you best be wearing blue. Seaside Circus…"
+   },
+   "rank": 35,
+   "percentile": 97.2,
+   "score": 96
+  },
+  {
+   "name": "Moby's TNT crew",
+   "aliases": [
+    "Moby's crew",
+    "TNT crew"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Veil Oath book and Veil Chalice from the shrine, proving his sin. Fr Leo, Krag, Zara, and Moby's TNT crew backed them in a scrap with Gobbler in that shrine's narrow hall, water sloshing…"
+   },
+   "rank": 35,
+   "percentile": 97.2,
+   "score": 96
+  },
+  {
+   "name": "Pope Leo XIV",
+   "aliases": [
+    "Pope Leo"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…victory 2-1. I could give more details about the events that preceded this, chicken jockey, pope leo XIV, King Von, but you'll have to visit Owe Block for that, but you best be wearing blue. Seaside…"
+   },
+   "rank": 35,
+   "percentile": 97.2,
+   "score": 96
+  }
+ ]
+}

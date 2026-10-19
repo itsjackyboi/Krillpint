@@ -1,0 +1,10 @@
+{
+  "id": "letter-h",
+  "prompt": "Name anything from the lore starting with H",
+  "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+  "difficulty": "medium",
+  "gem": "The Hangover bell",
+  "derive": {
+    "letter": "H"
+  }
+}

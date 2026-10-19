@@ -1,0 +1,537 @@
+{
+ "id": "concept-cloister-beast",
+ "prompt": "Name something from the Cloister Beast concept",
+ "blurb": "The Kings return to Aleforge, the mayor goes missing, and a beast waits under the Cloister.",
+ "difficulty": "medium",
+ "gem": "The child behind the rock",
+ "answerCount": 26,
+ "answers": [
+  {
+   "name": "Thomas Thatcher",
+   "aliases": [
+    "Thatcher",
+    "Mayor Thatcher"
+   ],
+   "mentions": {
+    "total": 21,
+    "compendium": 17,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests - Brandywine Brush — The dense inland forest known locally as 'Thiccy…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The Cloister Beast",
+   "aliases": [
+    "Cloister Beast"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 16,
+    "records": 2
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards…"
+   },
+   "rank": 2,
+   "percentile": 6.0,
+   "score": 1
+  },
+  {
+   "name": "The Old Prophet",
+   "aliases": [
+    "Old Prophet",
+    "Prophet"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 18,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of monks long ago and later abandoned after their order disappeared, it is rumored that the prophet murdered them in order to get access to this mysterious place. An old prophet took up residence…"
+   },
+   "rank": 2,
+   "percentile": 6.0,
+   "score": 1
+  },
+  {
+   "name": "MAA",
+   "aliases": [
+    "Mothers Against Alcohol"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 23,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the crown. Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge but educated in Providence, Scipiums polical and social…"
+   },
+   "rank": 4,
+   "percentile": 12.0,
+   "score": 4
+  },
+  {
+   "name": "Fentmaxxer",
+   "aliases": [
+    "Fentmaxer"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher.…"
+   },
+   "rank": 5,
+   "percentile": 18.0,
+   "score": 8
+  },
+  {
+   "name": "New Haven",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the worst of the worst and they are never leaving, most of the cells are welded shut. - New Haven — The aetherial realm accessible only to a select few through the Cloister. - Hoegaarden…"
+   },
+   "rank": 5,
+   "percentile": 18.0,
+   "score": 8
+  },
+  {
+   "name": "Fentmaxxer's Observatory",
+   "aliases": [
+    "The Observatory",
+    "Observatory"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 12,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests -…"
+   },
+   "rank": 7,
+   "percentile": 26.0,
+   "score": 13
+  },
+  {
+   "name": "Ignatius De Montfort",
+   "aliases": [
+    "Ignatius",
+    "De Montfort"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 12,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…known who built this or for what purpose. This exact question is currently being researched by Ignatius De Montfort. ## The Cloister #### In Game Use: concept gameplay area #### Lore: this…"
+   },
+   "rank": 7,
+   "percentile": 26.0,
+   "score": 13
+  },
+  {
+   "name": "Edmond Blackmoor",
+   "aliases": [
+    "Blackmoor",
+    "Edmund Blackmoor"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their arrival. He never met the liquor kings, however, as a great and pompous adventurer named Edmond Blackmoor came to the cloister to fight the beast and the Prophet turned him away. This upset Blackmoor…"
+   },
+   "rank": 9,
+   "percentile": 32.0,
+   "score": 18
+  },
+  {
+   "name": "Newports",
+   "aliases": [
+    "Fent",
+    "Fentmaxxer's Newports",
+    "Newport"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport cigarettes and will often reveal information if presented with some. He is a sensitive soul…"
+   },
+   "rank": 10,
+   "percentile": 40.0,
+   "score": 25
+  },
+  {
+   "name": "Reverend Ambrose Ravenscroft",
+   "aliases": [
+    "Ambrose Ravenscroft",
+    "Ravenscroft",
+    "Reverend Ambrose"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fear and died a slow and humbling death, warning others of the terror they would endure. ### Reverend Ambrose Ravenscroft The esteemed reverend originally came to Aleforge at the request of his superiors,…"
+   },
+   "rank": 10,
+   "percentile": 40.0,
+   "score": 25
+  },
+  {
+   "name": "Richard 'Cumhardy' Seaman",
+   "aliases": [
+    "Richard Seaman",
+    "Richard Cumhardy",
+    "Cumhardy",
+    "Richard"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…can stay in the cloister before new residents are inevitably drawn to it's mysteries. ### Richard 'Cumhardy' Seaman (DECEASED) Richard had recently washed ashore aleforge on wreckage from…"
+   },
+   "rank": 10,
+   "percentile": 40.0,
+   "score": 25
+  },
+  {
+   "name": "The Beggar",
+   "aliases": [
+    "Beggar"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…past. Makes you wonder how much he really knows. Makes you wonder if he even is human? ### The Beggar The beggar is the illegitimate son of Glub Tuppus Wepple and is therefore not eligible to…"
+   },
+   "rank": 13,
+   "percentile": 54.0,
+   "score": 40
+  },
+  {
+   "name": "The cage under the well",
+   "aliases": [
+    "cage",
+    "Fentmaxxer's dungeon",
+    "the well"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…well with a hallway running around the exterior and a large telescope in a dome shaped room. Underneath the well in courtyard is a demonic altar dedicated to the warden that fentmaxxer would use to divine…"
+   },
+   "rank": 13,
+   "percentile": 54.0,
+   "score": 40
+  },
+  {
+   "name": "The Cloister's prison dimension",
+   "aliases": [
+    "prison dimension"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…phenomena which leads directly to hell, and that itself is on top of a hole which leads to a prison dimension holding a great beast in captivity. Within the hillside which the cloister is built on, there…"
+   },
+   "rank": 13,
+   "percentile": 54.0,
+   "score": 40
+  },
+  {
+   "name": "The Warden",
+   "aliases": [
+    "Warden"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…heretical religious beliefs. What he saw as an asteroid was the egg of a great beast (the warden) which he sought to raise and use as a weapon against the townspeople and eventually the world.…"
+   },
+   "rank": 13,
+   "percentile": 54.0,
+   "score": 40
+  },
+  {
+   "name": "Netherite equipment",
+   "aliases": [
+    "netherite"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…miniboss fight against Fentmaxxer and his illusionist forces followed. The Kings won, claiming netherite equipment as their reward and gaining information about the MAA's underground lair. The MAA…"
+   },
+   "rank": 17,
+   "percentile": 68.0,
+   "score": 56
+  },
+  {
+   "name": "The child behind the rock",
+   "aliases": [
+    "the child",
+    "child behind a rock"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and raided their camp deep in a cave, slaughtering all of the MAA, except one child who hid behind a rock and watched the massacre unfold. With this the MAA were no more. However, following the events…"
+   },
+   "rank": 17,
+   "percentile": 68.0,
+   "score": 56
+  },
+  {
+   "name": "The MAA cave",
+   "aliases": [
+    "MAA cave",
+    "the cave",
+    "underground camp"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cloister Beast Storyline the liquor kings found a clue to their whereabouts and raided their camp deep in a cave, slaughtering all of the MAA, except one child who hid behind a rock and watched the massacre…"
+   },
+   "rank": 17,
+   "percentile": 68.0,
+   "score": 56
+  },
+  {
+   "name": "Diamond boots",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…forgiven the Kings for their victory. The Kings were welcomed back with gifts: Stephan received diamond boots for his historic two-trial winning streak, Buke received a diamond sword as the newly crowned…"
+   },
+   "rank": 20,
+   "percentile": 88.0,
+   "score": 83
+  },
+  {
+   "name": "Diamond liquor crown",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…winning streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his spectacular drunkenness, and Nathan, having been forced to play sober…"
+   },
+   "rank": 20,
+   "percentile": 88.0,
+   "score": 83
+  },
+  {
+   "name": "Diamond sword",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Stephan received diamond boots for his historic two-trial winning streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his…"
+   },
+   "rank": 20,
+   "percentile": 88.0,
+   "score": 83
+  },
+  {
+   "name": "Illusionist forces",
+   "aliases": [
+    "illusionists"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Warden's egg and his plans to raise it as a weapon. A miniboss fight against Fentmaxxer and his illusionist forces followed. The Kings won, claiming netherite equipment as their reward and gaining information…"
+   },
+   "rank": 20,
+   "percentile": 88.0,
+   "score": 83
+  },
+  {
+   "name": "Iron chestplate",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drunkenness, and Nathan, having been forced to play sober due to circumstances, was stripped of an iron chestplate as punishment from above. Ben received a full protection-enchanted armor set for arriving…"
+   },
+   "rank": 20,
+   "percentile": 88.0,
+   "score": 83
+  },
+  {
+   "name": "Protection-enchanted armor",
+   "aliases": [
+    "protection armor"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…circumstances, was stripped of an iron chestplate as punishment from above. Ben received a full protection-enchanted armor set for arriving late. The investigation unfolded across multiple fronts. The Kings explored…"
+   },
+   "rank": 20,
+   "percentile": 88.0,
+   "score": 83
+  },
+  {
+   "name": "The Prophet's writings",
+   "aliases": [
+    "Prophet's writings"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a previously invisible hallway opened in the Cloister wall — the passage to New Haven. The Prophet's writings were found upstairs, documenting his years of waiting for their arrival. Edmond Blackmoor's…"
+   },
+   "rank": 20,
+   "percentile": 88.0,
+   "score": 83
+  }
+ ]
+}

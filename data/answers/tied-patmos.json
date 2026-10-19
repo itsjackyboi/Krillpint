@@ -1,0 +1,533 @@
+{
+ "id": "tied-patmos",
+ "prompt": "Name something tied to the Church of Patmos",
+ "blurb": "Providence's religion: its ranks, rites, holidays and missionaries.",
+ "difficulty": "medium",
+ "gem": "Unknownism",
+ "answerCount": 26,
+ "answers": [
+  {
+   "name": "ClockHeart Tonic",
+   "aliases": [
+    "Clockheart",
+    "Tonic",
+    "Clockeart Tonic",
+    "bootleg tonic",
+    "bootleg ClockHeart Tonic"
+   ],
+   "mentions": {
+    "total": 72,
+    "compendium": 57,
+    "records": 15
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…home of the Drunken Trials. Known for it's fine ale and people. - Providence — The ordered, tonic-driven holy city on the cliffs. A strict theocracy ruled by Cardinal Addy, head of the Church…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Sexton Gobbler",
+   "aliases": [
+    "Gobbler"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 7,
+    "records": 8
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Liquor Kings with safe haven during the Owe Block concept when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley…"
+   },
+   "rank": 2,
+   "percentile": 4.0,
+   "score": 1
+  },
+  {
+   "name": "Cardinal Addy",
+   "aliases": [
+    "Addy"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 11,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Cardinal Addy, born to a Shanty whore",
+    "note": "The Cardinal of Providence was born in Shanty Town."
+   },
+   "rank": 3,
+   "percentile": 8.0,
+   "score": 2
+  },
+  {
+   "name": "Sexton",
+   "aliases": [
+    "Sextons"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 11,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the cobbled streets on Beastwatch, judging the markets with a keen eye and a stricter hand. Sextons, the lowliest rank, haul tithes to the lake port in creaking carts, their greed oft outweighing…"
+   },
+   "rank": 4,
+   "percentile": 14.0,
+   "score": 5
+  },
+  {
+   "name": "The Unknown Gods",
+   "aliases": [
+    "Unknown Gods"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 10,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…scavengers, these individuals spent far too long beneath the sea — trapped in wrecks, cursed by unknown gods, or \"kissed by the trench.\" Now, they are something less than human and more than drowned.…"
+   },
+   "rank": 4,
+   "percentile": 14.0,
+   "score": 5
+  },
+  {
+   "name": "Friar",
+   "aliases": [
+    "Friars"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 11,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…seen what their holy town does after dark — when the tonic kicks in and the masks slip. Their Friars cry, their Circs dance, and their merchants whisper to drowned things. Truth is, Providence…"
+   },
+   "rank": 6,
+   "percentile": 20.0,
+   "score": 9
+  },
+  {
+   "name": "The Apostles",
+   "aliases": [
+    "Apostles"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 7,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ceaseless toil lies a deeper rhythm, guided by the church of Patmos, where half the folk serve as Apostles, their jittery hands raised in ceaseless devotion. Their tithes—half of all earnings—flow…"
+   },
+   "rank": 7,
+   "percentile": 26.0,
+   "score": 13
+  },
+  {
+   "name": "The Monk Who Ne'er Slumber'd",
+   "aliases": [
+    "Monk Who Never Slumbered",
+    "Monk Who Ne'er Slumbered"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Providence The Chronicle of Providence: Scribed by a Humble Servant of Patmos The Tale of the Monk Who Ne'er Slumber'd In the year of our unknown gods, Stormtide, Keg 13, Bloodwake of the 66th cycle, by mine…"
+   },
+   "rank": 7,
+   "percentile": 26.0,
+   "score": 13
+  },
+  {
+   "name": "Baba Paku",
+   "aliases": [
+    "Babu Packo",
+    "Baby Pagu",
+    "Paku"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…without fail and is suffering from major lung cancer. Who knows how long hes got. ### Baba Paku A missionary from Owe Block sent out into the World to spread Unknownism. He is often found…"
+   },
+   "rank": 9,
+   "percentile": 34.0,
+   "score": 20
+  },
+  {
+   "name": "Circ",
+   "aliases": [
+    "Circs"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 3,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…town does after dark — when the tonic kicks in and the masks slip. Their Friars cry, their Circs dance, and their merchants whisper to drowned things. Truth is, Providence wears a crown…"
+   },
+   "rank": 9,
+   "percentile": 34.0,
+   "score": 20
+  },
+  {
+   "name": "Patmos's spire",
+   "aliases": [
+    "Patmos spire",
+    "the spire"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…we drink grog until we speak fluent storm, then we go steal what we want. They tithe to a spire. We toss our gold into a keg and drink 'til we forget we were ever poor. Politics? They Got…"
+   },
+   "rank": 11,
+   "percentile": 40.0,
+   "score": 25
+  },
+  {
+   "name": "Friar Leo",
+   "aliases": [
+    "Fr Leo",
+    "Leo"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…wrong type of booty has certainly been overheard after one too many tankards of grog. ### Friar Leo A friar who maintains a secret section of the Church of the Monk in Owe Block containing…"
+   },
+   "rank": 12,
+   "percentile": 46.0,
+   "score": 31
+  },
+  {
+   "name": "Kalifart",
+   "aliases": [
+    "Kalifarts"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…faces flushed from the tonic's heat, crafting each batch with chants to the unknown gods. The Kalifarts, rare as a sober night, dwell in lofty towers, scribbling variations of the tonic with quills…"
+   },
+   "rank": 12,
+   "percentile": 46.0,
+   "score": 31
+  },
+  {
+   "name": "Church of the Monk",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…one too many tankards of grog. ### Friar Leo A friar who maintains a secret section of the Church of the Monk in Owe Block containing forbidden documents about the Monk Who Ne'er Slumber'd. Seamus Bonehardy…"
+   },
+   "rank": 14,
+   "percentile": 52.0,
+   "score": 37
+  },
+  {
+   "name": "Bronco Chestnut",
+   "aliases": [
+    "Chestnut"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge. Some recent Liquor Kings have been said to exhibit \"Cromwellian\" tendencies. Bronco Chestnut: A follower of the Church of Patmos, Chestnut sought to make Aleforge more theocratic than…"
+   },
+   "rank": 15,
+   "percentile": 64.0,
+   "score": 51
+  },
+  {
+   "name": "Day of Hollow Tongues",
+   "aliases": [
+    "Hollow Tongues"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…founded on. Celebrated on Keeldrift in the 10th Keg of Veilfrost (day 323) The Day of Hollow Tongues: Based in Providence, observed on Keeldrift of the 9th Keg in goldsun (day 197) After…"
+   },
+   "rank": 15,
+   "percentile": 64.0,
+   "score": 51
+  },
+  {
+   "name": "Prayer every three hours",
+   "aliases": [
+    "prayers",
+    "bells"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ClockHeart Tonic, their eyes agleam with divine fervor—and a touch of madness, perchance! Every three hours, from Tidecall to Bloodwake, the grand Cardinal Addy's voice booms o'er the town, calling…"
+   },
+   "rank": 15,
+   "percentile": 64.0,
+   "score": 51
+  },
+  {
+   "name": "Saint",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…just a driftwood sermon by some tonic-made monk screamin' on a rock. The same monk they call \"Saint No-Snooze\" now? Yeah, he once tried to drink in the Great Tavern and passed out tryin' to…"
+   },
+   "rank": 15,
+   "percentile": 64.0,
+   "score": 51
+  },
+  {
+   "name": "The fifty percent tithe",
+   "aliases": [
+    "tithe",
+    "half of all earnings",
+    "50% tithe"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the folk serve as Apostles, their jittery hands raised in ceaseless devotion. Their tithes—half of all earnings—flow like a golden river into the church's coffers, fueling a cryptic agenda whispered only…"
+   },
+   "rank": 15,
+   "percentile": 64.0,
+   "score": 51
+  },
+  {
+   "name": "Feast of the Eternal Keg",
+   "aliases": [
+    "Eternal Keg"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their annual feast—Stormtide, Keg 5, Lagerhorn—strikes us as pagan revelry, a contrast to our Feast of the Eternal Keg. Some say their leaders, descended from Sackbeard's crew, still bear pirate blood, their gin-fueled…"
+   },
+   "rank": 20,
+   "percentile": 86.0,
+   "score": 80
+  },
+  {
+   "name": "Festival of the Red Tide",
+   "aliases": [
+    "Red Tide"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…strength. Once a year, on the Ascension of the Lord in Goldsun, Keg 4, the port hosts the Festival of the Red Tide, where the townsfolk offer a tithe of tonic to the sea, its crimson waves said to bless the…"
+   },
+   "rank": 20,
+   "percentile": 86.0,
+   "score": 80
+  },
+  {
+   "name": "Hunk the Monk",
+   "aliases": [
+    "Hunk"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(ironically). The Guards have been keeping a watch on him for suspicious activity. ### Hunk the Monk Cardinal Addy's primary protector/secret service agent. While extremely dumb, he takes his…"
+   },
+   "rank": 20,
+   "percentile": 86.0,
+   "score": 80
+  },
+  {
+   "name": "Providas",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the more reclusive parts of Owe Block, but it currently only has a small following. Providas: Celebrated in Providence on Bloodwake in the 13th keg of stormtide (day 115). It is a commemoration…"
+   },
+   "rank": 20,
+   "percentile": 86.0,
+   "score": 80
+  },
+  {
+   "name": "The Hollow Ledger",
+   "aliases": [
+    "Hollow Ledger"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…valve dressed as ritual. Every rumor spoken that night is written down by a Friar and filed in the Hollow Ledger. A rumor that survives the night, believed by enough of the room, doesn't stay a rumor for…"
+   },
+   "rank": 20,
+   "percentile": 86.0,
+   "score": 80
+  },
+  {
+   "name": "Unknownism",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hes got. ### Baba Paku A missionary from Owe Block sent out into the World to spread Unknownism. He is often found in the strangest of places explaining to anyone who will listen the secrets…"
+   },
+   "rank": 20,
+   "percentile": 86.0,
+   "score": 80
+  },
+  {
+   "name": "Ascension of the Lord",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…shouts of traders, guarded by Apostles who wield tonic-fueled strength. Once a year, on the Ascension of the Lord in Goldsun, Keg 4, the port hosts the Festival of the Red Tide, where the townsfolk offer…"
+   },
+   "rank": 26,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

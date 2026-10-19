@@ -1,0 +1,410 @@
+{
+ "id": "games",
+ "prompt": "Name a game, contest or sport",
+ "blurb": "Ways the Isles compete, gamble, or settle things.",
+ "difficulty": "medium",
+ "gem": "Tic-tac-toe",
+ "answerCount": 20,
+ "answers": [
+  {
+   "name": "The Drunken Trials",
+   "aliases": [
+    "Drunken Trials"
+   ],
+   "mentions": {
+    "total": 53,
+    "compendium": 46,
+    "records": 7
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan),…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The gang wars",
+   "aliases": [
+    "gang war",
+    "gang warfare"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 2,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jagerbaugm. Unfortunately, their rival gang the Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner, Wagwan was very persuasive with his…"
+   },
+   "rank": 2,
+   "percentile": 5.3,
+   "score": 1
+  },
+  {
+   "name": "Tic-tac-toe",
+   "aliases": [
+    "tic tac toe"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…he swore, staggering blind, As puzzles mocked his weakened mind. TV manuals, books, and tic-tac-toe, He searched high and low, incredibly slow. Then—behold!—on the TV clear as day, An ID…"
+   },
+   "rank": 3,
+   "percentile": 10.5,
+   "score": 3
+  },
+  {
+   "name": "The Cloister's magical lights",
+   "aliases": [
+    "magical lights",
+    "light up dice",
+    "lights in the wall"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "there are magical lights which are used to determine the fate of those who put their trust in them",
+    "note": "The lights in the Cloister hillside that decide the fate of those who trust them."
+   },
+   "rank": 4,
+   "percentile": 15.8,
+   "score": 6
+  },
+  {
+   "name": "Beckoning the New Brews",
+   "aliases": [
+    "Beckoning The New Brews"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a new brew they've been working on. Additionally Once a year they hold a festival called \"Beckoning The New Brews\" where the young present their first brew. This is a coming of age ceremony where the young…"
+   },
+   "rank": 5,
+   "percentile": 36.8,
+   "score": 22
+  },
+  {
+   "name": "Chicken jockey",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…wearing nike dunks in Owe Block. We lost the battle that night. In the morning we played chicken jockey, a local game about shooting white animals, a parable perhaps? Good thing everyone still thought…"
+   },
+   "rank": 5,
+   "percentile": 36.8,
+   "score": 22
+  },
+  {
+   "name": "Chug a beer on camera",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…invite you to dinner tonight. Please tell the messenger yes or no. Yes: dinner with rollo No: chug a beer on camera in under 20 seconds (which costs money) the bastard veil The legends are true, the earth…"
+   },
+   "rank": 5,
+   "percentile": 36.8,
+   "score": 22
+  },
+  {
+   "name": "Day of Hollow Tongues",
+   "aliases": [
+    "Hollow Tongues"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…founded on. Celebrated on Keeldrift in the 10th Keg of Veilfrost (day 323) The Day of Hollow Tongues: Based in Providence, observed on Keeldrift of the 9th Keg in goldsun (day 197) After…"
+   },
+   "rank": 5,
+   "percentile": 36.8,
+   "score": 22
+  },
+  {
+   "name": "Pipe Club fights",
+   "aliases": [
+    "pipe club brawls",
+    "fights"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…as the police got more active I had to lay low. Went down to some place with a lotta pipe, lotta money bet on me fighting Guinnie. Unfortunately let the betters down and fell to the dildo. Its how…"
+   },
+   "rank": 5,
+   "percentile": 36.8,
+   "score": 22
+  },
+  {
+   "name": "The relic hunt",
+   "aliases": [
+    "relic hunt"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…explosive-specialists). What followed was a sprawling urban adventure involving gang warfare, relic hunting, and the unmasking of a corrupt Sexton. Seamus was a relic-hunting machine, navigating…"
+   },
+   "rank": 5,
+   "percentile": 36.8,
+   "score": 22
+  },
+  {
+   "name": "The Unholy Pilgrimage",
+   "aliases": [
+    "Unholy Pilgrimage"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…here that liquor was introduced to the isles and the peoples have rejoiced ever since. The Unholy Pilgrimage: The Unholy Pilgrimage: A classic celebration for all in the isles, this is celebrated on…"
+   },
+   "rank": 5,
+   "percentile": 36.8,
+   "score": 22
+  },
+  {
+   "name": "Ale Points",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…alcohol poisoning but carries potent mystical effects the more one drinks. Competitors track Ale Points throughout the event, usable to gain advantages or force others to drink. ## The Gilded Tankard…"
+   },
+   "rank": 12,
+   "percentile": 78.9,
+   "score": 70
+  },
+  {
+   "name": "Drink for drink",
+   "aliases": [
+    "drinking contest"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…For those who sail with Pilsner's men. ## Ode to the Six One night after trying to go drink for drink with a pirate crew from Shantytown, Seamus Bonehardy got a distant look in his eyes and started…"
+   },
+   "rank": 12,
+   "percentile": 78.9,
+   "score": 70
+  },
+  {
+   "name": "Gladiatorial games",
+   "aliases": [
+    "arena"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Town from the Hoegaarden Plains. Previously, this was the site of a vast arena for public gladiatorial games, although the arena was subsequently torn down with plans to rebuild elsewhere. -…"
+   },
+   "rank": 12,
+   "percentile": 78.9,
+   "score": 70
+  },
+  {
+   "name": "Olympics of Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Until we in paradise dine Verse III - The Goldsun of the kings' arrival Was marked by Olympics of Ale And though each man did strive for vict'ry Young Guinnie was first to prevail Soon…"
+   },
+   "rank": 12,
+   "percentile": 78.9,
+   "score": 70
+  },
+  {
+   "name": "Pin the Peen on Rollo",
+   "aliases": [
+    "pin the peen"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Low and behold, I peer out the window and all the other Liquor kings are outside playing pin the Peen on Rollo (a popular kids activity). So I walk out there just to get the lowdown when all of…"
+   },
+   "rank": 12,
+   "percentile": 78.9,
+   "score": 70
+  },
+  {
+   "name": "Shot-chess",
+   "aliases": [
+    "shot chess",
+    "chess"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aberama Bong Owner of the Fianchetto Chess bar in the Cardinal Circle, and the moderator of the Shot-Chess association. ### Pope Used to be a big time mafia man working at the Buenacera Italian…"
+   },
+   "rank": 12,
+   "percentile": 78.9,
+   "score": 70
+  },
+  {
+   "name": "The chugging competition",
+   "aliases": [
+    "chugging competition",
+    "17 pints"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…sea to the shores of aleforge once again and got a ticket to participate in the trials via chugging competition, where I chugged 17 pints of brew in 180 seconds, cementing my place in the competition.…"
+   },
+   "rank": 12,
+   "percentile": 78.9,
+   "score": 70
+  },
+  {
+   "name": "The rap competition",
+   "aliases": [
+    "rap battle",
+    "rap contest"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Wagwan's afterwards to take the edge off. Littl did I know wagwan would have us competing in a rap competition. Homie after homie, the bars kept getting better. I had to step up to the plate after embarrassing…"
+   },
+   "rank": 12,
+   "percentile": 78.9,
+   "score": 70
+  },
+  {
+   "name": "Three-cup monte",
+   "aliases": [
+    "three cup monte"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…a rickety table between us and set down three dented tin cups, challenging me to a game of three-cup monte. \"Pick the right one, lad, and you'll win big!\" he cackled, shuffling a pebble between the…"
+   },
+   "rank": 12,
+   "percentile": 78.9,
+   "score": 70
+  }
+ ]
+}

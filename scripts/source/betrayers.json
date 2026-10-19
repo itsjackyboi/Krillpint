@@ -1,0 +1,28 @@
+{
+  "id": "betrayers",
+  "prompt": "Name someone who betrayed someone",
+  "blurb": "Mutineers, embezzlers, double agents, and one Veilwalker who broke her vow.",
+  "difficulty": "hard",
+  "gem": "The Lagendale militia",
+  "answers": [
+    {"ref": "Gideon Drake", "obscurity": 1},
+    {"ref": "Sackbeard"},
+    {"ref": "Jack Anqoak"},
+    {"ref": "Susan Plinket", "obscurity": 1},
+    {"ref": "John Rump"},
+    {"ref": "Gilligan Rape"},
+    {"ref": "Edmond Blackmoor"},
+    {"ref": "Sexton Gobbler"},
+    {"ref": "The female Veilwalker"},
+    {"name": "The Lagendale militia", "aliases": ["militia", "the militia"], "count": ["re:(?i)militia that had protected"]},
+    {"ref": "The Rotted Soul"},
+    {"ref": "The Veilwalker Elders"},
+    {"ref": "Pius"},
+    {"ref": "Afanasi"},
+    {"ref": "Jameson Pilsner"},
+    {"ref": "Seamus Bonehardy"},
+    {"ref": "Rollo"},
+    {"ref": "Maximilian"},
+    {"ref": "Fentmaxxer"}
+  ]
+}

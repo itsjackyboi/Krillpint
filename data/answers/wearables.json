@@ -1,0 +1,485 @@
+{
+ "id": "wearables",
+ "prompt": "Name something you can wear",
+ "blurb": "Armor, crowns, durags, suits, scarves, and one cloak of human skin.",
+ "difficulty": "medium",
+ "gem": "The blue yarmulke",
+ "answerCount": 24,
+ "answers": [
+  {
+   "name": "Durag",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 2,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…obligatory tithe was reduced to twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets. ## Concept V: Stewards of Aleforge Run by Jack.…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Hazmat Suit",
+   "aliases": [],
+   "mentions": {
+    "total": 10,
+    "compendium": 2,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…skeleton was found inside the prison, along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction…"
+   },
+   "rank": 2,
+   "percentile": 4.3,
+   "score": 1
+  },
+  {
+   "name": "The copper scarf",
+   "aliases": [
+    "copper scarf",
+    "copper-colored scarf",
+    "scarf"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 4,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…brother Rum, he marked a visiting merchant carrying a loose coin purse and a copper-colored scarf. He approached with charm, asked after the scarf, offered a drink for the story, and lifted…"
+   },
+   "rank": 3,
+   "percentile": 8.7,
+   "score": 3
+  },
+  {
+   "name": "Liquor Crown",
+   "aliases": [
+    "Liquor Crowns",
+    "crown"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his spectacular drunkenness, and Nathan, having been forced to play sober…"
+   },
+   "rank": 4,
+   "percentile": 13.0,
+   "score": 5
+  },
+  {
+   "name": "Prayer robes",
+   "aliases": [
+    "robes",
+    "robe"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 3,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…in the Great Tavern and passed out tryin' to convert the urinal. We dragged him out by his robes and he shouted \"Order!\" so many times we named a barstool after him. The Order still owes…"
+   },
+   "rank": 5,
+   "percentile": 17.4,
+   "score": 7
+  },
+  {
+   "name": "Nike Dunks",
+   "aliases": [
+    "Nikes",
+    "Dunks"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets. ## Concept V: Stewards of Aleforge Run by Jack. The Kings learn to govern…"
+   },
+   "rank": 6,
+   "percentile": 23.9,
+   "score": 12
+  },
+  {
+   "name": "The shrine armor sets",
+   "aliases": [
+    "armor sets",
+    "mystical armor",
+    "shrine armor"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and now all that is left are crumbling ancient shrines with valuables hidden within. Each set of armor is unique, and is separated into 4 pieces, as of now, nobody has a full set It can be surmised…"
+   },
+   "rank": 6,
+   "percentile": 23.9,
+   "score": 12
+  },
+  {
+   "name": "Bandanas",
+   "aliases": [
+    "bandana"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…didn't know much but dammit i was ready and willing to brutally murder anyone who had a blue bandana on. Our first task, mining. I was brutalized by a few zombies in the mines but eventually…"
+   },
+   "rank": 8,
+   "percentile": 41.3,
+   "score": 27
+  },
+  {
+   "name": "Elytra",
+   "aliases": [
+    "Elytra wings"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…solution was to close the portal using the artifacts. Jagerbauhm took the artifacts and, using Elytra wings and a firecracker, flew to the Dread Harrow and fought through Sackbeard's crew to reach the…"
+   },
+   "rank": 8,
+   "percentile": 41.3,
+   "score": 27
+  },
+  {
+   "name": "Netherite equipment",
+   "aliases": [
+    "netherite"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…miniboss fight against Fentmaxxer and his illusionist forces followed. The Kings won, claiming netherite equipment as their reward and gaining information about the MAA's underground lair. The MAA…"
+   },
+   "rank": 8,
+   "percentile": 41.3,
+   "score": 27
+  },
+  {
+   "name": "Sandals",
+   "aliases": [
+    "the priests' sandals"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Book 6 & 7: Our gods have abandoned us. Our priests are gone. They were not killed. Their sandals were still by the temple doors. We dare not move them Book 8: He stopped speaking months…"
+   },
+   "rank": 8,
+   "percentile": 41.3,
+   "score": 27
+  },
+  {
+   "name": "Skin of the 138",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Rotted Soul's herald, whose words were considered poison. Paired with the Book of Blasphemy. Skin of the 138 — The rotten flesh of the 138 council members slaughtered in the Rotted Soul's takeover. He…"
+   },
+   "rank": 8,
+   "percentile": 41.3,
+   "score": 27
+  },
+  {
+   "name": "The fine suede cloak",
+   "aliases": [
+    "suede cloak",
+    "cloak"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"Not this time, my dears.\" Verse III – The Cursed Chamber Led by Max, a madman in fine suede cloak, To caves and dens where mere mortals choke. Into a chamber of \"water\" they'd dive— Jameson…"
+   },
+   "rank": 8,
+   "percentile": 41.3,
+   "score": 27
+  },
+  {
+   "name": "The blue yarmulke",
+   "aliases": [
+    "yarmulke"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…once we got there the neighborhood seemed like a pretty nice place. They even gave me a blue yarmulke so I could be affiliated with their group of friends. This place is so inclusive! We went…"
+   },
+   "rank": 14,
+   "percentile": 56.5,
+   "score": 42
+  },
+  {
+   "name": "Britches",
+   "aliases": [
+    "pants"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…days, by his account, dangling rear-first over split mountains and old forests, until his britches failed under the strain and dropped him into the woods with nothing left but scraps of cloth…"
+   },
+   "rank": 15,
+   "percentile": 76.1,
+   "score": 66
+  },
+  {
+   "name": "Diamond boots",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…forgiven the Kings for their victory. The Kings were welcomed back with gifts: Stephan received diamond boots for his historic two-trial winning streak, Buke received a diamond sword as the newly crowned…"
+   },
+   "rank": 15,
+   "percentile": 76.1,
+   "score": 66
+  },
+  {
+   "name": "Diamond liquor crown",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…winning streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his spectacular drunkenness, and Nathan, having been forced to play sober…"
+   },
+   "rank": 15,
+   "percentile": 76.1,
+   "score": 66
+  },
+  {
+   "name": "Iron chestplate",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…drunkenness, and Nathan, having been forced to play sober due to circumstances, was stripped of an iron chestplate as punishment from above. Ben received a full protection-enchanted armor set for arriving…"
+   },
+   "rank": 15,
+   "percentile": 76.1,
+   "score": 66
+  },
+  {
+   "name": "Jagerbauhm's suit",
+   "aliases": [
+    "suit"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…was shamelessly holding onto did the rest… And now I'm here…in the bathroom…throwing up on my suit because I have to give a speech in a second. Luckily, someone named \"V\" wrote this humble…"
+   },
+   "rank": 15,
+   "percentile": 76.1,
+   "score": 66
+  },
+  {
+   "name": "Protection-enchanted armor",
+   "aliases": [
+    "protection armor"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…circumstances, was stripped of an iron chestplate as punishment from above. Ben received a full protection-enchanted armor set for arriving late. The investigation unfolded across multiple fronts. The Kings explored…"
+   },
+   "rank": 15,
+   "percentile": 76.1,
+   "score": 66
+  },
+  {
+   "name": "Sackbeard's Armor",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- Durag - Blicky (also: Blinky) - Nike Dunks - Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden…"
+   },
+   "rank": 15,
+   "percentile": 76.1,
+   "score": 66
+  },
+  {
+   "name": "The captain's coat",
+   "aliases": [
+    "coat"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…'em, all sly-like, but the Veilwalkers, wise as the deep, spied the black heart beneath his captain's coat and refused to spill their secrets. \"Nay!\" roared Sackbeard, and he'd not sail off empty-handed.…"
+   },
+   "rank": 15,
+   "percentile": 76.1,
+   "score": 66
+  },
+  {
+   "name": "Armor of cursed bone",
+   "aliases": [
+    "bone armor",
+    "cursed bone armor"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…burning flesh and black bones. Maximillian was waiting for us. the god of demons, Cloaked in armor made from the same cursed bone as his minions. Their purpose was simple: destroy us endlessly until our minds broke and our…"
+   },
+   "rank": 23,
+   "percentile": 97.8,
+   "score": 97
+  },
+  {
+   "name": "Dulamon's chestplate",
+   "aliases": [
+    "chestplate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…blade, the Rotten Blade, which is exactly as pleasant to carry as the name suggests. I wore his chestplate, still warm from him in a way that chestplates should not be warm. These are mine now. I earned…"
+   },
+   "rank": 23,
+   "percentile": 97.8,
+   "score": 97
+  }
+ ]
+}

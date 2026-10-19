@@ -1,0 +1,429 @@
+{
+ "id": "place-gilded-tankard",
+ "prompt": "Name something tied to the Gilded Tankard",
+ "blurb": "Aleforge's great inn and brewery, home of the Drunken Trials' ale.",
+ "difficulty": "medium",
+ "gem": "Names etched in the walls",
+ "answerCount": 20,
+ "answers": [
+  {
+   "name": "Jack Anqoak",
+   "aliases": [
+    "Anqoak",
+    "Jack",
+    "Anqok",
+    "Anquok",
+    "Jack Anquoke",
+    "Oracle of Aleforge",
+    "Jack and Coke"
+   ],
+   "mentions": {
+    "total": 142,
+    "compendium": 74,
+    "records": 68
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Jagerbauhm",
+   "aliases": [
+    "Jagerbaum",
+    "Jagerbaugm",
+    "Jagerbaumdani",
+    "Jaugerbomb",
+    "Ben",
+    "Drunken Angel",
+    "Lager Duke"
+   ],
+   "mentions": {
+    "total": 70,
+    "compendium": 28,
+    "records": 42
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts…"
+   },
+   "rank": 2,
+   "percentile": 5.3,
+   "score": 1
+  },
+  {
+   "name": "The Drunken Trials",
+   "aliases": [
+    "Drunken Trials"
+   ],
+   "mentions": {
+    "total": 53,
+    "compendium": 46,
+    "records": 7
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan),…"
+   },
+   "rank": 3,
+   "percentile": 10.5,
+   "score": 3
+  },
+  {
+   "name": "Rollo",
+   "aliases": [],
+   "mentions": {
+    "total": 45,
+    "compendium": 22,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…happy to buy these bonds and a large influx of money has now hit the Aleforge ledger. ### Rollo Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends…"
+   },
+   "rank": 4,
+   "percentile": 15.8,
+   "score": 6
+  },
+  {
+   "name": "Glub Tuppus Wepple",
+   "aliases": [
+    "Wepple",
+    "Glub",
+    "Glub Tuppus"
+   ],
+   "mentions": {
+    "total": 35,
+    "compendium": 23,
+    "records": 12
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…away. This upset Blackmoor and after sitting in his anger and drinking at the Brewery owned by Glub Tuppus Wepple he went back to the cloister in a drunken stupor and killed the old prophet. He left a book…"
+   },
+   "rank": 5,
+   "percentile": 21.1,
+   "score": 10
+  },
+  {
+   "name": "Goldcoral Incorporated",
+   "aliases": [
+    "Goldcoral",
+    "Goldcoral Inc"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 14,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley is a subsidiary of Goldcoral Incorporated A small cave entrance off the coast of Vodkonia leads to the site of an ancient…"
+   },
+   "rank": 6,
+   "percentile": 26.3,
+   "score": 13
+  },
+  {
+   "name": "Old Salty",
+   "aliases": [
+    "Salty"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 10,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "unofficial residence at the Gilded Tankard",
+    "note": "Officially a Shanty Town resident, but practically lives at the Gilded Tankard."
+   },
+   "rank": 7,
+   "percentile": 31.6,
+   "score": 18
+  },
+  {
+   "name": "Edmond Blackmoor",
+   "aliases": [
+    "Blackmoor",
+    "Edmund Blackmoor"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their arrival. He never met the liquor kings, however, as a great and pompous adventurer named Edmond Blackmoor came to the cloister to fight the beast and the Prophet turned him away. This upset Blackmoor…"
+   },
+   "rank": 8,
+   "percentile": 36.8,
+   "score": 22
+  },
+  {
+   "name": "The town square",
+   "aliases": [
+    "town square",
+    "main square"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Beast and constructed the Shelled Tavern. Frenic built the Sackbeard Memorial Well in the town square. Trodon Hallis: The last member of the Hallis Dynasty. Trodon was a weak and sickly man…"
+   },
+   "rank": 9,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "Wepple's gambling",
+   "aliases": [
+    "gambling",
+    "gambled"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 5,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge, Mr. Anqoak severely beat Wepple and stole his entire supply of ale after Wepple had gambled and lost a large sum of investment money from Mr. Anqoak's company, Goldcoral Incorporated.…"
+   },
+   "rank": 9,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "Gregor Ashford",
+   "aliases": [
+    "Gregor",
+    "Greg Ashford"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Montfort although it was clear that somebody or something had indeed been in the New Haven. ### Gregor Ashford A bard who sings at the Gilded Tankard, often too drunk to play well. He knows a lot of gossip…"
+   },
+   "rank": 11,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "The Beggar",
+   "aliases": [
+    "Beggar"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…past. Makes you wonder how much he really knows. Makes you wonder if he even is human? ### The Beggar The beggar is the illegitimate son of Glub Tuppus Wepple and is therefore not eligible to…"
+   },
+   "rank": 11,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "Glub Tuppus Wepple's new brew",
+   "aliases": [
+    "new brew",
+    "secret brew"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "He is currently developing a new brew in secret",
+    "note": "Wepple is quietly brewing something new while stuck at the Grog Galley."
+   },
+   "rank": 13,
+   "percentile": 63.2,
+   "score": 50
+  },
+  {
+   "name": "Raise the Crown, Raise the Cup",
+   "aliases": [
+    "Raise the Crown"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…guide to the shore Six will make the journey final And knock on fate's perilous door ## Raise the Crown, Raise the Cup An Anthem For The Drunken Trials [Verse 1] Gather close and raise your cups,…"
+   },
+   "rank": 14,
+   "percentile": 73.7,
+   "score": 63
+  },
+  {
+   "name": "The brewing facility",
+   "aliases": [
+    "brewery",
+    "brewing facilities"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge government has granted the gilded tankard a significant amount of money to upgrade it's brewing facilities with the goal of increasing production and exports. Some of the townsfolk are uneasy with…"
+   },
+   "rank": 14,
+   "percentile": 73.7,
+   "score": 63
+  },
+  {
+   "name": "The magical spring",
+   "aliases": [
+    "spring",
+    "magical spring"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…brewmaster deity was saved by the town's founders, and in return, he blessed the town with a spring that flows with the finest ale. The deity enjoys revelry, cheer, and the occasional chaos, and so decreed…"
+   },
+   "rank": 14,
+   "percentile": 73.7,
+   "score": 63
+  },
+  {
+   "name": "Gilded Tankard Grant",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of cheap grog, however, to protect Aleforges key export until other industries have grown. Gilded Tankard Grant: The Aleforge government has granted the gilded tankard a significant amount of money to upgrade…"
+   },
+   "rank": 17,
+   "percentile": 84.2,
+   "score": 77
+  },
+  {
+   "name": "Ale Points",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…alcohol poisoning but carries potent mystical effects the more one drinks. Competitors track Ale Points throughout the event, usable to gain advantages or force others to drink. ## The Gilded Tankard…"
+   },
+   "rank": 18,
+   "percentile": 92.1,
+   "score": 88
+  },
+  {
+   "name": "Wepple Ale",
+   "aliases": [
+    "Wepple's ale"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…hearing this news, Anqoak severely beat Glub Tuppus Wepple and stole the entire supply of Wepple Ale, giving to his company as new inventory. Currently, this inventory is being sold in secret…"
+   },
+   "rank": 18,
+   "percentile": 92.1,
+   "score": 88
+  },
+  {
+   "name": "Names etched in the walls",
+   "aliases": [
+    "names on the walls",
+    "etched names"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…strength, and endurance. The winner is crowned Liquor King for the year and their name is etched into the walls of the Gilded Tankard. The ale served during the Trials is brewed by Glub Tuppus Wepple from…"
+   },
+   "rank": 20,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

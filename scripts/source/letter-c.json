@@ -1,0 +1,10 @@
+{
+  "id": "letter-c",
+  "prompt": "Name anything from the lore starting with C",
+  "blurb": "A person, place, thing, event or title. Leading \"The\" doesn't count, so The Cloister is a C.",
+  "difficulty": "easy",
+  "gem": "The clock-heart thing",
+  "derive": {
+    "letter": "C"
+  }
+}

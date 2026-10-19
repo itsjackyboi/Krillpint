@@ -1,0 +1,28 @@
+{
+  "id": "tied-thatcher",
+  "prompt": "Name something tied to Thomas Thatcher",
+  "blurb": "Aleforge's beloved mayor, and the Kings' most famous mistake.",
+  "difficulty": "medium",
+  "gem": "Variable brewers tax",
+  "answers": [
+    {"ref": "Thomas Thatcher Sr."},
+    {"ref": "The cage under the well", "obscurity": 1},
+    {"ref": "Fentmaxxer's Observatory"},
+    {"ref": "Fentmaxxer"},
+    {"ref": "Killdeath Peak"},
+    {"ref": "Thatcher's Last Toast"},
+    {"ref": "Thomas Thatcher Memorial Scholarship"},
+    {"ref": "Thatcher Memorial"},
+    {"ref": "The Long Thirst"},
+    {"ref": "The Drunken Trials"},
+    {"ref": "Gideon Drake"},
+    {"name": "Variable brewers tax", "aliases": ["variable tax rate"], "count": ["re:(?i)variable tax rate"]},
+    {"ref": "Guisepee"},
+    {"ref": "The Cloister Beast"},
+    {"ref": "MAA"},
+    {"ref": "Aleforge Memorial Museum"},
+    {"ref": "The six-way tie"},
+    {"ref": "An Ode to the Liquor Kings"},
+    {"ref": "Plinket's talking points"}
+  ]
+}
