@@ -151,7 +151,8 @@ h2.title {
 .answer-form { display: grid; gap: 0.6rem; }
 .answer-form label { font-size: var(--step--1); color: var(--muted); }
 .input-row { display: flex; gap: 0.5rem; }
-.input-row input { flex: 1; min-width: 0; }
+.input-row input { flex: 1; min-width: 0; width: 100%; }
+.card, .answer-form { grid-template-columns: minmax(0, 1fr); }
 input[type="text"], input[type="date"] {
   font: inherit;
   font-size: var(--step-1);
@@ -266,37 +267,26 @@ input:focus-visible { border-color: var(--amber); outline-offset: 1px; }
 .score-unit { font-family: var(--font-mono); font-size: var(--step--1); color: var(--muted); }
 .your { margin: 0; font-size: var(--step-1); }
 .your .name { font-family: var(--font-display); font-size: var(--step-2); }
-.facts { margin: 0; font-family: var(--font-mono); font-size: var(--step--1); color: var(--muted); }
-.evidence {
-  margin: 0; padding-left: 0.8rem; border-left: 2px solid var(--line);
-  font-family: var(--font-display); font-style: italic; color: var(--muted); font-size: 0.95rem;
-  overflow-wrap: anywhere;
-}
-.evidence cite { display: block; font-family: var(--font-mono); font-style: normal; font-size: 0.6875rem; margin-top: 0.25rem; }
 
-.gem-box {
-  display: grid; gap: 0.3rem; padding: 0.8rem 0.9rem; border-radius: 8px;
-  border: 1px solid rgba(242,207,126,0.4);
-  background: linear-gradient(135deg, rgba(242,207,126,0.12), rgba(242,207,126,0.02));
-}
-.gem-box .gem-name { font-family: var(--font-display); font-size: var(--step-1); color: var(--gem); }
-.gem-box p { margin: 0; }
-.gem-box .facts { color: var(--muted); }
 
-.deep-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.15rem; }
-.deep-list li {
-  display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 0.75rem; align-items: baseline;
-  padding: 0.4rem 0; border-bottom: 1px solid rgba(234,166,74,0.1);
+
+.callout {
+  margin: 0; justify-self: start; padding: 0.35rem 0.7rem; border-radius: 999px;
+  font-weight: 700; font-size: var(--step--1);
+  color: var(--night); background: var(--amber);
 }
-.deep-list li:last-child { border-bottom: 0; }
-.deep-list .n { overflow-wrap: anywhere; }
-.deep-list .s { font-family: var(--font-mono); font-size: var(--step--1); color: var(--amber); font-variant-numeric: tabular-nums; }
-.deep-list .mine .n { color: var(--amber); }
-.tag {
-  display: inline-block; margin-left: 0.4rem; padding: 0 0.35rem; border-radius: 4px;
-  font-family: var(--font-mono); font-size: 0.6875rem; vertical-align: 0.1em;
-  border: 1px solid var(--line); color: var(--muted);
+.callout.gem { background: var(--gem); }
+
+/* Question clock */
+.prompt-head { display: flex; justify-content: space-between; align-items: baseline; gap: 0.75rem; }
+.clock {
+  margin: 0; font-family: var(--font-mono); font-size: var(--step-1); font-weight: 500;
+  color: var(--amber); font-variant-numeric: tabular-nums;
 }
+.clock.urgent { color: var(--ember); }
+.clock-bar { height: 4px; border-radius: 2px; background: var(--oak); overflow: hidden; margin-top: -0.5rem; }
+.clock-bar span { display: block; height: 100%; background: var(--amber); transition: width 200ms linear; }
+.clock-bar.urgent span { background: var(--ember); }
 
 /* Summary */
 .summary-head { display: grid; gap: 0.3rem; }

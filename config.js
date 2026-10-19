@@ -1,4 +1,4 @@
-// Deep Pour site settings. Edit these after deploying the leaderboard.
+// DeepPint site settings. Edit these after deploying the leaderboard.
 window.DEEP_POUR_CONFIG = {
   // Google Apps Script web app URL (ends in /exec). Leave empty to hide the leaderboard.
   leaderboardUrl: "",

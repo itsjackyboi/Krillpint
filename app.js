@@ -1,4 +1,4 @@
-/* Deep Pour: a daily Pintland Isles trivia game. No framework, no build step.
+/* DeepPint: a daily Pintland Isles trivia game. No framework, no build step.
    Data comes from /data (built by scripts/build.py). Progress lives in localStorage. */
 (() => {
   "use strict";
@@ -9,7 +9,16 @@
   const NAME_KEY = "deep-pour:name";
   const TEST_DATE_KEY = "deep-pour:test-date";
   const MAX_ATTEMPTS = 3; // first try + 2 retries
-  const BLOCKS = "▁▂▃▄▅▆▇█";
+  const QUESTION_SECONDS = 25;
+  // One emoji per question in the share message, by the depth that answer reached.
+  const LAYERS = [
+    { min: 80, emoji: "💎" }, // rarest depths
+    { min: 60, emoji: "🦑" }, // deep water
+    { min: 40, emoji: "🐟" }, // shallows
+    { min: 20, emoji: "🍺" }, // the pint
+    { min: 0, emoji: "🫧" },  // foam: a valid answer everyone knows
+  ];
+  const layerEmoji = (r) => (r.answer ? LAYERS.find((l) => r.score >= l.min).emoji : "❌"); // ❌ missed, passed or out of time
 
   const TIERS = [
     { min: 0, name: "Sea Foam", line: "Barely past the head. Everyone knows these." },
@@ -31,6 +40,7 @@
   let ctx = null; // { date, dayIndex, picks, cats, state, isToday }
   let ui = {}; // transient per-prompt UI state
   let countdownTimer = null;
+  let questionTimer = null;
 
   /* ---------- storage (never trusted to exist) ---------- */
   const store = {
@@ -192,7 +202,7 @@
   /* ---------- state ---------- */
   const stateKey = (date) => STATE_PREFIX + date;
   function freshState(date, picks) {
-    return { date, picks, started: false, idx: 0, results: [], misses: [0, 0, 0, 0, 0], guesses: [[], [], [], [], []], done: false, posted: false };
+    return { date, picks, started: false, idx: 0, results: [], misses: [0, 0, 0, 0, 0], clock: [], guesses: [[], [], [], [], []], done: false, posted: false };
   }
   function saveState() { store.set(stateKey(ctx.date), ctx.state); }
 
@@ -205,6 +215,7 @@
   function announce(text) { const el = $("#announce"); el.textContent = ""; setTimeout(() => { el.textContent = text; }, 30); }
   function setView(html, focusSel) {
     clearInterval(countdownTimer);
+    clearInterval(questionTimer);
     main.innerHTML = html;
     const target = focusSel ? main.querySelector(focusSel) : null;
     if (target) target.focus({ preventScroll: false });
@@ -224,7 +235,7 @@
     const el = $("#tracker");
     el.innerHTML = ctx.picks.map((_, i) => {
       const r = ctx.state.results[i];
-      const cls = [r ? "done" : "", r && r.score === 0 ? "miss" : "", !ctx.state.done && i === ctx.state.idx && ctx.state.started ? "current" : ""].join(" ").trim();
+      const cls = [r ? "done" : "", r && !r.answer ? "miss" : "", !ctx.state.done && i === ctx.state.idx && ctx.state.started ? "current" : ""].join(" ").trim();
       const label = r ? `Pour ${i + 1}: ${r.score} depth` : `Pour ${i + 1}: not poured yet`;
       return `<li class="${cls}" aria-label="${esc(label)}"><span class="fill" style="height:${r ? Math.max(4, r.score) : 0}%"></span><span class="num">${r ? r.score : i + 1}</span></li>`;
     }).join("");
@@ -257,9 +268,10 @@
         <h2 class="title" id="intro-title">How deep do you know the Isles?</h2>
         <ol class="rules">
           <li>Five prompts, the same for everyone today. One answer each.</li>
+          <li>You get ${QUESTION_SECONDS} seconds per prompt, starting the moment it appears. Run out and it scores zero.</li>
           <li>Obvious answers barely count. The rarer your answer is in the lore, the deeper it scores.</li>
           <li>Miss, and you get two more tries. Then the pour scores zero.</li>
-          <li>Each prompt hides one gem. Land it if you can.</li>
+          <li>Each prompt hides one gem. You'll only hear about it if you land it.</li>
         </ol>
         <p class="blurb">Today's pours: ${esc(lineup)}.</p>
         <div class="row"><button type="button" class="btn" id="start">Start pouring</button></div>
@@ -272,9 +284,20 @@
     });
   }
 
+  // The clock starts the first time a question is shown and is stored with the day's
+  // progress, so reloading or leaving the page doesn't stop it.
+  function secondsLeft(i) {
+    const startedAt = ctx.state.clock[i];
+    if (!startedAt) return QUESTION_SECONDS;
+    return Math.max(0, QUESTION_SECONDS - (Date.now() - startedAt) / 1000);
+  }
+
   function renderPrompt() {
     const i = ctx.state.idx;
     const cat = ctx.cats[i];
+    if (!ctx.state.clock) ctx.state.clock = [];
+    if (!ctx.state.clock[i]) { ctx.state.clock[i] = Date.now(); saveState(); }
+    if (secondsLeft(i) <= 0) { finalize({ status: "timeout", answer: null, score: 0, input: "" }); return; }
     const left = MAX_ATTEMPTS - ctx.state.misses[i];
     const msg = ui.message ? `<p class="notice" role="alert">${ui.message}</p>` : "";
     const confirm = ui.confirm ? `
@@ -287,7 +310,11 @@
       </div>` : "";
     setView(`
       <section class="card" aria-labelledby="prompt-title">
-        <p class="eyebrow">Pour ${i + 1} of 5 · ${DIFF_LABEL[cat.difficulty]}</p>
+        <div class="prompt-head">
+          <p class="eyebrow">Pour ${i + 1} of 5 · ${DIFF_LABEL[cat.difficulty]}</p>
+          <p class="clock" id="clock" role="timer" aria-label="Seconds left"><span id="clock-num">${Math.ceil(secondsLeft(i))}</span>s</p>
+        </div>
+        <div class="clock-bar" aria-hidden="true"><span id="clock-bar" style="width:${(secondsLeft(i) / QUESTION_SECONDS) * 100}%"></span></div>
         <h2 class="prompt" id="prompt-title">${esc(cat.prompt)}</h2>
         <p class="blurb">${esc(cat.blurb)}</p>
         <form class="answer-form" id="answer-form" autocomplete="off" novalidate>
@@ -316,6 +343,32 @@
       });
       $("#confirm-no").addEventListener("click", () => { ui.confirm = null; ui.message = ""; renderPrompt(); });
     }
+    startQuestionClock(i);
+  }
+
+  function startQuestionClock(i) {
+    const num = $("#clock-num");
+    const bar = $("#clock-bar");
+    const clock = $("#clock");
+    let lastWhole = Math.ceil(secondsLeft(i));
+    const tick = () => {
+      if (ctx.state.results[i]) { clearInterval(questionTimer); return; }
+      const left = secondsLeft(i);
+      const whole = Math.ceil(left);
+      num.textContent = whole;
+      bar.style.width = `${(left / QUESTION_SECONDS) * 100}%`;
+      clock.classList.toggle("urgent", left <= 5);
+      bar.parentElement.classList.toggle("urgent", left <= 5);
+      if (whole !== lastWhole && (whole === 10 || whole === 5)) announce(`${whole} seconds left`);
+      lastWhole = whole;
+      if (left <= 0) {
+        clearInterval(questionTimer);
+        finalize({ status: "timeout", answer: null, score: 0, input: $("#answer")?.value.trim() || "" });
+      }
+    };
+    clearInterval(questionTimer);
+    questionTimer = setInterval(tick, 200);
+    tick();
   }
 
   function submitAnswer(raw) {
@@ -346,6 +399,8 @@
 
   function finalize(result) {
     const i = ctx.state.idx;
+    if (ctx.state.results[i]) return; // the clock and a click can race
+    clearInterval(questionTimer);
     result.attempts = ctx.state.misses[i] + (result.status === "scored" ? 1 : 0);
     ctx.state.results[i] = result;
     saveState();
@@ -360,33 +415,18 @@
     const before = fathomsFor(totalScore(ctx.state.results.slice(0, i)));
     const after = fathomsFor(totalScore(ctx.state.results.slice(0, i + 1)));
     const answer = r.answer ? cat.answers.find((a) => a.name === r.answer) : null;
-    const gem = cat.answers.find((a) => a.name === cat.gem);
-    const n = cat.answers.length;
-    const deepest = cat.answers.slice(-5).reverse();
     const last = i === ctx.picks.length - 1;
+    const rarest = answer && cat.answers.slice(-5).some((a) => a.name === answer.name);
+    const hitGem = answer && answer.name === cat.gem;
 
-    let yours;
-    if (answer) {
-      const mentionText = answer.mentions.total === 0 ? "never named outright" : `named ${answer.mentions.total}× in the lore`;
-      const ev = answer.evidence;
-      const evidence = ev ? `<blockquote class="evidence">“${esc(ev.text)}”<cite>${ev.source === "inferred" ? `Inferred · ${esc(ev.note)}` : esc(ev.source)}</cite></blockquote>` : "";
-      yours = `
-        <p class="your">You poured <span class="name">${esc(answer.name)}</span>${answer.inferred ? '<span class="tag">inferred</span>' : ""}</p>
-        <p class="facts">#${answer.rank} of ${n}, most common first · rarer than ${Math.round(answer.percentile)}% · ${mentionText}</p>
-        ${evidence}`;
-    } else {
-      const why = r.status === "passed" ? "You passed." : `Three misses${r.input ? `, last was “${esc(r.input)}”` : ""}.`;
-      yours = `<p class="your">${why} This pour scores zero.</p>`;
-    }
-    const hitGem = answer && gem && answer.name === gem.name;
-    const gemBox = gem ? `
-      <div class="gem-box">
-        <h3 class="label">${hitGem ? "You found the gem" : "The gem"}</h3>
-        <p class="gem-name">★ ${esc(gem.name)} <span class="tag">${gem.score} depth</span></p>
-        ${gem.evidence && !hitGem ? `<p class="facts">${esc(gem.evidence.source === "inferred" ? gem.evidence.note : gem.evidence.text)}</p>` : ""}
-        ${hitGem ? `<p class="facts">The answer we hoped someone would reach for.</p>` : ""}
-      </div>` : "";
-    const list = deepest.map((a) => `<li class="${answer && a.name === answer.name ? "mine" : ""}"><span class="n">${esc(a.name)}${a.name === cat.gem ? ' <span class="tag">gem</span>' : ""}</span><span class="s">${a.score}</span></li>`).join("");
+    const WHY = { passed: "You passed.", timeout: "Time ran out.", missed: "Three misses." };
+    const yours = answer
+      ? `<p class="your"><span class="name">${esc(r.input || answer.name)}</span></p>`
+      : `<p class="your">${WHY[r.status] || "No answer."}</p>`;
+    const callouts = [
+      hitGem ? `<p class="callout gem">★ You found the gem.</p>` : "",
+      rarest ? `<p class="callout">One of the 5 rarest answers.</p>` : "",
+    ].join("");
 
     setView(`
       <section class="card" aria-labelledby="reveal-title">
@@ -400,12 +440,8 @@
             </div>
             <h2 class="sr-only" id="reveal-title">${r.score} depth. You are now at ${after} fathoms, ${esc(tierFor(after).name)}.</h2>
             ${yours}
+            ${callouts}
           </div>
-        </div>
-        ${gemBox}
-        <div>
-          <h3 class="label">Deepest answers</h3>
-          <ol class="deep-list">${list}</ol>
         </div>
         <div class="row"><button type="button" class="btn" id="next">${last ? "See your depth" : "Next pour"}</button></div>
       </section>`, "#reveal-title");
@@ -413,7 +449,7 @@
     main.querySelector("#reveal-title").focus();
     sinkGauge(animate);
     if (animate) countUp($("#score-num"), r.score);
-    announce(`${r.score} depth. Now at ${after} fathoms.`);
+    announce(`${r.score} depth. Now at ${after} fathoms.${hitGem ? " You found the gem." : ""}${rarest ? " One of the 5 rarest answers." : ""}`);
 
     $("#next").addEventListener("click", () => {
       ctx.state.idx = i + 1;
@@ -425,13 +461,11 @@
   }
 
   function shareText() {
-    const total = totalScore(ctx.state.results);
-    const f = fathomsFor(total);
-    const bars = ctx.state.results.map((r) => (r.score === 0 ? "○" : BLOCKS[Math.min(7, Math.floor(r.score / 12.5))])).join("");
-    const lines = [`Deep Pour #${ctx.dayIndex + 1} · ${f} fathoms`, tierFor(f).name, bars];
+    const lines = ["DeepPint", ctx.state.results.map(layerEmoji).join(""), `Score: ${totalScore(ctx.state.results)}`];
     if (CFG.siteUrl) lines.push(CFG.siteUrl);
     return lines.join("\n");
   }
+
 
   function renderSummary(animate) {
     const total = totalScore(ctx.state.results);
@@ -439,7 +473,7 @@
     const tier = tierFor(f);
     const rows = ctx.cats.map((c, i) => {
       const r = ctx.state.results[i];
-      return `<tr><td>${r.answer ? esc(r.answer) : '<span class="p">No answer</span>'}<span class="p">${esc(c.prompt)}</span></td><td class="s">${r.score}</td></tr>`;
+      return `<tr><td>${r.answer ? esc(r.input || r.answer) : `<span class="p">${r.status === "timeout" ? "Out of time" : "No answer"}</span>`}<span class="p">${esc(c.prompt)}</span></td><td class="s">${r.score}</td></tr>`;
     }).join("");
     setView(`
       <section class="card" aria-labelledby="sum-title">
