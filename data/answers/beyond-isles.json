@@ -1,0 +1,388 @@
+{
+ "id": "beyond-isles",
+ "prompt": "Name a place beyond the Pintland mainland",
+ "blurb": "Where the Kings came from, passed through, got frozen, or got banished to.",
+ "difficulty": "hard",
+ "gem": "Poopwata Basin",
+ "answerCount": 19,
+ "answers": [
+  {
+   "name": "Roto Kaiishi",
+   "aliases": [
+    "Roto",
+    "Rotto"
+   ],
+   "mentions": {
+    "total": 69,
+    "compendium": 64,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Name — A settlement on the mainland, site of former pirate crewmembers' second lives.. - Roto Kaiishi — The famous floating merchant city anchored to the ocean floor. The only laws here…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Vodkonia",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 12,
+    "records": 3
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…stretch of ocean littered with shipwrecks, located in the Gae Strait between the mainland and Vodkonia. ### Towns & Settlements - Shanty Town — The pirate cliff settlement adjacent to the…"
+   },
+   "rank": 2,
+   "percentile": 5.6,
+   "score": 1
+  },
+  {
+   "name": "The Southern Bellows Nation",
+   "aliases": [
+    "Southern Bellows Nation",
+    "SBN"
+   ],
+   "mentions": {
+    "total": 20,
+    "compendium": 20,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…complete mystery, and the most precious trade secret of the Derecho family. ## The Southern Bellows Nation South of the mainland, past waters few captains dare chart, lies the Southern Bellows Nation…"
+   },
+   "rank": 3,
+   "percentile": 11.1,
+   "score": 4
+  },
+  {
+   "name": "Earth",
+   "aliases": [],
+   "mentions": {
+    "total": 17,
+    "compendium": 3,
+    "records": 14
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…discovered. Dimitri had a rare condition which would lead to certain death if he were to return to Earth. After a lengthy discussion with Jagerbauhm, it was determined that bringing Dimitri home…"
+   },
+   "rank": 4,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "New Haven",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the worst of the worst and they are never leaving, most of the cells are welded shut. - New Haven — The aetherial realm accessible only to a select few through the Cloister. - Hoegaarden…"
+   },
+   "rank": 5,
+   "percentile": 22.2,
+   "score": 10
+  },
+  {
+   "name": "Hogwilly's Tavern",
+   "aliases": [
+    "Hogwilly's",
+    "Hogwillys"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 2,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…is currently developing a new brew in secret and hopes to leave the Grog Galley. ## Hogwilly's Tavern The first tavern built and shared by the 6 Liquor Kings. This was long before any…"
+   },
+   "rank": 6,
+   "percentile": 27.8,
+   "score": 15
+  },
+  {
+   "name": "Bar Bastion",
+   "aliases": [
+    "The Bastion"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 5,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…late with the delivery, and had lost much of the product long before arriving. ## Bar Bastion Home of the Bjor Hjarta. These cave dwelling dwarves are known in all the land for brewing…"
+   },
+   "rank": 7,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "The Taverna",
+   "aliases": [
+    "Taverna"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…any of them had been crowned king, let alone set foot on the Pintland Isles. ## The Taverna An idyllic lush countryside villa and vineyard. It was here that the 6 Liquor Kings first…"
+   },
+   "rank": 8,
+   "percentile": 38.9,
+   "score": 24
+  },
+  {
+   "name": "Maximilian's space station",
+   "aliases": [
+    "space station",
+    "the station"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 4,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…using cryosleep cycles to multiply his lifespan fivefold — directing the construction of a space station and the infrastructure for a perfect hell in which to trap the Kings. He was ultimately killed…"
+   },
+   "rank": 9,
+   "percentile": 44.4,
+   "score": 30
+  },
+  {
+   "name": "Drycup Forest",
+   "aliases": [
+    "Drycup Woods",
+    "Drycup"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Anqoak through the streets until he wrapped the stolen scarf around his face and fled into Drycup Forest, where he stumbled into the company of strangers whose acquaintance he later called…"
+   },
+   "rank": 10,
+   "percentile": 58.3,
+   "score": 45
+  },
+  {
+   "name": "The Coors Golden Isles",
+   "aliases": [
+    "Coors Golden Isles",
+    "Golden Isle"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…seconds, cementing my place in the competition. ### Jameson Pilsner (JP) — Captain of the Coors Golden Isles Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels…"
+   },
+   "rank": 10,
+   "percentile": 58.3,
+   "score": 45
+  },
+  {
+   "name": "The Nether",
+   "aliases": [
+    "Nether"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…instantaneously. However, ambition unchecked by caution led the scientists to inadvertently breach the Nether, a hellish dimension teeming with monstrous beings. In an instant, the ambitious experiment…"
+   },
+   "rank": 10,
+   "percentile": 58.3,
+   "score": 45
+  },
+  {
+   "name": "The Wildlands",
+   "aliases": [
+    "Wildlands"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pint. Historic Lagendale stretched all through modern day West Pint and even further into the Wildlands, but it could never fully colonize the east partly due to these mountains and their religious…"
+   },
+   "rank": 10,
+   "percentile": 58.3,
+   "score": 45
+  },
+  {
+   "name": "Gyntonick",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge\" — Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick as a thief, though he preferred to describe himself as a redistributor of wealth, a claim…"
+   },
+   "rank": 14,
+   "percentile": 77.8,
+   "score": 69
+  },
+  {
+   "name": "Poopwata Basin",
+   "aliases": [
+    "Poopwater"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…interesting encounter even if ultimately it was just a small part of these men's story. ## Poopwata Basin An island tavern constructed by the 6 Liquor Kings, although this was long before they…"
+   },
+   "rank": 14,
+   "percentile": 77.8,
+   "score": 69
+  },
+  {
+   "name": "Realm of the Soulless",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…economic collapse, political uprisings and the arrival of a cursed crew arriving from the Realm of the Soulless seeking revenge on Gideon Drake. This lead to the banishment of Gideon Drake to Vodkonia.…"
+   },
+   "rank": 14,
+   "percentile": 77.8,
+   "score": 69
+  },
+  {
+   "name": "The Spirit realm",
+   "aliases": [
+    "Spirit realm"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…question of who controls Roto now that Xi is long dead. Many think it's a conglomerate from the Spirit realm, as that's where all the richest merchants live. However, Xi strongly believed that if the…"
+   },
+   "rank": 17,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "The land of giants",
+   "aliases": [
+    "land of giants"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…patrolling the street around the Cardinal's towers. He was initially a foreigner from an unknown land of giants, brought to Providence as a baby by way of the Whiskey Runners, a missionary group who smuggled…"
+   },
+   "rank": 18,
+   "percentile": 94.4,
+   "score": 92
+  },
+  {
+   "name": "The mutineers' island",
+   "aliases": [
+    "marooning island",
+    "Seamus's birthplace"
+   ],
+   "mentions": {
+    "total": 0,
+    "compendium": 0,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "I was born on a small island typically used for marooning pirates",
+    "note": "Seamus Bonehardy was born on an island used for marooning mutineers."
+   },
+   "rank": 19,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

@@ -1,0 +1,480 @@
+{
+ "id": "weapons",
+ "prompt": "Name a weapon",
+ "blurb": "Blades, blickys, cursed spears, and whatever else someone swung in anger.",
+ "difficulty": "medium",
+ "gem": "Wagwan's Whopper",
+ "answerCount": 24,
+ "answers": [
+  {
+   "name": "Blicky",
+   "aliases": [
+    "Blinky",
+    "Blickys",
+    "Blick"
+   ],
+   "mentions": {
+    "total": 13,
+    "compendium": 4,
+    "records": 9
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tithe was reduced to twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets. ## Concept V: Stewards of Aleforge Run by Jack. The Kings…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Cannons",
+   "aliases": [
+    "Cannon"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…At once, each captain enacted the orders given by Sackbeard, fanning out to prepare for a cannon barrage. However, none of the crews had ever shot cannon at anything moving so quickly in…"
+   },
+   "rank": 2,
+   "percentile": 4.3,
+   "score": 1
+  },
+  {
+   "name": "Sackbeard's mast",
+   "aliases": [
+    "the mast",
+    "mast"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "turned the ship until the mast pointed at the monster like a lance",
+    "note": "Sackbeard turned his fallen mast into a lance and drove it into the Tavern Beast's skull."
+   },
+   "rank": 3,
+   "percentile": 8.7,
+   "score": 3
+  },
+  {
+   "name": "Bullets",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets. ## Concept V: Stewards of Aleforge Run by Jack. The Kings learn to govern — sort of.…"
+   },
+   "rank": 4,
+   "percentile": 21.7,
+   "score": 10
+  },
+  {
+   "name": "Firecracker",
+   "aliases": [
+    "firecrackers"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the portal using the artifacts. Jagerbauhm took the artifacts and, using Elytra wings and a firecracker, flew to the Dread Harrow and fought through Sackbeard's crew to reach the cabin. He placed…"
+   },
+   "rank": 4,
+   "percentile": 21.7,
+   "score": 10
+  },
+  {
+   "name": "Goddard's shiv",
+   "aliases": [
+    "shiv"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…weapon, but I don't wanna lose another finger to one of those little bastards, so I've hidden a shiv in one of the pipes. Hope you get some good use out of it, it's served me well so far. -Goddard…"
+   },
+   "rank": 4,
+   "percentile": 21.7,
+   "score": 10
+  },
+  {
+   "name": "Pistol",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…interrupted only by the recollection that Bonehardy was still in the room, at which point he drew a pistol and explained that the gold would be covering eleven expeditions' worth of losses and that…"
+   },
+   "rank": 4,
+   "percentile": 21.7,
+   "score": 10
+  },
+  {
+   "name": "Taser",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…All these doors needed keys. I had HR, Security, and Financiers. I already used HR and got a taser. Some doors wouldn't open and I could see some much needed food and weapons. We found a machine…"
+   },
+   "rank": 4,
+   "percentile": 21.7,
+   "score": 10
+  },
+  {
+   "name": "Bow",
+   "aliases": [
+    "bows"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…lowkey bussin it down on em' BAM BAP POW (ya feel meh). I was tossin my trident and shooting my bows as my fellow Liquor kings died around me, kinda weird cause I thought everyone had the magic…"
+   },
+   "rank": 9,
+   "percentile": 43.5,
+   "score": 29
+  },
+  {
+   "name": "Guinnie's spear",
+   "aliases": [
+    "spear"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Bravely. With purpose and intention and absolutely no hesitation whatsoever. I landed on a spear. My own. Which I had dropped on the way down. I will not elaborate further on that…"
+   },
+   "rank": 9,
+   "percentile": 43.5,
+   "score": 29
+  },
+  {
+   "name": "Rollo's Sex Whip",
+   "aliases": [
+    "Sex Whip",
+    "bdsm whip",
+    "Rollo's whip"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…didn't sniff. Richard Cumhardy's Seaman Eyeglass: Lens clouded with trauma. Rollo's Sex Whip: Still warm, unfortunately. I rallied a random horse and charged into the dark depth…"
+   },
+   "rank": 9,
+   "percentile": 43.5,
+   "score": 29
+  },
+  {
+   "name": "The blue sword",
+   "aliases": [
+    "blue sword",
+    "saber",
+    "lightsaber",
+    "blue light sword"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…king. N/A PM Wandering alone. Feels endless. Maze-like. I heard something and swung my blue sword to cleave its head. Turned out to be Luke from the village. Alive. We didn't say much—just…"
+   },
+   "rank": 9,
+   "percentile": 43.5,
+   "score": 29
+  },
+  {
+   "name": "Wagwan's Whopper",
+   "aliases": [
+    "Wagwans Whopper"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…gang confrontation, earning near-zero gold but prodigious kill counts. Wagwan gifted him the Wagwan's Whopper, a mace of considerable impact force. Buke was the true relic king of the session, collecting…"
+   },
+   "rank": 9,
+   "percentile": 43.5,
+   "score": 29
+  },
+  {
+   "name": "Diamond sword",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Stephan received diamond boots for his historic two-trial winning streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his…"
+   },
+   "rank": 14,
+   "percentile": 73.9,
+   "score": 64
+  },
+  {
+   "name": "Necrosis",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…returned I took something from him. A piece of what he carried. By the end I held his spear, Necrosis, a weapon that hums with the particular frequency of something that has ended a great many…"
+   },
+   "rank": 14,
+   "percentile": 73.9,
+   "score": 64
+  },
+  {
+   "name": "Rotten Blade",
+   "aliases": [
+    "The Rotten Blade"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…frequency of something that has ended a great many lives and remembers each one. I held his blade, the Rotten Blade, which is exactly as pleasant to carry as the name suggests. I wore his chestplate, still…"
+   },
+   "rank": 14,
+   "percentile": 73.9,
+   "score": 64
+  },
+  {
+   "name": "Sackbeard's Axe",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Blinky) - Nike Dunks - Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden - Map to the Forbidden…"
+   },
+   "rank": 14,
+   "percentile": 73.9,
+   "score": 64
+  },
+  {
+   "name": "Sackbeard's Cutlass",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass — Lost to time during a fight between Buke and Jagerbauhm.…"
+   },
+   "rank": 14,
+   "percentile": 73.9,
+   "score": 64
+  },
+  {
+   "name": "Sackbeard's Dagger",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden - Map to the Forbidden Brew — Currently blank.…"
+   },
+   "rank": 14,
+   "percentile": 73.9,
+   "score": 64
+  },
+  {
+   "name": "Sword of Passion",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…coin. \"Lad nabbed more Veil Walkers' treasures than a dock rat hoards scraps, including the Sword of Passion—a blade so wicked it'd make my vows quiver, humming with dark juju.\" Seamus cracked them riddles…"
+   },
+   "rank": 14,
+   "percentile": 73.9,
+   "score": 64
+  },
+  {
+   "name": "Trident",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…a coward but I was lowkey bussin it down on em' BAM BAP POW (ya feel meh). I was tossin my trident and shooting my bows as my fellow Liquor kings died around me, kinda weird cause I thought…"
+   },
+   "rank": 14,
+   "percentile": 73.9,
+   "score": 64
+  },
+  {
+   "name": "Xi Jin Ping's Lucky Arrow",
+   "aliases": [
+    "Lucky Arrow"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…descendant of the Rotted Soul. ## Open World / Unattributed to Concept - Xi Jin Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass…"
+   },
+   "rank": 14,
+   "percentile": 73.9,
+   "score": 64
+  },
+  {
+   "name": "The Mk. II night stick",
+   "aliases": [
+    "night stick",
+    "nightstick"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…the vector core, we have integrated trace amounts of radioactive material into the Mk. II's night stick, meaning that perpetrators can be incapacited with a single hit even if they do manage to…"
+   },
+   "rank": 23,
+   "percentile": 95.7,
+   "score": 94
+  },
+  {
+   "name": "The dildo",
+   "aliases": [
+    "dildo"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…pipe, lotta money bet on me fighting Guinnie. Unfortunately let the betters down and fell to the dildo. Its how the booty crumbles sometimes. This got me ready for the final gang war. Seaside…"
+   },
+   "rank": 24,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

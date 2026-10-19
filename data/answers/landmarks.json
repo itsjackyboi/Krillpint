@@ -1,0 +1,444 @@
+{
+ "id": "landmarks",
+ "prompt": "Name a mountain, forest, body of water or desert",
+ "blurb": "The natural lay of the land, from the Breakback range to the eleven seas.",
+ "difficulty": "medium",
+ "gem": "Callus Peaks",
+ "answerCount": 22,
+ "answers": [
+  {
+   "name": "Breakback Mountains",
+   "aliases": [
+    "Breakback",
+    "The Breakbacks"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 5,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…unknown and poorly mapped. ## Pintland Isles — Mainland ### Mountain Ranges - Breakback Mountains — The great central mountain range. A natural barrier between the settled East and…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The eleven seas",
+   "aliases": [
+    "eleven seas",
+    "11 seas"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Captain Sackbeard. Born Cycle 27, year 130. Sackbeard, easily the most legendary pirate of the eleven seas, first rose to local fame after defeating a baby kraken off the coast of his birth town when…"
+   },
+   "rank": 2,
+   "percentile": 4.8,
+   "score": 1
+  },
+  {
+   "name": "Great Southern Desert",
+   "aliases": [
+    "Southern Desert"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 3,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of West Pint is currently unmapped and not under the influence of regional powers. - The Great Southern Desert — Believed to mark the site where the Rotted Soul was slain. Was once fertile grassland.…"
+   },
+   "rank": 3,
+   "percentile": 9.5,
+   "score": 3
+  },
+  {
+   "name": "Brandywine Brush",
+   "aliases": [
+    "Thiccy Forest",
+    "Brandywine"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests - Brandywine Brush — The dense inland forest known locally as 'Thiccy Forest.' This is the home of the…"
+   },
+   "rank": 4,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Drycup Forest",
+   "aliases": [
+    "Drycup Woods",
+    "Drycup"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Anqoak through the streets until he wrapped the stolen scarf around his face and fled into Drycup Forest, where he stumbled into the company of strangers whose acquaintance he later called…"
+   },
+   "rank": 4,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Killdeath Peak",
+   "aliases": [
+    "Killdeath"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…games, although the arena was subsequently torn down with plans to rebuild elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill…"
+   },
+   "rank": 6,
+   "percentile": 23.8,
+   "score": 12
+  },
+  {
+   "name": "The Whiskey Shallows",
+   "aliases": [
+    "Whiskey Shallows"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…discovered by the Liquor Kings was in this forest, found by Guinnie. ### Lakes & Waters - The Whiskey Shallows — The large central lake. It is fed by springs originating in the Breakback Mountains which…"
+   },
+   "rank": 7,
+   "percentile": 28.6,
+   "score": 15
+  },
+  {
+   "name": "Bottomless Bay",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of pirate traffic. This is nearby to the waters where Sackbeard killed the Great Beast. - Bottomless Bay — The bay in front of Hoegaarden Library. Another entry way into Providence, notably this…"
+   },
+   "rank": 8,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Gae Strait",
+   "aliases": [
+    "The Gae Strait"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Providence. - Dead Man Hallows — The stretch of ocean littered with shipwrecks, located in the Gae Strait between the mainland and Vodkonia. ### Towns & Settlements - Shanty Town — The pirate…"
+   },
+   "rank": 8,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Hoegaarden Plains",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…about what lay beyond them. - Rum Ridge — A lone peak which separates Shanty Town from the Hoegaarden Plains. Previously, this was the site of a vast arena for public gladiatorial games, although the…"
+   },
+   "rank": 8,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "The Basin at Bully Hill",
+   "aliases": [
+    "Basin at Bully Hill",
+    "Bully Hill"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The Kings discovered the true location underneath the Hoegaarden Library. - The Basin at Bully Hill — The lake adjacent to Providence. - Gulf of Aleforge — The bay in front of Sackbeard's…"
+   },
+   "rank": 8,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "The Foreverglades",
+   "aliases": [
+    "Foreverglades"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…During the reign of the 33rd Council, a farmer from the northern fields wandered into the Foreverglades, an ancient forest shared by humans and Veilwalkers in their respective seasons, and encountered…"
+   },
+   "rank": 8,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "Callus Peaks",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…unknown, pre-Third Dynasty Much ignorance surrounds our people's reluctance to settle beyond the Callus Peaks (modern day Breakback Mountains.) Critics from abroad call it superstition. They are not wrong,…"
+   },
+   "rank": 13,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Dead Man Hallows",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…overlooked by Blodello Bridge which crosses the bay leading from Shanty Town to Providence. - Dead Man Hallows — The stretch of ocean littered with shipwrecks, located in the Gae Strait between the mainland…"
+   },
+   "rank": 13,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Gulf of Aleforge",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Hoegaarden Library. - The Basin at Bully Hill — The lake adjacent to Providence. - Gulf of Aleforge — The bay in front of Sackbeard's Tavern, a natural harbor shaped by centuries of pirate traffic.…"
+   },
+   "rank": 13,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Rum Ridge",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…partly due to these mountains and their religious superstitions about what lay beyond them. - Rum Ridge — A lone peak which separates Shanty Town from the Hoegaarden Plains. Previously, this was…"
+   },
+   "rank": 13,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Solen River",
+   "aliases": [
+    "The Solen River"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…of the Grand Council, representing all provinces of the empire from the Western Frontier to the Solen River territories. The Council met in full session only four times in the year 340. All four sessions…"
+   },
+   "rank": 13,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "The Dread Marrows",
+   "aliases": [
+    "Dread Marrows"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- Fentmaxxer's Observatory — The hastily constructed observatory on Killdeath Peak. - The Dread Marrows — A region of dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the…"
+   },
+   "rank": 13,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "The Pacific Blocean",
+   "aliases": [
+    "Pacific Blocean"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…I can promise a return to a time when Aleforge's name rang across the Gae Strait and over the Pacific Blocean as the greatest name in beer!! Before I cede my remaining time, I'd like us to remember…"
+   },
+   "rank": 13,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "The Southern Blocean",
+   "aliases": [
+    "Southern Blocean"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ASDU before his promotion, making him the perfect person to lead an investigative envoy in the Southern Blocean. ### George O' Queef A famous landscape painter in Providence tasked with creating…"
+   },
+   "rank": 13,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "The sacred cliffs",
+   "aliases": [
+    "sacred cliffs",
+    "the cliffs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…exiting the blood-binding pirate cap't contract, All captains must crash their vessel into the sacred cliffs — a rite o' quittin' the open sea. We still raid, of course. But only ships that deserve…"
+   },
+   "rank": 21,
+   "percentile": 95.2,
+   "score": 93
+  },
+  {
+   "name": "The northern pass",
+   "aliases": [
+    "northern pass"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…in that field stood men who had never held a sword. When the barbarian horde came down from the northern pass, it was simple farmers who were charged with defending their land. Simple men with callused…"
+   },
+   "rank": 22,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

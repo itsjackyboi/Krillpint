@@ -4,7 +4,7 @@
  "epoch": "2026-10-18",
  "timezone": "America/New_York",
  "repeatGap": 30,
- "minAnswers": 25,
+ "minAnswers": 18,
  "categories": [
   {
    "id": "aleforge-locals",
@@ -13,6 +13,46 @@
    "difficulty": "medium",
    "gem": "Salude Gonzalez",
    "answerCount": 39
+  },
+  {
+   "id": "aleforge-officials",
+   "prompt": "Name an Aleforge official or office-holder",
+   "blurb": "Mayors, advisors, sheriffs, comptrollers, Color Guard captains. Past or present.",
+   "difficulty": "medium",
+   "gem": "Bigbag-o Buttlube",
+   "answerCount": 23
+  },
+  {
+   "id": "aleforge-spots",
+   "prompt": "Name a place in Aleforge",
+   "blurb": "Buildings, streets and landmarks in the brewing capital of the Isles.",
+   "difficulty": "medium",
+   "gem": "Witch Doctors Tower",
+   "answerCount": 22
+  },
+  {
+   "id": "animals",
+   "prompt": "Name an animal from the lore",
+   "blurb": "Pets, mounts, mules, a worm named Clancy, and one very unlucky cow. Not monsters.",
+   "difficulty": "easy",
+   "gem": "Clancy",
+   "answerCount": 21
+  },
+  {
+   "id": "beyond-isles",
+   "prompt": "Name a place beyond the Pintland mainland",
+   "blurb": "Where the Kings came from, passed through, got frozen, or got banished to.",
+   "difficulty": "hard",
+   "gem": "Poopwata Basin",
+   "answerCount": 19
+  },
+  {
+   "id": "businesses",
+   "prompt": "Name a business or company",
+   "blurb": "Corporations, shops, papers and farms. Anyone selling something.",
+   "difficulty": "medium",
+   "gem": "Jui Vuitton",
+   "answerCount": 26
   },
   {
    "id": "calendar",
@@ -31,12 +71,28 @@
    "answerCount": 29
   },
   {
+   "id": "cumstead",
+   "prompt": "Name something tied to John Cum or the Cumstead",
+   "blurb": "The great wheat farm, the family behind it, and how it all went wrong.",
+   "difficulty": "medium",
+   "gem": "Oinkers",
+   "answerCount": 25
+  },
+  {
    "id": "cursed-sites",
    "prompt": "Name a cursed, sacred or mysterious site",
    "blurb": "Places that hum, whisper, swallow people, or should have stayed sealed.",
    "difficulty": "medium",
    "gem": "The Vanishing House",
    "answerCount": 24
+  },
+  {
+   "id": "documents",
+   "prompt": "Name a book, journal, letter or document",
+   "blurb": "Anything written down: tomes, diaries, manuals, ledgers, love letters, ransom notes.",
+   "difficulty": "hard",
+   "gem": "Talent Acquisition strategy",
+   "answerCount": 42
   },
   {
    "id": "drinks",
@@ -47,12 +103,76 @@
    "answerCount": 28
   },
   {
+   "id": "drunken-trials",
+   "prompt": "Name something tied to the Drunken Trials",
+   "blurb": "Aleforge's festival: its winners, its rules, its ale, and the people who tried to stop it.",
+   "difficulty": "easy",
+   "gem": "Brannock the Drunk",
+   "answerCount": 25
+  },
+  {
+   "id": "earth-figures",
+   "prompt": "Name a real-world figure the lore mentions",
+   "blurb": "Aldridge Industries' VIPs and sponsors, puzzle passwords, and other names from Earth.",
+   "difficulty": "hard",
+   "gem": "Otto Rohwedder",
+   "answerCount": 18
+  },
+  {
+   "id": "events",
+   "prompt": "Name a historical event or era",
+   "blurb": "Wars, dynasties, disasters, massacres, trials and one very unfortunate mute button.",
+   "difficulty": "medium",
+   "gem": "Mute Gate",
+   "answerCount": 29
+  },
+  {
    "id": "factions",
    "prompt": "Name a faction, gang or organization",
    "blurb": "Councils, cults, gangs, guilds, crews, and the occasional chess club.",
    "difficulty": "easy",
    "gem": "Shot-Chess Association",
    "answerCount": 39
+  },
+  {
+   "id": "gods-spirits",
+   "prompt": "Name a god, spirit or supernatural being",
+   "blurb": "Deities, walkers, ghosts and the guardians of things that should stay buried.",
+   "difficulty": "medium",
+   "gem": "Jopsi",
+   "answerCount": 23
+  },
+  {
+   "id": "jobs",
+   "prompt": "Name a job or trade someone in the lore has",
+   "blurb": "Brewers, bouncers, bards, wind farmers. The work, not the worker.",
+   "difficulty": "medium",
+   "gem": "Wind farmer",
+   "answerCount": 34
+  },
+  {
+   "id": "king-items",
+   "prompt": "Name an item a Liquor King has owned or found",
+   "blurb": "Crowns, relics, loot, lube. Anything that ended up in a King's pockets.",
+   "difficulty": "easy",
+   "gem": "Richard Cumhardy's Seaman Eyeglass",
+   "answerCount": 43
+  },
+  {
+   "id": "lagendale",
+   "prompt": "Name something from the history of Lagendale",
+   "blurb": "The lost empire under Hoegaarden: its people, places, rituals and relics.",
+   "difficulty": "hard",
+   "gem": "Solen River",
+   "answerCount": 28
+  },
+  {
+   "id": "landmarks",
+   "prompt": "Name a mountain, forest, body of water or desert",
+   "blurb": "The natural lay of the land, from the Breakback range to the eleven seas.",
+   "difficulty": "medium",
+   "gem": "Callus Peaks",
+   "answerCount": 22
   },
   {
    "id": "liquor-kings",
@@ -63,12 +183,52 @@
    "answerCount": 36
   },
   {
+   "id": "nicknames",
+   "prompt": "Name a nickname, alias or epithet",
+   "blurb": "Titles, slurs, pseudonyms and pet names. Not the real name.",
+   "difficulty": "medium",
+   "gem": "Throbbin Hood",
+   "answerCount": 39
+  },
+  {
    "id": "policies",
    "prompt": "Name an Aleforge policy, law or campaign promise",
    "blurb": "Enacted by a mayor, passed by the Kings, or shouted from a campaign stage.",
    "difficulty": "hard",
    "gem": "Drunk Delivery",
    "answerCount": 37
+  },
+  {
+   "id": "providence-people",
+   "prompt": "Name someone from Providence or Owe Block",
+   "blurb": "Tonic-drinking clergy, shopkeepers, gang bosses and the people who run from them.",
+   "difficulty": "medium",
+   "gem": "Aberama Bong",
+   "answerCount": 25
+  },
+  {
+   "id": "providence-spots",
+   "prompt": "Name a place in Providence or Owe Block",
+   "blurb": "Spires, streets, shops, mines and the burger joint under a crooked manor.",
+   "difficulty": "hard",
+   "gem": "Bucket's Burgers",
+   "answerCount": 23
+  },
+  {
+   "id": "ranks-titles",
+   "prompt": "Name a rank, title or office",
+   "blurb": "From Providence's church ladder to the Bellows Nation's brew-right. The title, not the person.",
+   "difficulty": "medium",
+   "gem": "Kalifart",
+   "answerCount": 30
+  },
+  {
+   "id": "realms",
+   "prompt": "Name a town, nation or realm",
+   "blurb": "Settlements, empires, islands, and planes of existence you'd rather not visit.",
+   "difficulty": "easy",
+   "gem": "Name",
+   "answerCount": 22
   },
   {
    "id": "relics",
@@ -79,12 +239,68 @@
    "answerCount": 34
   },
   {
+   "id": "roto-bellows",
+   "prompt": "Name something from Roto Kaiishi or the Southern Bellows Nation",
+   "blurb": "The floating free market and the fog-wrapped nation of terrible IPAs.",
+   "difficulty": "hard",
+   "gem": "Blowish",
+   "answerCount": 25
+  },
+  {
+   "id": "sackbeard",
+   "prompt": "Name something tied to Sackbeard",
+   "blurb": "His ships, his crew, his kills, his loot, his songs and his betrayal.",
+   "difficulty": "medium",
+   "gem": "Baby kraken",
+   "answerCount": 26
+  },
+  {
+   "id": "scholars-mystics",
+   "prompt": "Name a scholar, mystic or holy figure",
+   "blurb": "Prophets, priests, witches, oracles, librarians and the occasional mage with a telescope.",
+   "difficulty": "medium",
+   "gem": "Aldric Pen",
+   "answerCount": 26
+  },
+  {
+   "id": "ships-crews",
+   "prompt": "Name a ship, crew or sea captain",
+   "blurb": "Hulls, sky ships, submarines, the crews aboard them, and whoever's at the wheel.",
+   "difficulty": "medium",
+   "gem": "The Bellboy's Boner",
+   "answerCount": 27
+  },
+  {
+   "id": "songs",
+   "prompt": "Name a song, poem or chant",
+   "blurb": "Ballads, anthems, campaign songs, lullabies and freestyle bars from the Isles.",
+   "difficulty": "medium",
+   "gem": "Hush Now, Love",
+   "answerCount": 19
+  },
+  {
    "id": "station-crew",
    "prompt": "Name someone aboard Maximilian's space station",
    "blurb": "Crew, captives, or the master himself. From the Liquor King Trials.",
    "difficulty": "hard",
    "gem": "Fulbert",
    "answerCount": 29
+  },
+  {
+   "id": "station-gear",
+   "prompt": "Name a piece of gear or tech from Maximilian's space station",
+   "blurb": "Keycards, suits, consoles and contraptions from the Liquor King Trials.",
+   "difficulty": "hard",
+   "gem": "Fuse Reset Rod",
+   "answerCount": 28
+  },
+  {
+   "id": "station-rooms",
+   "prompt": "Name a room or section of Maximilian's space station",
+   "blurb": "Where the Kings woke up, crawled around, died repeatedly, and finally fought Max.",
+   "difficulty": "hard",
+   "gem": "Bussy module",
+   "answerCount": 27
   },
   {
    "id": "taverns",
@@ -101,6 +317,38 @@
    "difficulty": "easy",
    "gem": "Geoffrey Dingle",
    "answerCount": 35
+  },
+  {
+   "id": "tradesfolk",
+   "prompt": "Name a merchant, barkeep or tradesman",
+   "blurb": "Anyone who sells, pours, farms, paints, or otherwise works for a living.",
+   "difficulty": "medium",
+   "gem": "Keg Minster",
+   "answerCount": 35
+  },
+  {
+   "id": "veilwalker-lore",
+   "prompt": "Name something tied to the Veilwalkers",
+   "blurb": "Their home, their customs, their kin, their curses and the people who crossed them.",
+   "difficulty": "medium",
+   "gem": "Spiritweed",
+   "answerCount": 29
+  },
+  {
+   "id": "villains",
+   "prompt": "Name a villain or antagonist",
+   "blurb": "Anyone or anything that set out to ruin the Kings, the Isles, or at least their night.",
+   "difficulty": "easy",
+   "gem": "Gilligan Rape",
+   "answerCount": 25
+  },
+  {
+   "id": "weapons",
+   "prompt": "Name a weapon",
+   "blurb": "Blades, blickys, cursed spears, and whatever else someone swung in anger.",
+   "difficulty": "medium",
+   "gem": "Wagwan's Whopper",
+   "answerCount": 24
   }
  ]
 }

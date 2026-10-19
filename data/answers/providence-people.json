@@ -1,0 +1,511 @@
+{
+ "id": "providence-people",
+ "prompt": "Name someone from Providence or Owe Block",
+ "blurb": "Tonic-drinking clergy, shopkeepers, gang bosses and the people who run from them.",
+ "difficulty": "medium",
+ "gem": "Aberama Bong",
+ "answerCount": 25,
+ "answers": [
+  {
+   "name": "Wagwan",
+   "aliases": [
+    "Wag Wan"
+   ],
+   "mentions": {
+    "total": 30,
+    "compendium": 5,
+    "records": 25
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner, Wagwan was very persuasive with his memorable line \"I am black.\" During the events of Stewards of…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Jagerbauhm",
+   "aliases": [
+    "Jagerbaum",
+    "Ben"
+   ],
+   "mentions": {
+    "total": 44,
+    "compendium": 18,
+    "records": 26
+   },
+   "obscurity": 2,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "moved away to providence as refugees. Lived there until 16",
+    "note": "Born in Shanty Town but raised in Providence until he ran off at seventeen."
+   },
+   "rank": 2,
+   "percentile": 4.2,
+   "score": 1
+  },
+  {
+   "name": "Sexton Gobbler",
+   "aliases": [
+    "Gobbler"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 7,
+    "records": 8
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Liquor Kings with safe haven during the Owe Block concept when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley…"
+   },
+   "rank": 3,
+   "percentile": 8.3,
+   "score": 2
+  },
+  {
+   "name": "Cardinal Addy",
+   "aliases": [
+    "Addy",
+    "The Cardinal"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 11,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…— The ordered, tonic-driven holy city on the cliffs. A strict theocracy ruled by Cardinal Addy, head of the Church of Patmos. - Fenwick — The Veilwalker wetland settlement. Named by outsiders:…"
+   },
+   "rank": 4,
+   "percentile": 12.5,
+   "score": 4
+  },
+  {
+   "name": "The Monk Who Ne'er Slumber'd",
+   "aliases": [
+    "The Monk",
+    "Monk Who Never Slumbered",
+    "Saint No-Snooze",
+    "Monk Who Ne'er Slumbered"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 9,
+    "records": 0
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…just a driftwood sermon by some tonic-made monk screamin' on a rock. The same monk they call \"Saint No-Snooze\" now? Yeah, he once tried to drink in the Great Tavern and passed out tryin' to convert the…"
+   },
+   "rank": 5,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Brother Silas",
+   "aliases": [
+    "Silas"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 1,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…upon their arrival in Owe Block and relayed the full account of their adventures there to Brother Silas. He serves sushi. ### Sexton Gobbler The corrupt Sexton of Owe Block who was secretly worshipping…"
+   },
+   "rank": 6,
+   "percentile": 20.8,
+   "score": 10
+  },
+  {
+   "name": "Baba Paku",
+   "aliases": [
+    "Babu Packo",
+    "Baby Pagu",
+    "Paku"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…without fail and is suffering from major lung cancer. Who knows how long hes got. ### Baba Paku A missionary from Owe Block sent out into the World to spread Unknownism. He is often found…"
+   },
+   "rank": 7,
+   "percentile": 25.0,
+   "score": 12
+  },
+  {
+   "name": "Friar Leo",
+   "aliases": [
+    "Fr Leo",
+    "Leo"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…wrong type of booty has certainly been overheard after one too many tankards of grog. ### Friar Leo A friar who maintains a secret section of the Church of the Monk in Owe Block containing…"
+   },
+   "rank": 8,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "Krag",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…into two rival gang factions: Seamus Bonehardy and Jack Anqoak joined the Crimson Cutters (Krag's Irish-inflected blade fighters), while Guinnie, Buke, and Jameson Pilsner joined the Seaside…"
+   },
+   "rank": 8,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "Zara",
+   "aliases": [
+    "Zaar the Edgemaster",
+    "Zaar"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Irish-inflected blade fighters), while Guinnie, Buke, and Jameson Pilsner joined the Seaside Circus (Zara's Jamaican explosive-specialists). What followed was a sprawling urban adventure involving…"
+   },
+   "rank": 8,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "Cheeks",
+   "aliases": [
+    "Cheekz"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "flee to Providence on a Goldcoral ship",
+    "note": "Smuggled to Providence on a Goldcoral ship after his death was faked."
+   },
+   "rank": 11,
+   "percentile": 41.7,
+   "score": 27
+  },
+  {
+   "name": "Dig Dug",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…him some, hes sure to give you something in return…That is, if you can catch him. ### Dig Dug He's the Foreman of the Mines at the Basin at Bully Hill. Dig Dug is one of the biggest employers…"
+   },
+   "rank": 12,
+   "percentile": 47.9,
+   "score": 33
+  },
+  {
+   "name": "Sister Bertha",
+   "aliases": [
+    "Bertha"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…cardinal. His unusual size allowed him to stand out among the other guardian applicants. ### Sister Bertha Sister Bertha is a snitch. A big ole snitch. Her father was a high ranking Circ in the Cardinals…"
+   },
+   "rank": 12,
+   "percentile": 47.9,
+   "score": 33
+  },
+  {
+   "name": "Fin",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…attempting to contact her for week but she stays safe behind the walls of Providence. ### Fin A small boy running at light speed around the alleys of Providence. He is the son of Obvious…"
+   },
+   "rank": 14,
+   "percentile": 56.2,
+   "score": 42
+  },
+  {
+   "name": "Mickey",
+   "aliases": [
+    "Mickey of the Pipe Club"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a spectacular sequence, died first in the mines, lost everything, then hired a hit through Mickey's Pipe Club to have Seamus killed in revenge. The thread connecting all of it was Sexton…"
+   },
+   "rank": 14,
+   "percentile": 56.2,
+   "score": 42
+  },
+  {
+   "name": "Aberama Bong",
+   "aliases": [
+    "Aberama"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…employers of Oweblock and is also responsible for most of the Gold in the treasury. ### Aberama Bong Owner of the Fianchetto Chess bar in the Cardinal Circle, and the moderator of the Shot-Chess…"
+   },
+   "rank": 16,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "George O'Queef",
+   "aliases": [
+    "O'Queef",
+    "George O Queef"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…making him the perfect person to lead an investigative envoy in the Southern Blocean. ### George O' Queef A famous landscape painter in Providence tasked with creating a prophetic landscape painting…"
+   },
+   "rank": 16,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Hunk the Monk",
+   "aliases": [
+    "Hunk"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(ironically). The Guards have been keeping a watch on him for suspicious activity. ### Hunk the Monk Cardinal Addy's primary protector/secret service agent. While extremely dumb, he takes his…"
+   },
+   "rank": 16,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Malchus",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…crumbs and no satisfying explanation. that kind. We went to Providence. Found a man named Malchus who knew more than he was comfortable knowing. His body hung from the rafters and in his pocket…"
+   },
+   "rank": 16,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Obvious Dickstien",
+   "aliases": [
+    "Dickstien",
+    "Obvious Dickstein"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fin A small boy running at light speed around the alleys of Providence. He is the son of Obvious Dickstien, owner of the Jui Vuitton store on Vanity street. Ever since the divorce, Fin has been running…"
+   },
+   "rank": 16,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Pope",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Chess bar in the Cardinal Circle, and the moderator of the Shot-Chess association. ### Pope Used to be a big time mafia man working at the Buenacera Italian Restaurant on Vanity Street…"
+   },
+   "rank": 16,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Rachel Zlurs",
+   "aliases": [
+    "Zlurs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…being the \"most honest woman\" in Providence and terrible gossip. Don't tell her shit. ### Rachel Zlurs Runs a small leather shop down by the Providence Block Market with very little success due…"
+   },
+   "rank": 16,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Sergeant Hark",
+   "aliases": [
+    "Hark"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…founder of the T(horny) Thicket Tavern found deep in the middle of thiccy forest ### Sergeant Hark The Chief Officer for the Providence Guard ### Vlad the Kisser A small time wanna-be…"
+   },
+   "rank": 16,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Vlad the Kisser",
+   "aliases": [
+    "Vlad"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…thiccy forest ### Sergeant Hark The Chief Officer for the Providence Guard ### Vlad the Kisser A small time wanna-be comedian working part time at the Theocrat. He does shows on the weekend…"
+   },
+   "rank": 16,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Moby",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Veil Oath book and Veil Chalice from the shrine, proving his sin. Fr Leo, Krag, Zara, and Moby's TNT crew backed them in a scrap with Gobbler in that shrine's narrow hall, water sloshing…"
+   },
+   "rank": 25,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

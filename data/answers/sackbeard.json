@@ -1,0 +1,526 @@
+{
+ "id": "sackbeard",
+ "prompt": "Name something tied to Sackbeard",
+ "blurb": "His ships, his crew, his kills, his loot, his songs and his betrayal.",
+ "difficulty": "medium",
+ "gem": "Baby kraken",
+ "answerCount": 26,
+ "answers": [
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Drake",
+    "his first mate"
+   ],
+   "mentions": {
+    "total": 143,
+    "compendium": 74,
+    "records": 69
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The Tavern Beast",
+   "aliases": [
+    "Tavern Beast",
+    "Great Shelled Beast",
+    "Leviathan"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 14,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…unknown. - Sackbeard's Tavern — The great Shell Tavern built around the carcass of the slain Tavern Beast. Each year the pirates put their differences aside and celebrate together here. - The Cloister…"
+   },
+   "rank": 2,
+   "percentile": 4.0,
+   "score": 1
+  },
+  {
+   "name": "Sackbeard's Tavern",
+   "aliases": [
+    "Shell Tavern",
+    "The Shell Tavern",
+    "Great Shell Tavern"
+   ],
+   "mentions": {
+    "total": 13,
+    "compendium": 13,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for…"
+   },
+   "rank": 3,
+   "percentile": 8.0,
+   "score": 2
+  },
+  {
+   "name": "Shanty Town",
+   "aliases": [],
+   "mentions": {
+    "total": 47,
+    "compendium": 43,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…religious superstitions about what lay beyond them. - Rum Ridge — A lone peak which separates Shanty Town from the Hoegaarden Plains. Previously, this was the site of a vast arena for public gladiatorial…"
+   },
+   "rank": 4,
+   "percentile": 12.0,
+   "score": 4
+  },
+  {
+   "name": "Sackbeard's undead crew",
+   "aliases": [
+    "undead crew",
+    "cursed crew"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…navigate very difficult times of economic collapse, political uprisings and the arrival of a cursed crew arriving from the Realm of the Soulless seeking revenge on Gideon Drake. This lead to the…"
+   },
+   "rank": 5,
+   "percentile": 18.0,
+   "score": 8
+  },
+  {
+   "name": "The Pour Eternal",
+   "aliases": [
+    "Pour Eternal"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…new lungs. You ain't just living in a ruin. You're living in the bones of a choice.\" ### The Pour Eternal (Shanty Town Folklore) tattered, half-forgotten tavern tale, passed down through generations,…"
+   },
+   "rank": 5,
+   "percentile": 18.0,
+   "score": 8
+  },
+  {
+   "name": "The mast lance",
+   "aliases": [
+    "mast",
+    "the mast"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "turned the ship until the mast pointed at the monster like a lance",
+    "note": "His fallen mast, turned into a lance, killed the Tavern Beast."
+   },
+   "rank": 7,
+   "percentile": 24.0,
+   "score": 12
+  },
+  {
+   "name": "Sackbeard's armada",
+   "aliases": [
+    "armada",
+    "the eleven captains"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…when the traders go home? This fact firmly in mind, the great pirate Sackbeard assembled an armada of the best pirate crews from around the world and laid out a plan to kill the beast. The…"
+   },
+   "rank": 8,
+   "percentile": 28.0,
+   "score": 15
+  },
+  {
+   "name": "Frenic Hallis",
+   "aliases": [
+    "Frenic"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…throne after his passing. This began the Hallis Dynasty, the 1st in Aleforge history. Frenic Hallis: It was during the time of his rule that the small settlement of Shanty Town which originated…"
+   },
+   "rank": 9,
+   "percentile": 34.0,
+   "score": 20
+  },
+  {
+   "name": "The Veilwalker settlement raid",
+   "aliases": [
+    "Veilwalker settlement",
+    "attack on the Veilwalkers"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the crew with eternal life and sacrificed the crew into the nether because they attacked a veilwalker settlement. Later on hundreds of years afterwards, he hears word of an experiment gone wrong at the factory,…"
+   },
+   "rank": 9,
+   "percentile": 34.0,
+   "score": 20
+  },
+  {
+   "name": "Sackbeard Diary",
+   "aliases": [
+    "Sackbeard's diary",
+    "sackbeard memorial journal"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…leave Thatcher to die, but also saved the land. - Free trade above all, no tariffs or tax sackbeard memorial journal \"My crew are in high spirits, my first mate and all the rest are determined to command the…"
+   },
+   "rank": 11,
+   "percentile": 40.0,
+   "score": 25
+  },
+  {
+   "name": "Hush Now, Love",
+   "aliases": [
+    "Hush Now Love"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fiddle-faddle fay, drink again! Yo, halla-walla, rah-dee-ray, Tiddle-taddle tay, guzzle-away! ## Hush Now, Love In Sackbeard's tavern, shadows creep, The Beast's loud roar while sailors weep. Its claws…"
+   },
+   "rank": 12,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Sackbeard's Sails",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…every breath. He lived a life of ale and brew, And died a good man, through and through. ## Sackbeard's Sails Old Sackbeard sailed with ale in hold, His beard as white as waves, so bold. To distant…"
+   },
+   "rank": 12,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "The Dread Harrow",
+   "aliases": [
+    "Dread Harrow"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Drake was finally confronted in the castle with the artifacts in hand just as Sackbeard's Dread Harrow materialized through a portal. The undead crew poured into Aleforge, seeking revenge on Drake,…"
+   },
+   "rank": 12,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Year 178",
+   "aliases": [
+    "178"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…between friendly and antagonistic relations ever since. Frenic was Liquor King in the Year 178 when Sackbeard killed the Great Shelled Beast and constructed the Shelled Tavern. Frenic built…"
+   },
+   "rank": 12,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Baby kraken",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…easily the most legendary pirate of the eleven seas, first rose to local fame after defeating a baby kraken off the coast of his birth town when he was just a deckhand on a merchant ship. While he would…"
+   },
+   "rank": 16,
+   "percentile": 78.0,
+   "score": 69
+  },
+  {
+   "name": "Bedtime stories",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…but have recently been moved. This gives us a key clue, the items must be frequently moved. bedtime stories Argh, me son, gather 'round and lend an ear to the wild tale of ol' Captain Sackbeard and…"
+   },
+   "rank": 16,
+   "percentile": 78.0,
+   "score": 69
+  },
+  {
+   "name": "Hoppy Holidays",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(build) a tree somewhere and say a prayer (drink a pint) of thanksgiving with a friend. Hoppy Holidays: The last Keg of the year (Dec 18-26, 2026 and Dec 13-21, 2027). All the pirates gather…"
+   },
+   "rank": 16,
+   "percentile": 78.0,
+   "score": 69
+  },
+  {
+   "name": "Sackbeard Memorial Well",
+   "aliases": [
+    "Memorial Well"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Sackbeard killed the Great Shelled Beast and constructed the Shelled Tavern. Frenic built the Sackbeard Memorial Well in the town square. Trodon Hallis: The last member of the Hallis Dynasty. Trodon was…"
+   },
+   "rank": 16,
+   "percentile": 78.0,
+   "score": 69
+  },
+  {
+   "name": "Sackbeard's Armor",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- Durag - Blicky (also: Blinky) - Nike Dunks - Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden…"
+   },
+   "rank": 16,
+   "percentile": 78.0,
+   "score": 69
+  },
+  {
+   "name": "Sackbeard's Axe",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Blinky) - Nike Dunks - Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden - Map to the Forbidden…"
+   },
+   "rank": 16,
+   "percentile": 78.0,
+   "score": 69
+  },
+  {
+   "name": "Sackbeard's Cutlass",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass — Lost to time during a fight between Buke and Jagerbauhm.…"
+   },
+   "rank": 16,
+   "percentile": 78.0,
+   "score": 69
+  },
+  {
+   "name": "Sackbeard's Dagger",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden - Map to the Forbidden Brew — Currently blank.…"
+   },
+   "rank": 16,
+   "percentile": 78.0,
+   "score": 69
+  },
+  {
+   "name": "The Beast-Breaker",
+   "aliases": [
+    "Beast-Breaker",
+    "Beast Breaker"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pour Eternal. Brewed in madness, they say, by the founders of Aleforge and Sackbeard the Beast-Breaker himself. Brewed from blood pulled from the gullet of the slain Leviathan, stirred with spiritweed…"
+   },
+   "rank": 16,
+   "percentile": 78.0,
+   "score": 69
+  },
+  {
+   "name": "The Bellboy's Boner",
+   "aliases": [
+    "Bellboy's Boner"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…merely moving other people's goods. Indeed, on his 23rd birthday, he coordinated mutiny on The Bellboy's Boner (his current ship of employment) and took the plunge into piracy. From that day onward,…"
+   },
+   "rank": 16,
+   "percentile": 78.0,
+   "score": 69
+  },
+  {
+   "name": "Cycle 27, Year 130",
+   "aliases": [
+    "Year 130",
+    "Cycle 27"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pintland Isles with these 5 companions. ## Major NPCs ### Sackbeard Captain Sackbeard. Born Cycle 27, year 130. Sackbeard, easily the most legendary pirate of the eleven seas, first rose to…"
+   },
+   "rank": 26,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

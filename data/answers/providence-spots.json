@@ -1,0 +1,469 @@
+{
+ "id": "providence-spots",
+ "prompt": "Name a place in Providence or Owe Block",
+ "blurb": "Spires, streets, shops, mines and the burger joint under a crooked manor.",
+ "difficulty": "hard",
+ "gem": "Bucket's Burgers",
+ "answerCount": 23,
+ "answers": [
+  {
+   "name": "The lake port",
+   "aliases": [
+    "lake port"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their prayers. We want their secrets. And trust me, one day some lucky crew's gonna crack that lake port like a crab leg and find out what really fuels those never-sleepin' bastards. They Call Us…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Dig Dug's mines",
+   "aliases": [
+    "the mines",
+    "mines at the Basin"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 2,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…you something in return…That is, if you can catch him. ### Dig Dug He's the Foreman of the Mines at the Basin at Bully Hill. Dig Dug is one of the biggest employers of Oweblock and is also…"
+   },
+   "rank": 2,
+   "percentile": 4.5,
+   "score": 1
+  },
+  {
+   "name": "Stank Tank",
+   "aliases": [
+    "The Stank Tank"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 5,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner, Wagwan was very persuasive with his memorable line \"I am black.\" During the events…"
+   },
+   "rank": 3,
+   "percentile": 9.1,
+   "score": 3
+  },
+  {
+   "name": "Patmos's spire",
+   "aliases": [
+    "Patmos spire",
+    "the spire"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…we drink grog until we speak fluent storm, then we go steal what we want. They tithe to a spire. We toss our gold into a keg and drink 'til we forget we were ever poor. Politics? They Got…"
+   },
+   "rank": 4,
+   "percentile": 13.6,
+   "score": 5
+  },
+  {
+   "name": "The Brothel",
+   "aliases": [
+    "Brothel"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…mayor. Cromwell was more interested in using his newfound fame to sleep his way through every brothel and eligible woman in Aleforge. Some recent Liquor Kings have been said to exhibit \"Cromwellian\"…"
+   },
+   "rank": 5,
+   "percentile": 18.2,
+   "score": 8
+  },
+  {
+   "name": "Church of the Monk",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…one too many tankards of grog. ### Friar Leo A friar who maintains a secret section of the Church of the Monk in Owe Block containing forbidden documents about the Monk Who Ne'er Slumber'd. Seamus Bonehardy…"
+   },
+   "rank": 6,
+   "percentile": 29.5,
+   "score": 16
+  },
+  {
+   "name": "Mickey's Pipe Club",
+   "aliases": [
+    "Pipe Club"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…spectacular sequence, died first in the mines, lost everything, then hired a hit through Mickey's Pipe Club to have Seamus killed in revenge. The thread connecting all of it was Sexton Gobbler, who…"
+   },
+   "rank": 6,
+   "percentile": 29.5,
+   "score": 16
+  },
+  {
+   "name": "The Veilwalker shrine",
+   "aliases": [
+    "Veilwalker shrine",
+    "Gobbler's shrine",
+    "obsidian and amethyst chamber"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Slumber'd. Seamus Bonehardy found the stone button in the church's narrow hall that opens the Veilwalkers' shrine — an obsidian and amethyst chamber where Leo guards the Monk's hidden materials. ### Faige…"
+   },
+   "rank": 6,
+   "percentile": 29.5,
+   "score": 16
+  },
+  {
+   "name": "Vanity Street",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ranking Circ in the Cardinals court before being caught for skimming tithes off the residents of Vanity Street; guess who caught him…Thats right sister Bertha. Ever since her father was thrown into prison,…"
+   },
+   "rank": 6,
+   "percentile": 29.5,
+   "score": 16
+  },
+  {
+   "name": "Chronicle Newspaper HQ",
+   "aliases": [
+    "Chronicle HQ"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was a relic-hunting machine, navigating the city from the Stank Tank to the library to the Chronicle HQ to a burger joint under a corrupt noble's manor to the Brothel to the Treasury, eventually…"
+   },
+   "rank": 10,
+   "percentile": 45.5,
+   "score": 31
+  },
+  {
+   "name": "Gobbler's manor",
+   "aliases": [
+    "Gobbler's posh manor",
+    "corrupt noble's manor"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Stank Tank to the library to the Chronicle HQ to a burger joint under a corrupt noble's manor to the Brothel to the Treasury, eventually finding a hidden stone button in the Church of…"
+   },
+   "rank": 10,
+   "percentile": 45.5,
+   "score": 31
+  },
+  {
+   "name": "The Treasury",
+   "aliases": [
+    "Treasury"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to the Chronicle HQ to a burger joint under a corrupt noble's manor to the Brothel to the Treasury, eventually finding a hidden stone button in the Church of the Monk that opened a Veilwalker…"
+   },
+   "rank": 10,
+   "percentile": 45.5,
+   "score": 31
+  },
+  {
+   "name": "Big Ole Pipe",
+   "aliases": [
+    "The Big Ole Pipe"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…selling his company,leaving his old gang (The Crimson Cutters) and setting up his dream shop: the Big Ole Pipe. He smokes 12 cigars everyday without fail and is suffering from major lung cancer. Who knows…"
+   },
+   "rank": 13,
+   "percentile": 72.7,
+   "score": 62
+  },
+  {
+   "name": "Bucket's Burgers",
+   "aliases": [
+    "Buckets Burgers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…rifling the Owe Block Public Library, snooping at the Chronicle Newspaper HQ, grubbing at Bucket's Burgers under Gobbler's posh manor, slipping into the Brothel—bet he lingered there, the dog!—and…"
+   },
+   "rank": 13,
+   "percentile": 72.7,
+   "score": 62
+  },
+  {
+   "name": "Buenacera Italian Restaurant",
+   "aliases": [
+    "Buenacera"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Shot-Chess association. ### Pope Used to be a big time mafia man working at the Buenacera Italian Restaurant on Vanity Street before selling his company,leaving his old gang (The Crimson Cutters) and…"
+   },
+   "rank": 13,
+   "percentile": 72.7,
+   "score": 62
+  },
+  {
+   "name": "Cardinal Circle",
+   "aliases": [
+    "The Cardinal Circle"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…most of the Gold in the treasury. ### Aberama Bong Owner of the Fianchetto Chess bar in the Cardinal Circle, and the moderator of the Shot-Chess association. ### Pope Used to be a big time mafia…"
+   },
+   "rank": 13,
+   "percentile": 72.7,
+   "score": 62
+  },
+  {
+   "name": "Fianchetto Chess Bar",
+   "aliases": [
+    "Fianchetto"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…also responsible for most of the Gold in the treasury. ### Aberama Bong Owner of the Fianchetto Chess bar in the Cardinal Circle, and the moderator of the Shot-Chess association. ### Pope Used…"
+   },
+   "rank": 13,
+   "percentile": 72.7,
+   "score": 62
+  },
+  {
+   "name": "Jui Vuitton",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…light speed around the alleys of Providence. He is the son of Obvious Dickstien, owner of the Jui Vuitton store on Vanity street. Ever since the divorce, Fin has been running amuck around town, harassing…"
+   },
+   "rank": 13,
+   "percentile": 72.7,
+   "score": 62
+  },
+  {
+   "name": "Owe Block Public Library",
+   "aliases": [
+    "Public Library"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…juju.\" Seamus cracked them riddles like a thief on a lock, starting at Stank Tank, rifling the Owe Block Public Library, snooping at the Chronicle Newspaper HQ, grubbing at Bucket's Burgers under Gobbler's posh…"
+   },
+   "rank": 13,
+   "percentile": 72.7,
+   "score": 62
+  },
+  {
+   "name": "Providence Block Market",
+   "aliases": [
+    "Block Market"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…gossip. Don't tell her shit. ### Rachel Zlurs Runs a small leather shop down by the Providence Block Market with very little success due to her unfortunate name. As a push over, she will give almost…"
+   },
+   "rank": 13,
+   "percentile": 72.7,
+   "score": 62
+  },
+  {
+   "name": "The Theocrat",
+   "aliases": [
+    "Theocrat"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Providence Guard ### Vlad the Kisser A small time wanna-be comedian working part time at the Theocrat. He does shows on the weekend to the few late-night drinkers who come around for the final…"
+   },
+   "rank": 13,
+   "percentile": 72.7,
+   "score": 62
+  },
+  {
+   "name": "Pintland Criminal Court",
+   "aliases": [
+    "Criminal Court"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…settled, who killed Peg Butt? The case was brought before the highest court in all the isles, the Pintland Criminal Court, located in Providence. The Honorable Judge Buke presided and an outside lot of jurors was…"
+   },
+   "rank": 22,
+   "percentile": 97.7,
+   "score": 97
+  },
+  {
+   "name": "The Cardinal's towers",
+   "aliases": [
+    "Cardinal's towers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of protecting the towns leader very seriously, constantly patrolling the street around the Cardinal's towers. He was initially a foreigner from an unknown land of giants, brought to Providence as a baby…"
+   },
+   "rank": 22,
+   "percentile": 97.7,
+   "score": 97
+  }
+ ]
+}

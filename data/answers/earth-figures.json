@@ -1,0 +1,362 @@
+{
+ "id": "earth-figures",
+ "prompt": "Name a real-world figure the lore mentions",
+ "blurb": "Aldridge Industries' VIPs and sponsors, puzzle passwords, and other names from Earth.",
+ "difficulty": "hard",
+ "gem": "Otto Rohwedder",
+ "answerCount": 18,
+ "answers": [
+  {
+   "name": "Odysseus",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Stephans books i was able to figure out two of the three passwords for doors (Pythagorus and Odysseus) but im not sure how they figured out Volatile. Stephan and i went to the server room to…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Adolf Hitler",
+   "aliases": [
+    "Hitler",
+    "Adolf"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…told us everything that's going on. Cycle 93? Superior technology? I don't know who this Adolf guy is but he probably has some cool stuff if he's getting it from here. I wonder what he's…"
+   },
+   "rank": 2,
+   "percentile": 8.8,
+   "score": 3
+  },
+  {
+   "name": "Pythagoras",
+   "aliases": [
+    "Pythagorus"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…from luke and Stephans books i was able to figure out two of the three passwords for doors (Pythagorus and Odysseus) but im not sure how they figured out Volatile. Stephan and i went to the server…"
+   },
+   "rank": 2,
+   "percentile": 8.8,
+   "score": 3
+  },
+  {
+   "name": "Alan Turing",
+   "aliases": [
+    "Turing"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…performance. 3. Allowed games While we are proud to have designed this entertainment system before Alan Turing was even a dream in his parent's minds, Earth will inevitably invent similar things before…"
+   },
+   "rank": 4,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Edwin Armstrong",
+   "aliases": [
+    "Armstrong"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…+$500,000 Otto Rohwedder: +$1,000,000 Max Knott: +$800,000 Karl Jansky: +$5,000,000 Edwin Armstrong: +$3,000,000 Robert Watson-Watt: +$8,000,000 Roy Plunkett: +$8,000,000 Expenses -------------------…"
+   },
+   "rank": 4,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Galileo",
+   "aliases": [
+    "Galileo Galilei"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…your situational awareness: Earth aerospace and cosmology news (Cycle 30) Galileo has just constructed a telescope which means our station could be discovered by mere accident…"
+   },
+   "rank": 4,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Karl Jansky",
+   "aliases": [
+    "Jansky"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Sponsors: Vannevar Bush: +$500,000 Otto Rohwedder: +$1,000,000 Max Knott: +$800,000 Karl Jansky: +$5,000,000 Edwin Armstrong: +$3,000,000 Robert Watson-Watt: +$8,000,000 Roy Plunkett:…"
+   },
+   "rank": 4,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Maria Telkes",
+   "aliases": [
+    "Telkes"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…cycle meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide Sponsor Information Hello valued sponsor! We thank you for investing in our…"
+   },
+   "rank": 4,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Max Knott",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Russia: +$10,000,000 Sponsors: Vannevar Bush: +$500,000 Otto Rohwedder: +$1,000,000 Max Knott: +$800,000 Karl Jansky: +$5,000,000 Edwin Armstrong: +$3,000,000 Robert Watson-Watt:…"
+   },
+   "rank": 4,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Nikola Tesla",
+   "aliases": [
+    "Tesla"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…the presence of at least 3 VIP members at the cycle meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide Sponsor Information Hello valued…"
+   },
+   "rank": 4,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Orville Wright",
+   "aliases": [
+    "Wright"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…VIP members at the cycle meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide Sponsor Information Hello valued sponsor! We thank you for…"
+   },
+   "rank": 4,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Otto Rohwedder",
+   "aliases": [
+    "Rohwedder"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…+$10,000,000 Budapest: +$10,000,000 Russia: +$10,000,000 Sponsors: Vannevar Bush: +$500,000 Otto Rohwedder: +$1,000,000 Max Knott: +$800,000 Karl Jansky: +$5,000,000 Edwin Armstrong: +$3,000,000…"
+   },
+   "rank": 4,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Robert Watson-Watt",
+   "aliases": [
+    "Watson-Watt",
+    "Robert Watson Watt"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…+$1,000,000 Max Knott: +$800,000 Karl Jansky: +$5,000,000 Edwin Armstrong: +$3,000,000 Robert Watson-Watt: +$8,000,000 Roy Plunkett: +$8,000,000 Expenses ------------------- Maintenance Materials:…"
+   },
+   "rank": 4,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Roy Plunkett",
+   "aliases": [
+    "Plunkett"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Karl Jansky: +$5,000,000 Edwin Armstrong: +$3,000,000 Robert Watson-Watt: +$8,000,000 Roy Plunkett: +$8,000,000 Expenses ------------------- Maintenance Materials: -$40,000,000 Food &…"
+   },
+   "rank": 4,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Vannevar Bush",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…+$20,000,000 Germany: +$10,000,000 Budapest: +$10,000,000 Russia: +$10,000,000 Sponsors: Vannevar Bush: +$500,000 Otto Rohwedder: +$1,000,000 Max Knott: +$800,000 Karl Jansky: +$5,000,000…"
+   },
+   "rank": 4,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "King Von",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…could give more details about the events that preceded this, chicken jockey, pope leo XIV, King Von, but you'll have to visit Owe Block for that, but you best be wearing blue. Seaside Circus…"
+   },
+   "rank": 16,
+   "percentile": 94.1,
+   "score": 91
+  },
+  {
+   "name": "Pope Leo XIV",
+   "aliases": [
+    "Pope Leo"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…victory 2-1. I could give more details about the events that preceded this, chicken jockey, pope leo XIV, King Von, but you'll have to visit Owe Block for that, but you best be wearing blue. Seaside…"
+   },
+   "rank": 16,
+   "percentile": 94.1,
+   "score": 91
+  },
+  {
+   "name": "Thanos",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…drop some victory bars in the club that night. Not a rapper but did hit them with \"Call me thanos cause I'll snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon,…"
+   },
+   "rank": 16,
+   "percentile": 94.1,
+   "score": 91
+  }
+ ]
+}

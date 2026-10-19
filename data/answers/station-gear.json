@@ -1,0 +1,574 @@
+{
+ "id": "station-gear",
+ "prompt": "Name a piece of gear or tech from Maximilian's space station",
+ "blurb": "Keycards, suits, consoles and contraptions from the Liquor King Trials.",
+ "difficulty": "hard",
+ "gem": "Fuse Reset Rod",
+ "answerCount": 28,
+ "answers": [
+  {
+   "name": "Cryo-chambers",
+   "aliases": [
+    "cryo chamber",
+    "cryogenics",
+    "cryo"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 8,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…devil himself and received knowledge far beyond ordinary human reach. His first invention was cryogenics, which he used to capture the Liquor Kings at a supposed 20th anniversary celebration…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Entertainment system",
+   "aliases": [
+    "TV",
+    "the TV"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 2,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Spiral \"I can do this,\" he swore, staggering blind, As puzzles mocked his weakened mind. TV manuals, books, and tic-tac-toe, He searched high and low, incredibly slow. Then—behold!—on…"
+   },
+   "rank": 2,
+   "percentile": 7.4,
+   "score": 2
+  },
+  {
+   "name": "Flow control valves",
+   "aliases": [
+    "flow control",
+    "valves"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 0,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…entering the endgame, Luke opened up the navigation door i think and that gave us access to the flow controls and thankfully everyone else was able to understand how the system worked but i totally did…"
+   },
+   "rank": 2,
+   "percentile": 7.4,
+   "score": 2
+  },
+  {
+   "name": "Hazmat Suit",
+   "aliases": [],
+   "mentions": {
+    "total": 10,
+    "compendium": 2,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…skeleton was found inside the prison, along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction…"
+   },
+   "rank": 2,
+   "percentile": 7.4,
+   "score": 2
+  },
+  {
+   "name": "Solar transducers",
+   "aliases": [
+    "solar transducer",
+    "transducers"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 0,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and don't get punished! POWER OVERRIDE WARNING ------------------- THIS IS ONE OF TWO SOLAR TRANSDUCERS. IF BOTH ARE SHUT OFF, CRITICAL STATION SERVICES WILL GO OFFLINE UNTIL ONE OR BOTH IS TRANSDUCERS…"
+   },
+   "rank": 5,
+   "percentile": 14.8,
+   "score": 6
+  },
+  {
+   "name": "Emergency Access Key",
+   "aliases": [
+    "EAK"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 0,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…that's no worry, as we will either die or walk back out triumphant with every door unlocked. EAK Manual Emergency Access Key Design Document ------------------- While we rarely have issues…"
+   },
+   "rank": 6,
+   "percentile": 20.4,
+   "score": 9
+  },
+  {
+   "name": "L2 pass card",
+   "aliases": [
+    "L2 key",
+    "pass card",
+    "keycard",
+    "black pass cards"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 0,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…get back to the work shop....finally....i search everywhere. I fins books on how to make L2 pass cards, how to upgrade weapons. I find food, lapis, warp crystal, bottles of enchantment and 3 balck…"
+   },
+   "rank": 6,
+   "percentile": 20.4,
+   "score": 9
+  },
+  {
+   "name": "Warp crystals",
+   "aliases": [
+    "Warp Shard",
+    "warp crystal",
+    "shiny crystals"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 2,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction from Rollo). ## Concept…"
+   },
+   "rank": 8,
+   "percentile": 25.9,
+   "score": 13
+  },
+  {
+   "name": "Employee ID",
+   "aliases": [
+    "ID card",
+    "employee ID card"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tic-tac-toe, He searched high and low, incredibly slow. Then—behold!—on the TV clear as day, An ID card sat, one foot away. No riddles, no tricks, just pure disgrace, As Max laughed softly in…"
+   },
+   "rank": 9,
+   "percentile": 29.6,
+   "score": 16
+  },
+  {
+   "name": "Backtrac",
+   "aliases": [
+    "Backtrack"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…inside the prison, along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction…"
+   },
+   "rank": 10,
+   "percentile": 38.9,
+   "score": 24
+  },
+  {
+   "name": "Comms Chip",
+   "aliases": [
+    "comms device"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the prison, along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction from Rollo).…"
+   },
+   "rank": 10,
+   "percentile": 38.9,
+   "score": 24
+  },
+  {
+   "name": "Elevator",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…trigger everything at the same time. First try. We ran together into the entrance. It was… an elevator. I've learned so much in just three hours. Elevators. Keycards. Teleporters. Computers.…"
+   },
+   "rank": 10,
+   "percentile": 38.9,
+   "score": 24
+  },
+  {
+   "name": "Fuse Reset Rod",
+   "aliases": [
+    "reset rod"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Non-blown fuses knocked out of place by navigation-based inertial changes. Solution: Use fuse reset rod to push fuses back into the correct position (as denoted by the power indicator light) Entry…"
+   },
+   "rank": 10,
+   "percentile": 38.9,
+   "score": 24
+  },
+  {
+   "name": "Mk. II Autonomous Defense Unit",
+   "aliases": [
+    "security bots",
+    "Mk II"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Address leakages at joints between new and old pipes. [+] Integrate pathfinding nodes for new security bots Cycle 93, Year 3 [+] fuckin hate this job and i don't even think anyone reads these logs.…"
+   },
+   "rank": 14,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "Punch card printer",
+   "aliases": [
+    "printer"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…recovery key on its external display and as I'm sure you know, that's a problem -Xiulan Printer Manual Printer Manual This is a punch card printer, able to create digitally recognized keys for…"
+   },
+   "rank": 14,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "Recovery key",
+   "aliases": [
+    "L2 recovery key"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…than those updates, however, the process is the same. Head of security will come around with recovery keys and show you the decryption process as soon as the change goes into effect. -Pius Earth…"
+   },
+   "rank": 14,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "Resuscitation stash",
+   "aliases": [
+    "resuscitation stashes"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…blockage has been cleared. helpful tip hey I passed out the other day on a floor without resuscitation stashes and got like all my stuff pickpocketed. Make sure you use the resuscitation stashes for…"
+   },
+   "rank": 14,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "Taser",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…All these doors needed keys. I had HR, Security, and Financiers. I already used HR and got a taser. Some doors wouldn't open and I could see some much needed food and weapons. We found a machine…"
+   },
+   "rank": 14,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "Tool upgrade station",
+   "aliases": [
+    "upgrade station",
+    "upgrade bench"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…the code you'd like to imprint on it. upgrade manual Tool Upgrade Manual To use the tool upgrade station, take some of the upgrade serum and a corresponding amount of lapus and place both in the…"
+   },
+   "rank": 14,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "L2 key puncher",
+   "aliases": [
+    "key puncher"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…P.S. don't forget to print your access key in all caps dumbass - James L2 key manual L2 Key Puncher Usage Manual To operate the L2 key puncher, place a blank passcard under the punching…"
+   },
+   "rank": 20,
+   "percentile": 75.9,
+   "score": 66
+  },
+  {
+   "name": "Lapis",
+   "aliases": [
+    "lapus"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…everywhere. I fins books on how to make L2 pass cards, how to upgrade weapons. I find food, lapis, warp crystal, bottles of enchantment and 3 balck pass cards. I try renaming them....but to…"
+   },
+   "rank": 20,
+   "percentile": 75.9,
+   "score": 66
+  },
+  {
+   "name": "The blue sword",
+   "aliases": [
+    "blue sword",
+    "saber",
+    "sword handle"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and there's items scattered like someone left in a hurry—or died trying. found some type of sword handle. I accidentally fiddled with its buttons and a blue light spun out. Feels light, humming.…"
+   },
+   "rank": 20,
+   "percentile": 75.9,
+   "score": 66
+  },
+  {
+   "name": "Wrench",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…was going to look like. My spawn was in the server room and the first thing i found was a wrench, i used this wrench to open a trapdoor which took an embarrassingly long time and that led…"
+   },
+   "rank": 20,
+   "percentile": 75.9,
+   "score": 66
+  },
+  {
+   "name": "Coffee dispenser",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…puzzle MUST be very complex. I'll have to look at all the clues deeply to slove it. There's a coffee dispenser (surely I'll need to use that), perhaps there's something hidden behind the paintings, books....it's…"
+   },
+   "rank": 24,
+   "percentile": 87.0,
+   "score": 81
+  },
+  {
+   "name": "Upgrade serum",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…it. upgrade manual Tool Upgrade Manual To use the tool upgrade station, take some of the upgrade serum and a corresponding amount of lapus and place both in the upgrade station. Next, place the…"
+   },
+   "rank": 24,
+   "percentile": 87.0,
+   "score": 81
+  },
+  {
+   "name": "Crystalline Structure #7",
+   "aliases": [
+    "Crystalline Structure 7",
+    "asteroid crystal"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…lights actually reactivate. Material Inv. Foreign Material Investigation Asteroid Crystalline Structure #7: We've observed a number of properties in the structure of crystalline structure #7 that…"
+   },
+   "rank": 26,
+   "percentile": 92.6,
+   "score": 89
+  },
+  {
+   "name": "Biochip",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…safe. However, if you walk into a room and start feeling ill or receive a warning from your biochip, you'll know that you should equip your hazmat suit. 3. The how Once you know you're in a…"
+   },
+   "rank": 27,
+   "percentile": 96.3,
+   "score": 94
+  },
+  {
+   "name": "Dmitri's heart device",
+   "aliases": [
+    "heart device",
+    "pacemaker"
+   ],
+   "mentions": {
+    "total": 0,
+    "compendium": 0,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "We've invented a new device that should help regulate his heartbeat",
+    "note": "Invented to regulate Dmitri's heartbeat after his space-born cardiomyopathy."
+   },
+   "rank": 28,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

@@ -1,0 +1,591 @@
+{
+ "id": "veilwalker-lore",
+ "prompt": "Name something tied to the Veilwalkers",
+ "blurb": "Their home, their customs, their kin, their curses and the people who crossed them.",
+ "difficulty": "medium",
+ "gem": "Spiritweed",
+ "answerCount": 29,
+ "answers": [
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Drake"
+   ],
+   "mentions": {
+    "total": 143,
+    "compendium": 74,
+    "records": 69
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "John Cum",
+   "aliases": [
+    "Cum"
+   ],
+   "mentions": {
+    "total": 54,
+    "compendium": 21,
+    "records": 33
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…observatory on Killdeath Peak. - The Dread Marrows — A region of dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the hands of John Rump. - The Shrines — A scatter…"
+   },
+   "rank": 2,
+   "percentile": 3.6,
+   "score": 1
+  },
+  {
+   "name": "Fenwick",
+   "aliases": [],
+   "mentions": {
+    "total": 32,
+    "compendium": 22,
+    "records": 10
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…inland forest known locally as 'Thiccy Forest.' This is the home of the Veilwalker encampment, Fenwick. Many other notable locations are shrouded by the dense forest, most prominent of these is…"
+   },
+   "rank": 3,
+   "percentile": 7.1,
+   "score": 2
+  },
+  {
+   "name": "The Rotted Soul",
+   "aliases": [
+    "Rotted Soul",
+    "Wronged Walker"
+   ],
+   "mentions": {
+    "total": 33,
+    "compendium": 31,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…further South is a small river which drains to the sea. Some scholars believe the remains of the Rotted Soul may rest here, though until recently this was unknown. The Kings discovered the true location…"
+   },
+   "rank": 4,
+   "percentile": 10.7,
+   "score": 4
+  },
+  {
+   "name": "VeilRunner",
+   "aliases": [
+    "Veilrunner"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 12,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the streets at night by burning slaves alive. His kind had a name for what he had become: a VeilRunner. What Is a VeilRunner? A VeilRunner is a Veilwalker who has turned against the very…"
+   },
+   "rank": 5,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Sexton Gobbler",
+   "aliases": [
+    "Gobbler"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 7,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Liquor Kings with safe haven during the Owe Block concept when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley…"
+   },
+   "rank": 6,
+   "percentile": 17.9,
+   "score": 8
+  },
+  {
+   "name": "Earth born",
+   "aliases": [
+    "earth-born",
+    "earthborn"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 3,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the dirt and soil of the earth. They refer to humans as \"The flesh born\" and themselves as \"earth born\". They live simple lives and live off of only what the earth provides for them. Hence they're…"
+   },
+   "rank": 7,
+   "percentile": 23.2,
+   "score": 11
+  },
+  {
+   "name": "Flesh born",
+   "aliases": [
+    "flesh-born",
+    "fleshborn"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 5,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"veilwalkers\". They were born from the dirt and soil of the earth. They refer to humans as \"The flesh born\" and themselves as \"earth born\". They live simple lives and live off of only what the earth…"
+   },
+   "rank": 7,
+   "percentile": 23.2,
+   "score": 11
+  },
+  {
+   "name": "The Elders",
+   "aliases": [
+    "Elders",
+    "Veilwalker Elders"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Veilwalker. Female Walkers are seldom seen. By Veilwalker law, they are barred from serving as Elders or ambassadors, keeping them largely out of contact with the outside world. This particular…"
+   },
+   "rank": 9,
+   "percentile": 28.6,
+   "score": 15
+  },
+  {
+   "name": "The Bastard Veil",
+   "aliases": [
+    "Bastard Veil"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…would serve as the place of pirate celebration for many cycles to come. ### Gideon Drake the Bastard Veil (formerly 'the Ironkeg') — BANISHED TO VODKONIA Gideon Drake sailed into Shanty Town 20 years…"
+   },
+   "rank": 10,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "The line of Johns",
+   "aliases": [
+    "John family",
+    "the Johns"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Whiteknuckle: the only notable event of Aldins rule was the grant of land to an early member of the John family which later became the famed Cumstead. Godrin Moor: It is said that Godrin was the last…"
+   },
+   "rank": 10,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "Veilwalker fishing gear",
+   "aliases": [
+    "lures",
+    "fishing gear",
+    "bait and lures"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…wheat for the whole island\") Since they have no need for money or gold, they trade their fishing gear and such for promises and vows. Whether that be a promise to plant a flower for every fish…"
+   },
+   "rank": 10,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "Woodland spirits",
+   "aliases": [
+    "nature spirits"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fenwick & the Veilwalkers The Veilwalkers- Those who move between the seen and unseen, tied to nature spirits. The Veilwalkers are a mystical/slightly magical nomadic tribe. They are an ancient people…"
+   },
+   "rank": 10,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "Promises and vows",
+   "aliases": [
+    "vows",
+    "promises"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…island\") Since they have no need for money or gold, they trade their fishing gear and such for promises and vows. Whether that be a promise to plant a flower for every fish you catch. Or a vow to be more…"
+   },
+   "rank": 14,
+   "percentile": 51.8,
+   "score": 37
+  },
+  {
+   "name": "The Veilwalker shrine",
+   "aliases": [
+    "Veilwalker shrine",
+    "Gobbler's shrine"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Slumber'd. Seamus Bonehardy found the stone button in the church's narrow hall that opens the Veilwalkers' shrine — an obsidian and amethyst chamber where Leo guards the Monk's hidden materials. ### Faige…"
+   },
+   "rank": 14,
+   "percentile": 51.8,
+   "score": 37
+  },
+  {
+   "name": "Veil Chalice",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…embassy. Gobbler was subsequently exposed by the Kings using the stolen Veil Oath book and the Veil Chalice from his shrine. ### Cardinal Addy The Cardinal of Providence — beloved leader, born to…"
+   },
+   "rank": 14,
+   "percentile": 51.8,
+   "score": 37
+  },
+  {
+   "name": "Veil Oath",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hoegaarden Library embassy. Gobbler was subsequently exposed by the Kings using the stolen Veil Oath book and the Veil Chalice from his shrine. ### Cardinal Addy The Cardinal of Providence…"
+   },
+   "rank": 14,
+   "percentile": 51.8,
+   "score": 37
+  },
+  {
+   "name": "Dumb monks in the cave",
+   "aliases": [
+    "dumb monks"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…spirit form. They are also referred to as \"healers\", \"mystics\", \"gardeners\" and even \"the dumb monks in the cave\" They are nomadic but only relative to their own life expectancy. So relative…"
+   },
+   "rank": 18,
+   "percentile": 67.9,
+   "score": 56
+  },
+  {
+   "name": "Famine and disease",
+   "aliases": [
+    "curse",
+    "famine"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…offend them or try to take too much from the earth are haunted by this tribe and are cursed by famine and disease. When they communicate with the woodland spirits they transform into ghostly figures and…"
+   },
+   "rank": 18,
+   "percentile": 67.9,
+   "score": 56
+  },
+  {
+   "name": "Godrin Moor",
+   "aliases": [
+    "Godrin"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of land to an early member of the John family which later became the famed Cumstead. Godrin Moor: It is said that Godrin was the last ruler of Aleforge to see what is now Fenwick at its height.…"
+   },
+   "rank": 18,
+   "percentile": 67.9,
+   "score": 56
+  },
+  {
+   "name": "Lady Edgermire",
+   "aliases": [
+    "Edgermire"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…deep below the Ballbuster Inn ##### Witch Doctors Tower A mystic healer by the name of Lady Edgermire heals but for a strange price……rumors circle about her having Veilwalker ties ##### Aleforge…"
+   },
+   "rank": 18,
+   "percentile": 67.9,
+   "score": 56
+  },
+  {
+   "name": "The Foreverglades",
+   "aliases": [
+    "Foreverglades"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…During the reign of the 33rd Council, a farmer from the northern fields wandered into the Foreverglades, an ancient forest shared by humans and Veilwalkers in their respective seasons, and encountered…"
+   },
+   "rank": 18,
+   "percentile": 67.9,
+   "score": 56
+  },
+  {
+   "name": "Guinnesston",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fought a quiet but brutal war against the smugglers gallery along the cliffs of Aleforge. Guinnesston: The first king to send a diplomatic envoy to Fenwick and establish ties with the Veilwalkers.…"
+   },
+   "rank": 23,
+   "percentile": 89.3,
+   "score": 84
+  },
+  {
+   "name": "Night of the Earthen Veil",
+   "aliases": [
+    "Earthen Veil"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Absolutely no work is to be done this day and the ale flows free for all to share. Night of the Earthen Veil: Celebrated all around Pintland on the last day of the 4th Keg in Veilfrost (Sept 27, 2026…"
+   },
+   "rank": 23,
+   "percentile": 89.3,
+   "score": 84
+  },
+  {
+   "name": "Spiritweed",
+   "aliases": [
+    "spirit weed"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Beast-Breaker himself. Brewed from blood pulled from the gullet of the slain Leviathan, stirred with spiritweed from Fenwick, and sealed with powdered gold so fine it whispered when poured. They feared…"
+   },
+   "rank": 23,
+   "percentile": 89.3,
+   "score": 84
+  },
+  {
+   "name": "The First Treaty",
+   "aliases": [
+    "First Treaty"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…child was conceived, half human, half Veilwalker. A halfbreed. The first of its kind. The First Treaty When the union was discovered, it triggered a crisis on both sides. The Veilwalker Elders…"
+   },
+   "rank": 23,
+   "percentile": 89.3,
+   "score": 84
+  },
+  {
+   "name": "The Vow of Mate",
+   "aliases": [
+    "Vow of Mate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…them largely out of contact with the outside world. This particular Walker had already taken The Vow of Mate, a sacred and unbreakable bond in Veil culture. When two Walkers take this vow before the…"
+   },
+   "rank": 23,
+   "percentile": 89.3,
+   "score": 84
+  },
+  {
+   "name": "Veilwalker Artifact Tariff",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…investing directly into private business but most agree that more Ale can only be a good thing. Veilwalker Artifact Tariff: Gideon is uneasy with the thought of trade with the Veilwalkers as he sees them as almost…"
+   },
+   "rank": 23,
+   "percentile": 89.3,
+   "score": 84
+  },
+  {
+   "name": "Veilwalker manifest destiny",
+   "aliases": [
+    "manifest destiny"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…is definitely more sure about his sexuality than Buke, but he was the ONLY king to vote for Veilwalker manifest destiny. Now I'm no Fenwick lover, but only a dumbass would go and piss off a town of mages right…"
+   },
+   "rank": 23,
+   "percentile": 89.3,
+   "score": 84
+  }
+ ]
+}

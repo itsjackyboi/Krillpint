@@ -1,0 +1,32 @@
+{
+  "id": "providence-spots",
+  "prompt": "Name a place in Providence or Owe Block",
+  "blurb": "Spires, streets, shops, mines and the burger joint under a crooked manor.",
+  "difficulty": "hard",
+  "gem": "Bucket's Burgers",
+  "answers": [
+    {"name": "Patmos's spire", "aliases": ["Patmos spire", "the spire"], "count": ["re:(?i)\\bspire\\b"], "obscurity": 1},
+    {"name": "The lake port", "aliases": ["lake port"], "count": ["re:(?i)lake port"], "obscurity": 1},
+    {"name": "Vanity Street", "aliases": []},
+    {"name": "Jui Vuitton", "aliases": []},
+    {"name": "Buenacera Italian Restaurant", "aliases": ["Buenacera"]},
+    {"name": "Cardinal Circle", "aliases": ["The Cardinal Circle"]},
+    {"name": "Fianchetto Chess Bar", "aliases": ["Fianchetto"]},
+    {"name": "Big Ole Pipe", "aliases": ["The Big Ole Pipe"]},
+    {"name": "Providence Block Market", "aliases": ["Block Market"]},
+    {"name": "The Theocrat", "aliases": ["Theocrat"]},
+    {"name": "Stank Tank", "aliases": ["The Stank Tank"]},
+    {"name": "Church of the Monk", "aliases": []},
+    {"name": "Owe Block Public Library", "aliases": ["Public Library"], "count": ["re:Owe Block Public Library"]},
+    {"name": "Chronicle Newspaper HQ", "aliases": ["Chronicle HQ"], "count": ["re:Chronicle (Newspaper )?HQ"]},
+    {"name": "Bucket's Burgers", "aliases": ["Buckets Burgers"]},
+    {"name": "Gobbler's manor", "aliases": ["Gobbler's posh manor", "corrupt noble's manor"], "count": ["re:(?i)manor"]},
+    {"name": "The Brothel", "aliases": ["Brothel"], "count": ["re:(?i)\\bbrothel\\b"]},
+    {"name": "The Treasury", "aliases": ["Treasury"], "count": ["re:\\bTreasury\\b"]},
+    {"name": "Mickey's Pipe Club", "aliases": ["Pipe Club"], "count": ["Pipe Club"]},
+    {"name": "Dig Dug's mines", "aliases": ["the mines", "mines at the Basin"], "count": ["re:(?i)\\bthe mines\\b", "re:Dig Dug'?s mines"]},
+    {"name": "The Veilwalker shrine", "aliases": ["Veilwalker shrine", "Gobbler's shrine", "obsidian and amethyst chamber"], "count": ["re:(?i)veil ?walkers'? shrine"]},
+    {"name": "Pintland Criminal Court", "aliases": ["Criminal Court"], "obscurity": 4},
+    {"name": "The Cardinal's towers", "aliases": ["Cardinal's towers"], "count": ["re:(?i)cardinal'?s towers"], "obscurity": 4}
+  ]
+}

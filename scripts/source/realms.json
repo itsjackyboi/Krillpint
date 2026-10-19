@@ -1,0 +1,31 @@
+{
+  "id": "realms",
+  "prompt": "Name a town, nation or realm",
+  "blurb": "Settlements, empires, islands, and planes of existence you'd rather not visit.",
+  "difficulty": "easy",
+  "gem": "Name",
+  "answers": [
+    {"name": "Aleforge", "aliases": ["Ale Forge", "Alforge"], "count": ["re:(?i)ale ?forge|alforge"], "obscurity": 1},
+    {"name": "Providence", "aliases": [], "obscurity": 1},
+    {"name": "Shanty Town", "aliases": ["Shantytown"], "count": ["re:(?i)shanty ?town"], "obscurity": 1},
+    {"name": "Pintland Isles", "aliases": ["Pintland", "The Isles"], "count": ["re:(?i)pintland"], "obscurity": 1},
+    {"name": "Roto Kaiishi", "aliases": ["Roto", "Rotto", "Roto Kaishi"], "count": ["re:\\bRott?o\\b"]},
+    {"name": "Owe Block", "aliases": ["Oweblock", "The Owe"], "count": ["re:(?i)owe ?block"]},
+    {"name": "Fenwick", "aliases": []},
+    {"name": "Lagendale", "aliases": ["Lagendale Empire", "Kingdom of Lagendale"], "count": ["re:(?i)lagendale"]},
+    {"name": "Vodkonia", "aliases": []},
+    {"name": "The Southern Bellows Nation", "aliases": ["Southern Bellows Nation", "SBN", "Bellows Nation"], "count": ["re:(?i)bellows nation", "re:\\bSBN\\b"]},
+    {"name": "Name", "aliases": ["the town of Name"], "count": ["re:town of Name\\b", "re:  - Name —"], "obscurity": 4},
+    {"name": "Bar Bastion", "aliases": ["The Bastion"], "count": ["Bar Bastion", "re:\\bthe Bastion\\b"]},
+    {"name": "The Coors Golden Isles", "aliases": ["Coors Golden Isles", "Golden Isle", "Golden Isles"], "count": ["re:(?i)golden (isles?|aisle)"]},
+    {"name": "Gyntonick", "aliases": []},
+    {"name": "New Haven", "aliases": []},
+    {"name": "Realm of the Soulless", "aliases": []},
+    {"name": "The Nether", "aliases": ["Nether"], "count": ["re:(?i)\\bnether\\b"]},
+    {"name": "The Spirit realm", "aliases": ["Spirit realm"], "obscurity": 4},
+    {"name": "The Wildlands", "aliases": ["Wildlands", "wild lands"], "count": ["re:(?i)wild ?lands"]},
+    {"name": "West Pint", "aliases": ["Westpint"], "count": ["re:(?i)west ?pint"]},
+    {"name": "Earth", "aliases": [], "count": ["re:\\bE(arth|rth)\\b"]},
+    {"name": "The land of giants", "aliases": ["land of giants"], "obscurity": 5}
+  ]
+}

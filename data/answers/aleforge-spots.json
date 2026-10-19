@@ -1,0 +1,463 @@
+{
+ "id": "aleforge-spots",
+ "prompt": "Name a place in Aleforge",
+ "blurb": "Buildings, streets and landmarks in the brewing capital of the Isles.",
+ "difficulty": "medium",
+ "gem": "Witch Doctors Tower",
+ "answerCount": 22,
+ "answers": [
+  {
+   "name": "Gilded Tankard",
+   "aliases": [
+    "The Tankard"
+   ],
+   "mentions": {
+    "total": 23,
+    "compendium": 19,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and tavern founded by Glub Tuppus Wepple. A newcomer named Gideon Drake rose to…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Aleforge Castle",
+   "aliases": [
+    "The Castle",
+    "Castle of Aleforge"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The largest island contains the vast majority of the infrastructure, including the prominent Aleforge Castle at the highest point in the city. The neighboring smaller islands hold the Aleforge Bazzar,…"
+   },
+   "rank": 2,
+   "percentile": 4.8,
+   "score": 1
+  },
+  {
+   "name": "The town square",
+   "aliases": [
+    "town square",
+    "main square"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Beast and constructed the Shelled Tavern. Frenic built the Sackbeard Memorial Well in the town square. Trodon Hallis: The last member of the Hallis Dynasty. Trodon was a weak and sickly man…"
+   },
+   "rank": 3,
+   "percentile": 9.5,
+   "score": 3
+  },
+  {
+   "name": "Old Alforge Municipal",
+   "aliases": [
+    "Old Aleforge Municipal",
+    "OAM"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…not much is known about them but some believe they have their origin in Vodkonia. ##### Old Alforge Municipal Old Alforge Municipal (OAM) is made up of the last three government offices from Old Aleforge.…"
+   },
+   "rank": 4,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Aleforge Post Office and Public Records",
+   "aliases": [
+    "Post Office",
+    "APO & PR",
+    "Aleforge Post Office"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…heals but for a strange price……rumors circle about her having Veilwalker ties ##### Aleforge Post Office and Public Records Supplebottom runs a tight ship in the APO & PR. never a late delivery…"
+   },
+   "rank": 5,
+   "percentile": 21.4,
+   "score": 10
+  },
+  {
+   "name": "The sewers",
+   "aliases": [
+    "sewers",
+    "sewer network",
+    "Oswain's tunnels"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…event that a swift attack would be necessary. In modern times these have been refitted into a sewer network. Sean Assbell: An admirer of Miller and Stein; Assbell sought to increase Aleforges…"
+   },
+   "rank": 5,
+   "percentile": 21.4,
+   "score": 10
+  },
+  {
+   "name": "Aleforge Bazaar",
+   "aliases": [
+    "Aleforge Bazzar",
+    "Bazaar",
+    "Bazzar"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Castle at the highest point in the city. The neighboring smaller islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and…"
+   },
+   "rank": 7,
+   "percentile": 35.7,
+   "score": 21
+  },
+  {
+   "name": "Aleforge Light House and Customs Control",
+   "aliases": [
+    "Lighthouse",
+    "Light House",
+    "Customs Control"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…at the highest point in the city. The neighboring smaller islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and tavern founded…"
+   },
+   "rank": 7,
+   "percentile": 35.7,
+   "score": 21
+  },
+  {
+   "name": "Billy Ball Busters Inn",
+   "aliases": [
+    "Ballbuster Inn",
+    "Ball Buster Inn"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(and the freakiest) hogs in all of Pintland and thats a Freddy Hog guarantee. ##### Billy Ball Busters Inn The best and only Inn in all of Aleforge. Offers a range of rooms and community lodges……..…"
+   },
+   "rank": 7,
+   "percentile": 35.7,
+   "score": 21
+  },
+  {
+   "name": "The ale fountain",
+   "aliases": [
+    "ale fountain",
+    "fountain of Ale",
+    "town square fountain"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…beheaded publicly by those who believed in the old Brewmasters Deity. It is said that the fountain of Ale overflowed that day and all drank until they were satisfied. Adcock: The last of the…"
+   },
+   "rank": 7,
+   "percentile": 35.7,
+   "score": 21
+  },
+  {
+   "name": "Boner Bar",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the brewers. ##### Aleforge Bazzar ##### Aleforge Light House and Customs Control ##### Boner Bar Wolendi The family wind farm of the Derecho family, currently under ownership of Gale…"
+   },
+   "rank": 11,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Brewers Lane",
+   "aliases": [
+    "Brewer's Lane"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…delivered Quickety Cricket (the fastest postman in Pintland) and his trusty horse Prejac ##### Brewers Lane Brewers of Aleforge have been living here for generations ##### Hall Of Ale Once a month…"
+   },
+   "rank": 11,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "CockPowers Clock Tower",
+   "aliases": [
+    "Clock Tower",
+    "CockPower's Clock Tower"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…population is supportive of the new administration. #### Notable Locations: ##### CockPowers Clock Tower Built by the Cockpower family and currently maintained by Sir Robert CockPower. The CockPower…"
+   },
+   "rank": 11,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Freddy Hog's Freaky Hogs",
+   "aliases": [
+    "Freaky Hogs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…on the side of the building in an alley way between the estate and the OAM building ##### Freddy Hog's Freaky Hogs Here you can buy the best quality (and the freakiest) hogs in all of Pintland and thats…"
+   },
+   "rank": 11,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Hall of Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Prejac ##### Brewers Lane Brewers of Aleforge have been living here for generations ##### Hall Of Ale Once a month the brewers gather here for a grand feast and keg tap put on by a different…"
+   },
+   "rank": 11,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Sackbeard Memorial Well",
+   "aliases": [
+    "Memorial Well"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Sackbeard killed the Great Shelled Beast and constructed the Shelled Tavern. Frenic built the Sackbeard Memorial Well in the town square. Trodon Hallis: The last member of the Hallis Dynasty. Trodon was…"
+   },
+   "rank": 11,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "The Krappenschitz Estate",
+   "aliases": [
+    "Krappenschitz Estate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…William Dillydally. The current Captain of the Color Guard is Cpt. Lincoln Dillydally ##### The Krappenschitz Estate The Krappenschitz family (David and Iso) are rich snobbish aristocrats. They are generally…"
+   },
+   "rank": 11,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "The Last Drop",
+   "aliases": [
+    "Last Drop"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…best and only Inn in all of Aleforge. Offers a range of rooms and community lodges…….. ##### The Last Drop Ballbusters brother Tugller founded a secret bar deep below the Ballbuster Inn ##### Witch…"
+   },
+   "rank": 11,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "Witch Doctors Tower",
+   "aliases": [
+    "Witch Doctor's Tower",
+    "Witch Doctor Tower"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Drop Ballbusters brother Tugller founded a secret bar deep below the Ballbuster Inn ##### Witch Doctors Tower A mystic healer by the name of Lady Edgermire heals but for a strange price……rumors circle…"
+   },
+   "rank": 11,
+   "percentile": 66.7,
+   "score": 54
+  },
+  {
+   "name": "The Aleforge Brewery",
+   "aliases": [
+    "Brewery"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…at the highest point in the city. The neighboring smaller islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and tavern founded by Glub…"
+   },
+   "rank": 20,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "The Aleforge jail",
+   "aliases": [
+    "Aleforge jail",
+    "jail"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…found guilty of the murder of Peg Butt. He was sentenced to lifetime sobriety and a stint in the Aleforge jail. # VI. CULTURE, RELIGION & BUSINESS ## The Drunken Trials (Cultural Event) The Drunken…"
+   },
+   "rank": 20,
+   "percentile": 92.9,
+   "score": 89
+  },
+  {
+   "name": "The Pilsner house",
+   "aliases": [
+    "Pilsner house"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…other day. I was drunk and Gideon Drake was a bitch (damn I hate that guy) I was heading to the Pilsner house in Aleforge to start day drinking after a long morning of pregaming. Curse the gods above.....my…"
+   },
+   "rank": 22,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

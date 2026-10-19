@@ -1,0 +1,546 @@
+{
+ "id": "station-rooms",
+ "prompt": "Name a room or section of Maximilian's space station",
+ "blurb": "Where the Kings woke up, crawled around, died repeatedly, and finally fought Max.",
+ "difficulty": "hard",
+ "gem": "Bussy module",
+ "answerCount": 27,
+ "answers": [
+  {
+   "name": "Engine room",
+   "aliases": [
+    "The Engine Room"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 1,
+    "records": 17
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…opened a door... and credit? Got not. But he didn't care—this was his chance! He stormed the engine room in a stumble-dance. Made the great jump, flipped the damn switch, Then missed the next jump…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Throne room",
+   "aliases": [
+    "The Throne Room"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 0,
+    "records": 12
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…luke around until we ended up in the engine room. We all hit the buttons and went into the throne room. Ben gave an inspiring speech and we walked into the final fight and i was certain it was…"
+   },
+   "rank": 2,
+   "percentile": 3.8,
+   "score": 1
+  },
+  {
+   "name": "Engineering",
+   "aliases": [
+    "Engineering room",
+    "engineers office"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 1,
+    "records": 14
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…travel without ever touching foreign soil. This combination of chemical mastery and aerial engineering makes them far more capable than their reclusive reputation suggests, which is exactly what…"
+   },
+   "rank": 3,
+   "percentile": 7.7,
+   "score": 2
+  },
+  {
+   "name": "HR",
+   "aliases": [
+    "HRBIO",
+    "HR room"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 0,
+    "records": 12
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…reheated dominos Parmesan bread bites and a beer. From the conference warp we went to the HR room and found a bunch of lore and finally met up with jp and got out of proxy chat. From…"
+   },
+   "rank": 4,
+   "percentile": 11.5,
+   "score": 4
+  },
+  {
+   "name": "Navigation",
+   "aliases": [
+    "Nav"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 1,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…out of either funds or optimism. The twelfth expedition succeeded. Whether by Bonehardy's navigation or a better map broker, the party found a cave in country that should have been picked over…"
+   },
+   "rank": 5,
+   "percentile": 15.4,
+   "score": 6
+  },
+  {
+   "name": "Crawlspace",
+   "aliases": [
+    "Crawlspace 1",
+    "Crawlspace 2",
+    "Crawlspace 3",
+    "crawlspaces"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 0,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…(cycle 93). There was also another door i was unable to open here. I followed stephan into crawlspace 1 but didnt know we could /crawl at this point so i left lol. I used the conference warp to…"
+   },
+   "rank": 6,
+   "percentile": 21.2,
+   "score": 10
+  },
+  {
+   "name": "Flow control",
+   "aliases": [
+    "flow control valves",
+    "control valve room"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 0,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…entering the endgame, Luke opened up the navigation door i think and that gave us access to the flow controls and thankfully everyone else was able to understand how the system worked but i totally did…"
+   },
+   "rank": 6,
+   "percentile": 21.2,
+   "score": 10
+  },
+  {
+   "name": "Decontamination",
+   "aliases": [
+    "Decon"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 0,
+    "records": 7
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…maintenance shaft. Cycle 93 ------------------- Dimetreus Reynalds- overpressurization of decontamination showr Jerry Finch- Execution (acting out) Lin Fei- Natural causes (age) Cycle 94 -------------------…"
+   },
+   "rank": 8,
+   "percentile": 26.9,
+   "score": 14
+  },
+  {
+   "name": "Conference room",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…additional rooms attached which i was not able to access at this time. I warped into the conference room where i found some gear and killed a guard. I learned some lore about the vip room but was…"
+   },
+   "rank": 9,
+   "percentile": 30.8,
+   "score": 17
+  },
+  {
+   "name": "Business floor",
+   "aliases": [],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…36: Launch Cycles 37-40: Floor 0 Completion Cycles 41-45: Throne Room Cycles 46-48: Business Floor Framework Cycles 49-56: Floor II Completion Cycles 57-62: Floor I Completion Cycles…"
+   },
+   "rank": 10,
+   "percentile": 36.5,
+   "score": 22
+  },
+  {
+   "name": "Medical bay",
+   "aliases": [
+    "Medical floor",
+    "Med bay"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Name: Dmitri Birth Date: 92/1/042 After a number of incidents involving the patient, a medical facility was constructed on board the station and we began to investigate the causes of his ailments.…"
+   },
+   "rank": 10,
+   "percentile": 36.5,
+   "score": 22
+  },
+  {
+   "name": "EHS",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…as follows: A. Decontamination -> Engine Room (air quality) B. VIP Room -> EHS (pressure) C. Maintenance II -> Crawlspace Niche (pressure) 3. Usage As a…"
+   },
+   "rank": 12,
+   "percentile": 46.2,
+   "score": 31
+  },
+  {
+   "name": "Server room",
+   "aliases": [
+    "Server banks"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…taking revenge i absolutely had no clue what that was going to look like. My spawn was in the server room and the first thing i found was a wrench, i used this wrench to open a trapdoor which took…"
+   },
+   "rank": 12,
+   "percentile": 46.2,
+   "score": 31
+  },
+  {
+   "name": "Workshop",
+   "aliases": [
+    "The Workshop"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…around, there's an ender skeleton in a room that he kills for me. Together we teleport to the workshop. Hmmm. This room forsure has lots of improvement information. I enter the main office and…"
+   },
+   "rank": 12,
+   "percentile": 46.2,
+   "score": 31
+  },
+  {
+   "name": "Bussy module",
+   "aliases": [
+    "The Bussy module"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…lore and finally met up with jp and got out of proxy chat. From here i believe we found the bussy module and the power source mechanisms. It was at this point my understanding of what was going on…"
+   },
+   "rank": 15,
+   "percentile": 53.8,
+   "score": 40
+  },
+  {
+   "name": "Chief Nav",
+   "aliases": [
+    "Navigation office",
+    "Chief Navigation"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…nothing, I'll update when I get more info. Info Acquired!! I found a key that opened the Navigation office and we're finally making some progress on getting home. Can't help but think about how much…"
+   },
+   "rank": 16,
+   "percentile": 69.2,
+   "score": 58
+  },
+  {
+   "name": "Digital parts storage",
+   "aliases": [
+    "parts storage room",
+    "parts storage"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…is a punch card printer, able to create digitally recognized keys for the server banks and parts storage room. To use it, please align one of the blank punch cards with the corresponding shape on…"
+   },
+   "rank": 16,
+   "percentile": 69.2,
+   "score": 58
+  },
+  {
+   "name": "Kitchen",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…liquor. I stumble into the room drunker than i have ever been before(seems like a rec room and kitchen). i can hear the faint whispers of my friends through the walls. I gather myself, drunk or…"
+   },
+   "rank": 16,
+   "percentile": 69.2,
+   "score": 58
+  },
+  {
+   "name": "Maintenance II",
+   "aliases": [
+    "Maintenance 2"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…should have enough supplies to last until we're able to make a deal for our freedom. Meet me in maintenance II and I'll bring you to the first spot I was thinking of. -Goddard Access Manual Throne…"
+   },
+   "rank": 16,
+   "percentile": 69.2,
+   "score": 58
+  },
+  {
+   "name": "Rec room",
+   "aliases": [
+    "recreation room"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…cryofrozen in liquor. I stumble into the room drunker than i have ever been before(seems like a rec room and kitchen). i can hear the faint whispers of my friends through the walls. I gather myself,…"
+   },
+   "rank": 16,
+   "percentile": 69.2,
+   "score": 58
+  },
+  {
+   "name": "Security office",
+   "aliases": [
+    "Security"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…this wrench to open a trapdoor which took an embarrassingly long time and that led to the security office. Here i found my starting items and some emails which played a large role down the line. The…"
+   },
+   "rank": 16,
+   "percentile": 69.2,
+   "score": 58
+  },
+  {
+   "name": "VIP room",
+   "aliases": [
+    "VIP area"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…available, the tables are definitely beginning to turn. Ben found his way to us in the VIP room and we all went to HRBIO. Reading through the endless pages of information is overwhelming,…"
+   },
+   "rank": 16,
+   "percentile": 69.2,
+   "score": 58
+  },
+  {
+   "name": "Exterior tunnel",
+   "aliases": [
+    "external tunnel modules"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…------------------- Andrew Smith - Gas leak in engine room Quang Lai - de-oxygenization in exterior tunnel. Muhammed Qasim - Natural causes (cancer) Cycle 92 ------------------- Geoffrey Dingle…"
+   },
+   "rank": 23,
+   "percentile": 84.6,
+   "score": 78
+  },
+  {
+   "name": "Financial and accounting department",
+   "aliases": [
+    "accounting department",
+    "financial department"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…the ID and the door opens, and finally escape. I get Teleported to a long hallway, there's a financial and accounting department. I open another door at the end of the hallway with my ID code where I'm reunited…"
+   },
+   "rank": 24,
+   "percentile": 90.4,
+   "score": 86
+  },
+  {
+   "name": "Server maintenance room",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…one of the emails from my starting room we were able to get back on track and opened up the server maintenance room and i actually dont remember what stephan found in there. From here we began entering…"
+   },
+   "rank": 24,
+   "percentile": 90.4,
+   "score": 86
+  },
+  {
+   "name": "Dining hall",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…have as many difficulties with chases in full rooms. A well read engineer may remember the dining hall incident from cycle 71 where 15 casualties resulted from a poorly executed chase involving…"
+   },
+   "rank": 26,
+   "percentile": 96.2,
+   "score": 94
+  },
+  {
+   "name": "Launch platform",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Construction Records Cycles 10-30: Engines, engineering, navigation complete. Cycles 31-35: Launch platform and pre-orbital vehicle Cycle 36: Launch Cycles 37-40: Floor 0 Completion Cycles 41-45:…"
+   },
+   "rank": 27,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

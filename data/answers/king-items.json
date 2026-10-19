@@ -1,0 +1,832 @@
+{
+ "id": "king-items",
+ "prompt": "Name an item a Liquor King has owned or found",
+ "blurb": "Crowns, relics, loot, lube. Anything that ended up in a King's pockets.",
+ "difficulty": "easy",
+ "gem": "Richard Cumhardy's Seaman Eyeglass",
+ "answerCount": 43,
+ "answers": [
+  {
+   "name": "Blicky",
+   "aliases": [
+    "Blinky"
+   ],
+   "mentions": {
+    "total": 13,
+    "compendium": 4,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…tithe was reduced to twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets. ## Concept V: Stewards of Aleforge Run by Jack. The Kings…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Hazmat Suit",
+   "aliases": [],
+   "mentions": {
+    "total": 10,
+    "compendium": 2,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…skeleton was found inside the prison, along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction…"
+   },
+   "rank": 2,
+   "percentile": 2.4,
+   "score": 0
+  },
+  {
+   "name": "The copper scarf",
+   "aliases": [
+    "copper scarf",
+    "copper-colored scarf",
+    "scarf"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 4,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…brother Rum, he marked a visiting merchant carrying a loose coin purse and a copper-colored scarf. He approached with charm, asked after the scarf, offered a drink for the story, and lifted…"
+   },
+   "rank": 3,
+   "percentile": 4.8,
+   "score": 1
+  },
+  {
+   "name": "Jameson Pilsner's Ass Flask",
+   "aliases": [
+    "Ass Flask",
+    "ass-flask"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and missing his mark. His friends moved on—solving, succeeding, While Jameson wandered, ass-flask bleeding. Verse VI – Redemption Brewing At last, they found him, the prodigal mess,…"
+   },
+   "rank": 4,
+   "percentile": 7.1,
+   "score": 2
+  },
+  {
+   "name": "Durag",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 2,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…obligatory tithe was reduced to twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets. ## Concept V: Stewards of Aleforge Run by Jack.…"
+   },
+   "rank": 5,
+   "percentile": 10.7,
+   "score": 4
+  },
+  {
+   "name": "Newports",
+   "aliases": [
+    "Fent",
+    "Fentmaxxer's Newports",
+    "Newport"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport cigarettes and will often reveal information if presented with some. He is a sensitive soul…"
+   },
+   "rank": 5,
+   "percentile": 10.7,
+   "score": 4
+  },
+  {
+   "name": "Liquor Crown",
+   "aliases": [
+    "Liquor Crowns",
+    "crown"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his spectacular drunkenness, and Nathan, having been forced to play sober…"
+   },
+   "rank": 7,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Warp Shard",
+   "aliases": [
+    "Warp Shards",
+    "warp crystal"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction from Rollo). ## Concept…"
+   },
+   "rank": 8,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Backtrac",
+   "aliases": [
+    "Backtrack"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…inside the prison, along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction…"
+   },
+   "rank": 9,
+   "percentile": 21.4,
+   "score": 10
+  },
+  {
+   "name": "Map to the Forbidden Brew",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…without a soul cannot die, but they also cannot be considered truly alive. ### Key Artifacts Map to the Forbidden Brew — Currently blank. It will reveal itself when the bearer is deemed worthy — which is to say,…"
+   },
+   "rank": 9,
+   "percentile": 21.4,
+   "score": 10
+  },
+  {
+   "name": "Nike Dunks",
+   "aliases": [
+    "Nikes",
+    "Dunks"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to twenty-five percent. Owe Block raised tankards. Notable items: Durag, Blicky (Blinky), Nike Dunks, Bullets. ## Concept V: Stewards of Aleforge Run by Jack. The Kings learn to govern…"
+   },
+   "rank": 9,
+   "percentile": 21.4,
+   "score": 10
+  },
+  {
+   "name": "Comms Chip",
+   "aliases": [
+    "Comms chips"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the prison, along with his warning. Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. Also: Fentmaxxer's Newports (valuable for information extraction from Rollo).…"
+   },
+   "rank": 12,
+   "percentile": 28.6,
+   "score": 15
+  },
+  {
+   "name": "Veil Chalice",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…embassy. Gobbler was subsequently exposed by the Kings using the stolen Veil Oath book and the Veil Chalice from his shrine. ### Cardinal Addy The Cardinal of Providence — beloved leader, born to…"
+   },
+   "rank": 12,
+   "percentile": 28.6,
+   "score": 15
+  },
+  {
+   "name": "Veil Oath",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hoegaarden Library embassy. Gobbler was subsequently exposed by the Kings using the stolen Veil Oath book and the Veil Chalice from his shrine. ### Cardinal Addy The Cardinal of Providence…"
+   },
+   "rank": 12,
+   "percentile": 28.6,
+   "score": 15
+  },
+  {
+   "name": "Elytra",
+   "aliases": [
+    "Elytra wings"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…solution was to close the portal using the artifacts. Jagerbauhm took the artifacts and, using Elytra wings and a firecracker, flew to the Dread Harrow and fought through Sackbeard's crew to reach the…"
+   },
+   "rank": 15,
+   "percentile": 38.1,
+   "score": 24
+  },
+  {
+   "name": "Hollow Urn",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…vision of the future. Dementing Scarab — Shows a true and unfortunate vision of the past. Hollow Urn — A vessel for storing one's own soul. While your soul is inside, you experience both the…"
+   },
+   "rank": 15,
+   "percentile": 38.1,
+   "score": 24
+  },
+  {
+   "name": "Light of the Oracle",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…opposed symbols. When all fragments of each are assembled, the full Glyph reveals itself. Light of the Oracle — Give to an oracle (Jack) and it will reveal the location of the Map to the Forbidden Brew.…"
+   },
+   "rank": 15,
+   "percentile": 38.1,
+   "score": 24
+  },
+  {
+   "name": "Rollo's Sex Whip",
+   "aliases": [
+    "Sex Whip"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…didn't sniff. Richard Cumhardy's Seaman Eyeglass: Lens clouded with trauma. Rollo's Sex Whip: Still warm, unfortunately. I rallied a random horse and charged into the dark depth…"
+   },
+   "rank": 15,
+   "percentile": 38.1,
+   "score": 24
+  },
+  {
+   "name": "Wagwan's Whopper",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…gang confrontation, earning near-zero gold but prodigious kill counts. Wagwan gifted him the Wagwan's Whopper, a mace of considerable impact force. Buke was the true relic king of the session, collecting…"
+   },
+   "rank": 15,
+   "percentile": 38.1,
+   "score": 24
+  },
+  {
+   "name": "Black Pepper Dividend",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…king of the session, collecting more Veilwalker artifacts than anyone and claiming the first Black Pepper Dividend stock payout. Jack rapped a freestyle at the Stank Tank that became a regional hit when the…"
+   },
+   "rank": 20,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Bluechew",
+   "aliases": [
+    "Blue Chew"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the mayoral election. Jameson Pilsner (JP) — Found Cumsock the goat in the sewers. Found Bluechew and Super Lube on Day 3. Died three times in the final battle, resurrected each time by Aleforge…"
+   },
+   "rank": 20,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Guinnie's saplings",
+   "aliases": [
+    "saplings"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…smokey taste. Anyways It was cozy, and I made a little garden next to it with flowers and saplings. I keep those saplins in my pocket thinkin' I might never see such pretty stuff again. One…"
+   },
+   "rank": 20,
+   "percentile": 47.6,
+   "score": 33
+  },
+  {
+   "name": "Ancient Pot",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon, Old Staff, Ancient Pot—don't ask me what they are, but they're now sitting safely away from gentrifiers and young…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Beast Soul",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Rotted Soul. ## Open World / Unattributed to Concept - Xi Jin Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass — Lost to time during…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Brewers' Spoon",
+   "aliases": [
+    "Brewers Spoon",
+    "Brewer's Spoon"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ITEMS BY CONCEPT ## The Drunken Trials - Liquor Crowns — Held by all Liquor Kings. - Brewers' Spoon — Held by all Liquor Kings. ## Cloister Beast - Fent (Fentmaxxer's Newports) — Useful…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Diamond boots",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…forgiven the Kings for their victory. The Kings were welcomed back with gifts: Stephan received diamond boots for his historic two-trial winning streak, Buke received a diamond sword as the newly crowned…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Diamond liquor crown",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…winning streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his spectacular drunkenness, and Nathan, having been forced to play sober…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Diamond sword",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Stephan received diamond boots for his historic two-trial winning streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "John Cum's Shears",
+   "aliases": [
+    "Shears"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…runoff from the Factory, staining the roots of Aleforge's soul. I found some relics: John Cum's Shears: Still bloody from some barley-stained regret. Jameson Pilsner's Ass Flask: I didn't…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Necrosis",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…returned I took something from him. A piece of what he carried. By the end I held his spear, Necrosis, a weapon that hums with the particular frequency of something that has ended a great many…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Old Staff",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…cause I'll snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon, Old Staff, Ancient Pot—don't ask me what they are, but they're now sitting safely away from gentrifiers…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Richard Cumhardy's Seaman Eyeglass",
+   "aliases": [
+    "Seaman Eyeglass",
+    "Eyeglass"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…regret. Jameson Pilsner's Ass Flask: I didn't ask. I didn't sniff. Richard Cumhardy's Seaman Eyeglass: Lens clouded with trauma. Rollo's Sex Whip: Still warm, unfortunately. I rallied…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Rotten Blade",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…something that has ended a great many lives and remembers each one. I held his blade, the Rotten Blade, which is exactly as pleasant to carry as the name suggests. I wore his chestplate, still…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Sackbeard's Armor",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- Durag - Blicky (also: Blinky) - Nike Dunks - Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Sackbeard's Axe",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Blinky) - Nike Dunks - Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden - Map to the Forbidden…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Sackbeard's Cutlass",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass — Lost to time during a fight between Buke and Jagerbauhm.…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Sackbeard's Dagger",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bullets ## Stewards of Aleforge - Sackbeard's Armor — JP - Sackbeard's Axe — JP - Sackbeard's Dagger — Ben (Jagerbauhm) ## Horror in Hoegaarden - Map to the Forbidden Brew — Currently blank.…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Sad Sermon",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…me thanos cause I'll snap your ass in 2...\" I even grabbed relics while dodging death—Sad Sermon, Old Staff, Ancient Pot—don't ask me what they are, but they're now sitting safely away from…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Sword of Passion",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…coin. \"Lad nabbed more Veil Walkers' treasures than a dock rat hoards scraps, including the Sword of Passion—a blade so wicked it'd make my vows quiver, humming with dark juju.\" Seamus cracked them riddles…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "The Drifter's Call",
+   "aliases": [
+    "Drifter's Call"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to Concept - Xi Jin Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass — Lost to time during a fight between Buke and Jagerbauhm.…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Xi Jin Ping's Lucky Arrow",
+   "aliases": [
+    "Lucky Arrow"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…descendant of the Rotted Soul. ## Open World / Unattributed to Concept - Xi Jin Ping's Lucky Arrow — Jack - Beast Soul — Nathan (Seamus) - The Drifter's Call — Jack - Sackbeard's Cutlass…"
+   },
+   "rank": 23,
+   "percentile": 73.8,
+   "score": 63
+  },
+  {
+   "name": "Dulamon's chestplate",
+   "aliases": [
+    "chestplate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…blade, the Rotten Blade, which is exactly as pleasant to carry as the name suggests. I wore his chestplate, still warm from him in a way that chestplates should not be warm. These are mine now. I earned…"
+   },
+   "rank": 42,
+   "percentile": 98.8,
+   "score": 98
+  },
+  {
+   "name": "Super Lube",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…election. Jameson Pilsner (JP) — Found Cumsock the goat in the sewers. Found Bluechew and Super Lube on Day 3. Died three times in the final battle, resurrected each time by Aleforge ale. Pro-Fenwick.…"
+   },
+   "rank": 42,
+   "percentile": 98.8,
+   "score": 98
+  }
+ ]
+}

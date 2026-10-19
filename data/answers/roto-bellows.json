@@ -1,0 +1,510 @@
+{
+ "id": "roto-bellows",
+ "prompt": "Name something from Roto Kaiishi or the Southern Bellows Nation",
+ "blurb": "The floating free market and the fog-wrapped nation of terrible IPAs.",
+ "difficulty": "hard",
+ "gem": "Blowish",
+ "answerCount": 25,
+ "answers": [
+  {
+   "name": "Xi Jin Ping",
+   "aliases": [
+    "Xi"
+   ],
+   "mentions": {
+    "total": 19,
+    "compendium": 19,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…discovered. It just so happened that the first one to catch on was a Chinese maritime trader named Xi Jin Ping who was at the end of a long train of very unlucky happenings. When he discovered a fleet…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "IPA",
+   "aliases": [
+    "IPAs"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 10,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…isolation is beginning to crack. The SBN is infamous for one thing above all: brewing the worst IPAs known to exist , bitter, rancid, and utterly beloved by their own people. Their entire culture,…"
+   },
+   "rank": 2,
+   "percentile": 4.2,
+   "score": 1
+  },
+  {
+   "name": "Goldcoral Incorporated",
+   "aliases": [
+    "Goldcoral"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 14,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley is a subsidiary of Goldcoral Incorporated A small cave entrance off the coast of Vodkonia leads to the site of an ancient…"
+   },
+   "rank": 3,
+   "percentile": 8.3,
+   "score": 2
+  },
+  {
+   "name": "The Cloudrunners",
+   "aliases": [
+    "Cloudrunners"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…echo of a lost age where unchecked curiosity led humanity too close to oblivion. ## The Cloudrunners #### In Game Use: Used for pvp focused games played during HH. #### Lore: The Two built…"
+   },
+   "rank": 4,
+   "percentile": 12.5,
+   "score": 4
+  },
+  {
+   "name": "Stormveil Trading Co.",
+   "aliases": [
+    "Stormveil"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of breeze so your hearth stays warm through the night or the barrels of winds sold to the Stormveil Trading Co to keep their sky ship, the Albatross, afloat. Whatever your breeze needs may be you can…"
+   },
+   "rank": 5,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Ale Beans",
+   "aliases": [
+    "Ale Bean"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…### Technology & Industry Despite their isolation, the SBN is surprisingly advanced: - Ale Bean Processing: Sophisticated machinery ,part mill, part alchemical still grinds and ferments…"
+   },
+   "rank": 6,
+   "percentile": 22.9,
+   "score": 11
+  },
+  {
+   "name": "Kim Jong Un",
+   "aliases": [
+    "Kim"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…from the bottom up. To prevent this, he began training one of his favorite young merchants (Kim Jong Un) to eventually take his place. Once Kim had proven his dedication to Xi's principles, he took…"
+   },
+   "rank": 6,
+   "percentile": 22.9,
+   "score": 11
+  },
+  {
+   "name": "Agnosticism",
+   "aliases": [
+    "agnostic"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…bellows pipe. - Values: The SBN is a fiercely nationalistic and self-sacrificial society. Agnosticism is law, no state religion, no worship, only the nation and the brew. Individual glory…"
+   },
+   "rank": 8,
+   "percentile": 31.2,
+   "score": 17
+  },
+  {
+   "name": "The flat yearly fee",
+   "aliases": [
+    "yearly fee",
+    "merchant fees"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…one of the biggest draws of Roto was its lack of regulation. One example of such a rule is a yearly set of fees for all merchants in Roto. Xi was strongly opposed to the idea of taxing any sales in Roto,…"
+   },
+   "rank": 8,
+   "percentile": 31.2,
+   "score": 17
+  },
+  {
+   "name": "Blowish",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to mirror the color of their most treasured (and most vile) brews. - Language: They speak Blowish, a strange, rhythmic dialect built almost entirely around drawn-out \"ooo\" sounds , more chant…"
+   },
+   "rank": 10,
+   "percentile": 52.1,
+   "score": 38
+  },
+  {
+   "name": "Cheap grog",
+   "aliases": [
+    "cheap and disgusting grog"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…grieve led to a poor years harvest), and the traders of Roto were flooding the market with cheap and disgusting grog. On top of all this the Liquor Kings were nowhere to be seen in this time of need, they were…"
+   },
+   "rank": 10,
+   "percentile": 52.1,
+   "score": 38
+  },
+  {
+   "name": "Ivory skin",
+   "aliases": [
+    "ivory-pale skin",
+    "dark amber apparel"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fascinating and faintly repulsive to outsiders. ### The People - Appearance: Bright, ivory-pale skin, almost luminous in low light — a trait locals attribute to generations spent indoors…"
+   },
+   "rank": 10,
+   "percentile": 52.1,
+   "score": 38
+  },
+  {
+   "name": "Red-earth mineral",
+   "aliases": [
+    "red earth mineral"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Cardinal Addy's voice booms o'er the town, calling all to prayer with a bell forged from Roto's red-earth mineral, its clang a holy summons that sets the heart aflutter. 'Tis said the tonic's magic…"
+   },
+   "rank": 10,
+   "percentile": 52.1,
+   "score": 38
+  },
+  {
+   "name": "Steam-powered gliders",
+   "aliases": [
+    "gliders",
+    "steam gliders"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…brews that fuel their economy. - Aviation: The SBN has mastered flight through steam-powered gliders, skeletal wing-craft that hiss and creak across the southern skies, letting them scout and…"
+   },
+   "rank": 10,
+   "percentile": 52.1,
+   "score": 38
+  },
+  {
+   "name": "Stilts",
+   "aliases": [
+    "ocean stilts"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…mineral that glows like embers in the tonic's fire. The port itself is a marvel, built on stilts like Roto's kin, its docks alive with the slap of waves and the shouts of traders, guarded…"
+   },
+   "rank": 10,
+   "percentile": 52.1,
+   "score": 38
+  },
+  {
+   "name": "The Pale",
+   "aliases": [
+    "Pale"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…batches that would send lesser drinkers to a healer's bed. At the top of this hierarchy sits the Pale, the highest-ranking official in the nation, tasked with: - Maintaining order across the…"
+   },
+   "rank": 10,
+   "percentile": 52.1,
+   "score": 38
+  },
+  {
+   "name": "The taboo system",
+   "aliases": [
+    "taboos",
+    "taboo"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…profile customers. For this reason, although nothing is illegal, there is a rigid system of taboos in Roto that largely determines what can be sold in the main city versus what must be sold…"
+   },
+   "rank": 10,
+   "percentile": 52.1,
+   "score": 38
+  },
+  {
+   "name": "Bittermen",
+   "aliases": [
+    "Bitterman"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…one) Titles beneath the Pale are rumored to include regional \"Kegmasters\" and traveling \"Bittermen,\" though little is confirmed outside SBN borders. ### Technology & Industry Despite their…"
+   },
+   "rank": 18,
+   "percentile": 81.2,
+   "score": 73
+  },
+  {
+   "name": "Kegmasters",
+   "aliases": [
+    "Kegmaster"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pintlanders couldn't name the current one) Titles beneath the Pale are rumored to include regional \"Kegmasters\" and traveling \"Bittermen,\" though little is confirmed outside SBN borders. ### Technology…"
+   },
+   "rank": 18,
+   "percentile": 81.2,
+   "score": 73
+  },
+  {
+   "name": "Roto Free Trade Deal",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…promote more competition so they are not reliant on one source of wheat for all of their ale. Roto Free Trade Deal: Gideon negotiated with the traders of Roto to promote mostly free trade of key resources.…"
+   },
+   "rank": 18,
+   "percentile": 81.2,
+   "score": 73
+  },
+  {
+   "name": "Roto National Anthem",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…From tankard's spill to Rollo's bed, Ye're Aleforge's shame, and you give bad head! ## Roto National Anthem In Roto's ports, the gold did flow, Our smugglers danced where grog did glow. With wit…"
+   },
+   "rank": 18,
+   "percentile": 81.2,
+   "score": 73
+  },
+  {
+   "name": "The Brew-Right",
+   "aliases": [
+    "Brew-Right",
+    "Brew Right"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Individual glory means little; what matters is what you give to the Bellows. ### Government: The Brew-Right Much like Aleforge, power in the SBN isn't inherited, it's earned through brewing and drinking.…"
+   },
+   "rank": 18,
+   "percentile": 81.2,
+   "score": 73
+  },
+  {
+   "name": "The underground market",
+   "aliases": [
+    "underground market"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Roto that largely determines what can be sold in the main city versus what must be sold in the underground market or after dark. Finally, we must answer the question of who controls Roto now that Xi is long…"
+   },
+   "rank": 18,
+   "percentile": 81.2,
+   "score": 73
+  },
+  {
+   "name": "Silks and spices",
+   "aliases": [
+    "silks",
+    "spices"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…chief partner, a bustling hub we view with grudging respect and wary eyes. Their ships bring silks, exotic woods, and spices that flavor our gins, while we export brewing tools and the rarest…"
+   },
+   "rank": 24,
+   "percentile": 97.9,
+   "score": 97
+  },
+  {
+   "name": "The Spirit realm conglomerate",
+   "aliases": [
+    "Spirit realm"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…question of who controls Roto now that Xi is long dead. Many think it's a conglomerate from the Spirit realm, as that's where all the richest merchants live. However, Xi strongly believed that if the…"
+   },
+   "rank": 24,
+   "percentile": 97.9,
+   "score": 97
+  }
+ ]
+}

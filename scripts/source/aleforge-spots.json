@@ -1,0 +1,31 @@
+{
+  "id": "aleforge-spots",
+  "prompt": "Name a place in Aleforge",
+  "blurb": "Buildings, streets and landmarks in the brewing capital of the Isles.",
+  "difficulty": "medium",
+  "gem": "Witch Doctors Tower",
+  "answers": [
+    {"name": "Gilded Tankard", "aliases": ["The Tankard"], "count": ["Gilded Tankard", "re:\\bthe Tankard\\b"], "obscurity": 1},
+    {"name": "Aleforge Castle", "aliases": ["The Castle", "Castle of Aleforge"], "count": ["re:(?i)aleforge castle", "re:(?i)castle of alforge"], "obscurity": 1},
+    {"name": "CockPowers Clock Tower", "aliases": ["Clock Tower", "CockPower's Clock Tower"], "count": ["re:(?i)clock tower"]},
+    {"name": "Old Alforge Municipal", "aliases": ["Old Aleforge Municipal", "OAM"], "count": ["re:\\bOAM\\b", "Old Alforge Municipal"]},
+    {"name": "The Krappenschitz Estate", "aliases": ["Krappenschitz Estate"]},
+    {"name": "Freddy Hog's Freaky Hogs", "aliases": ["Freaky Hogs"], "count": ["re:(?i)freddy hog'?s freaky"]},
+    {"name": "Billy Ball Busters Inn", "aliases": ["Ballbuster Inn", "Ball Buster Inn"], "count": ["re:(?i)ball ?busters? inn"]},
+    {"name": "The Last Drop", "aliases": ["Last Drop"], "count": ["re:(?i)the last drop"]},
+    {"name": "Witch Doctors Tower", "aliases": ["Witch Doctor's Tower", "Witch Doctor Tower"], "count": ["re:(?i)witch doctors? tower"]},
+    {"name": "Aleforge Post Office and Public Records", "aliases": ["Post Office", "APO & PR", "Aleforge Post Office"], "count": ["re:(?i)post office", "APO & PR"]},
+    {"name": "Brewers Lane", "aliases": ["Brewer's Lane"]},
+    {"name": "Hall of Ale", "aliases": []},
+    {"name": "Aleforge Bazaar", "aliases": ["Aleforge Bazzar", "Bazaar", "Bazzar"], "count": ["re:(?i)bazz?aa?r"]},
+    {"name": "Aleforge Light House and Customs Control", "aliases": ["Lighthouse", "Light House", "Customs Control"], "count": ["re:(?i)light ?house"]},
+    {"name": "Boner Bar", "aliases": []},
+    {"name": "Sackbeard Memorial Well", "aliases": ["Memorial Well"]},
+    {"name": "The ale fountain", "aliases": ["ale fountain", "fountain of Ale", "town square fountain"], "count": ["re:(?i)ale fountain", "re:(?i)fountain of ale"]},
+    {"name": "The town square", "aliases": ["town square", "main square"], "count": ["re:(?i)(town|main) square"]},
+    {"name": "The Aleforge Brewery", "aliases": ["Brewery"], "count": ["re:(?i)lighthouse and brewery"], "obscurity": 4},
+    {"name": "The sewers", "aliases": ["sewers", "sewer network", "Oswain's tunnels"], "count": ["re:(?i)sewers?"]},
+    {"name": "The Aleforge jail", "aliases": ["Aleforge jail", "jail"], "obscurity": 4},
+    {"name": "The Pilsner house", "aliases": ["Pilsner house"], "obscurity": 5}
+  ]
+}

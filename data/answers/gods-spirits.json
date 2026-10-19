@@ -1,0 +1,480 @@
+{
+ "id": "gods-spirits",
+ "prompt": "Name a god, spirit or supernatural being",
+ "blurb": "Deities, walkers, ghosts and the guardians of things that should stay buried.",
+ "difficulty": "medium",
+ "gem": "Jopsi",
+ "answerCount": 23,
+ "answers": [
+  {
+   "name": "The Veilwalkers",
+   "aliases": [
+    "Veilwalkers",
+    "Veilwalker"
+   ],
+   "mentions": {
+    "total": 88,
+    "compendium": 65,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Brush — The dense inland forest known locally as 'Thiccy Forest.' This is the home of the Veilwalker encampment, Fenwick. Many other notable locations are shrouded by the dense forest, most prominent…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The Brewmaster Deity",
+   "aliases": [
+    "Brewmaster Deity",
+    "Brewmasters Deity",
+    "Brew God",
+    "brewmaster deity"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 9,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…soft where it counts. - Their ale is sweet, their streets are clean, and they worship a brew-god like he's gonna row down from the clouds with a pint in each hand. - They call us savage,…"
+   },
+   "rank": 2,
+   "percentile": 4.5,
+   "score": 1
+  },
+  {
+   "name": "The Rotted Soul",
+   "aliases": [
+    "Rotted Soul",
+    "Rotten King"
+   ],
+   "mentions": {
+    "total": 30,
+    "compendium": 28,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…further South is a small river which drains to the sea. Some scholars believe the remains of the Rotted Soul may rest here, though until recently this was unknown. The Kings discovered the true location…"
+   },
+   "rank": 3,
+   "percentile": 9.1,
+   "score": 3
+  },
+  {
+   "name": "VeilRunner",
+   "aliases": [
+    "Veilrunner",
+    "Veil Runner"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 12,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the streets at night by burning slaves alive. His kind had a name for what he had become: a VeilRunner. What Is a VeilRunner? A VeilRunner is a Veilwalker who has turned against the very…"
+   },
+   "rank": 4,
+   "percentile": 13.6,
+   "score": 5
+  },
+  {
+   "name": "The Unknown Gods",
+   "aliases": [
+    "Unknown Gods"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 10,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…scavengers, these individuals spent far too long beneath the sea — trapped in wrecks, cursed by unknown gods, or \"kissed by the trench.\" Now, they are something less than human and more than drowned.…"
+   },
+   "rank": 5,
+   "percentile": 18.2,
+   "score": 8
+  },
+  {
+   "name": "Dulamon",
+   "aliases": [
+    "Dulamond"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 0,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Needless to say this wasnt the most welcoming of environments and we were greeted by a chap named Dulemon. He was not there to drink and plunder so I had absolutely nothing in common with this man.…"
+   },
+   "rank": 6,
+   "percentile": 22.7,
+   "score": 11
+  },
+  {
+   "name": "The Guardian",
+   "aliases": [
+    "Guardian"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the known waters. It was in these stacks that Jack Anqoak first encountered references to the Guardian and the Rotted Soul, setting in motion the events of the Horror in Hoegaarden concept. The…"
+   },
+   "rank": 7,
+   "percentile": 27.3,
+   "score": 14
+  },
+  {
+   "name": "Nymphs",
+   "aliases": [
+    "Nymph"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…pillaged across the earth destroying all semblance of life and nature. The woodland spirits (nymphs, gnomes, fairies and such) could do little against them. So they used their combined magic…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "The Fires of Scoul",
+   "aliases": [
+    "Fires of Scoul",
+    "Scoul"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Enter as one who understands this, or do not enter at all. When you come before the Fires of Scoul, come as you truly are. They have never been deceived and they will not begin with you.…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "Woodland spirits",
+   "aliases": [
+    "nature spirits",
+    "spirits"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fenwick & the Veilwalkers The Veilwalkers- Those who move between the seen and unseen, tied to nature spirits. The Veilwalkers are a mystical/slightly magical nomadic tribe. They are an ancient people…"
+   },
+   "rank": 8,
+   "percentile": 36.4,
+   "score": 22
+  },
+  {
+   "name": "Fairies",
+   "aliases": [
+    "Fairy"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the earth destroying all semblance of life and nature. The woodland spirits (nymphs, gnomes, fairies and such) could do little against them. So they used their combined magic to birth \"protectors\"…"
+   },
+   "rank": 11,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Gnomes",
+   "aliases": [
+    "Gnome"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…across the earth destroying all semblance of life and nature. The woodland spirits (nymphs, gnomes, fairies and such) could do little against them. So they used their combined magic to birth…"
+   },
+   "rank": 11,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "The Warden",
+   "aliases": [
+    "Warden"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…heretical religious beliefs. What he saw as an asteroid was the egg of a great beast (the warden) which he sought to raise and use as a weapon against the townspeople and eventually the world.…"
+   },
+   "rank": 11,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Apparitions",
+   "aliases": [
+    "ghosts",
+    "ghostly thing"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…We'sh readin' along all fine an' dandy an' then— SLAMS both hands on table SHRIEEEEK! Shome GHOSTLY THING jumps out at ush! Nearly shoiled me breeches I tell ye! An' then we readsh more an' — hic…"
+   },
+   "rank": 14,
+   "percentile": 63.6,
+   "score": 51
+  },
+  {
+   "name": "Sprites",
+   "aliases": [
+    "Sprite"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…he is deeply superstitious and will do everything he can to avoid Jopsi, a small annoying sprite who is summoned by bad luck. Recently, Gale has entered into a deeper religious ferocity.…"
+   },
+   "rank": 14,
+   "percentile": 63.6,
+   "score": 51
+  },
+  {
+   "name": "The devil",
+   "aliases": [
+    "Devil"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…and guided only by confusion and rage, he eventually made contact with what he described as the devil himself and received knowledge far beyond ordinary human reach. His first invention was cryogenics,…"
+   },
+   "rank": 14,
+   "percentile": 63.6,
+   "score": 51
+  },
+  {
+   "name": "Centaurs",
+   "aliases": [
+    "Centaur"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…deeper religious ferocity. He is often heard referring to sprites, nymphs, fauns and even centaurs speaking with him on his farm. Gale has developed a semi religious hierarchy based upon these…"
+   },
+   "rank": 17,
+   "percentile": 75.0,
+   "score": 65
+  },
+  {
+   "name": "Fauns",
+   "aliases": [
+    "Faun"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…entered into a deeper religious ferocity. He is often heard referring to sprites, nymphs, fauns and even centaurs speaking with him on his farm. Gale has developed a semi religious hierarchy…"
+   },
+   "rank": 17,
+   "percentile": 75.0,
+   "score": 65
+  },
+  {
+   "name": "Alcohol",
+   "aliases": [
+    "liquor",
+    "the bottle"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "a divine child given to them from their god (alcohol)",
+    "note": "JP's adoptive parents worshipped drink and saw him as a gift from it."
+   },
+   "rank": 19,
+   "percentile": 86.4,
+   "score": 80
+  },
+  {
+   "name": "Jopsi",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…major religions in the area, he is deeply superstitious and will do everything he can to avoid Jopsi, a small annoying sprite who is summoned by bad luck. Recently, Gale has entered into a deeper…"
+   },
+   "rank": 19,
+   "percentile": 86.4,
+   "score": 80
+  },
+  {
+   "name": "The Almighty",
+   "aliases": [
+    "Almighty"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the unknown gods! \"Build a town of perfect order,\" it sang, \"a haven of balance, ruled by the Almighty Himself, free of chaos—call it… Providence!\" Huzzah! My head spun with holy fervor—and perchance…"
+   },
+   "rank": 19,
+   "percentile": 86.4,
+   "score": 80
+  },
+  {
+   "name": "The clock-heart thing",
+   "aliases": [
+    "glowy clock-heart thing",
+    "clock-heart"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Got Bells. We Got Fire. Providence rings bells. They pray five times a tide to some glowy clock-heart thing. They say their Cardinal Addy hears the gods. We say he just needs a stiff pour and a slap.…"
+   },
+   "rank": 22,
+   "percentile": 97.7,
+   "score": 97
+  },
+  {
+   "name": "The god of pirates",
+   "aliases": [
+    "god of pirates"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pour Eternal shall rise from the sea or the soul. Drink it, they say, and become the next god of pirates. But speak the wrong name… and your kin will drown for all time. Truth or tide-tale? Who…"
+   },
+   "rank": 22,
+   "percentile": 97.7,
+   "score": 97
+  }
+ ]
+}

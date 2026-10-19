@@ -1,0 +1,675 @@
+{
+ "id": "jobs",
+ "prompt": "Name a job or trade someone in the lore has",
+ "blurb": "Brewers, bouncers, bards, wind farmers. The work, not the worker.",
+ "difficulty": "medium",
+ "gem": "Wind farmer",
+ "answerCount": 34,
+ "answers": [
+  {
+   "name": "Pirate",
+   "aliases": [
+    "Pirates"
+   ],
+   "mentions": {
+    "total": 77,
+    "compendium": 62,
+    "records": 15
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge — The bay in front of Sackbeard's Tavern, a natural harbor shaped by centuries of pirate traffic. This is nearby to the waters where Sackbeard killed the Great Beast. - Bottomless…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Farmer",
+   "aliases": [
+    "Farmers",
+    "wheat farmer"
+   ],
+   "mentions": {
+    "total": 33,
+    "compendium": 12,
+    "records": 21
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…forest, most prominent of these is the Thorny Thicket, a bar owned by George Bush. A disgruntled farmer has taken up residence deep in the forest as well and one of the very first shrines ever discovered…"
+   },
+   "rank": 2,
+   "percentile": 3.0,
+   "score": 1
+  },
+  {
+   "name": "Brewer",
+   "aliases": [
+    "Brewers",
+    "brewmaster"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 20,
+    "records": 8
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…don't repair any damage to the building. #### Founding and History: Legend has it that a brewmaster deity was saved by the town's founders, and in return, he blessed the town with a spring that…"
+   },
+   "rank": 3,
+   "percentile": 6.1,
+   "score": 1
+  },
+  {
+   "name": "Merchant",
+   "aliases": [
+    "Merchants",
+    "trader"
+   ],
+   "mentions": {
+    "total": 25,
+    "compendium": 22,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…mainland, site of former pirate crewmembers' second lives.. - Roto Kaiishi — The famous floating merchant city anchored to the ocean floor. The only laws here are those of the free market. ### Points…"
+   },
+   "rank": 4,
+   "percentile": 9.1,
+   "score": 3
+  },
+  {
+   "name": "Maintenance engineer",
+   "aliases": [
+    "engineer",
+    "Engineers"
+   ],
+   "mentions": {
+    "total": 16,
+    "compendium": 0,
+    "records": 16
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…about how much of a stupid whore Max's mom was I just have to map out a route to the engineers office to get someone here with the key I think it goes HRBIO -> Workshop -> crawlspace 3.…"
+   },
+   "rank": 5,
+   "percentile": 12.1,
+   "score": 4
+  },
+  {
+   "name": "Bartender",
+   "aliases": [
+    "Bartenders",
+    "barkeep"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 4,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their honest dishonesty — their flat merchant fees are cleaner than half the scams Shanty barkeeps run. But most of us think their taboo system is a joke — pretending something ain't allowed,…"
+   },
+   "rank": 6,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Soldier",
+   "aliases": [
+    "Soldiers"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 4,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Plindor II, Plungos rose to power and eventually defeated the attackers, killing each and every soldier. With the conclusion of the war he personally hosted the Drunken Trials and stepped down voluntarily.…"
+   },
+   "rank": 6,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Interns",
+   "aliases": [
+    "Intern"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Well... This certainly helped me do so- That pedo Josephus appears to be disappearing all of his interns to god knows where. We got to the library only to notice that Jack Anqoak had not joined…"
+   },
+   "rank": 8,
+   "percentile": 22.7,
+   "score": 11
+  },
+  {
+   "name": "Miner",
+   "aliases": [
+    "Miners",
+    "mining"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…that durag graced my scalp ... .I was no longer a great liquor king…..I was just a simple miner, standing before the mercy of Owe Block…..and Owe block is not forgiving. And those next few…"
+   },
+   "rank": 8,
+   "percentile": 22.7,
+   "score": 11
+  },
+  {
+   "name": "Bard",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…clear that somebody or something had indeed been in the New Haven. ### Gregor Ashford A bard who sings at the Gilded Tankard, often too drunk to play well. He knows a lot of gossip and…"
+   },
+   "rank": 10,
+   "percentile": 31.8,
+   "score": 18
+  },
+  {
+   "name": "Blacksmith",
+   "aliases": [
+    "Blacksmiths",
+    "smith"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…breeze needs may be you can find them at Wolendi. Two of the biggest buyers of Wolendi Wind are blacksmiths who no longer need to keep their bellows full and avid smokers who want the perfect draw…"
+   },
+   "rank": 10,
+   "percentile": 31.8,
+   "score": 18
+  },
+  {
+   "name": "Judge",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…court in all the isles, the Pintland Criminal Court, located in Providence. The Honorable Judge Buke presided and an outside lot of jurors was brought in to weigh judgement. Seamus Bonehardy…"
+   },
+   "rank": 10,
+   "percentile": 31.8,
+   "score": 18
+  },
+  {
+   "name": "Thief",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick as a thief, though he preferred to describe himself as a redistributor of wealth, a claim undermined…"
+   },
+   "rank": 10,
+   "percentile": 31.8,
+   "score": 18
+  },
+  {
+   "name": "Fisherman",
+   "aliases": [
+    "fisher"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…If you want to catch a fish? You use bait and lures that they make (legend has it that the fisherman who slayed the great tavern beast used fishing gear from the \"Veilwalkers\". As well as wood…"
+   },
+   "rank": 14,
+   "percentile": 42.4,
+   "score": 28
+  },
+  {
+   "name": "Smuggler",
+   "aliases": [
+    "Smugglers"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Kings: Rulers from Years 1 - 193. Balder Pilsford: Fought a quiet but brutal war against the smugglers gallery along the cliffs of Aleforge. Guinnesston: The first king to send a diplomatic…"
+   },
+   "rank": 14,
+   "percentile": 42.4,
+   "score": 28
+  },
+  {
+   "name": "Wind farmer",
+   "aliases": [
+    "Wind farmers"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…it's unknown if the news of their passing has reached him. Gale Derecho An Eastern Wind farmer, brother of Guster Derecho and slight magic user. He is the owner and operator of Wolendi,…"
+   },
+   "rank": 14,
+   "percentile": 42.4,
+   "score": 28
+  },
+  {
+   "name": "Astronomer",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fentmaxxer's Observatory #### In Game Use: lore for the cloister beast storyline #### Lore: the astronomer fentmaxxer built the observatory hastily after observing an asteroid hitting that exact spot…"
+   },
+   "rank": 17,
+   "percentile": 53.0,
+   "score": 39
+  },
+  {
+   "name": "Missionary",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…an unknown land of giants, brought to Providence as a baby by way of the Whiskey Runners, a missionary group who smuggled illegal tonic from Providence to Aleforge during the early reign of the…"
+   },
+   "rank": 17,
+   "percentile": 53.0,
+   "score": 39
+  },
+  {
+   "name": "Navigator",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…exploits unlike any of those known by the pirates I grew up around. Seamus Bonehardy hired on as navigator to a treasure hunting outfit whose reputation rested entirely on enthusiasm, having in eleven…"
+   },
+   "rank": 17,
+   "percentile": 53.0,
+   "score": 39
+  },
+  {
+   "name": "Painter",
+   "aliases": [
+    "landscape painter",
+    "artist"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Including Dusty Shidiz and Tanka Jahari their personal house servants. They also fund and house an artist, Salude Gonzalez, who lives in their attic and paints. His living quarters are completely…"
+   },
+   "rank": 17,
+   "percentile": 53.0,
+   "score": 39
+  },
+  {
+   "name": "Biologist",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…cloister by a benefactor to find a weak spot on the beast for an eventual execution. Being a biologist by trade he developed an obsessive fascination with the beast and was determined to keep it…"
+   },
+   "rank": 21,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "Bouncer",
+   "aliases": [
+    "Bouncers",
+    "bouncing"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Tavern and set their differences aside as they tell tales of adventure and gold. There are bouncers stationed outside the tavern who will throw you in if you are looking too sober. -…"
+   },
+   "rank": 21,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "Comedian",
+   "aliases": [
+    "wanna-be comedian"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The Chief Officer for the Providence Guard ### Vlad the Kisser A small time wanna-be comedian working part time at the Theocrat. He does shows on the weekend to the few late-night drinkers…"
+   },
+   "rank": 21,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "Detective",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of interdimensional creatures during Gideon Drakes nefarious schemes. He also served as a detective for the ASDU before his promotion, making him the perfect person to lead an investigative…"
+   },
+   "rank": 21,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "Foreman",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to give you something in return…That is, if you can catch him. ### Dig Dug He's the Foreman of the Mines at the Basin at Bully Hill. Dig Dug is one of the biggest employers of Oweblock…"
+   },
+   "rank": 21,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "House servant",
+   "aliases": [
+    "servants"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…employment for many Aleforge citizens. Including Dusty Shidiz and Tanka Jahari their personal house servants. They also fund and house an artist, Salude Gonzalez, who lives in their attic and paints.…"
+   },
+   "rank": 21,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "Hunter",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…others of the terror they would endure. ### Edmond Blackmoor (DECEASED) He is a famously good hunter of exotic animals and came to Aleforge to slay the cloister beast. Edmond Blackmoor came…"
+   },
+   "rank": 21,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "Librarian",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…I was NOT paying attention to that meeting. Met a man by the name of Jophisus, he was a librarian or historian idk. He was going on about artifacts and books or something. I only caught one…"
+   },
+   "rank": 21,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "Postman",
+   "aliases": [
+    "mailman"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the APO & PR. never a late delivery especially when delivered Quickety Cricket (the fastest postman in Pintland) and his trusty horse Prejac ##### Brewers Lane Brewers of Aleforge have been…"
+   },
+   "rank": 21,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "Shipbuilder",
+   "aliases": [
+    "shipbuilding"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Gideon has implemented a scholarship system to promote education in emerging crafts, mainly shipbuilding, mining, and blacksmithing. It is available for existing craftsmen to take on an apprentice…"
+   },
+   "rank": 21,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "Tavern hand",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…large influx of money has now hit the Aleforge ledger. ### Rollo Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends and situationships as often…"
+   },
+   "rank": 21,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "Timekeeper",
+   "aliases": [
+    "Timekeepers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…currently maintained by Sir Robert CockPower. The CockPower family comes from a long line of timekeepers, not much is known about them but some believe they have their origin in Vodkonia. #####…"
+   },
+   "rank": 21,
+   "percentile": 77.3,
+   "score": 68
+  },
+  {
+   "name": "Sushi chef",
+   "aliases": [
+    "chef"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…have to assume they were wrong in thinking i'm white. In my first rap to Wagwan, a weeb sushi chef in Owe Block, i proudly proclaimed \"i am black\" and shockingly everyone bought it. I was in,…"
+   },
+   "rank": 33,
+   "percentile": 98.5,
+   "score": 98
+  },
+  {
+   "name": "Taverner",
+   "aliases": [
+    "taverners"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…reign. Elric Stein: As Aleforge grew as an economic force in the region, Elric sent out taverners all across the isles to build more pubs and bars across all parts of the land. This normalized…"
+   },
+   "rank": 33,
+   "percentile": 98.5,
+   "score": 98
+  }
+ ]
+}

@@ -1,0 +1,506 @@
+{
+ "id": "drunken-trials",
+ "prompt": "Name something tied to the Drunken Trials",
+ "blurb": "Aleforge's festival: its winners, its rules, its ale, and the people who tried to stop it.",
+ "difficulty": "easy",
+ "gem": "Brannock the Drunk",
+ "answerCount": 25,
+ "answers": [
+  {
+   "name": "Liquor King",
+   "aliases": [
+    "Liquor Kings"
+   ],
+   "mentions": {
+    "total": 181,
+    "compendium": 119,
+    "records": 62
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "# Tab 1 THE PINTLAND ISLES MASTER LORE COMPENDIUM Parliament of the Liquor Kings Document Instantiated June 26th, 2025 Cycle 94, Year 466 # NOTE FOR THE LLM Note for…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Guinnie",
+   "aliases": [
+    "Steph O'Guinness"
+   ],
+   "mentions": {
+    "total": 36,
+    "compendium": 17,
+    "records": 19
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order,…"
+   },
+   "rank": 2,
+   "percentile": 4.2,
+   "score": 1
+  },
+  {
+   "name": "Gilded Tankard",
+   "aliases": [
+    "The Tankard"
+   ],
+   "mentions": {
+    "total": 20,
+    "compendium": 17,
+    "records": 3
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and tavern founded by Glub Tuppus Wepple. A newcomer named Gideon Drake rose to…"
+   },
+   "rank": 3,
+   "percentile": 8.3,
+   "score": 2
+  },
+  {
+   "name": "Glub Tuppus Wepple",
+   "aliases": [
+    "Wepple"
+   ],
+   "mentions": {
+    "total": 35,
+    "compendium": 23,
+    "records": 12
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…away. This upset Blackmoor and after sitting in his anger and drinking at the Brewery owned by Glub Tuppus Wepple he went back to the cloister in a drunken stupor and killed the old prophet. He left a book…"
+   },
+   "rank": 4,
+   "percentile": 12.5,
+   "score": 4
+  },
+  {
+   "name": "MAA",
+   "aliases": [
+    "Mothers Against Alcohol"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 23,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the crown. Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge but educated in Providence, Scipiums polical and social…"
+   },
+   "rank": 5,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Thomas Thatcher",
+   "aliases": [
+    "Thatcher"
+   ],
+   "mentions": {
+    "total": 21,
+    "compendium": 17,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests - Brandywine Brush — The dense inland forest known locally as 'Thiccy…"
+   },
+   "rank": 6,
+   "percentile": 20.8,
+   "score": 10
+  },
+  {
+   "name": "Liquor Crown",
+   "aliases": [
+    "Liquor Crowns",
+    "crown"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his spectacular drunkenness, and Nathan, having been forced to play sober…"
+   },
+   "rank": 7,
+   "percentile": 25.0,
+   "score": 12
+  },
+  {
+   "name": "The Brewmaster Deity",
+   "aliases": [
+    "Brewmaster Deity",
+    "Brew God"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 9,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…soft where it counts. - Their ale is sweet, their streets are clean, and they worship a brew-god like he's gonna row down from the clouds with a pint in each hand. - They call us savage,…"
+   },
+   "rank": 8,
+   "percentile": 29.2,
+   "score": 16
+  },
+  {
+   "name": "The Long Thirst",
+   "aliases": [
+    "Long Thirst"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Oracles. Isadoras rule was largely influenced by her visions and she correctly foretold of the Long Thirst and the Age of Six Kings. Hilgaard the Wildman: essentially a homeless man who somehow…"
+   },
+   "rank": 9,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "Raise the Crown, Raise the Cup",
+   "aliases": [
+    "Raise the Crown"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…guide to the shore Six will make the journey final And knock on fate's perilous door ## Raise the Crown, Raise the Cup An Anthem For The Drunken Trials [Verse 1] Gather close and raise your cups,…"
+   },
+   "rank": 10,
+   "percentile": 37.5,
+   "score": 23
+  },
+  {
+   "name": "Brannock the Drunk",
+   "aliases": [
+    "Brannock"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…their founding achievements have remained in the records. #### Early Leaders: (pre history) Brannock the Drunk: Legend has it that Brannock stumbled into the Drunken Trials already blackout drunk as he…"
+   },
+   "rank": 11,
+   "percentile": 47.9,
+   "score": 33
+  },
+  {
+   "name": "Hilgaard the Wildman",
+   "aliases": [
+    "Hilgaard"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…by her visions and she correctly foretold of the Long Thirst and the Age of Six Kings. Hilgaard the Wildman: essentially a homeless man who somehow won the crown. Hilgaard was assassinated by a radical…"
+   },
+   "rank": 11,
+   "percentile": 47.9,
+   "score": 33
+  },
+  {
+   "name": "The magical ale",
+   "aliases": [
+    "magical ale",
+    "no hangovers"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…event in the Pintland Isles. Every year, competitors from across the region gather to drink magical Aleforge ale and compete in a series of trials, games, and challenges that test wit, strength,…"
+   },
+   "rank": 11,
+   "percentile": 47.9,
+   "score": 33
+  },
+  {
+   "name": "Thomas Thatcher Sr.",
+   "aliases": [
+    "Thatcher Sr"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…only thing of note is his hiring of Mr. BBL, the current chancellor of Aleforge. Thomas Thatcher Sr.: Thomas Thatcher Sr. was an avid historian and wanted to reinstate the old ways of Aleforge…"
+   },
+   "rank": 11,
+   "percentile": 47.9,
+   "score": 33
+  },
+  {
+   "name": "Ale Points",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…alcohol poisoning but carries potent mystical effects the more one drinks. Competitors track Ale Points throughout the event, usable to gain advantages or force others to drink. ## The Gilded Tankard…"
+   },
+   "rank": 15,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Brewers' Spoon",
+   "aliases": [
+    "Brewers Spoon"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ITEMS BY CONCEPT ## The Drunken Trials - Liquor Crowns — Held by all Liquor Kings. - Brewers' Spoon — Held by all Liquor Kings. ## Cloister Beast - Fent (Fentmaxxer's Newports) — Useful…"
+   },
+   "rank": 15,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Diamond boots",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…forgiven the Kings for their victory. The Kings were welcomed back with gifts: Stephan received diamond boots for his historic two-trial winning streak, Buke received a diamond sword as the newly crowned…"
+   },
+   "rank": 15,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Drunken Trials Revival Fund",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…government. Gideon wants to move away from reliance on just brewing to support the economy. Drunken Trials Revival Fund: At the heart of Aleforge culture is the Drunken Trials, Gideon aims to make the next one…"
+   },
+   "rank": 15,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Isadora Beerchelli",
+   "aliases": [
+    "Isadora"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…conclusion of the war he personally hosted the Drunken Trials and stepped down voluntarily. Isadora Beerchelli: The first and only woman to win the Drunken Trials to daye, and her title of Liquor King…"
+   },
+   "rank": 15,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Olympics of Ale",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Until we in paradise dine Verse III - The Goldsun of the kings' arrival Was marked by Olympics of Ale And though each man did strive for vict'ry Young Guinnie was first to prevail Soon…"
+   },
+   "rank": 15,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Scipium Ofkra",
+   "aliases": [
+    "Scipium"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hilgaard was assassinated by a radical prohibitionist group, a precursor of the MAA. Scipium Ofkra: born in Aleforge but educated in Providence, Scipiums polical and social ideals were far…"
+   },
+   "rank": 15,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "The chugging competition",
+   "aliases": [
+    "chugging competition",
+    "17 pints"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…sea to the shores of aleforge once again and got a ticket to participate in the trials via chugging competition, where I chugged 17 pints of brew in 180 seconds, cementing my place in the competition.…"
+   },
+   "rank": 15,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "The six-way tie",
+   "aliases": [
+    "6 way tie"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Thirst. He memorialized the Drunken Trials in honor of his father and it ended in the first ever 6 way tie. This began the age of the 6 kings. #### The Age of the Six Kings: #### Modern History:…"
+   },
+   "rank": 15,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Ulthar Goldbrew",
+   "aliases": [
+    "Ulthar"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge Beef: Nothing is known about the Liquor King named Beef beyond his name Ulthar Goldbrew: A controversial leader, it is said that he never drank an ounce of brew in all his days.…"
+   },
+   "rank": 15,
+   "percentile": 79.2,
+   "score": 70
+  },
+  {
+   "name": "Wystan Miller",
+   "aliases": [
+    "Wystan"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…gathered to host a new Drunken Trials. #### The Golden Taps: Rulers from Year 193 - 411 Wystan Miller: The winner of the reinstated Drunken Trials, a cultural return to the old ways. A keen economic…"
+   },
+   "rank": 15,
+   "percentile": 79.2,
+   "score": 70
+  }
+ ]
+}

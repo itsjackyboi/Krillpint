@@ -1,0 +1,27 @@
+{
+  "id": "earth-figures",
+  "prompt": "Name a real-world figure the lore mentions",
+  "blurb": "Aldridge Industries' VIPs and sponsors, puzzle passwords, and other names from Earth.",
+  "difficulty": "hard",
+  "gem": "Otto Rohwedder",
+  "answers": [
+    {"name": "Nikola Tesla", "aliases": ["Tesla"]},
+    {"name": "Adolf Hitler", "aliases": ["Hitler", "Adolf"], "count": ["Adolf"]},
+    {"name": "Orville Wright", "aliases": ["Wright"]},
+    {"name": "Maria Telkes", "aliases": ["Telkes"]},
+    {"name": "Vannevar Bush", "aliases": []},
+    {"name": "Otto Rohwedder", "aliases": ["Rohwedder"]},
+    {"name": "Max Knott", "aliases": []},
+    {"name": "Karl Jansky", "aliases": ["Jansky"]},
+    {"name": "Edwin Armstrong", "aliases": ["Armstrong"]},
+    {"name": "Robert Watson-Watt", "aliases": ["Watson-Watt", "Robert Watson Watt"]},
+    {"name": "Roy Plunkett", "aliases": ["Plunkett"]},
+    {"name": "Galileo", "aliases": ["Galileo Galilei"]},
+    {"name": "Alan Turing", "aliases": ["Turing"]},
+    {"name": "Pythagoras", "aliases": ["Pythagorus"], "count": ["re:(?i)pythagor[ua]s"]},
+    {"name": "Odysseus", "aliases": []},
+    {"name": "Pope Leo XIV", "aliases": ["Pope Leo"], "obscurity": 4},
+    {"name": "King Von", "aliases": [], "obscurity": 4},
+    {"name": "Thanos", "aliases": [], "obscurity": 4}
+  ]
+}

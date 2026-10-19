@@ -1,0 +1,31 @@
+{
+  "id": "landmarks",
+  "prompt": "Name a mountain, forest, body of water or desert",
+  "blurb": "The natural lay of the land, from the Breakback range to the eleven seas.",
+  "difficulty": "medium",
+  "gem": "Callus Peaks",
+  "answers": [
+    {"name": "Breakback Mountains", "aliases": ["Breakback", "The Breakbacks"], "count": ["re:(?i)breakback"], "obscurity": 1},
+    {"name": "Rum Ridge", "aliases": []},
+    {"name": "Killdeath Peak", "aliases": ["Killdeath"]},
+    {"name": "Callus Peaks", "aliases": []},
+    {"name": "Brandywine Brush", "aliases": ["Thiccy Forest", "Brandywine"], "count": ["Brandywine", "Thiccy Forest"]},
+    {"name": "The Foreverglades", "aliases": ["Foreverglades"]},
+    {"name": "Drycup Forest", "aliases": ["Drycup Woods", "Drycup"], "count": ["Drycup"]},
+    {"name": "The Whiskey Shallows", "aliases": ["Whiskey Shallows"], "obscurity": 1},
+    {"name": "The Basin at Bully Hill", "aliases": ["Basin at Bully Hill", "Bully Hill"], "count": ["Bully Hill"]},
+    {"name": "Gulf of Aleforge", "aliases": []},
+    {"name": "Bottomless Bay", "aliases": []},
+    {"name": "Dead Man Hallows", "aliases": []},
+    {"name": "Gae Strait", "aliases": ["The Gae Strait"]},
+    {"name": "The Pacific Blocean", "aliases": ["Pacific Blocean"]},
+    {"name": "The Southern Blocean", "aliases": ["Southern Blocean"]},
+    {"name": "Solen River", "aliases": ["The Solen River"]},
+    {"name": "Great Southern Desert", "aliases": ["Southern Desert"], "count": ["re:(?i)great (southern )?desert"]},
+    {"name": "Hoegaarden Plains", "aliases": []},
+    {"name": "The Dread Marrows", "aliases": ["Dread Marrows"]},
+    {"name": "The eleven seas", "aliases": ["eleven seas", "11 seas"], "count": ["re:(?i)(eleven|11) seas"]},
+    {"name": "The northern pass", "aliases": ["northern pass"], "obscurity": 5},
+    {"name": "The sacred cliffs", "aliases": ["sacred cliffs", "the cliffs"], "count": ["sacred cliffs"], "obscurity": 4}
+  ]
+}

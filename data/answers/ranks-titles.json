@@ -1,0 +1,582 @@
+{
+ "id": "ranks-titles",
+ "prompt": "Name a rank, title or office",
+ "blurb": "From Providence's church ladder to the Bellows Nation's brew-right. The title, not the person.",
+ "difficulty": "medium",
+ "gem": "Kalifart",
+ "answerCount": 30,
+ "answers": [
+  {
+   "name": "Liquor King",
+   "aliases": [
+    "Liquor Kings",
+    "King"
+   ],
+   "mentions": {
+    "total": 181,
+    "compendium": 119,
+    "records": 62
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "# Tab 1 THE PINTLAND ISLES MASTER LORE COMPENDIUM Parliament of the Liquor Kings Document Instantiated June 26th, 2025 Cycle 94, Year 466 # NOTE FOR THE LLM Note for…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Mayor",
+   "aliases": [],
+   "mentions": {
+    "total": 44,
+    "compendium": 20,
+    "records": 24
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests - Brandywine Brush — The dense inland forest known locally…"
+   },
+   "rank": 2,
+   "percentile": 3.4,
+   "score": 1
+  },
+  {
+   "name": "Cardinal",
+   "aliases": [],
+   "mentions": {
+    "total": 20,
+    "compendium": 18,
+    "records": 2
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Providence — The ordered, tonic-driven holy city on the cliffs. A strict theocracy ruled by Cardinal Addy, head of the Church of Patmos. - Fenwick — The Veilwalker wetland settlement. Named…"
+   },
+   "rank": 3,
+   "percentile": 6.9,
+   "score": 2
+  },
+  {
+   "name": "Sexton",
+   "aliases": [
+    "Sextons"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 11,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the cobbled streets on Beastwatch, judging the markets with a keen eye and a stricter hand. Sextons, the lowliest rank, haul tithes to the lake port in creaking carts, their greed oft outweighing…"
+   },
+   "rank": 4,
+   "percentile": 10.3,
+   "score": 3
+  },
+  {
+   "name": "First mate",
+   "aliases": [
+    "1st mate"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 2,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…his image of unity and town pride. Gideon Drake is actually part VeilWalker, and he was the 1st mate of the legendary pirate Sackbeard who killed the tavern beast. Hundreds of years ago he cursed…"
+   },
+   "rank": 5,
+   "percentile": 15.5,
+   "score": 6
+  },
+  {
+   "name": "Friar",
+   "aliases": [
+    "Friars"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 11,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…seen what their holy town does after dark — when the tonic kicks in and the masks slip. Their Friars cry, their Circs dance, and their merchants whisper to drowned things. Truth is, Providence…"
+   },
+   "rank": 5,
+   "percentile": 15.5,
+   "score": 6
+  },
+  {
+   "name": "Apostle",
+   "aliases": [
+    "Apostles"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 7,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ceaseless toil lies a deeper rhythm, guided by the church of Patmos, where half the folk serve as Apostles, their jittery hands raised in ceaseless devotion. Their tithes—half of all earnings—flow…"
+   },
+   "rank": 7,
+   "percentile": 20.7,
+   "score": 9
+  },
+  {
+   "name": "Elder",
+   "aliases": [
+    "Elders"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Veilwalker. Female Walkers are seldom seen. By Veilwalker law, they are barred from serving as Elders or ambassadors, keeping them largely out of contact with the outside world. This particular…"
+   },
+   "rank": 8,
+   "percentile": 25.9,
+   "score": 13
+  },
+  {
+   "name": "Treasurer",
+   "aliases": [],
+   "mentions": {
+    "total": 7,
+    "compendium": 5,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…longer applied. Only the future will tell what is in store for the Cumstead. ### John Rump — Treasurer, Embezzler, Addict John Rump is the crooked treasurer of Aleforge. He has been coasting off…"
+   },
+   "rank": 8,
+   "percentile": 25.9,
+   "score": 13
+  },
+  {
+   "name": "Oracle",
+   "aliases": [
+    "Oracles"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was heavily debated. She was however, also raised by a seer who taught her the art of the Oracles. Isadoras rule was largely influenced by her visions and she correctly foretold of the Long…"
+   },
+   "rank": 10,
+   "percentile": 32.8,
+   "score": 19
+  },
+  {
+   "name": "Sheriff",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was Bigbag-o Buttlube the ancestor of the current office holder, Hornithan Buttlube 2. The Sheriffs Offices: This Sheriffs office was the first form of law and order in old Aleforge. Most duties…"
+   },
+   "rank": 10,
+   "percentile": 32.8,
+   "score": 19
+  },
+  {
+   "name": "Circ",
+   "aliases": [
+    "Circs"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 3,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…town does after dark — when the tonic kicks in and the masks slip. Their Friars cry, their Circs dance, and their merchants whisper to drowned things. Truth is, Providence wears a crown…"
+   },
+   "rank": 12,
+   "percentile": 37.9,
+   "score": 23
+  },
+  {
+   "name": "Chancellor",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…powers following the rule of Cedric the Vicar. It was Adcock who established the positions of Chancellor and Mayor. #### The Middle Kings: Rulers from Years 1 - 193. Balder Pilsford: Fought a…"
+   },
+   "rank": 13,
+   "percentile": 44.8,
+   "score": 30
+  },
+  {
+   "name": "Constable",
+   "aliases": [],
+   "mentions": {
+    "total": 4,
+    "compendium": 1,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Ball Buster ### Tugller ### Lady Edgermire ### Samuel Supplebottom ### Quickety Cricket Constable Jökulsson The de facto ruler of Bar Bastion. He took control in a time of disorder as the…"
+   },
+   "rank": 13,
+   "percentile": 44.8,
+   "score": 30
+  },
+  {
+   "name": "Kalifart",
+   "aliases": [
+    "Kalifarts"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…faces flushed from the tonic's heat, crafting each batch with chants to the unknown gods. The Kalifarts, rare as a sober night, dwell in lofty towers, scribbling variations of the tonic with quills…"
+   },
+   "rank": 13,
+   "percentile": 44.8,
+   "score": 30
+  },
+  {
+   "name": "Commodore",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…unwisely, he insulted the merchant's trade in front of the room. The merchant turned out to be a Commodore of the Imperial Navy. When the loss was discovered, Anqoak pointed at his brother, who was…"
+   },
+   "rank": 16,
+   "percentile": 53.4,
+   "score": 39
+  },
+  {
+   "name": "Minister of Foreign Relations",
+   "aliases": [
+    "foreign affairs advisor",
+    "foreign relations advisor"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Susan Plinket — CONVICTED, Sentenced to Be Rollo's Girlfriend Susan Plinket is a moderate foreign affairs expert for the kings. She respects their bravery but agrees that they are not the most professional…"
+   },
+   "rank": 16,
+   "percentile": 53.4,
+   "score": 39
+  },
+  {
+   "name": "Captain of the Color Guard",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…founders of Aleforge. The first ones to plant the flag of Aleforge on this island. The first Captain of the Color Guard was Cpt. William Dillydally. The current Captain of the Color Guard is Cpt. Lincoln Dillydally…"
+   },
+   "rank": 18,
+   "percentile": 69.0,
+   "score": 57
+  },
+  {
+   "name": "Comptroller",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…way. They still try to hold onto power and control even though they have none. 1. The Comptroller's Office: Was responsible for all fiscal management. Without this historic office Aleforge…"
+   },
+   "rank": 18,
+   "percentile": 69.0,
+   "score": 57
+  },
+  {
+   "name": "High King",
+   "aliases": [
+    "god-king"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The Rotted Soul rose to power through shadowy means, and eventually declared himself as the god-king of Lagendale after killing all of 138 Council members at once. It is said that their flesh…"
+   },
+   "rank": 18,
+   "percentile": 69.0,
+   "score": 57
+  },
+  {
+   "name": "Navigator",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…exploits unlike any of those known by the pirates I grew up around. Seamus Bonehardy hired on as navigator to a treasure hunting outfit whose reputation rested entirely on enthusiasm, having in eleven…"
+   },
+   "rank": 18,
+   "percentile": 69.0,
+   "score": 57
+  },
+  {
+   "name": "Pirate Lord",
+   "aliases": [
+    "Pirate Lords"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of men trained in constructing these ships has been lost and only two are functional. The pirate Lord's who sail aboard the cloudrunners are masters of both sea and sky, deftly navigating trade…"
+   },
+   "rank": 18,
+   "percentile": 69.0,
+   "score": 57
+  },
+  {
+   "name": "Saint",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…just a driftwood sermon by some tonic-made monk screamin' on a rock. The same monk they call \"Saint No-Snooze\" now? Yeah, he once tried to drink in the Great Tavern and passed out tryin' to…"
+   },
+   "rank": 18,
+   "percentile": 69.0,
+   "score": 57
+  },
+  {
+   "name": "The Pale",
+   "aliases": [
+    "Pale"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…batches that would send lesser drinkers to a healer's bed. At the top of this hierarchy sits the Pale, the highest-ranking official in the nation, tasked with: - Maintaining order across the…"
+   },
+   "rank": 18,
+   "percentile": 69.0,
+   "score": 57
+  },
+  {
+   "name": "Admiral",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of Liquor King was only softly carved in his tombstone. Plungos of West Pint: a great admiral in the war and the highest ranking officer under the Liquor King. Upon the death of Plindor…"
+   },
+   "rank": 25,
+   "percentile": 87.9,
+   "score": 82
+  },
+  {
+   "name": "Bitterman",
+   "aliases": [
+    "Bittermen"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…one) Titles beneath the Pale are rumored to include regional \"Kegmasters\" and traveling \"Bittermen,\" though little is confirmed outside SBN borders. ### Technology & Industry Despite their…"
+   },
+   "rank": 25,
+   "percentile": 87.9,
+   "score": 82
+  },
+  {
+   "name": "Foreman",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to give you something in return…That is, if you can catch him. ### Dig Dug He's the Foreman of the Mines at the Basin at Bully Hill. Dig Dug is one of the biggest employers of Oweblock…"
+   },
+   "rank": 25,
+   "percentile": 87.9,
+   "score": 82
+  },
+  {
+   "name": "Kegmaster",
+   "aliases": [
+    "Kegmasters"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pintlanders couldn't name the current one) Titles beneath the Pale are rumored to include regional \"Kegmasters\" and traveling \"Bittermen,\" though little is confirmed outside SBN borders. ### Technology…"
+   },
+   "rank": 25,
+   "percentile": 87.9,
+   "score": 82
+  },
+  {
+   "name": "CEO",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…all of Goldcoral Inc's investment funds to gambling, he lost everything to their ruthless CEO, Jack Anqoak. Currently, he is the main bartender at Jack's Grog Galley. Wepple agreed to…"
+   },
+   "rank": 29,
+   "percentile": 98.3,
+   "score": 97
+  },
+  {
+   "name": "Chief Officer",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…T(horny) Thicket Tavern found deep in the middle of thiccy forest ### Sergeant Hark The Chief Officer for the Providence Guard ### Vlad the Kisser A small time wanna-be comedian working…"
+   },
+   "rank": 29,
+   "percentile": 98.3,
+   "score": 97
+  }
+ ]
+}

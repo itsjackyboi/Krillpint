@@ -1,0 +1,771 @@
+{
+ "id": "nicknames",
+ "prompt": "Name a nickname, alias or epithet",
+ "blurb": "Titles, slurs, pseudonyms and pet names. Not the real name.",
+ "difficulty": "medium",
+ "gem": "Throbbin Hood",
+ "answerCount": 39,
+ "answers": [
+  {
+   "name": "Jathan Round",
+   "aliases": [
+    "JR",
+    "J.R."
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 2,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…with such a group until the time is right, so she communicates with MAMA under the pseudonym, Jathan Round (JR). She will vote in a way that is line with her true views and will organize any revolts…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Earth born",
+   "aliases": [
+    "earth-born",
+    "earthborn"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 3,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the dirt and soil of the earth. They refer to humans as \"The flesh born\" and themselves as \"earth born\". They live simple lives and live off of only what the earth provides for them. Hence they're…"
+   },
+   "rank": 2,
+   "percentile": 5.3,
+   "score": 1
+  },
+  {
+   "name": "Flesh born",
+   "aliases": [
+    "flesh-born",
+    "fleshborn"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 5,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"veilwalkers\". They were born from the dirt and soil of the earth. They refer to humans as \"The flesh born\" and themselves as \"earth born\". They live simple lives and live off of only what the earth…"
+   },
+   "rank": 2,
+   "percentile": 5.3,
+   "score": 1
+  },
+  {
+   "name": "The Monk Who Ne'er Slumber'd",
+   "aliases": [
+    "Monk Who Never Slumbered",
+    "Monk Who Ne'er Slumbered"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Providence The Chronicle of Providence: Scribed by a Humble Servant of Patmos The Tale of the Monk Who Ne'er Slumber'd In the year of our unknown gods, Stormtide, Keg 13, Bloodwake of the 66th cycle, by mine…"
+   },
+   "rank": 2,
+   "percentile": 5.3,
+   "score": 1
+  },
+  {
+   "name": "Bootymane",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 1,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jp (Jameson Pilsner)Jack (Jack Anqoak), ben (JagerBauhm), Nathan (Seamus Bonehardy) and/or Bootymane, luke (Buke), Stephan (Guinnie) ### Seamus Bonehardy (Nathan) \"King of Kegs\" — The Barrel…"
+   },
+   "rank": 5,
+   "percentile": 11.8,
+   "score": 4
+  },
+  {
+   "name": "Rotto",
+   "aliases": [],
+   "mentions": {
+    "total": 6,
+    "compendium": 1,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…significant profits, it operates with little transparency. Most of the company's trade flows through Rotto, where low regulations and high profit margins reign supreme, though the company is headquartered…"
+   },
+   "rank": 5,
+   "percentile": 11.8,
+   "score": 4
+  },
+  {
+   "name": "King of Kegs",
+   "aliases": [
+    "King of the Kegs"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bonehardy) and/or Bootymane, luke (Buke), Stephan (Guinnie) ### Seamus Bonehardy (Nathan) \"King of Kegs\" — The Barrel Breakers / Ship: The Alemaster's Mortar Backstory: I was born on a small island…"
+   },
+   "rank": 7,
+   "percentile": 15.8,
+   "score": 6
+  },
+  {
+   "name": "The Bastard Veil",
+   "aliases": [
+    "Bastard Veil"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…would serve as the place of pirate celebration for many cycles to come. ### Gideon Drake the Bastard Veil (formerly 'the Ironkeg') — BANISHED TO VODKONIA Gideon Drake sailed into Shanty Town 20 years…"
+   },
+   "rank": 8,
+   "percentile": 19.7,
+   "score": 9
+  },
+  {
+   "name": "The Rotten King",
+   "aliases": [
+    "Rotten King"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…everyone uncomfortable. So they dismissed him. It was the worst decision they ever made. The Rotten King The Rotted Soul was a king in between the 2nd and 3rd dynasties of Lagendale. As far…"
+   },
+   "rank": 8,
+   "percentile": 19.7,
+   "score": 9
+  },
+  {
+   "name": "King of Nothing",
+   "aliases": [
+    "King of Bone"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…him, the light has left his eyes. Book 9 & 10: I heard a child singing this lullaby today. \"King of Nothing, King of Bone. Walks in the field and walks alone. Touch the dirt and watch it turn, kiss…"
+   },
+   "rank": 10,
+   "percentile": 25.0,
+   "score": 12
+  },
+  {
+   "name": "The Shell Tavern",
+   "aliases": [
+    "Shell Tavern",
+    "ShellTavern"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Mansion) — Known in folklore as such; canonical name unknown. - Sackbeard's Tavern — The great Shell Tavern built around the carcass of the slain Tavern Beast. Each year the pirates put their differences…"
+   },
+   "rank": 10,
+   "percentile": 25.0,
+   "score": 12
+  },
+  {
+   "name": "Japes",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…5 strangers, a surprisingly common event for the man who introduced himself at the fire as Japes. He gave his initials as JP and admitted he did not know what they stood for. His parents…"
+   },
+   "rank": 12,
+   "percentile": 31.6,
+   "score": 18
+  },
+  {
+   "name": "Slayer of Sobriety",
+   "aliases": [],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Face-first in fireball, banned from the yard. \"Useless drunk!\" the townsfolk sneered, \"The Slayer of Sobriety? More like Slayed by Beer.\" Verse II – The Sober Oath But a vow he made in the ruins…"
+   },
+   "rank": 12,
+   "percentile": 31.6,
+   "score": 18
+  },
+  {
+   "name": "The Wronged Walker",
+   "aliases": [
+    "Wronged Walker"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…party no one bothered to consult: the male Veilwalker whose mate had broken their Vow. The Wronged Walker He brought his grievance before the Elders with full justification. He had been forsaken,…"
+   },
+   "rank": 12,
+   "percentile": 31.6,
+   "score": 18
+  },
+  {
+   "name": "Drunkest of Them All",
+   "aliases": [
+    "JP Drunkest of Them All"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…trials, that's all the towns people speak about anymore They call me a useless drunk, the \"drunkest of them all\" My name has been ridiculed the last year. Because of that I have dedicated the last year…"
+   },
+   "rank": 15,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "Jack & Coke",
+   "aliases": [
+    "Jack and Coke",
+    "Jack&coke"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…families never go hungry. My fellow Liquor Kings—Seamus, Jaugerbomb, JamesonPilsner, buke, Jack&coke— these are fine lads. Seamus's trade deals kept coins clinking, Ben sealed that hellhole portal,…"
+   },
+   "rank": 15,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "No Eyes, All-Hands",
+   "aliases": [
+    "no Eyes all Hands"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…completely mad. ### Shanty Town's Foreign Relations #### On Providence: An excerpt from Jasper \"no Eyes, all-Hands\", resident of La-Di-Da Street, member of Windsunk Council concerning Providence: Scrawled…"
+   },
+   "rank": 15,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "The dumb monks in the cave",
+   "aliases": [
+    "dumb monks in the cave",
+    "dumb monks"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…spirit form. They are also referred to as \"healers\", \"mystics\", \"gardeners\" and even \"the dumb monks in the cave\" They are nomadic but only relative to their own life expectancy. So relative…"
+   },
+   "rank": 15,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "The Factory",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…library, houses the largest collection of knowledge in all of Pintland. - Orchenk Manufactory (The Factory) — The abandoned industrial facility where the Nethergate disaster occurred. - The Vanishing…"
+   },
+   "rank": 15,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "The Liquor Witch",
+   "aliases": [
+    "Liquor Witch"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…providence as refugees. Lived there until 16 when i snagged a bit of fake clockheart tonic made by the Liquor witch Faegi which turned me into a functional alcoholic (had to hide my true drunkenness from the…"
+   },
+   "rank": 15,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "Thiccy Forest",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Thatcher. ### Forests - Brandywine Brush — The dense inland forest known locally as 'Thiccy Forest.' This is the home of the Veilwalker encampment, Fenwick. Many other notable locations are…"
+   },
+   "rank": 15,
+   "percentile": 44.7,
+   "score": 30
+  },
+  {
+   "name": "Shameless Bonehardy",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…know is this. ● Instead of going from rags to riches cheekz went from riches to rags ● and Shameless Bonehardy mopped up and down the streets of ale forge with him ● all for 30 gold. ● Cheekz has a blind…"
+   },
+   "rank": 22,
+   "percentile": 55.3,
+   "score": 41
+  },
+  {
+   "name": "Oracle of Aleforge",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…other kings grumble about the number of times they saved his life. ### Jack Anqoak (Jack) \"Oracle of Aleforge\" — Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick…"
+   },
+   "rank": 23,
+   "percentile": 57.9,
+   "score": 44
+  },
+  {
+   "name": "Dimitri: The Space Boy",
+   "aliases": [
+    "The Space Boy",
+    "Space Boy"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…currently buried in John Cums fields and his grave proudly pronounces him as \"Dimitri: The Space Boy.\" ### The MAA / MAMA The MAA (Mothers Against Alcohol) are a radical prohibition extremist…"
+   },
+   "rank": 24,
+   "percentile": 71.1,
+   "score": 60
+  },
+  {
+   "name": "Drunken Angel",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…those events and has been a husk of his former self ever since. ### Jagerbauhm (Ben) \"Drunken Angel\" — The Lager Duke Yeah id say from ages 0-2 grew up in shanty town until parents (both just…"
+   },
+   "rank": 24,
+   "percentile": 71.1,
+   "score": 60
+  },
+  {
+   "name": "Jaugerbomb",
+   "aliases": [
+    "Jagerbomb"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…fields overflow with wheat so your families never go hungry. My fellow Liquor Kings—Seamus, Jaugerbomb, JamesonPilsner, buke, Jack&coke— these are fine lads. Seamus's trade deals kept coins clinking,…"
+   },
+   "rank": 24,
+   "percentile": 71.1,
+   "score": 60
+  },
+  {
+   "name": "Liquor Queen",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…The first and only woman to win the Drunken Trials to daye, and her title of Liquor King or Liquor Queen was heavily debated. She was however, also raised by a seer who taught her the art of the…"
+   },
+   "rank": 24,
+   "percentile": 71.1,
+   "score": 60
+  },
+  {
+   "name": "Saint No-Snooze",
+   "aliases": [
+    "Saint No Snooze"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…just a driftwood sermon by some tonic-made monk screamin' on a rock. The same monk they call \"Saint No-Snooze\" now? Yeah, he once tried to drink in the Great Tavern and passed out tryin' to convert the…"
+   },
+   "rank": 24,
+   "percentile": 71.1,
+   "score": 60
+  },
+  {
+   "name": "The Beast-Breaker",
+   "aliases": [
+    "Beast-Breaker",
+    "Beast Breaker"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pour Eternal. Brewed in madness, they say, by the founders of Aleforge and Sackbeard the Beast-Breaker himself. Brewed from blood pulled from the gullet of the slain Leviathan, stirred with spiritweed…"
+   },
+   "rank": 24,
+   "percentile": 71.1,
+   "score": 60
+  },
+  {
+   "name": "The Ironkeg",
+   "aliases": [
+    "Ironkeg"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…pirate celebration for many cycles to come. ### Gideon Drake the Bastard Veil (formerly 'the Ironkeg') — BANISHED TO VODKONIA Gideon Drake sailed into Shanty Town 20 years ago and has made permanent…"
+   },
+   "rank": 24,
+   "percentile": 71.1,
+   "score": 60
+  },
+  {
+   "name": "The Lager Duke",
+   "aliases": [
+    "Lager Duke"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…has been a husk of his former self ever since. ### Jagerbauhm (Ben) \"Drunken Angel\" — The Lager Duke Yeah id say from ages 0-2 grew up in shanty town until parents (both just poopdeck swabbers)…"
+   },
+   "rank": 24,
+   "percentile": 71.1,
+   "score": 60
+  },
+  {
+   "name": "Zaar the Edgemaster",
+   "aliases": [
+    "the Edgemaster"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Seaside Circus, blue flag crew—loud, proud, and ready to pull triggers. First night? Zaar the Edgemaster gave us a warspeech and we set off to claim some souls... and we did brother, we did. We wrecked…"
+   },
+   "rank": 24,
+   "percentile": 71.1,
+   "score": 60
+  },
+  {
+   "name": "Captain of the Shoals",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…would very much like to be wrong about what comes next. — Steph O'Guinness Liquor King, Captain of the Shoals, Formerly of the King's Army Currently of the opinion that basements are never just basements…"
+   },
+   "rank": 33,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "Garden ghosts",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Perceptions & Prejudice Most Shanty folk don't know what to make of the Veilwalkers. Some call 'em garden ghosts, others call 'em mud-sucking mystics. The kinder ones call 'em healers, the crueler ones cursed…"
+   },
+   "rank": 33,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "Moss monks",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…stupid enough to piss off the woods. The Windsunk Council's unofficial stance is: \"Let the moss monks keep their weird mud magic, and leave offerings when you pass by.\" But trouble brews all…"
+   },
+   "rank": 33,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "Mud-sucking mystics",
+   "aliases": [
+    "mud sucking mystics"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…don't know what to make of the Veilwalkers. Some call 'em garden ghosts, others call 'em mud-sucking mystics. The kinder ones call 'em healers, the crueler ones cursed monks with too much moss in their…"
+   },
+   "rank": 33,
+   "percentile": 88.2,
+   "score": 83
+  },
+  {
+   "name": "Big Jack",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…took our parents ashes. ● A vote for Jack anquoke is a vote to obliterate half our city to Big Jack. Instead fellow citizens I say we vote to rob Jack anquoke of HIS LAST NAME to see how HE…"
+   },
+   "rank": 37,
+   "percentile": 97.4,
+   "score": 96
+  },
+  {
+   "name": "Golden Corral Inc",
+   "aliases": [
+    "Golden Corral"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…order. Once day two arrived, we found that Glub Tuppus Wepple had received a large sum from Golden Corral Inc. but nothing else especially pertinent. It was also during the second day that we were forced…"
+   },
+   "rank": 37,
+   "percentile": 97.4,
+   "score": 96
+  },
+  {
+   "name": "Throbbin Hood",
+   "aliases": [
+    "throbbin hood"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…id done that fateful night. I'm known round town as a bit o' a thief, i call it more of a throbbin hood motif. i steal from the rich and give to meself. That night, I spotted a drunk merchant from…"
+   },
+   "rank": 37,
+   "percentile": 97.4,
+   "score": 96
+  }
+ ]
+}

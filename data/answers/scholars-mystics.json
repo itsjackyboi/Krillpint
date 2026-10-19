@@ -1,0 +1,550 @@
+{
+ "id": "scholars-mystics",
+ "prompt": "Name a scholar, mystic or holy figure",
+ "blurb": "Prophets, priests, witches, oracles, librarians and the occasional mage with a telescope.",
+ "difficulty": "medium",
+ "gem": "Aldric Pen",
+ "answerCount": 26,
+ "answers": [
+  {
+   "name": "The Old Prophet",
+   "aliases": [
+    "Old Prophet",
+    "Prophet"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 18,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of monks long ago and later abandoned after their order disappeared, it is rumored that the prophet murdered them in order to get access to this mysterious place. An old prophet took up residence…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Jack Anqoak",
+   "aliases": [
+    "Anqoak",
+    "Oracle of Aleforge"
+   ],
+   "mentions": {
+    "total": 55,
+    "compendium": 33,
+    "records": 22
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner…"
+   },
+   "rank": 2,
+   "percentile": 4.0,
+   "score": 1
+  },
+  {
+   "name": "Josephus",
+   "aliases": [
+    "Jophisus",
+    "Jophesis",
+    "Johnephus",
+    "Jonephesus",
+    "Josiphus",
+    "Jonophesus"
+   ],
+   "mentions": {
+    "total": 18,
+    "compendium": 1,
+    "records": 17
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Kings go to the city. The Liquor Kings arrived in Owe Block carrying a book from the scholar Josiphus, ostensibly there to study the district's culture and relics. Wagwan, the sharp-eyed owner…"
+   },
+   "rank": 3,
+   "percentile": 8.0,
+   "score": 2
+  },
+  {
+   "name": "Cardinal Addy",
+   "aliases": [
+    "Addy"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 11,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…— The ordered, tonic-driven holy city on the cliffs. A strict theocracy ruled by Cardinal Addy, head of the Church of Patmos. - Fenwick — The Veilwalker wetland settlement. Named by outsiders:…"
+   },
+   "rank": 4,
+   "percentile": 12.0,
+   "score": 4
+  },
+  {
+   "name": "Fentmaxxer",
+   "aliases": [
+    "Fentmaxer"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher.…"
+   },
+   "rank": 5,
+   "percentile": 18.0,
+   "score": 8
+  },
+  {
+   "name": "Sexton Gobbler",
+   "aliases": [
+    "Gobbler"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 7,
+    "records": 8
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Liquor Kings with safe haven during the Owe Block concept when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley…"
+   },
+   "rank": 5,
+   "percentile": 18.0,
+   "score": 8
+  },
+  {
+   "name": "Ignatius De Montfort",
+   "aliases": [
+    "Ignatius",
+    "De Montfort"
+   ],
+   "mentions": {
+    "total": 12,
+    "compendium": 12,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…known who built this or for what purpose. This exact question is currently being researched by Ignatius De Montfort. ## The Cloister #### In Game Use: concept gameplay area #### Lore: this…"
+   },
+   "rank": 7,
+   "percentile": 24.0,
+   "score": 12
+  },
+  {
+   "name": "The Monk Who Ne'er Slumber'd",
+   "aliases": [
+    "The Monk",
+    "Saint No-Snooze",
+    "Monk Who Never Slumbered"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 9,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…just a driftwood sermon by some tonic-made monk screamin' on a rock. The same monk they call \"Saint No-Snooze\" now? Yeah, he once tried to drink in the Great Tavern and passed out tryin' to convert the…"
+   },
+   "rank": 8,
+   "percentile": 28.0,
+   "score": 15
+  },
+  {
+   "name": "Gale Derecho",
+   "aliases": [
+    "Gale"
+   ],
+   "mentions": {
+    "total": 8,
+    "compendium": 8,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bar Wolendi The family wind farm of the Derecho family, currently under ownership of Gale and Guster Derecho. The East Wind farm is located on a small island just off the coast of…"
+   },
+   "rank": 9,
+   "percentile": 32.0,
+   "score": 18
+  },
+  {
+   "name": "Brother Silas",
+   "aliases": [
+    "Silas"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 1,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…upon their arrival in Owe Block and relayed the full account of their adventures there to Brother Silas. He serves sushi. ### Sexton Gobbler The corrupt Sexton of Owe Block who was secretly worshipping…"
+   },
+   "rank": 10,
+   "percentile": 36.0,
+   "score": 22
+  },
+  {
+   "name": "Reverend Ambrose Ravenscroft",
+   "aliases": [
+    "Ambrose Ravenscroft",
+    "Ravenscroft",
+    "Reverend Ambrose"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fear and died a slow and humbling death, warning others of the terror they would endure. ### Reverend Ambrose Ravenscroft The esteemed reverend originally came to Aleforge at the request of his superiors,…"
+   },
+   "rank": 11,
+   "percentile": 40.0,
+   "score": 25
+  },
+  {
+   "name": "Baba Paku",
+   "aliases": [
+    "Babu Packo",
+    "Paku"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…without fail and is suffering from major lung cancer. Who knows how long hes got. ### Baba Paku A missionary from Owe Block sent out into the World to spread Unknownism. He is often found…"
+   },
+   "rank": 12,
+   "percentile": 44.0,
+   "score": 29
+  },
+  {
+   "name": "The pale stranger",
+   "aliases": [
+    "strange man",
+    "pale man",
+    "unusual fellow"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "he had a rather pale face and quite sunken eyes",
+    "note": "Spoke in parables to De Montfort and claimed to have found New Haven."
+   },
+   "rank": 13,
+   "percentile": 48.0,
+   "score": 33
+  },
+  {
+   "name": "Friar Leo",
+   "aliases": [
+    "Fr Leo"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…wrong type of booty has certainly been overheard after one too many tankards of grog. ### Friar Leo A friar who maintains a secret section of the Church of the Monk in Owe Block containing…"
+   },
+   "rank": 14,
+   "percentile": 54.0,
+   "score": 40
+  },
+  {
+   "name": "Trodon Hallis",
+   "aliases": [
+    "Trodon"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…constructed the Shelled Tavern. Frenic built the Sackbeard Memorial Well in the town square. Trodon Hallis: The last member of the Hallis Dynasty. Trodon was a weak and sickly man from birth and showed…"
+   },
+   "rank": 14,
+   "percentile": 54.0,
+   "score": 40
+  },
+  {
+   "name": "Gregor Ashford",
+   "aliases": [
+    "Gregor"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "The more Gregor drinks the more he tells of the history of the world",
+    "note": "A drunk bard who somehow knows history from thousands of years ago."
+   },
+   "rank": 16,
+   "percentile": 60.0,
+   "score": 46
+  },
+  {
+   "name": "Cedric the Vicar",
+   "aliases": [
+    "Cedric"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…nomadic lifestyle, even though that will take hundreds of years from a human perspective. Cedric the Vicar: A religious extremist, Cedric established a short lived religious cult surrounding him as…"
+   },
+   "rank": 17,
+   "percentile": 68.0,
+   "score": 56
+  },
+  {
+   "name": "Faige the Witch",
+   "aliases": [
+    "Faige",
+    "Faegi",
+    "Liquor Witch"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Lived there until 16 when i snagged a bit of fake clockheart tonic made by the Liquor witch Faegi which turned me into a functional alcoholic (had to hide my true drunkenness from the church).…"
+   },
+   "rank": 17,
+   "percentile": 68.0,
+   "score": 56
+  },
+  {
+   "name": "Sister Bertha",
+   "aliases": [
+    "Bertha"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…cardinal. His unusual size allowed him to stand out among the other guardian applicants. ### Sister Bertha Sister Bertha is a snitch. A big ole snitch. Her father was a high ranking Circ in the Cardinals…"
+   },
+   "rank": 17,
+   "percentile": 68.0,
+   "score": 56
+  },
+  {
+   "name": "Aldric Pen",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…marked present and the empire was described as in good health; geographic notes from scholar Aldric Pen on the Great Southern Desert ('the transformation appears to have occurred suddenly, and the…"
+   },
+   "rank": 20,
+   "percentile": 78.0,
+   "score": 69
+  },
+  {
+   "name": "Lady Edgermire",
+   "aliases": [
+    "Edgermire"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…deep below the Ballbuster Inn ##### Witch Doctors Tower A mystic healer by the name of Lady Edgermire heals but for a strange price……rumors circle about her having Veilwalker ties ##### Aleforge…"
+   },
+   "rank": 20,
+   "percentile": 78.0,
+   "score": 69
+  },
+  {
+   "name": "Gormun the Wise",
+   "aliases": [
+    "Gormun"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ounce of brew in all his days. It is unknown how he managed to win the Drunken Trials Gormun the Wise: A prolific writer and political innovator, many of the political and cultural norms in Aleforge…"
+   },
+   "rank": 22,
+   "percentile": 88.0,
+   "score": 83
+  },
+  {
+   "name": "Hunk the Monk",
+   "aliases": [
+    "Hunk"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(ironically). The Guards have been keeping a watch on him for suspicious activity. ### Hunk the Monk Cardinal Addy's primary protector/secret service agent. While extremely dumb, he takes his…"
+   },
+   "rank": 22,
+   "percentile": 88.0,
+   "score": 83
+  },
+  {
+   "name": "Isadora Beerchelli",
+   "aliases": [
+    "Isadora"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…conclusion of the war he personally hosted the Drunken Trials and stepped down voluntarily. Isadora Beerchelli: The first and only woman to win the Drunken Trials to daye, and her title of Liquor King…"
+   },
+   "rank": 22,
+   "percentile": 88.0,
+   "score": 83
+  },
+  {
+   "name": "Guisepee's grandfather",
+   "aliases": [
+    "founder of the vineyard"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "his grandfather, a very religious man, had a vision",
+    "note": "A very religious man whose vision founded the Taverna."
+   },
+   "rank": 25,
+   "percentile": 96.0,
+   "score": 94
+  },
+  {
+   "name": "Isadora's seer",
+   "aliases": [
+    "the seer",
+    "seer"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "raised by a seer who taught her the art of the Oracles",
+    "note": "Raised Isadora Beerchelli and taught her the art of the Oracles."
+   },
+   "rank": 26,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

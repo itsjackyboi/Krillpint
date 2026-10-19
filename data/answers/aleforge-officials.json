@@ -1,0 +1,487 @@
+{
+ "id": "aleforge-officials",
+ "prompt": "Name an Aleforge official or office-holder",
+ "blurb": "Mayors, advisors, sheriffs, comptrollers, Color Guard captains. Past or present.",
+ "difficulty": "medium",
+ "gem": "Bigbag-o Buttlube",
+ "answerCount": 23,
+ "answers": [
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Drake",
+    "Mayor Drake"
+   ],
+   "mentions": {
+    "total": 145,
+    "compendium": 75,
+    "records": 70
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Seamus Bonehardy",
+   "aliases": [
+    "Seamus",
+    "Bonehardy",
+    "Mayor Bonehardy"
+   ],
+   "mentions": {
+    "total": 116,
+    "compendium": 58,
+    "records": 58
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan),…"
+   },
+   "rank": 2,
+   "percentile": 4.5,
+   "score": 1
+  },
+  {
+   "name": "Mr. BBL",
+   "aliases": [
+    "BBL",
+    "Chancellor BBL"
+   ],
+   "mentions": {
+    "total": 25,
+    "compendium": 7,
+    "records": 18
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Glendolph Galleyway: An unremarkable mayor, the only thing of note is his hiring of Mr. BBL, the current chancellor of Aleforge. Thomas Thatcher Sr.: Thomas Thatcher Sr. was an…"
+   },
+   "rank": 3,
+   "percentile": 9.1,
+   "score": 3
+  },
+  {
+   "name": "Thomas Thatcher",
+   "aliases": [
+    "Thatcher",
+    "Mayor Thatcher"
+   ],
+   "mentions": {
+    "total": 21,
+    "compendium": 17,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fentmaxxers now abandoned observatory and the place of death for beloved Aleforge mayor, Thomas Thatcher. ### Forests - Brandywine Brush — The dense inland forest known locally as 'Thiccy…"
+   },
+   "rank": 4,
+   "percentile": 13.6,
+   "score": 5
+  },
+  {
+   "name": "John Rump",
+   "aliases": [
+    "Rump",
+    "Treasurer Rump"
+   ],
+   "mentions": {
+    "total": 37,
+    "compendium": 21,
+    "records": 16
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the hands of John Rump. - The Shrines — A scatter of ancient shrines across the Isles, origin debated. However,…"
+   },
+   "rank": 5,
+   "percentile": 18.2,
+   "score": 8
+  },
+  {
+   "name": "Susan Plinket",
+   "aliases": [
+    "Plinket",
+    "Susan"
+   ],
+   "mentions": {
+    "total": 22,
+    "compendium": 13,
+    "records": 9
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…\"an ick\". He was somewhat unfairly legally commanded into a relationship with MAMA leader, Susan Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport…"
+   },
+   "rank": 6,
+   "percentile": 22.7,
+   "score": 11
+  },
+  {
+   "name": "Cromwell",
+   "aliases": [
+    "Mayor Cromwell"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Long Thirst: Year 412 - 464, A Time without Liquor Kings, Aleforge is governed by Mayors. Cromwell: An independently wealthy businessman before taking the role of mayor. Cromwell was more interested…"
+   },
+   "rank": 7,
+   "percentile": 29.5,
+   "score": 16
+  },
+  {
+   "name": "Quickety Cricket",
+   "aliases": [
+    "Quickety"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Supplebottom runs a tight ship in the APO & PR. never a late delivery especially when delivered Quickety Cricket (the fastest postman in Pintland) and his trusty horse Prejac ##### Brewers Lane Brewers…"
+   },
+   "rank": 7,
+   "percentile": 29.5,
+   "score": 16
+  },
+  {
+   "name": "Bronco Chestnut",
+   "aliases": [
+    "Chestnut"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge. Some recent Liquor Kings have been said to exhibit \"Cromwellian\" tendencies. Bronco Chestnut: A follower of the Church of Patmos, Chestnut sought to make Aleforge more theocratic than…"
+   },
+   "rank": 9,
+   "percentile": 52.3,
+   "score": 38
+  },
+  {
+   "name": "Captain Crawdad",
+   "aliases": [
+    "Crawdad"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Oweblock, but he tends to deal in some shady businesses such as arms dealing. ### Captain Crawdad Pilot and Captain of the Hook Line & Sinker Submarine, Captain Crawdad served in the ASDU…"
+   },
+   "rank": 9,
+   "percentile": 52.3,
+   "score": 38
+  },
+  {
+   "name": "Cpt. Lincoln Dillydally",
+   "aliases": [
+    "Lincoln Dillydally",
+    "Captain Lincoln Dillydally"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Color Guard was Cpt. William Dillydally. The current Captain of the Color Guard is Cpt. Lincoln Dillydally ##### The Krappenschitz Estate The Krappenschitz family (David and Iso) are rich snobbish…"
+   },
+   "rank": 9,
+   "percentile": 52.3,
+   "score": 38
+  },
+  {
+   "name": "Hornithan Buttlube",
+   "aliases": [
+    "Hornithan"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…first Aleforge comptroller was Bigbag-o Buttlube the ancestor of the current office holder, Hornithan Buttlube 2. The Sheriffs Offices: This Sheriffs office was the first form of law and order in old…"
+   },
+   "rank": 9,
+   "percentile": 52.3,
+   "score": 38
+  },
+  {
+   "name": "Samuel Supplebottom",
+   "aliases": [
+    "Supplebottom"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…price……rumors circle about her having Veilwalker ties ##### Aleforge Post Office and Public Records Supplebottom runs a tight ship in the APO & PR. never a late delivery especially when delivered Quickety…"
+   },
+   "rank": 9,
+   "percentile": 52.3,
+   "score": 38
+  },
+  {
+   "name": "Sheriff Edward Cocaine",
+   "aliases": [
+    "Edward Cocaine",
+    "Sheriff Cocaine"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Alforge. The first Aleforge Sheriff was Peedrick Cocaine Sr. the current sheriff is Sheriff Edward Cocaine 3. The Color Guard: The Color Guard dates back to the founders of Aleforge. The first ones…"
+   },
+   "rank": 9,
+   "percentile": 52.3,
+   "score": 38
+  },
+  {
+   "name": "Sir Robert CockPower",
+   "aliases": [
+    "Robert CockPower",
+    "CockPower"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Built by the Cockpower family and currently maintained by Sir Robert CockPower",
+    "note": "Keeper of the town clock tower his family built."
+   },
+   "rank": 9,
+   "percentile": 52.3,
+   "score": 38
+  },
+  {
+   "name": "Thomas Thatcher Sr.",
+   "aliases": [
+    "Thomas Thatcher Senior",
+    "Thatcher Sr"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…only thing of note is his hiring of Mr. BBL, the current chancellor of Aleforge. Thomas Thatcher Sr.: Thomas Thatcher Sr. was an avid historian and wanted to reinstate the old ways of Aleforge…"
+   },
+   "rank": 9,
+   "percentile": 52.3,
+   "score": 38
+  },
+  {
+   "name": "Glendolph Galleyway",
+   "aliases": [
+    "Glendolph",
+    "Galleyway"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…theocratic than ever before. He was deeply unpopular and quickly voted out of office. Glendolph Galleyway: An unremarkable mayor, the only thing of note is his hiring of Mr. BBL, the current chancellor…"
+   },
+   "rank": 17,
+   "percentile": 72.7,
+   "score": 62
+  },
+  {
+   "name": "Bigbag-o Buttlube",
+   "aliases": [
+    "Bigbag-o",
+    "Bigbago Buttlube"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…historic office Aleforge could never have begun to thrive. The first Aleforge comptroller was Bigbag-o Buttlube the ancestor of the current office holder, Hornithan Buttlube 2. The Sheriffs Offices: This…"
+   },
+   "rank": 18,
+   "percentile": 88.6,
+   "score": 83
+  },
+  {
+   "name": "Cheff Bigmeat",
+   "aliases": [
+    "Chef Bigmeat",
+    "Bigmeat"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Winky Stinky Cheff Bigmeat Hornithan Buttlube",
+    "note": "Listed under the Color Guards heading in the Compendium's character list."
+   },
+   "rank": 18,
+   "percentile": 88.6,
+   "score": 83
+  },
+  {
+   "name": "Cpt. William Dillydally",
+   "aliases": [
+    "William Dillydally",
+    "Captain William Dillydally"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to plant the flag of Aleforge on this island. The first Captain of the Color Guard was Cpt. William Dillydally. The current Captain of the Color Guard is Cpt. Lincoln Dillydally ##### The Krappenschitz…"
+   },
+   "rank": 18,
+   "percentile": 88.6,
+   "score": 83
+  },
+  {
+   "name": "Peedrick Cocaine Sr.",
+   "aliases": [
+    "Peedrick",
+    "Peedrick Cocaine"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Most duties have hence been replaced by the Castle of Alforge. The first Aleforge Sheriff was Peedrick Cocaine Sr. the current sheriff is Sheriff Edward Cocaine 3. The Color Guard: The Color Guard dates back…"
+   },
+   "rank": 18,
+   "percentile": 88.6,
+   "score": 83
+  },
+  {
+   "name": "Piggly Wiggly",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Color Guards Cpt. Lincoln Dillydally Piggly Wiggly",
+    "note": "Listed under the Color Guards heading in the Compendium's character list."
+   },
+   "rank": 18,
+   "percentile": 88.6,
+   "score": 83
+  },
+  {
+   "name": "Winky Stinky",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "Piggly Wiggly Winky Stinky Cheff Bigmeat",
+    "note": "Listed under the Color Guards heading in the Compendium's character list."
+   },
+   "rank": 18,
+   "percentile": 88.6,
+   "score": 83
+  }
+ ]
+}

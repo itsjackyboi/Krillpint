@@ -1,0 +1,531 @@
+{
+ "id": "businesses",
+ "prompt": "Name a business or company",
+ "blurb": "Corporations, shops, papers and farms. Anyone selling something.",
+ "difficulty": "medium",
+ "gem": "Jui Vuitton",
+ "answerCount": 26,
+ "answers": [
+  {
+   "name": "Gilded Tankard",
+   "aliases": [
+    "The Tankard"
+   ],
+   "mentions": {
+    "total": 20,
+    "compendium": 17,
+    "records": 3
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and tavern founded by Glub Tuppus Wepple. A newcomer named Gideon Drake rose to…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Goldcoral Incorporated",
+   "aliases": [
+    "Goldcoral",
+    "Goldcoral Inc"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 14,
+    "records": 1
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley is a subsidiary of Goldcoral Incorporated A small cave entrance off the coast of Vodkonia leads to the site of an ancient…"
+   },
+   "rank": 2,
+   "percentile": 4.0,
+   "score": 1
+  },
+  {
+   "name": "The Cumstead",
+   "aliases": [
+    "Cumstead",
+    "John Cum's Cumstead"
+   ],
+   "mentions": {
+    "total": 15,
+    "compendium": 9,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…observatory on Killdeath Peak. - The Dread Marrows — A region of dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the hands of John Rump. - The Shrines — A scatter of ancient…"
+   },
+   "rank": 3,
+   "percentile": 8.0,
+   "score": 2
+  },
+  {
+   "name": "Stank Tank",
+   "aliases": [],
+   "mentions": {
+    "total": 8,
+    "compendium": 5,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner, Wagwan was very persuasive with his memorable line \"I am black.\" During the events…"
+   },
+   "rank": 4,
+   "percentile": 12.0,
+   "score": 4
+  },
+  {
+   "name": "Jack Anqoak's Grog Galley",
+   "aliases": [
+    "Grog Galley"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…when they needed protection from Gobbler's purchased law enforcement. ## Jack Anqoak's Grog Galley Jack Anqoak's Grog Galley is a subsidiary of Goldcoral Incorporated A small cave entrance…"
+   },
+   "rank": 5,
+   "percentile": 18.0,
+   "score": 8
+  },
+  {
+   "name": "The Taverna",
+   "aliases": [
+    "Taverna",
+    "the vineyard"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…any of them had been crowned king, let alone set foot on the Pintland Isles. ## The Taverna An idyllic lush countryside villa and vineyard. It was here that the 6 Liquor Kings first…"
+   },
+   "rank": 5,
+   "percentile": 18.0,
+   "score": 8
+  },
+  {
+   "name": "Aldridge Industries",
+   "aliases": [
+    "Aldridge"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 1,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…interest rates. The resulting debt was handed to Seamus Bonehardy's mayoral administration. ## Aldridge Industries (Business) Named for the Aldridge family — of which Maximilian Andrew Aldridge was the last…"
+   },
+   "rank": 7,
+   "percentile": 28.0,
+   "score": 15
+  },
+  {
+   "name": "Stormveil Trading Co.",
+   "aliases": [
+    "Stormveil",
+    "Stormveil Trading Company",
+    "STC"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of breeze so your hearth stays warm through the night or the barrels of winds sold to the Stormveil Trading Co to keep their sky ship, the Albatross, afloat. Whatever your breeze needs may be you can…"
+   },
+   "rank": 7,
+   "percentile": 28.0,
+   "score": 15
+  },
+  {
+   "name": "Wolendi",
+   "aliases": [
+    "Wolendi Wind"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 6,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…##### Aleforge Bazzar ##### Aleforge Light House and Customs Control ##### Boner Bar Wolendi The family wind farm of the Derecho family, currently under ownership of Gale and Guster…"
+   },
+   "rank": 7,
+   "percentile": 28.0,
+   "score": 15
+  },
+  {
+   "name": "The Brothel",
+   "aliases": [
+    "Brothel"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…mayor. Cromwell was more interested in using his newfound fame to sleep his way through every brothel and eligible woman in Aleforge. Some recent Liquor Kings have been said to exhibit \"Cromwellian\"…"
+   },
+   "rank": 10,
+   "percentile": 38.0,
+   "score": 23
+  },
+  {
+   "name": "The Owe Block Chronicle",
+   "aliases": [
+    "Owe Block Chronicle",
+    "the Chronicle"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Seamus was a relic-hunting machine, navigating the city from the Stank Tank to the library to the Chronicle HQ to a burger joint under a corrupt noble's manor to the Brothel to the Treasury, eventually…"
+   },
+   "rank": 10,
+   "percentile": 38.0,
+   "score": 23
+  },
+  {
+   "name": "Mickey's Pipe Club",
+   "aliases": [
+    "Pipe Club"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 1,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…spectacular sequence, died first in the mines, lost everything, then hired a hit through Mickey's Pipe Club to have Seamus killed in revenge. The thread connecting all of it was Sexton Gobbler, who…"
+   },
+   "rank": 12,
+   "percentile": 48.0,
+   "score": 33
+  },
+  {
+   "name": "The Aleforge Chronicle",
+   "aliases": [
+    "Aleforge Chronicle"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…castle trying to psych myself up for the \"victory speech\" I'm supposed to give in front of the Aleforge Chronicle and Pintlands primary Network MCSPAN. Truth is it's not a victory speech it's a way out of…"
+   },
+   "rank": 12,
+   "percentile": 48.0,
+   "score": 33
+  },
+  {
+   "name": "Thorny Thicket",
+   "aliases": [
+    "T(horny) Thicket Tavern"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Many other notable locations are shrouded by the dense forest, most prominent of these is the Thorny Thicket, a bar owned by George Bush. A disgruntled farmer has taken up residence deep in the forest…"
+   },
+   "rank": 12,
+   "percentile": 48.0,
+   "score": 33
+  },
+  {
+   "name": "Aleforge Bazaar",
+   "aliases": [
+    "Aleforge Bazzar",
+    "Bazaar"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Castle at the highest point in the city. The neighboring smaller islands hold the Aleforge Bazzar, Lighthouse and Brewery. Just off the town's main square is the Gilded Tankard, an inn and…"
+   },
+   "rank": 15,
+   "percentile": 60.0,
+   "score": 46
+  },
+  {
+   "name": "Billy Ball Busters Inn",
+   "aliases": [
+    "Ballbuster Inn"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(and the freakiest) hogs in all of Pintland and thats a Freddy Hog guarantee. ##### Billy Ball Busters Inn The best and only Inn in all of Aleforge. Offers a range of rooms and community lodges……..…"
+   },
+   "rank": 15,
+   "percentile": 60.0,
+   "score": 46
+  },
+  {
+   "name": "Orchenk Manufactory",
+   "aliases": [
+    "The Factory",
+    "Orchenk"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hoegaarden — An ancient library, houses the largest collection of knowledge in all of Pintland. - Orchenk Manufactory (The Factory) — The abandoned industrial facility where the Nethergate disaster…"
+   },
+   "rank": 15,
+   "percentile": 60.0,
+   "score": 46
+  },
+  {
+   "name": "Black Pepper",
+   "aliases": [
+    "Black Pepper Dividend"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…king of the session, collecting more Veilwalker artifacts than anyone and claiming the first Black Pepper Dividend stock payout. Jack rapped a freestyle at the Stank Tank that became a regional hit…"
+   },
+   "rank": 18,
+   "percentile": 68.0,
+   "score": 56
+  },
+  {
+   "name": "Big Ole Pipe",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…his company,leaving his old gang (The Crimson Cutters) and setting up his dream shop: the Big Ole Pipe. He smokes 12 cigars everyday without fail and is suffering from major lung cancer. Who knows…"
+   },
+   "rank": 19,
+   "percentile": 82.0,
+   "score": 74
+  },
+  {
+   "name": "Bucket's Burgers",
+   "aliases": [
+    "Buckets Burgers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…rifling the Owe Block Public Library, snooping at the Chronicle Newspaper HQ, grubbing at Bucket's Burgers under Gobbler's posh manor, slipping into the Brothel—bet he lingered there, the dog!—and…"
+   },
+   "rank": 19,
+   "percentile": 82.0,
+   "score": 74
+  },
+  {
+   "name": "Buenacera Italian Restaurant",
+   "aliases": [
+    "Buenacera"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Shot-Chess association. ### Pope Used to be a big time mafia man working at the Buenacera Italian Restaurant on Vanity Street before selling his company,leaving his old gang (The Crimson Cutters) and…"
+   },
+   "rank": 19,
+   "percentile": 82.0,
+   "score": 74
+  },
+  {
+   "name": "Fianchetto Chess Bar",
+   "aliases": [
+    "Fianchetto"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…also responsible for most of the Gold in the treasury. ### Aberama Bong Owner of the Fianchetto Chess bar in the Cardinal Circle, and the moderator of the Shot-Chess association. ### Pope Used…"
+   },
+   "rank": 19,
+   "percentile": 82.0,
+   "score": 74
+  },
+  {
+   "name": "Freddy Hog's Freaky Hogs",
+   "aliases": [
+    "Freaky Hogs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…on the side of the building in an alley way between the estate and the OAM building ##### Freddy Hog's Freaky Hogs Here you can buy the best quality (and the freakiest) hogs in all of Pintland and thats…"
+   },
+   "rank": 19,
+   "percentile": 82.0,
+   "score": 74
+  },
+  {
+   "name": "Jui Vuitton",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…light speed around the alleys of Providence. He is the son of Obvious Dickstien, owner of the Jui Vuitton store on Vanity street. Ever since the divorce, Fin has been running amuck around town, harassing…"
+   },
+   "rank": 19,
+   "percentile": 82.0,
+   "score": 74
+  },
+  {
+   "name": "MCSPAN",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…speech\" I'm supposed to give in front of the Aleforge Chronicle and Pintlands primary Network MCSPAN. Truth is it's not a victory speech it's a way out of this mess. Rewind. Get this,…"
+   },
+   "rank": 25,
+   "percentile": 98.0,
+   "score": 97
+  },
+  {
+   "name": "Rachel Zlurs's leather shop",
+   "aliases": [
+    "leather shop",
+    "Rachel Zlurs"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…in Providence and terrible gossip. Don't tell her shit. ### Rachel Zlurs Runs a small leather shop down by the Providence Block Market with very little success due to her unfortunate name.…"
+   },
+   "rank": 25,
+   "percentile": 98.0,
+   "score": 97
+  }
+ ]
+}

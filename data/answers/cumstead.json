@@ -1,0 +1,510 @@
+{
+ "id": "cumstead",
+ "prompt": "Name something tied to John Cum or the Cumstead",
+ "blurb": "The great wheat farm, the family behind it, and how it all went wrong.",
+ "difficulty": "medium",
+ "gem": "Oinkers",
+ "answerCount": 25,
+ "answers": [
+  {
+   "name": "Wheat",
+   "aliases": [
+    "wheat field",
+    "wheat fields"
+   ],
+   "mentions": {
+    "total": 39,
+    "compendium": 10,
+    "records": 29
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…- The Dread Marrows — A region of dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the hands of John Rump. - The Shrines — A scatter of ancient shrines across…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "John Rump",
+   "aliases": [
+    "Rump"
+   ],
+   "mentions": {
+    "total": 37,
+    "compendium": 21,
+    "records": 16
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…dread and mystery. - John Cum's Cumstead — The great wheat farm, now in the hands of John Rump. - The Shrines — A scatter of ancient shrines across the Isles, origin debated. However,…"
+   },
+   "rank": 2,
+   "percentile": 4.2,
+   "score": 1
+  },
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Drake"
+   ],
+   "mentions": {
+    "total": 143,
+    "compendium": 74,
+    "records": 69
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 3,
+   "percentile": 8.3,
+   "score": 2
+  },
+  {
+   "name": "CUMsock",
+   "aliases": [
+    "Cumsock"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 9,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Guster took a deep breath and scoffed at the proposition. ## Notable Animals ### CUMsock The GOAT ### Prejac Quickety Cricket's trusty horse….speedy too. Always delivering mail…"
+   },
+   "rank": 4,
+   "percentile": 12.5,
+   "score": 4
+  },
+  {
+   "name": "Barley",
+   "aliases": [],
+   "mentions": {
+    "total": 13,
+    "compendium": 8,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…was down significantly after the death of John Cums wife (John Cum is the key supplier of barley for the ale, and his time away to grieve led to a poor years harvest), and the traders of…"
+   },
+   "rank": 5,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "The blight",
+   "aliases": [
+    "blight"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 2,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Rump's suspicious behavior around the Cumstead inheritance; John Cum's mental deterioration and blight in the fields; Rollo's personal journals (nothing illegal, considerable reputation risk);…"
+   },
+   "rank": 6,
+   "percentile": 20.8,
+   "score": 10
+  },
+  {
+   "name": "The green sludge",
+   "aliases": [
+    "green sludge",
+    "sludge",
+    "green substance"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…confines. Attempts to deactivate the portal resulted in a horrific byproduct—a viscous, toxic green sludge—that consumed corridors and labs, choking escape routes and claiming the lives of many workers.…"
+   },
+   "rank": 7,
+   "percentile": 27.1,
+   "score": 14
+  },
+  {
+   "name": "The line of Johns",
+   "aliases": [
+    "John family",
+    "the Johns"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Whiteknuckle: the only notable event of Aldins rule was the grant of land to an early member of the John family which later became the famed Cumstead. Godrin Moor: It is said that Godrin was the last…"
+   },
+   "rank": 7,
+   "percentile": 27.1,
+   "score": 14
+  },
+  {
+   "name": "Burn it down",
+   "aliases": [
+    "burn it down",
+    "WTF"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Goldcoral Inc. control. John Cum went completely insane, wrote walls full of variations on 'burn it down,' set fire to his remaining crops, and was then killed by Gideon Drake, who staged the scene…"
+   },
+   "rank": 9,
+   "percentile": 43.8,
+   "score": 29
+  },
+  {
+   "name": "Cum in My Mouth Act",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…times. But his fields once flowed golden, feeding half our ale. That's why I authored the Cum in My Mouth Act—a bold, honest policy to get Cum's production, into ale and back into our mouths where it…"
+   },
+   "rank": 9,
+   "percentile": 43.8,
+   "score": 29
+  },
+  {
+   "name": "Delaney",
+   "aliases": [
+    "John Delaney",
+    "his wife"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Town's Mayor who was in charge of the festival's logistics. ### John Cum (DECEASED) and John Delaney (DECEASED) John cum is the main provider of wheat to the local villages, he has an impressive…"
+   },
+   "rank": 9,
+   "percentile": 43.8,
+   "score": 29
+  },
+  {
+   "name": "Farmhands",
+   "aliases": [
+    "farmhand"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the main provider of wheat to the local villages, he has an impressive farm with multiple farmhands. He is well off and self sustaining but ever since his wife passed away his life has become…"
+   },
+   "rank": 9,
+   "percentile": 43.8,
+   "score": 29
+  },
+  {
+   "name": "The secret room",
+   "aliases": [
+    "secret room"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…thatcher went missing and it was later revealed that he was held captive by fentmaxxer in the secret room underneath the well. The players found thatcher but forgot to actually rescue him, left him…"
+   },
+   "rank": 9,
+   "percentile": 43.8,
+   "score": 29
+  },
+  {
+   "name": "The Veilwalker blessing",
+   "aliases": [
+    "Veilwalker blessing",
+    "the blessing"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…has taken ownership and is faced with the prospect of continuing the effort, but without the Veilwalker blessing. ## Hoegaarden Library Read the entire collection of books in the Hoegaarden Library…"
+   },
+   "rank": 9,
+   "percentile": 43.8,
+   "score": 29
+  },
+  {
+   "name": "Aldin Whiteknuckle",
+   "aliases": [
+    "Aldin"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the political and cultural norms in Aleforge can be traced back to his writings. Aldin Whiteknuckle: the only notable event of Aldins rule was the grant of land to an early member of the John…"
+   },
+   "rank": 15,
+   "percentile": 72.9,
+   "score": 62
+  },
+  {
+   "name": "Barley and Wheat Subsidies",
+   "aliases": [
+    "wheat subsidies"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…views and would rather prioritize economic and political goals. Policies and Legislation: Barley and Wheat Subsidies: Gideon has allocated some town funds to help grow the supply chain for breweries in town.…"
+   },
+   "rank": 15,
+   "percentile": 72.9,
+   "score": 62
+  },
+  {
+   "name": "Cum Diary",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…his burning love, kissing Oinkers for a quick sec there. Weird guy. - a concerned citizen Cum Diary (SOA 2) My Dearest Delaney,The world has soured without your sweet touch. I miss you every…"
+   },
+   "rank": 15,
+   "percentile": 72.9,
+   "score": 62
+  },
+  {
+   "name": "Dimitri's grave",
+   "aliases": [
+    "Dimitri: The Space Boy",
+    "the Space Boy's grave"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…see his home world, even briefly, and passed away shortly after returning. He is currently buried in John Cums fields and his grave proudly pronounces him as \"Dimitri: The Space Boy.\" ### The MAA / MAMA…"
+   },
+   "rank": 15,
+   "percentile": 72.9,
+   "score": 62
+  },
+  {
+   "name": "Gideon Drake's chalice",
+   "aliases": [
+    "Drake's chalice"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…JP noticed a trail of blood leading from the house to the forest, where they found Gideon Drake's chalice. ### The Resolution Susan Plinket's identity as the founder of MAMA was exposed by Jagerbauhm,…"
+   },
+   "rank": 15,
+   "percentile": 72.9,
+   "score": 62
+  },
+  {
+   "name": "John Cum Memorial",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…is in the hands of a Liquor King, Aleforge will prosper. My plans as Mayor 1. Build a John Cum Memorial 2. Make a 3 and a half day work week. With a mandatory work break from noon-3pm (time for…"
+   },
+   "rank": 15,
+   "percentile": 72.9,
+   "score": 62
+  },
+  {
+   "name": "John Cum's Shears",
+   "aliases": [
+    "Shears"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…runoff from the Factory, staining the roots of Aleforge's soul. I found some relics: John Cum's Shears: Still bloody from some barley-stained regret. Jameson Pilsner's Ass Flask: I didn't…"
+   },
+   "rank": 15,
+   "percentile": 72.9,
+   "score": 62
+  },
+  {
+   "name": "The fake MAMA note",
+   "aliases": [
+    "MAMA note",
+    "fake MAMA note"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…crops, and was then killed by Gideon Drake, who staged the scene to implicate MAMA. A fake MAMA note was left with the body. Buke and JP noticed a trail of blood leading from the house to the…"
+   },
+   "rank": 15,
+   "percentile": 72.9,
+   "score": 62
+  },
+  {
+   "name": "The haystack",
+   "aliases": [
+    "haystack"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…him, discover his plot WITNESS \"I swear it, I saw Gideon Drake pullin somethin outta that haystack, all covered in green grime it was\" WITNESS 2 [no text recorded in source document] WITNESS…"
+   },
+   "rank": 23,
+   "percentile": 93.8,
+   "score": 91
+  },
+  {
+   "name": "To die in drink's a noble end",
+   "aliases": [
+    "to die in drinks a noble end"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…purpose is far more noble than my own. Back when I visted the Cumstead Mr. Cum told me this \"to die in drinks a noble end. for in the cup, all burdens mend\" John Cum is our eternal bartender. Ale flows from his…"
+   },
+   "rank": 23,
+   "percentile": 93.8,
+   "score": 91
+  },
+  {
+   "name": "Oinkers",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…damn he has been acting weird. Twerking in public, shouting about his burning love, kissing Oinkers for a quick sec there. Weird guy. - a concerned citizen Cum Diary (SOA 2) My Dearest Delaney,The…"
+   },
+   "rank": 25,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

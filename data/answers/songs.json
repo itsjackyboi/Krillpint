@@ -1,0 +1,387 @@
+{
+ "id": "songs",
+ "prompt": "Name a song, poem or chant",
+ "blurb": "Ballads, anthems, campaign songs, lullabies and freestyle bars from the Isles.",
+ "difficulty": "medium",
+ "gem": "Hush Now, Love",
+ "answerCount": 19,
+ "answers": [
+  {
+   "name": "A Stronger Pour",
+   "aliases": [
+    "Stronger Pour"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…bound by the booze and sworn to the barley — The ale-drinking demon — SHAME-US BONEHARDY! ## A Stronger Pour Buke's mayoral campaign song. In Aleforge town where barrels roar, A leader rises, strong…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Raise the Crown, Raise the Cup",
+   "aliases": [
+    "Raise the Crown Raise the Cup",
+    "Raise the Crown"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…guide to the shore Six will make the journey final And knock on fate's perilous door ## Raise the Crown, Raise the Cup An Anthem For The Drunken Trials [Verse 1] Gather close and raise your cups,…"
+   },
+   "rank": 2,
+   "percentile": 5.6,
+   "score": 1
+  },
+  {
+   "name": "Jack's freestyle",
+   "aliases": [
+    "Jack Anqoak's freestyle",
+    "I am black",
+    "freestyle rap"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…rival gang the Seaside Circus obliterated them in the ensuing gang wars. However, Anqoaks freestyle rap for Stank Tank owner, Wagwan was very persuasive with his memorable line \"I am black.\"…"
+   },
+   "rank": 3,
+   "percentile": 11.1,
+   "score": 4
+  },
+  {
+   "name": "King of the Kegs",
+   "aliases": [
+    "King of Kegs"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Tavern, 'til my heart learns to mend, Buke, you're gone, but J.P… could we start again? ## King of the Kegs A Seamus Bonehardy campaign anthem. They say I drink too much — good! I have to, I'm a king!…"
+   },
+   "rank": 4,
+   "percentile": 16.7,
+   "score": 7
+  },
+  {
+   "name": "Anything for a Newport",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Gilded Tankard and Shanty Town. They are presented here as primary source documents. ## Anything for a Newport Attributed to Old Salty. A scathing ballad about Luke and JP's associations with Rollo.…"
+   },
+   "rank": 5,
+   "percentile": 41.7,
+   "score": 27
+  },
+  {
+   "name": "Hush Now, Love",
+   "aliases": [
+    "Hush Now Love"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Fiddle-faddle fay, drink again! Yo, halla-walla, rah-dee-ray, Tiddle-taddle tay, guzzle-away! ## Hush Now, Love In Sackbeard's tavern, shadows creep, The Beast's loud roar while sailors weep. Its claws…"
+   },
+   "rank": 5,
+   "percentile": 41.7,
+   "score": 27
+  },
+  {
+   "name": "Ode to Mr. BBL",
+   "aliases": [
+    "Ode to Mr BBL"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…before have my eyes been graced with such an exquisite sight. I am truly a changed man. \"Ode to Mr. BBL\" I wandered life in dull disguise, No fire, no stars behind my eyes. A mundane path,…"
+   },
+   "rank": 5,
+   "percentile": 41.7,
+   "score": 27
+  },
+  {
+   "name": "Ode to the Six",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…his presence in taverns and absence in town hall meetings. Some wonder if his creation of Ode to the Six signals an upcoming exit from politics. In more recent events, Bonehardy was one of…"
+   },
+   "rank": 5,
+   "percentile": 41.7,
+   "score": 27
+  },
+  {
+   "name": "Pilsner's Lament",
+   "aliases": [
+    "Pilsners Lament",
+    "The Rumrunners Rant",
+    "Liver's End"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…high and eyes glazed over… We remember him. Jameson Pilsner, may he never be sober ## Pilsners Lament (the rumrunners rant) Shanty: \"Liver's End\" Oh the Liver's End sails past the moons,…"
+   },
+   "rank": 5,
+   "percentile": 41.7,
+   "score": 27
+  },
+  {
+   "name": "Sackbeard's Sails",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…every breath. He lived a life of ale and brew, And died a good man, through and through. ## Sackbeard's Sails Old Sackbeard sailed with ale in hold, His beard as white as waves, so bold. To distant…"
+   },
+   "rank": 5,
+   "percentile": 41.7,
+   "score": 27
+  },
+  {
+   "name": "The Heart Learns to Mend",
+   "aliases": [
+    "Heart Learns to Mend"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…fright. A storm of fangs, a thousand blades, It drank our dreams in midnight's grave. ## The Heart Learns to Mend Attributed to Rollo. A lament about Buke and JP. In the Tavern's haze, where the torches…"
+   },
+   "rank": 5,
+   "percentile": 41.7,
+   "score": 27
+  },
+  {
+   "name": "The King of Nothing lullaby",
+   "aliases": [
+    "King of Nothing",
+    "King of Bone"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…him, the light has left his eyes. Book 9 & 10: I heard a child singing this lullaby today. \"King of Nothing, King of Bone. Walks in the field and walks alone. Touch the dirt and watch it turn, kiss…"
+   },
+   "rank": 5,
+   "percentile": 41.7,
+   "score": 27
+  },
+  {
+   "name": "A Lesson Learned from Sobriety",
+   "aliases": [
+    "Lesson Learned from Sobriety"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…foes behind, full kegs ahead, Vote for Buke — A STRONGER POUR, till we're all dead! ## A Lesson Learned from Sobriety Pilsners After Action Report of LKT Verse I – The Shame Before Glory In a town soaked…"
+   },
+   "rank": 13,
+   "percentile": 77.8,
+   "score": 69
+  },
+  {
+   "name": "An Ode to the Liquor Kings",
+   "aliases": [
+    "Ode to the Liquor Kings"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…our twinkish lad, Ye're scum, ye're slime, ye're Rollo's grime, the worst we ever had! ## An Ode to the Liquor Kings A popular protest song, authorship disputed. Oh, the Liquor Kings, what a sorry lot, Stumblin'…"
+   },
+   "rank": 13,
+   "percentile": 77.8,
+   "score": 69
+  },
+  {
+   "name": "Free from Sobriety",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…near! Ho, Sackbeard's sails, fly high and free, His ale's the pride of our old sea! ## Free from Sobriety A celebration of the MAA's defeat. Those dry hags, with their pinched-up scowls, The Mothers…"
+   },
+   "rank": 13,
+   "percentile": 77.8,
+   "score": 69
+  },
+  {
+   "name": "Roto National Anthem",
+   "aliases": [
+    "Roto Anthem"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…From tankard's spill to Rollo's bed, Ye're Aleforge's shame, and you give bad head! ## Roto National Anthem In Roto's ports, the gold did flow, Our smugglers danced where grog did glow. With wit…"
+   },
+   "rank": 13,
+   "percentile": 77.8,
+   "score": 69
+  },
+  {
+   "name": "Thatcher's Last Toast",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…By moonlight, ships slipped past the law, Their holds brimmed full of treasures raw. ## Thatcher's Last Toast Thomas Thatcher raised his glass, In Cloister's dark, his life did pass. We mourn our mayor,…"
+   },
+   "rank": 13,
+   "percentile": 77.8,
+   "score": 69
+  },
+  {
+   "name": "The Pour Eternal",
+   "aliases": [
+    "Pour Eternal"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…new lungs. You ain't just living in a ruin. You're living in the bones of a choice.\" ### The Pour Eternal (Shanty Town Folklore) tattered, half-forgotten tavern tale, passed down through generations, scribbled by mad sailors…"
+   },
+   "rank": 18,
+   "percentile": 94.4,
+   "score": 92
+  },
+  {
+   "name": "Guinnie's victory bars",
+   "aliases": [
+    "Call me Thanos",
+    "victory bars"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…and I stormed in and ended it clean. We claimed the turf. We earned it. Ya, had to drop some victory bars in the club that night. Not a rapper but did hit them with \"Call me thanos cause I'll snap…"
+   },
+   "rank": 19,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

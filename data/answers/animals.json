@@ -1,0 +1,435 @@
+{
+ "id": "animals",
+ "prompt": "Name an animal from the lore",
+ "blurb": "Pets, mounts, mules, a worm named Clancy, and one very unlucky cow. Not monsters.",
+ "difficulty": "easy",
+ "gem": "Clancy",
+ "answerCount": 21,
+ "answers": [
+  {
+   "name": "CUMsock",
+   "aliases": [
+    "Cumsock",
+    "Cum sock",
+    "the goat"
+   ],
+   "mentions": {
+    "total": 14,
+    "compendium": 9,
+    "records": 5
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Guster took a deep breath and scoffed at the proposition. ## Notable Animals ### CUMsock The GOAT ### Prejac Quickety Cricket's trusty horse….speedy too. Always delivering mail…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Peg Butt",
+   "aliases": [
+    "PegButt",
+    "Pegbutt"
+   ],
+   "mentions": {
+    "total": 10,
+    "compendium": 10,
+    "records": 0
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Horses and Donkeys used by the Six to Travel to Pintland during the Walk of Shame: ### PegButt Most trusted horse ridden by man. One couldn't ask for a better horse…. He.was brutally murdered…"
+   },
+   "rank": 2,
+   "percentile": 5.0,
+   "score": 1
+  },
+  {
+   "name": "The glowing green frog",
+   "aliases": [
+    "green frog",
+    "frog",
+    "soul nugget"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 0,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…must've lost a game worse than I did. The old man lifted the cup. No pebble. Just a single frog turd. I blinked. \"That's... not a rock,\" I said, feeling the weight of dozens of eyes pressing…"
+   },
+   "rank": 3,
+   "percentile": 10.0,
+   "score": 3
+  },
+  {
+   "name": "Circ M. Geiser",
+   "aliases": [
+    "Circ",
+    "Circ the donkey",
+    "Circ M Geiser"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Sister Bertha Sister Bertha is a snitch. A big ole snitch. Her father was a high ranking Circ in the Cardinals court before being caught for skimming tithes off the residents of Vanity…"
+   },
+   "rank": 4,
+   "percentile": 17.5,
+   "score": 7
+  },
+  {
+   "name": "Little Homie",
+   "aliases": [
+    "Lil Homie",
+    "the axolotl",
+    "axolotl"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 0,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…funny lookin' creature in a puddle and thought it was a frog. THE FROG Turns out it was an axolotl. Still ain't sure what that is. but I name it little homie #### Taverna After that we wandered…"
+   },
+   "rank": 4,
+   "percentile": 17.5,
+   "score": 7
+  },
+  {
+   "name": "Chi Ton Pissbulls",
+   "aliases": [
+    "Pissbulls",
+    "Pissballs"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hornse…..McFarts half brother ### Circ M. Geiser ### Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick Dickless…"
+   },
+   "rank": 6,
+   "percentile": 32.5,
+   "score": 19
+  },
+  {
+   "name": "Freddy Hog's freaky hogs",
+   "aliases": [
+    "freaky hogs",
+    "hogs"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of the building in an alley way between the estate and the OAM building ##### Freddy Hog's Freaky Hogs Here you can buy the best quality (and the freakiest) hogs in all of Pintland and thats a…"
+   },
+   "rank": 6,
+   "percentile": 32.5,
+   "score": 19
+  },
+  {
+   "name": "Prejac",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…especially when delivered Quickety Cricket (the fastest postman in Pintland) and his trusty horse Prejac ##### Brewers Lane Brewers of Aleforge have been living here for generations ##### Hall…"
+   },
+   "rank": 6,
+   "percentile": 32.5,
+   "score": 19
+  },
+  {
+   "name": "Shitty McFarts",
+   "aliases": [
+    "McFarts"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Will forever live in his father's shadow. He has awfully large horse shoes to fill. ### Shitty McFarts Slow Mule bred from a horse and donkey ### Farty McShits Hornse…..McFarts half brother…"
+   },
+   "rank": 6,
+   "percentile": 32.5,
+   "score": 19
+  },
+  {
+   "name": "The cow",
+   "aliases": [
+    "cow"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…most of my days shootin' arrows at things. Eventually got good enough to shoot a flower off a cows pecker #### Bar Bastion I missed the boat to Bar Bastion 'cause I was asleep under said…"
+   },
+   "rank": 10,
+   "percentile": 45.0,
+   "score": 30
+  },
+  {
+   "name": "Clancy",
+   "aliases": [
+    "Clancy the worm"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…with some funny names. We all said hello and I showed them the worm I found. His name was Clancy. #### Hogwilly's We built our first tavern in the woods. we called it Hogwilly's i dont…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "Dick Wacker",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…M. Geiser ### Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick Dickless # #…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "Farty McShits",
+   "aliases": [
+    "McShits"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…large horse shoes to fill. ### Shitty McFarts Slow Mule bred from a horse and donkey ### Farty McShits Hornse…..McFarts half brother ### Circ M. Geiser ### Willie Cumbag ### Skeet Budle ###…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "Max Trans",
+   "aliases": [
+    "JP's bird"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick Dickless # # IV. WORLD HISTORY…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "PegButt Jr.",
+   "aliases": [
+    "Peg Butt Jr",
+    "PegButt Junior"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of Jameson Pilsner. Pegbutt was just like a father to us all. Just like a son to us. ### PegButt Jr. Will forever live in his father's shadow. He has awfully large horse shoes to fill. ###…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "Skeet Budle",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Farty McShits Hornse…..McFarts half brother ### Circ M. Geiser ### Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "Slick Dickless",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans Jp bird ### Slick Dickless # # IV. WORLD HISTORY & TIMELINE Current Date:…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "Willie Cumbag",
+   "aliases": [
+    "Cumbag"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…horse and donkey ### Farty McShits Hornse…..McFarts half brother ### Circ M. Geiser ### Willie Cumbag ### Skeet Budle ### Pissballs ### Chi Ton Pissbulls ### Dick Wacker ### Max Trans…"
+   },
+   "rank": 11,
+   "percentile": 67.5,
+   "score": 55
+  },
+  {
+   "name": "The giant bird",
+   "aliases": [
+    "giant bird",
+    "bird of considerable size"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "a bird of considerable size came out of a darkening sky",
+    "note": "Carried Buke off for days until his britches gave out."
+   },
+   "rank": 19,
+   "percentile": 92.5,
+   "score": 89
+  },
+  {
+   "name": "The shiny butterfly",
+   "aliases": [
+    "butterfly"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…might never see such pretty stuff again. One day I enjoying the weather and I saw a beautiful butterfly, real shiny like a coin, and I chased it for a while… started runnin and I fell straight into…"
+   },
+   "rank": 19,
+   "percentile": 92.5,
+   "score": 89
+  },
+  {
+   "name": "Oinkers",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "kissing Oinkers for a quick sec there",
+    "note": "Kissed by John Cum during his decline, according to a concerned citizen."
+   },
+   "rank": 21,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

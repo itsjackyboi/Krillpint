@@ -1,0 +1,572 @@
+{
+ "id": "lagendale",
+ "prompt": "Name something from the history of Lagendale",
+ "blurb": "The lost empire under Hoegaarden: its people, places, rituals and relics.",
+ "difficulty": "hard",
+ "gem": "Solen River",
+ "answerCount": 28,
+ "answers": [
+  {
+   "name": "The Rotted Soul",
+   "aliases": [
+    "Rotted Soul",
+    "Rotten King",
+    "Wronged Walker",
+    "King of Nothing"
+   ],
+   "mentions": {
+    "total": 33,
+    "compendium": 31,
+    "records": 2
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…further South is a small river which drains to the sea. Some scholars believe the remains of the Rotted Soul may rest here, though until recently this was unknown. The Kings discovered the true location…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "The labyrinth",
+   "aliases": [
+    "labyrinth",
+    "Rotted Soul's prison"
+   ],
+   "mentions": {
+    "total": 16,
+    "compendium": 10,
+    "records": 6
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…psychological destruction across the land. To prevent this, the burial site was surrounded by labyrinthine passages, winding, river-like corridors designed to trap and confuse the soul so it could…"
+   },
+   "rank": 2,
+   "percentile": 3.7,
+   "score": 1
+  },
+  {
+   "name": "VeilRunner",
+   "aliases": [
+    "Veilrunner"
+   ],
+   "mentions": {
+    "total": 17,
+    "compendium": 12,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the streets at night by burning slaves alive. His kind had a name for what he had become: a VeilRunner. What Is a VeilRunner? A VeilRunner is a Veilwalker who has turned against the very…"
+   },
+   "rank": 3,
+   "percentile": 7.4,
+   "score": 2
+  },
+  {
+   "name": "The Grand Council",
+   "aliases": [
+    "Grand Council",
+    "the 138",
+    "Council of 138",
+    "33rd Council"
+   ],
+   "mentions": {
+    "total": 16,
+    "compendium": 11,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…out. That peace ended with a farmer. The Forbidden Union During the reign of the 33rd Council, a farmer from the northern fields wandered into the Foreverglades, an ancient forest shared…"
+   },
+   "rank": 4,
+   "percentile": 11.1,
+   "score": 4
+  },
+  {
+   "name": "The Guardian",
+   "aliases": [
+    "Guardian"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the known waters. It was in these stacks that Jack Anqoak first encountered references to the Guardian and the Rotted Soul, setting in motion the events of the Horror in Hoegaarden concept. The…"
+   },
+   "rank": 5,
+   "percentile": 14.8,
+   "score": 6
+  },
+  {
+   "name": "Great Southern Desert",
+   "aliases": [
+    "Southern Desert"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 3,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…of West Pint is currently unmapped and not under the influence of regional powers. - The Great Southern Desert — Believed to mark the site where the Rotted Soul was slain. Was once fertile grassland.…"
+   },
+   "rank": 6,
+   "percentile": 24.1,
+   "score": 12
+  },
+  {
+   "name": "The barbarian horde",
+   "aliases": [
+    "barbarians",
+    "barbarian horde"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 4,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…humans. Although they appear humanoid they are anything but. At the birth of man a tribe of barbarians pillaged across the earth destroying all semblance of life and nature. The woodland spirits…"
+   },
+   "rank": 6,
+   "percentile": 24.1,
+   "score": 12
+  },
+  {
+   "name": "The Fires of Scoul",
+   "aliases": [
+    "Fires of Scoul",
+    "Scoul"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Enter as one who understands this, or do not enter at all. When you come before the Fires of Scoul, come as you truly are. They have never been deceived and they will not begin with you.…"
+   },
+   "rank": 6,
+   "percentile": 24.1,
+   "score": 12
+  },
+  {
+   "name": "The Third Dynasty",
+   "aliases": [
+    "Third Dynasty",
+    "3rd dynasty"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 2,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…they ever made. The Rotten King The Rotted Soul was a king in between the 2nd and 3rd dynasties of Lagendale. As far as history knows, he was not a part of either royal family. He was…"
+   },
+   "rank": 6,
+   "percentile": 24.1,
+   "score": 12
+  },
+  {
+   "name": "The 800 workers",
+   "aliases": [
+    "800 men",
+    "800 betrayed men",
+    "the workers"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 2,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…that had protected those workers throughout the entire project turned on them, executing over 800 men to complete the sacrifice. The militia leadership intended to erase this history entirely.…"
+   },
+   "rank": 10,
+   "percentile": 37.0,
+   "score": 23
+  },
+  {
+   "name": "The first King of Lagendale",
+   "aliases": [
+    "first King of Lagendale",
+    "the first king"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…year's Liquor King! The lineage of the Liquor Kings are as follows. The ruling dates of the first kings have been lost to time, however, some of their founding achievements have remained in the…"
+   },
+   "rank": 10,
+   "percentile": 37.0,
+   "score": 23
+  },
+  {
+   "name": "The halfbreed",
+   "aliases": [
+    "halfbreed child",
+    "half-breed"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…something previously unimaginable occurred: a child was conceived, half human, half Veilwalker. A halfbreed. The first of its kind. The First Treaty When the union was discovered, it triggered…"
+   },
+   "rank": 10,
+   "percentile": 37.0,
+   "score": 23
+  },
+  {
+   "name": "Aldric Pen",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…marked present and the empire was described as in good health; geographic notes from scholar Aldric Pen on the Great Southern Desert ('the transformation appears to have occurred suddenly, and the…"
+   },
+   "rank": 13,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "Book of Blasphemy",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…lower jaw of the Rotted Soul's herald, whose words were considered poison. Paired with the Book of Blasphemy. Skin of the 138 — The rotten flesh of the 138 council members slaughtered in the Rotted…"
+   },
+   "rank": 13,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "Mouth of the Blasphemer",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to say, when that concept is ready. Connected to the Pour Eternal legend of Shanty Town. Mouth of the Blasphemer — The lower jaw of the Rotted Soul's herald, whose words were considered poison. Paired with…"
+   },
+   "rank": 13,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "Skin of the 138",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Rotted Soul's herald, whose words were considered poison. Paired with the Book of Blasphemy. Skin of the 138 — The rotten flesh of the 138 council members slaughtered in the Rotted Soul's takeover. He…"
+   },
+   "rank": 13,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "The female Veilwalker",
+   "aliases": [
+    "female Walker",
+    "female Veilwalker"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Veilwalkers in their respective seasons, and encountered something he was never meant to find: a female Veilwalker. Female Walkers are seldom seen. By Veilwalker law, they are barred from serving as Elders…"
+   },
+   "rank": 13,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "The Foreverglades",
+   "aliases": [
+    "Foreverglades"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…During the reign of the 33rd Council, a farmer from the northern fields wandered into the Foreverglades, an ancient forest shared by humans and Veilwalkers in their respective seasons, and encountered…"
+   },
+   "rank": 13,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "The River Coffin",
+   "aliases": [
+    "River Coffin"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…he was eventually overcome and murdered, killing the whole land with his last breath. The River Coffin Out of desperation, the Elders and the Lagendale militia devised a joint solution using…"
+   },
+   "rank": 13,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "The Second Dynasty",
+   "aliases": [
+    "Second Dynasty",
+    "2nd dynasty"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…modern Pintland is one of the more confounding features of this land. Geographers of the Second Dynasty of Lagendale recorded the region as fertile grassland. Agricultural surveys from only three…"
+   },
+   "rank": 13,
+   "percentile": 57.4,
+   "score": 43
+  },
+  {
+   "name": "The farmer",
+   "aliases": [
+    "farmer from the northern fields"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…earth, rarely crossed into human affairs, and humans were wise enough not to seek them out. That peace ended with a farmer. The Forbidden Union During the reign of the 33rd Council, a farmer from the northern…"
+   },
+   "rank": 21,
+   "percentile": 74.1,
+   "score": 64
+  },
+  {
+   "name": "Callus Peaks",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…unknown, pre-Third Dynasty Much ignorance surrounds our people's reluctance to settle beyond the Callus Peaks (modern day Breakback Mountains.) Critics from abroad call it superstition. They are not wrong,…"
+   },
+   "rank": 22,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "Court of Lagen",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…Record of the Grand Council, Year 340 of the Second Dynasty (5 pages) — Ceremonial Register, Court of Lagen Present and accounted for: one hundred and thirty eight seated members of the Grand Council,…"
+   },
+   "rank": 22,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "Solen River",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…the Grand Council, representing all provinces of the empire from the Western Frontier to the Solen River territories. The Council met in full session only four times in the year 340. All four sessions…"
+   },
+   "rank": 22,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "The First Treaty",
+   "aliases": [
+    "First Treaty"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…child was conceived, half human, half Veilwalker. A halfbreed. The first of its kind. The First Treaty When the union was discovered, it triggered a crisis on both sides. The Veilwalker Elders…"
+   },
+   "rank": 22,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "The Vodkonian refugees",
+   "aliases": [
+    "Vodkonian refugees"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…warrior of light, the Wronged Walker manipulated the Lagendale Council into believing that the Vodkonian refugees, innocent people fleeing for their lives, were invaders intent on conquest. He led the slaughter…"
+   },
+   "rank": 22,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "The Vow of Mate",
+   "aliases": [
+    "Vow of Mate"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…them largely out of contact with the outside world. This particular Walker had already taken The Vow of Mate, a sacred and unbreakable bond in Veil culture. When two Walkers take this vow before the…"
+   },
+   "rank": 22,
+   "percentile": 88.9,
+   "score": 84
+  },
+  {
+   "name": "The Western Frontier",
+   "aliases": [
+    "Western Frontier"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…thirty eight seated members of the Grand Council, representing all provinces of the empire from the Western Frontier to the Solen River territories. The Council met in full session only four times in the year…"
+   },
+   "rank": 22,
+   "percentile": 88.9,
+   "score": 84
+  }
+ ]
+}

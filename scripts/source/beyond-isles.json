@@ -1,0 +1,30 @@
+{
+  "id": "beyond-isles",
+  "prompt": "Name a place beyond the Pintland mainland",
+  "blurb": "Where the Kings came from, passed through, got frozen, or got banished to.",
+  "difficulty": "hard",
+  "gem": "Poopwata Basin",
+  "answers": [
+    {"name": "Vodkonia", "aliases": [], "obscurity": 1},
+    {"name": "Drycup Forest", "aliases": ["Drycup Woods", "Drycup"], "count": ["Drycup"]},
+    {"name": "Gyntonick", "aliases": []},
+    {"name": "The Coors Golden Isles", "aliases": ["Coors Golden Isles", "Golden Isle"], "count": ["re:(?i)golden (isles?|aisle)"]},
+    {"name": "The Taverna", "aliases": ["Taverna"], "count": ["re:\\bTaverna\\b"]},
+    {"name": "Hogwilly's Tavern", "aliases": ["Hogwilly's", "Hogwillys"], "count": ["re:(?i)hogwill(y|ie)'?s?"]},
+    {"name": "Bar Bastion", "aliases": ["The Bastion"], "count": ["Bar Bastion", "re:\\bthe Bastion\\b"]},
+    {"name": "Poopwata Basin", "aliases": ["Poopwater"], "count": ["re:(?i)poopwat(a|er)"]},
+    {"name": "Maximilian's space station", "aliases": ["space station", "the station"], "count": ["re:(?i)space station"]},
+    {"name": "Earth", "aliases": [], "count": ["re:\\bE(arth|rth)\\b"]},
+    {"name": "Roto Kaiishi", "aliases": ["Roto", "Rotto"], "count": ["re:\\bRott?o\\b"]},
+    {"name": "The Southern Bellows Nation", "aliases": ["Southern Bellows Nation", "SBN"], "count": ["re:(?i)bellows nation", "re:\\bSBN\\b"]},
+    {"name": "The Wildlands", "aliases": ["Wildlands"], "count": ["re:(?i)wild ?lands"]},
+    {"name": "The Spirit realm", "aliases": ["Spirit realm"], "obscurity": 4},
+    {"name": "New Haven", "aliases": []},
+    {"name": "Realm of the Soulless", "aliases": []},
+    {"name": "The Nether", "aliases": ["Nether"], "count": ["re:(?i)\\bnether\\b"]},
+    {"name": "The land of giants", "aliases": ["land of giants"], "obscurity": 5},
+    {"name": "The mutineers' island", "aliases": ["marooning island", "Seamus's birthplace"], "obscurity": 5, "inferred": true,
+     "note": "Seamus Bonehardy was born on an island used for marooning mutineers.",
+     "quote": "I was born on a small island typically used for marooning pirates"}
+  ]
+}

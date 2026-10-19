@@ -1,0 +1,570 @@
+{
+ "id": "ships-crews",
+ "prompt": "Name a ship, crew or sea captain",
+ "blurb": "Hulls, sky ships, submarines, the crews aboard them, and whoever's at the wheel.",
+ "difficulty": "medium",
+ "gem": "The Bellboy's Boner",
+ "answerCount": 27,
+ "answers": [
+  {
+   "name": "Seamus Bonehardy",
+   "aliases": [
+    "Seamus",
+    "Bonehardy"
+   ],
+   "mentions": {
+    "total": 116,
+    "compendium": 58,
+    "records": 58
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan),…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Gideon Drake",
+   "aliases": [
+    "Gideon",
+    "Drake"
+   ],
+   "mentions": {
+    "total": 143,
+    "compendium": 74,
+    "records": 69
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bottomless Bay. ### Regions Beyond - Vodkonia — An unexplored region, currently the place of Gideon Drake's banishment. - West Pint and the Hoegaarden Plains — The historic heartland of the…"
+   },
+   "rank": 2,
+   "percentile": 3.8,
+   "score": 1
+  },
+  {
+   "name": "Jameson Pilsner",
+   "aliases": [
+    "JP",
+    "Captain Pilsner",
+    "Pilsner"
+   ],
+   "mentions": {
+    "total": 91,
+    "compendium": 47,
+    "records": 44
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister…"
+   },
+   "rank": 3,
+   "percentile": 7.7,
+   "score": 2
+  },
+  {
+   "name": "Sackbeard",
+   "aliases": [
+    "Captain Sackbeard"
+   ],
+   "mentions": {
+    "total": 77,
+    "compendium": 57,
+    "records": 20
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…elsewhere. - Killdeath Peak — This is one of the largest hills in Pintland. Just south of Sackbeards Tavern, this hill is the home of Fentmaxxers now abandoned observatory and the place of death…"
+   },
+   "rank": 4,
+   "percentile": 11.5,
+   "score": 4
+  },
+  {
+   "name": "Guinnie",
+   "aliases": [
+    "Steph O'Guinness",
+    "Captain of the Shoals"
+   ],
+   "mentions": {
+    "total": 49,
+    "compendium": 21,
+    "records": 28
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order,…"
+   },
+   "rank": 5,
+   "percentile": 15.4,
+   "score": 6
+  },
+  {
+   "name": "Old Salty",
+   "aliases": [
+    "Salty"
+   ],
+   "mentions": {
+    "total": 11,
+    "compendium": 10,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…But ye want to know what we think of 'em? Good. Sit down, I'll talk. You'll learn something salty. We in Shanty Town remember Providence when it were just a driftwood sermon by some tonic-made…"
+   },
+   "rank": 6,
+   "percentile": 19.2,
+   "score": 8
+  },
+  {
+   "name": "The Cloudrunners",
+   "aliases": [
+    "Cloudrunners",
+    "Cloudrunner"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…echo of a lost age where unchecked curiosity led humanity too close to oblivion. ## The Cloudrunners #### In Game Use: Used for pvp focused games played during HH. #### Lore: The Two built…"
+   },
+   "rank": 7,
+   "percentile": 23.1,
+   "score": 11
+  },
+  {
+   "name": "Sackbeard's undead crew",
+   "aliases": [
+    "undead crew",
+    "cursed crew",
+    "Sackbeard's crew"
+   ],
+   "mentions": {
+    "total": 6,
+    "compendium": 4,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…navigate very difficult times of economic collapse, political uprisings and the arrival of a cursed crew arriving from the Realm of the Soulless seeking revenge on Gideon Drake. This lead to the…"
+   },
+   "rank": 8,
+   "percentile": 26.9,
+   "score": 14
+  },
+  {
+   "name": "Sackbeard's armada",
+   "aliases": [
+    "armada",
+    "the eleven captains"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…when the traders go home? This fact firmly in mind, the great pirate Sackbeard assembled an armada of the best pirate crews from around the world and laid out a plan to kill the beast. The…"
+   },
+   "rank": 9,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "The Albatross",
+   "aliases": [
+    "Albatross"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 5,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the night or the barrels of winds sold to the Stormveil Trading Co to keep their sky ship, the Albatross, afloat. Whatever your breeze needs may be you can find them at Wolendi. Two of the biggest…"
+   },
+   "rank": 9,
+   "percentile": 32.7,
+   "score": 19
+  },
+  {
+   "name": "The Bastard's Requiem",
+   "aliases": [
+    "Bastard's Requiem",
+    "Bastards Requiem"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 3,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…his life. ### Jack Anqoak (Jack) \"Oracle of Aleforge\" — Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick as a thief, though he preferred to describe himself as…"
+   },
+   "rank": 11,
+   "percentile": 40.4,
+   "score": 26
+  },
+  {
+   "name": "The Commodore",
+   "aliases": [
+    "Commodore"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…unwisely, he insulted the merchant's trade in front of the room. The merchant turned out to be a Commodore of the Imperial Navy. When the loss was discovered, Anqoak pointed at his brother, who was…"
+   },
+   "rank": 11,
+   "percentile": 40.4,
+   "score": 26
+  },
+  {
+   "name": "Captain Crawdad",
+   "aliases": [
+    "Crawdad"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Oweblock, but he tends to deal in some shady businesses such as arms dealing. ### Captain Crawdad Pilot and Captain of the Hook Line & Sinker Submarine, Captain Crawdad served in the ASDU…"
+   },
+   "rank": 13,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "Foamrot Scallywag crew",
+   "aliases": [
+    "Foamrot Scallywags",
+    "Foamrot"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…headquartered in Providence. Goldcoral Inc owns the ship The Bastards Requiem and employs the Foamrot Scallywag crew. Jack is currently searching for a worthy crew to bring in higher profits for…"
+   },
+   "rank": 13,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "Plungos of West Pint",
+   "aliases": [
+    "Plungos",
+    "Admiral Plungos"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…ascending to the throne, the title of Liquor King was only softly carved in his tombstone. Plungos of West Pint: a great admiral in the war and the highest ranking officer under the Liquor King. Upon the…"
+   },
+   "rank": 13,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "The Dread Harrow",
+   "aliases": [
+    "Dread Harrow"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Drake was finally confronted in the castle with the artifacts in hand just as Sackbeard's Dread Harrow materialized through a portal. The undead crew poured into Aleforge, seeking revenge on Drake,…"
+   },
+   "rank": 13,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "The Liver's End",
+   "aliases": [
+    "Liver's End",
+    "Livers End"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jameson Pilsner, may he never be sober ## Pilsners Lament (the rumrunners rant) Shanty: \"Liver's End\" Oh the Liver's End sails past the moons, With rum in her sails and death in her tunes.…"
+   },
+   "rank": 13,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "The Rumrunners",
+   "aliases": [
+    "Rumrunners",
+    "Pilsner's men"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…over… We remember him. Jameson Pilsner, may he never be sober ## Pilsners Lament (the rumrunners rant) Shanty: \"Liver's End\" Oh the Liver's End sails past the moons, With rum in her…"
+   },
+   "rank": 13,
+   "percentile": 55.8,
+   "score": 42
+  },
+  {
+   "name": "Jasper \"no Eyes, all-Hands\"",
+   "aliases": [
+    "Jasper",
+    "Jasper no Eyes all Hands"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…completely mad. ### Shanty Town's Foreign Relations #### On Providence: An excerpt from Jasper \"no Eyes, all-Hands\", resident of La-Di-Da Street, member of Windsunk Council concerning Providence:…"
+   },
+   "rank": 19,
+   "percentile": 69.2,
+   "score": 58
+  },
+  {
+   "name": "Hook Line & Sinker",
+   "aliases": [
+    "Hook Line and Sinker",
+    "Hook Line & Sinker Submarine"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…businesses such as arms dealing. ### Captain Crawdad Pilot and Captain of the Hook Line & Sinker Submarine, Captain Crawdad served in the ASDU for 5 years before being instated. He is a military…"
+   },
+   "rank": 20,
+   "percentile": 84.6,
+   "score": 78
+  },
+  {
+   "name": "Jolly Rammer",
+   "aliases": [
+    "The Jolly Rammer"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…trails part 1 ### Steph 'Guinnie' O'Guinness (Stephan) The Bilgrats and Buttplugs / Ship: Jolly Rammer Welp guess this is me Heard o' Steph O'Guinness, have ye? Folks here call him Guinnie I…"
+   },
+   "rank": 20,
+   "percentile": 84.6,
+   "score": 78
+  },
+  {
+   "name": "The Alemaster's Mortar",
+   "aliases": [
+    "Alemaster's Mortar",
+    "Alemasters Mortar"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…(Guinnie) ### Seamus Bonehardy (Nathan) \"King of Kegs\" — The Barrel Breakers / Ship: The Alemaster's Mortar Backstory: I was born on a small island typically used for marooning pirates who had called…"
+   },
+   "rank": 20,
+   "percentile": 84.6,
+   "score": 78
+  },
+  {
+   "name": "The Barrel Breakers",
+   "aliases": [
+    "Barrel Breakers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Bootymane, luke (Buke), Stephan (Guinnie) ### Seamus Bonehardy (Nathan) \"King of Kegs\" — The Barrel Breakers / Ship: The Alemaster's Mortar Backstory: I was born on a small island typically used for…"
+   },
+   "rank": 20,
+   "percentile": 84.6,
+   "score": 78
+  },
+  {
+   "name": "The Bellboy's Boner",
+   "aliases": [
+    "Bellboy's Boner",
+    "Bellboys Boner"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…merely moving other people's goods. Indeed, on his 23rd birthday, he coordinated mutiny on The Bellboy's Boner (his current ship of employment) and took the plunge into piracy. From that day onward,…"
+   },
+   "rank": 20,
+   "percentile": 84.6,
+   "score": 78
+  },
+  {
+   "name": "The Bilgrats and Buttplugs",
+   "aliases": [
+    "Bilgrats and Buttplugs",
+    "Bilgrats"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…return home late to the liquor king trails part 1 ### Steph 'Guinnie' O'Guinness (Stephan) The Bilgrats and Buttplugs / Ship: Jolly Rammer Welp guess this is me Heard o' Steph O'Guinness, have…"
+   },
+   "rank": 20,
+   "percentile": 84.6,
+   "score": 78
+  },
+  {
+   "name": "The Mercury",
+   "aliases": [
+    "Mercury"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…#### In Game Use: Used for pvp focused games played during HH. #### Lore: The Two built (The Mercury(blue) and ___) are known as Cloudrunners. Crafted from sturdy timber and reinforced with brass…"
+   },
+   "rank": 20,
+   "percentile": 84.6,
+   "score": 78
+  },
+  {
+   "name": "The lone captain",
+   "aliases": [
+    "lone captain"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "a lone captain who was mutineered by his crew washed up on shore",
+    "note": "Washed ashore with a flask in his coat and brought liquor to the Isles. Liquor Day marks it."
+   },
+   "rank": 27,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

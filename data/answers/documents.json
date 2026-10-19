@@ -1,0 +1,835 @@
+{
+ "id": "documents",
+ "prompt": "Name a book, journal, letter or document",
+ "blurb": "Anything written down: tomes, diaries, manuals, ledgers, love letters, ransom notes.",
+ "difficulty": "hard",
+ "gem": "Talent Acquisition strategy",
+ "answerCount": 42,
+ "answers": [
+  {
+   "name": "GDC Findings",
+   "aliases": [
+    "Gideon Drake Commission findings"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 0,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…sent to you arrived. Be sure to name me as beneficiary haha. - John rump GDC 2 (SOA 2) GDC Findings: In continuing our investigation, we looked to a few members in the top echelons on Aleforge…"
+   },
+   "rank": 1,
+   "percentile": 1.2,
+   "score": 0
+  },
+  {
+   "name": "TV Manual",
+   "aliases": [
+    "TV manuel"
+   ],
+   "mentions": {
+    "total": 5,
+    "compendium": 1,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Spiral \"I can do this,\" he swore, staggering blind, As puzzles mocked his weakened mind. TV manuals, books, and tic-tac-toe, He searched high and low, incredibly slow. Then—behold!—on the…"
+   },
+   "rank": 1,
+   "percentile": 1.2,
+   "score": 0
+  },
+  {
+   "name": "Veil Oath",
+   "aliases": [
+    "Veil Oath book"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 2,
+    "records": 1
+   },
+   "obscurity": 2,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Hoegaarden Library embassy. Gobbler was subsequently exposed by the Kings using the stolen Veil Oath book and the Veil Chalice from his shrine. ### Cardinal Addy The Cardinal of Providence — beloved…"
+   },
+   "rank": 3,
+   "percentile": 4.9,
+   "score": 1
+  },
+  {
+   "name": "Earth Report",
+   "aliases": [
+    "Earth Reports"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…recovery keys and show you the decryption process as soon as the change goes into effect. -Pius Earth Report 30 For your situational awareness: Earth aerospace and cosmology news (Cycle…"
+   },
+   "rank": 4,
+   "percentile": 11.0,
+   "score": 4
+  },
+  {
+   "name": "Maintenance Knowledge Base",
+   "aliases": [
+    "Maintenance KB"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…technology from master Maximilian and use it in a manner that would please him were he here. Maintenance KB Maintenance Knowledge Base How to use this book ------------------- This book is intended…"
+   },
+   "rank": 4,
+   "percentile": 11.0,
+   "score": 4
+  },
+  {
+   "name": "Sackbeard Diary",
+   "aliases": [
+    "Sackbeard's diary",
+    "sackbeard memorial journal"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…leave Thatcher to die, but also saved the land. - Free trade above all, no tariffs or tax sackbeard memorial journal \"My crew are in high spirits, my first mate and all the rest are determined to command the…"
+   },
+   "rank": 4,
+   "percentile": 11.0,
+   "score": 4
+  },
+  {
+   "name": "Talent Acquisition strategy",
+   "aliases": [
+    "Talent Acquis'n",
+    "Employee Acquisition Strategy"
+   ],
+   "mentions": {
+    "total": 3,
+    "compendium": 0,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…best and brightest up there, rotational ciphers are seriously weak if you know the trick. Talent Acquis'n Employee Acquisition Strategy [INTERNAL] Aldridge Industries has always…"
+   },
+   "rank": 4,
+   "percentile": 11.0,
+   "score": 4
+  },
+  {
+   "name": "A Soldier's Letter, Never Sent",
+   "aliases": [
+    "Soldier's Letter",
+    "soldier's letter home"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…to document what happened there — that silence, I think, is its own kind of answer'); and a soldier's letter home, never sent, written from the empire's frontier: 'I have seen and done things I wish…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "Book of Blasphemy",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…lower jaw of the Rotted Soul's herald, whose words were considered poison. Paired with the Book of Blasphemy. Skin of the 138 — The rotten flesh of the 138 council members slaughtered in the Rotted…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "Construct'n Log",
+   "aliases": [
+    "Construction Records",
+    "Construction Log"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…everything back. 12: 01 PM The final door opened. # LIQUOR KING TRIALS — BOOKS Construct'n Log Construction Records Cycles 10-30: Engines, engineering, navigation complete. Cycles 31-35:…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "Death Log",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…to go down there too early cause then you'll have to waste a lot of time waiting around. Death Log (ext) Death Log (Cycles 91-95) This is a more extensive log of all the deaths from…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "EAK Manual",
+   "aliases": [
+    "Emergency Access Key Design Document"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…that's no worry, as we will either die or walk back out triumphant with every door unlocked. EAK Manual Emergency Access Key Design Document ------------------- While we rarely have issues with…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "Hazmat Guide",
+   "aliases": [
+    "Hazmat Suit Usage Guide"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…REPLACED WITH RUDIMENTARY IMPLEMENTS WITH WHICH YOU WILL BE EXPECTED TO FULFILL THE SAME DUTIES. Hazmat Guide Hazmat Suit Usage Guide 1. The why You may be asking, why would I need a hazmat suit…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "Inscription on the Temple Threshold",
+   "aliases": [
+    "Temple Threshold inscription"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…of the opinion that basements are never just basements # HORROR IN HOEGAARDEN — BOOKS INSCRIPTION ON THE TEMPLE THRESHOLD These stones were laid by hands now returned to the earth. They will stand when your bones…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "Ledger 93",
+   "aliases": [
+    "Cycle 93 Ledger"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…almost any industry for extremely cheap as long as they have a bit of debt hanging over them! Ledger 93 Cycle 93 Ledger Revenue ------------------- VIPs: USA: +$20,000,000 Germany: +$10,000,000…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "Maint. Logbook",
+   "aliases": [
+    "Maintenance Logbook"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…of the pipes. Hope you get some good use out of it, it's served me well so far. -Goddard Maint. Logbook Maintenance Logbook Cycle 93, Year 1 [+] Replace all piping from before cycle 86 [+] Update…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "Mr. BBL Diary",
+   "aliases": [
+    "A Cheeked Up Journal"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…The biggest question is.... why did he want these artifacts in the first place? -Mr. BBL Mr. BBL Diary 1 (SOA 1) Mr. BBL: A Cheeked Up Journal. The Liquor Kings arrived today. Frankly, a lot of…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "On the Great Southern Desert",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…present and the empire was described as in good health; geographic notes from scholar Aldric Pen on the Great Southern Desert ('the transformation appears to have occurred suddenly, and the Third Dynasty made no effort…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "Patient Profile",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…killed lots of the security bots, but i never liked th-- i have to go, someone is coming Patient Profile Patient Profile Name: Dmitri Birth Date: 92/1/042 After a number of incidents…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "Plinket's talking points",
+   "aliases": [
+    "Plinkettalkpoints",
+    "Susan Plinket Talking Points"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…nightmares haunt me as the night falls each day. When will I be rid of this pain? -Gidion Drake Plinkettalkpoints (SOA 1) Susan Plinket Talking Points: - Drunken Trials should continue, but not grow -…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "Rollo's Love Letter",
+   "aliases": [
+    "love letter"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…down with me. Take your gold and fuck off. Some \"religious piety\" you display. -XX Rollos Love Letter Dearest Jameson Pilsner, Haha it sure has been a while. I hope your meat is well. I would…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "VIP Guide",
+   "aliases": [
+    "VIP Treatment Guide"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…until security is back up! However, you will be able to escape with the help of this key. VIP Guide VIP Treatment Guide 1. Seating VIP Members are to be seated in the obsidian chairs on a…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "VIP List",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 0,
+    "records": 2
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…opened unless we have confirmed the presence of at least 3 VIP members at the cycle meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide…"
+   },
+   "rank": 8,
+   "percentile": 35.4,
+   "score": 21
+  },
+  {
+   "name": "A Treatise on the Veilwalkers",
+   "aliases": [
+    "Treatise on the Veilwalkers"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…born from blood and mud and the particular stubbornness of men who grow things for a living. A Treatise on the Veilwalkers (4 pages) — Excerpt, author unknown, pre-Third Dynasty Much ignorance surrounds our people's…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "Afanasi Journal",
+   "aliases": [
+    "Afanasi's journal"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…after the next earth affairs shipment. Hopefully I can find some dirt on him before then. Afanasi Journal After years of planning and building trust amongst the workers, we are nearly ready for a…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "Bedtime stories",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…but have recently been moved. This gives us a key clue, the items must be frequently moved. bedtime stories Argh, me son, gather 'round and lend an ear to the wild tale of ol' Captain Sackbeard and…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "Books of Captains",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…you're not just another drunk with a sword. That's how you get your name carved into the Books of Captains. That's how Shanty Town still breathes — old salt in new lungs. You ain't just living in…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "Cheeks Diary",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…will display incompetence immediately.Our goal will be completed at their own hands. -MAMA Cheeks Diary 1 (SOA 3) I saw something that night and Im scared. He was buying bootleg Tonic. Im pretty…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "Cum Diary",
+   "aliases": [
+    "John Cum's diary"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…his burning love, kissing Oinkers for a quick sec there. Weird guy. - a concerned citizen Cum Diary (SOA 2) My Dearest Delaney,The world has soured without your sweet touch. I miss you every…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "Dmitri's journal",
+   "aliases": [
+    "dmitri journal"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…\"inventors\" who receive credit for new innovations in return for an investment in the company. dmitri journal 93/4/350 Mom and dad are going to the throne room today with everyone else. They said I…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "Goddard journal",
+   "aliases": [
+    "Goddard's journal"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…said, different situations require different protection, so choose what you wear carefully. Goddard journal 93/4/348 The time draws near. I locked the primary access points for the solar transducers…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "On the Founding of the First Militia",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…filled my heart. All around me smiled too. I write this to remember and to warn the others. On The Founding of the First Militia (3 pages) Before there was a kingdom, there was a field. And in that field stood men who…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "Outage Guide",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…would like to be encoded. DO NOT PLACE HAND ANYWHERE NEAR PRINTING HEAD DURING OPERATION. Outage Guide In the event of a power outage, all engineering and maintenance personel will be diverted…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "Pius' Diary",
+   "aliases": [
+    "Pius Diary"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…N O P Q R S T U V W m n o p q r s t u v w X Y Z. x y z Numbers: 0 1 2 3 4 5 6 7 8 9 Pius' Diary Cycle 93, Day 1620: Dear Diary, I must once again requit myself of A NUMBER OF FRUSTRATIONS.…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "Record of the Grand Council",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…whatsoever to document what happened there. That silence, I think, is its own kind of answer. Record of the Grand Council, Year 340 of the Second Dynasty (5 pages) — Ceremonial Register, Court of Lagen Present and…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "Rollo Journal",
+   "aliases": [
+    "Rollo's journal",
+    "Rollo's journals"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…significant news has come out of the business that would correspond with such a large investment. Rollo Journal 1 (SOA 2) Its Him, its always been Him. I cant stand the thought of living without his thick…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "Sponsor Guide",
+   "aliases": [],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…meeting. VIP List Cycle 93 VIP List: Nikola Tesla Adolf Hitler Orville Wright Maria Telkes Sponsor Guide Sponsor Information Hello valued sponsor! We thank you for investing in our vision for the…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "The Hollow Ledger",
+   "aliases": [
+    "Hollow Ledger"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…valve dressed as ritual. Every rumor spoken that night is written down by a Friar and filed in the Hollow Ledger. A rumor that survives the night, believed by enough of the room, doesn't stay a rumor for…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "The Prophet's writings",
+   "aliases": [
+    "Prophet's writings"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…a previously invisible hallway opened in the Cloister wall — the passage to New Haven. The Prophet's writings were found upstairs, documenting his years of waiting for their arrival. Edmond Blackmoor's…"
+   },
+   "rank": 24,
+   "percentile": 74.4,
+   "score": 64
+  },
+  {
+   "name": "Free Boost",
+   "aliases": [
+    "Free Boost book"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 0,
+    "records": 1
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Hoegaarden Hall of Records",
+    "text": "…\"I saw it i did, Mr. Gideon holdin them factory gadgets, hell if i know what they're for\" Free Boost This book offers the finder one free enchant, netherite upgrade, piece of diamond armor,…"
+   },
+   "rank": 40,
+   "percentile": 95.1,
+   "score": 93
+  },
+  {
+   "name": "Blackmoor's book",
+   "aliases": [
+    "Edmond Blackmoor's book"
+   ],
+   "mentions": {
+    "total": 0,
+    "compendium": 0,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "He left a book outside the hole leading to the beast",
+    "note": "Left outside the beast's hole, telling others to follow him."
+   },
+   "rank": 41,
+   "percentile": 98.8,
+   "score": 98
+  },
+  {
+   "name": "The ransom note",
+   "aliases": [
+    "ransom letter",
+    "CUMsock ransom note"
+   ],
+   "mentions": {
+    "total": 0,
+    "compendium": 0,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": true,
+   "evidence": {
+    "source": "inferred",
+    "text": "If you ever want to see your silly little friend named CUMsock ever again",
+    "note": "Sent to Jameson Pilsner when CUMsock was kidnapped."
+   },
+   "rank": 41,
+   "percentile": 98.8,
+   "score": 98
+  }
+ ]
+}

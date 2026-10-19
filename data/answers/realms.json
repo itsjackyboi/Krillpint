@@ -1,0 +1,447 @@
+{
+ "id": "realms",
+ "prompt": "Name a town, nation or realm",
+ "blurb": "Settlements, empires, islands, and planes of existence you'd rather not visit.",
+ "difficulty": "easy",
+ "gem": "Name",
+ "answerCount": 22,
+ "answers": [
+  {
+   "name": "Aleforge",
+   "aliases": [
+    "Ale Forge",
+    "Alforge"
+   ],
+   "mentions": {
+    "total": 321,
+    "compendium": 180,
+    "records": 141
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards of Aleforge (run by Jack), and Horrors in Hoegaarden (written by Jack and Ben, run by Ben). Each concept…"
+   },
+   "rank": 1,
+   "percentile": 0.0,
+   "score": 0
+  },
+  {
+   "name": "Providence",
+   "aliases": [],
+   "mentions": {
+    "total": 95,
+    "compendium": 72,
+    "records": 23
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…location underneath the Hoegaarden Library. - The Basin at Bully Hill — The lake adjacent to Providence. - Gulf of Aleforge — The bay in front of Sackbeard's Tavern, a natural harbor shaped by…"
+   },
+   "rank": 2,
+   "percentile": 4.8,
+   "score": 1
+  },
+  {
+   "name": "Pintland Isles",
+   "aliases": [
+    "Pintland",
+    "The Isles"
+   ],
+   "mentions": {
+    "total": 62,
+    "compendium": 46,
+    "records": 16
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "# Tab 1 THE PINTLAND ISLES MASTER LORE COMPENDIUM Parliament of the Liquor Kings Document Instantiated June…"
+   },
+   "rank": 3,
+   "percentile": 9.5,
+   "score": 3
+  },
+  {
+   "name": "Shanty Town",
+   "aliases": [
+    "Shantytown"
+   ],
+   "mentions": {
+    "total": 47,
+    "compendium": 43,
+    "records": 4
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…religious superstitions about what lay beyond them. - Rum Ridge — A lone peak which separates Shanty Town from the Hoegaarden Plains. Previously, this was the site of a vast arena for public gladiatorial…"
+   },
+   "rank": 4,
+   "percentile": 14.3,
+   "score": 5
+  },
+  {
+   "name": "Roto Kaiishi",
+   "aliases": [
+    "Roto",
+    "Rotto",
+    "Roto Kaishi"
+   ],
+   "mentions": {
+    "total": 69,
+    "compendium": 64,
+    "records": 5
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Name — A settlement on the mainland, site of former pirate crewmembers' second lives.. - Roto Kaiishi — The famous floating merchant city anchored to the ocean floor. The only laws here…"
+   },
+   "rank": 5,
+   "percentile": 19.0,
+   "score": 8
+  },
+  {
+   "name": "Owe Block",
+   "aliases": [
+    "Oweblock",
+    "The Owe"
+   ],
+   "mentions": {
+    "total": 54,
+    "compendium": 18,
+    "records": 36
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards of Aleforge (run by Jack), and Horrors in Hoegaarden (written by Jack…"
+   },
+   "rank": 6,
+   "percentile": 23.8,
+   "score": 12
+  },
+  {
+   "name": "Fenwick",
+   "aliases": [],
+   "mentions": {
+    "total": 32,
+    "compendium": 22,
+    "records": 10
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…inland forest known locally as 'Thiccy Forest.' This is the home of the Veilwalker encampment, Fenwick. Many other notable locations are shrouded by the dense forest, most prominent of these is…"
+   },
+   "rank": 7,
+   "percentile": 28.6,
+   "score": 15
+  },
+  {
+   "name": "Lagendale",
+   "aliases": [
+    "Lagendale Empire",
+    "Kingdom of Lagendale"
+   ],
+   "mentions": {
+    "total": 28,
+    "compendium": 22,
+    "records": 6
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…between the settled East and the untamed Western plains, also known as West Pint. Historic Lagendale stretched all through modern day West Pint and even further into the Wildlands, but it could…"
+   },
+   "rank": 8,
+   "percentile": 33.3,
+   "score": 19
+  },
+  {
+   "name": "The Southern Bellows Nation",
+   "aliases": [
+    "Southern Bellows Nation",
+    "SBN",
+    "Bellows Nation"
+   ],
+   "mentions": {
+    "total": 20,
+    "compendium": 20,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…complete mystery, and the most precious trade secret of the Derecho family. ## The Southern Bellows Nation South of the mainland, past waters few captains dare chart, lies the Southern Bellows Nation…"
+   },
+   "rank": 9,
+   "percentile": 38.1,
+   "score": 24
+  },
+  {
+   "name": "Earth",
+   "aliases": [],
+   "mentions": {
+    "total": 17,
+    "compendium": 3,
+    "records": 14
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…discovered. Dimitri had a rare condition which would lead to certain death if he were to return to Earth. After a lengthy discussion with Jagerbauhm, it was determined that bringing Dimitri home…"
+   },
+   "rank": 10,
+   "percentile": 42.9,
+   "score": 28
+  },
+  {
+   "name": "New Haven",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 15,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…the worst of the worst and they are never leaving, most of the cells are welded shut. - New Haven — The aetherial realm accessible only to a select few through the Cloister. - Hoegaarden…"
+   },
+   "rank": 11,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Vodkonia",
+   "aliases": [],
+   "mentions": {
+    "total": 15,
+    "compendium": 12,
+    "records": 3
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…stretch of ocean littered with shipwrecks, located in the Gae Strait between the mainland and Vodkonia. ### Towns & Settlements - Shanty Town — The pirate cliff settlement adjacent to the…"
+   },
+   "rank": 11,
+   "percentile": 50.0,
+   "score": 35
+  },
+  {
+   "name": "Bar Bastion",
+   "aliases": [
+    "The Bastion"
+   ],
+   "mentions": {
+    "total": 9,
+    "compendium": 5,
+    "records": 4
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…late with the delivery, and had lost much of the product long before arriving. ## Bar Bastion Home of the Bjor Hjarta. These cave dwelling dwarves are known in all the land for brewing…"
+   },
+   "rank": 13,
+   "percentile": 57.1,
+   "score": 43
+  },
+  {
+   "name": "West Pint",
+   "aliases": [
+    "Westpint"
+   ],
+   "mentions": {
+    "total": 7,
+    "compendium": 7,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…range. A natural barrier between the settled East and the untamed Western plains, also known as West Pint. Historic Lagendale stretched all through modern day West Pint and even further into the Wildlands,…"
+   },
+   "rank": 14,
+   "percentile": 61.9,
+   "score": 49
+  },
+  {
+   "name": "The Coors Golden Isles",
+   "aliases": [
+    "Coors Golden Isles",
+    "Golden Isle",
+    "Golden Isles"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…seconds, cementing my place in the competition. ### Jameson Pilsner (JP) — Captain of the Coors Golden Isles Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels…"
+   },
+   "rank": 15,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "The Nether",
+   "aliases": [
+    "Nether"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 3,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…instantaneously. However, ambition unchecked by caution led the scientists to inadvertently breach the Nether, a hellish dimension teeming with monstrous beings. In an instant, the ambitious experiment…"
+   },
+   "rank": 15,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "The Wildlands",
+   "aliases": [
+    "Wildlands",
+    "wild lands"
+   ],
+   "mentions": {
+    "total": 4,
+    "compendium": 4,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Pint. Historic Lagendale stretched all through modern day West Pint and even further into the Wildlands, but it could never fully colonize the east partly due to these mountains and their religious…"
+   },
+   "rank": 15,
+   "percentile": 71.4,
+   "score": 60
+  },
+  {
+   "name": "Gyntonick",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 1,
+    "records": 1
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…Aleforge\" — Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick as a thief, though he preferred to describe himself as a redistributor of wealth, a claim…"
+   },
+   "rank": 18,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Realm of the Soulless",
+   "aliases": [],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 3,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…economic collapse, political uprisings and the arrival of a cursed crew arriving from the Realm of the Soulless seeking revenge on Gideon Drake. This lead to the banishment of Gideon Drake to Vodkonia.…"
+   },
+   "rank": 18,
+   "percentile": 83.3,
+   "score": 76
+  },
+  {
+   "name": "Name",
+   "aliases": [
+    "the town of Name"
+   ],
+   "mentions": {
+    "total": 2,
+    "compendium": 2,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…central lake. It is fed by springs originating in the Breakback Mountains which flow through the town of Name. The lake is completely surrounded on its North and Eastern side by the Brandywine Brush.…"
+   },
+   "rank": 20,
+   "percentile": 90.5,
+   "score": 86
+  },
+  {
+   "name": "The Spirit realm",
+   "aliases": [
+    "Spirit realm"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 4,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…question of who controls Roto now that Xi is long dead. Many think it's a conglomerate from the Spirit realm, as that's where all the richest merchants live. However, Xi strongly believed that if the…"
+   },
+   "rank": 21,
+   "percentile": 95.2,
+   "score": 93
+  },
+  {
+   "name": "The land of giants",
+   "aliases": [
+    "land of giants"
+   ],
+   "mentions": {
+    "total": 1,
+    "compendium": 1,
+    "records": 0
+   },
+   "obscurity": 5,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…patrolling the street around the Cardinal's towers. He was initially a foreigner from an unknown land of giants, brought to Providence as a baby by way of the Whiskey Runners, a missionary group who smuggled…"
+   },
+   "rank": 22,
+   "percentile": 100.0,
+   "score": 100
+  }
+ ]
+}

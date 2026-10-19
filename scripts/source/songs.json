@@ -1,0 +1,28 @@
+{
+  "id": "songs",
+  "prompt": "Name a song, poem or chant",
+  "blurb": "Ballads, anthems, campaign songs, lullabies and freestyle bars from the Isles.",
+  "difficulty": "medium",
+  "gem": "Hush Now, Love",
+  "answers": [
+    {"name": "King of the Kegs", "aliases": ["King of Kegs"], "count": ["re:(?i)king of the kegs"], "obscurity": 1},
+    {"name": "Anything for a Newport", "aliases": []},
+    {"name": "An Ode to the Liquor Kings", "aliases": ["Ode to the Liquor Kings"]},
+    {"name": "Roto National Anthem", "aliases": ["Roto Anthem"]},
+    {"name": "Thatcher's Last Toast", "aliases": []},
+    {"name": "Sackbeard's Sails", "aliases": []},
+    {"name": "Free from Sobriety", "aliases": []},
+    {"name": "Hush Now, Love", "aliases": ["Hush Now Love"]},
+    {"name": "The Heart Learns to Mend", "aliases": ["Heart Learns to Mend"]},
+    {"name": "A Stronger Pour", "aliases": ["Stronger Pour"]},
+    {"name": "A Lesson Learned from Sobriety", "aliases": ["Lesson Learned from Sobriety"]},
+    {"name": "Pilsner's Lament", "aliases": ["Pilsners Lament", "The Rumrunners Rant", "Liver's End"], "count": ["re:(?i)pilsners? lament", "re:(?i)rumrunners rant"]},
+    {"name": "Ode to the Six", "aliases": []},
+    {"name": "Raise the Crown, Raise the Cup", "aliases": ["Raise the Crown Raise the Cup", "Raise the Crown"], "count": ["re:(?i)raise the crown"]},
+    {"name": "Ode to Mr. BBL", "aliases": ["Ode to Mr BBL"], "count": ["re:(?i)ode to mr\\.? bbl"]},
+    {"name": "The King of Nothing lullaby", "aliases": ["King of Nothing", "King of Bone"], "count": ["King of Nothing"]},
+    {"name": "The Pour Eternal", "aliases": ["Pour Eternal"], "count": ["re:(?i)the pour eternal \\(shanty town folklore\\)"], "obscurity": 4},
+    {"name": "Jack's freestyle", "aliases": ["Jack Anqoak's freestyle", "I am black", "freestyle rap"], "count": ["re:(?i)freestyle"], "obscurity": 4},
+    {"name": "Guinnie's victory bars", "aliases": ["Call me Thanos", "victory bars"], "count": ["re:(?i)victory bars"], "obscurity": 5}
+  ]
+}
