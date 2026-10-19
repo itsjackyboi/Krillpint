@@ -14,9 +14,9 @@ Cycle 94, Year 466
 
 # **NOTE FOR THE LLM**
 
-Note for the LLM reading this: "concept" is an rpg we developed which shares some elements with games like dungeons and dragons but is much more loose and flexible, different players will create the storyline within this world and it will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP).
+Note for the LLM reading this: "concept" is an rpg we developed which shares some elements with games like dungeons and dragons but is much more loose and flexible, different players will create the storyline within this world and it will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner.
 
-The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan), A Walk on Owe Block (run by Ben), Stewards of Aleforge (run by Jack), and Horrors in Hoegaarden (written by Jack and Ben, run by Ben). Each concept takes place in the same persistent world, with consequences from previous sessions carrying forward.
+The concepts to date, in order, are: The Drunken Trials (run by Guinnie), The Cloister Beast (run by Jack), The Liquor King Trials (run by Seamus), A Walk on Owe Block (run by Jagerbauhm), Stewards of Aleforge (run by Jack), and Horrors in Hoegaarden (written by Jack and Jagerbauhm, run by Jagerbauhm). Each concept takes place in the same persistent world, with consequences from previous sessions carrying forward.
 
 This document contains the full accumulated lore, geography, character histories, and storyline records of the Pintland Isles. Treat it as the authoritative canon.
 
@@ -984,9 +984,9 @@ An island tavern constructed by the 6 Liquor Kings, although this was long befor
 
 ## **The Liquor Kings**
 
-Jp (Jameson Pilsner)Jack (Jack Anqoak), ben (JagerBauhm), Nathan (Seamus Bonehardy) and/or Bootymane, luke (Buke), Stephan (Guinnie)
+Jameson Pilsner, Jack Anqoak, Jagerbauhm, Seamus Bonehardy (and/or Bootymane), Buke, Guinnie
 
-### **Seamus Bonehardy (Nathan) "King of Kegs" — The Barrel Breakers / Ship: The Alemaster's Mortar**
+### **Seamus Bonehardy "King of Kegs" — The Barrel Breakers / Ship: The Alemaster's Mortar**
 
 Backstory: I was born on a small island typically used for marooning pirates who had called for mutiny on otherwise harmonious ships. My parents were both mutineers, although of different ships. I don't think they intended to leave that island, but once my mother became pregnant, my father is said to have become a completely different man and worked tirelessly to get us off the island. In that year, the town was raided by an up and coming crew of land-raiding pirates and both of my parents were killed. Since then, I've been a member of six separate crews (the one I grew up on and then a number of others in my teenage years) and eventually ended up just putting down the gold to build my own ship and forge a new path. It ain't much right now, but as my own captain, I see a future full of gold and exploits unlike any of those known by the pirates I grew up around.
 
@@ -1000,7 +1000,7 @@ Upon arriving in the Pintland Isles. Bonehardy’s performance in the first two 
 
 In more recent events, Bonehardy was one of only two kings to make it out of the Rotted Soul’s prison with his soul intact. While he is quick to ascribe this to his quick-witted memorization of the prison’s layout, some of the other kings grumble about the number of times they saved his life. 
 
-### **Jack Anqoak (Jack) "Oracle of Aleforge" — Goldcoral Incorporated / Ship: The Bastard's Requiem**
+### **Jack Anqoak "Oracle of Aleforge" — Goldcoral Incorporated / Ship: The Bastard's Requiem**
 
 Jack Anqoak was known in Gyntonick as a thief, though he preferred to describe himself as a redistributor of wealth, a claim undermined by the fact that the wealth only ever moved in one direction. One night in a tavern there, fresh from a quarrel with his brother Rum, he marked a visiting merchant carrying a loose coin purse and a copper-colored scarf. He approached with charm, asked after the scarf, offered a drink for the story, and lifted the purse while the man was still telling it. Then, unwisely, he insulted the merchant's trade in front of the room.
 
@@ -1018,11 +1018,11 @@ It was after these events when the mystical side of the island took a hold of An
 
   
 
-### **Jagerbauhm (Ben) "Drunken Angel" — The Lager Duke**
+### **Jagerbauhm "Drunken Angel" — The Lager Duke**
 
 Yeah id say from ages 0-2 grew up in shanty town until parents (both just poopdeck swabbers) moved away to providence as refugees. Lived there until 16 when i snagged a bit of fake clockheart tonic made by the Liquor witch Faegi which turned me into a functional alcoholic (had to hide my true drunkenness from the church). Abandoned my town by 17 and went off adventuring only to return home late to the liquor king trails part 1
 
-### **Steph 'Guinnie' O'Guinness (Stephan)** **The Bilgrats and Buttplugs / Ship: Jolly Rammer**
+### **Steph 'Guinnie' O'Guinness** **The Bilgrats and Buttplugs / Ship: Jolly Rammer**
 
 Welp guess this is me
 
@@ -1036,7 +1036,7 @@ Now imma Liquor King, but me past, well lets keep that hush now.
 
 Me just drinks deep, watches close, and I're never forgets a face (cock).
 
-### **Buke (Luke) — No Middle, No Last Name**
+### **Buke — No Middle, No Last Name**
 
 My names Buke, no middle name no last name. No one knows who my parents are or where I came from, but as an infant they found me at the bottom of an empty whiskey barrel. I refused to drink water, milk, anything imaginable. However, I drank a shit ton of brew. With vitamin alcohol flowing through my veins my bones grew strong and by the age of four i was helping my new family load cargo onto trading ships. 
 
@@ -1046,7 +1046,7 @@ The saga ended over a fish. Buke was breaking camp with the best catch of his li
 
 Upon hearing of the Drunken Trials, a chance to become more than a simple fisherman, I swam across the sea to the shores of aleforge once again and got a ticket to participate in the trials via chugging competition, where I chugged 17 pints of brew in 180 seconds, cementing my place in the competition.
 
-### **Jameson Pilsner (JP) — Captain of the Coors Golden Isles**
+### **Jameson Pilsner — Captain of the Coors Golden Isles**
 
 Jameson Pilsner (Jp) was an orphan child adopted by a couple by the names of Jack Daniels and Amber Ale (both drunks).
 
@@ -1164,7 +1164,7 @@ Gideon is agnostic towards the Veilwalkers, he gives them their distance but see
 
 ### **Rollo**
 
-Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends and situationships as often as changing his pants, very often. He first was with Luke for a brief moment in the drunken trials but later on in the cloister beast storyline he dumped luke like a sack of potatoes and moved on to his new fling, JP. I believe currently Rollo was dating his boss glub tuppus wepple during the events of Stewards of Aleforge but broke up with him after seeing him get beat up by Jack Anqoak, he described it as “an ick”. He was somewhat unfairly legally commanded into a relationship with MAMA leader, Susan Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport cigarettes and will often reveal information if presented with some. He is a sensitive soul though and his constant switching of boyfriends is a search for affirmation and affection, a fact which only those who are closest to him fully understand
+Rollo is a promiscuous tavern hand who works for glub tuppus wepple. Rollo changes his boyfriends and situationships as often as changing his pants, very often. He first was with Buke for a brief moment in the drunken trials but later on in the cloister beast storyline he dumped buke like a sack of potatoes and moved on to his new fling, JP. I believe currently Rollo was dating his boss glub tuppus wepple during the events of Stewards of Aleforge but broke up with him after seeing him get beat up by Jack Anqoak, he described it as “an ick”. He was somewhat unfairly legally commanded into a relationship with MAMA leader, Susan Plinket. His opinion of the liquor kings has soured with this ruling.He is also addicted to newport cigarettes and will often reveal information if presented with some. He is a sensitive soul though and his constant switching of boyfriends is a search for affirmation and affection, a fact which only those who are closest to him fully understand
 
 ### **Glub Tuppus Wepple**
 
@@ -1176,7 +1176,7 @@ Thomas thatcher, the beloved town mayor of aleforge. His father essentially rebu
 
 His disappearance was the catalyst for the cloister beast storyline, eventually the liquor kings found him caged up in fentmaxxers dungeon, but in their excitement and revelry they forgot to actually rescue  him and left him there as they continued their quest. This would be the last time Thatcher was seen alive. The people of aleforge heard about this and their opinion of the liquor kings has soured. Aleforge was forced to look elsewhere for leadership and settled on a man called Gidion Drake. 
 
-(Stephan's Concept): The Town's Mayor who was in charge of the festival's logistics.
+(Guinnie's Concept): The Town's Mayor who was in charge of the festival's logistics.
 
 ### **John Cum (DECEASED) and John Delaney (DECEASED)**
 
@@ -1246,7 +1246,7 @@ Richard had recently washed ashore aleforge on wreckage from a boating accident.
 
 ### **Maximilian (DECEASED)**
 
-As a child, Maximilian Andrew Aldridge watched the Liquor Kings slaughter his mother — a ranking member of the MAA — and all her companions. Raised without parents and guided only by confusion and rage, he eventually made contact with what he described as the devil himself and received knowledge far beyond ordinary human reach. His first invention was cryogenics, which he used to capture the Liquor Kings at a supposed 20th anniversary celebration and freeze them in cryo-chambers. He spent centuries across extended waking periods — using cryosleep cycles to multiply his lifespan fivefold — directing the construction of a space station and the infrastructure for a perfect hell in which to trap the Kings. He was ultimately killed by the Liquor Kings after they broke free, with Luke landing the final blow. MAMA was founded in his name.
+As a child, Maximilian Andrew Aldridge watched the Liquor Kings slaughter his mother — a ranking member of the MAA — and all her companions. Raised without parents and guided only by confusion and rage, he eventually made contact with what he described as the devil himself and received knowledge far beyond ordinary human reach. His first invention was cryogenics, which he used to capture the Liquor Kings at a supposed 20th anniversary celebration and freeze them in cryo-chambers. He spent centuries across extended waking periods — using cryosleep cycles to multiply his lifespan fivefold — directing the construction of a space station and the infrastructure for a perfect hell in which to trap the Kings. He was ultimately killed by the Liquor Kings after they broke free, with Buke landing the final blow. MAMA was founded in his name.
 
 ### **Dimitri**
 
@@ -1764,7 +1764,7 @@ This section contains the full narrative records of each Concept session, in chr
 
 ## **Concept I: The Drunken Trials**
 
-Run by Stephan. The founding Concept. The one that started it all.
+Run by Guinnie. The founding Concept. The one that started it all.
 
 Setting: The town of Aleforge is renowned across all lands for its annual festival, the Drunken Trials. Aleforge sits nestled in a picturesque valley, surrounded by barley fields and clear, fast-flowing streams - the perfect environment for brewing. The town's main square is dominated by the Gilded Tankard, a massive inn with a brewing facility attached. During the Drunken Trials, the entire town becomes a giant tavern, with games, contests, and trials set up in every corner. You've all travelled from your dedicated homes and are aware of the Trials, some lore and each with your own gumption to become this years Crowned Liquor King\!
 
@@ -1778,7 +1778,7 @@ Run by Jack. The mystery deepens.
 
 Just months after the MAA's defeat at the Drunken Trials the Liquor Kings returned to Aleforge to find the town in distress. Thomas Thatcher, their beloved mayor, had gone missing. Suspicion immediately fell on the MAA, who had never forgiven the Kings for their victory.
 
-The Kings were welcomed back with gifts: Stephan received diamond boots for his historic two-trial winning streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his spectacular drunkenness, and Nathan, having been forced to play sober due to circumstances, was stripped of an iron chestplate as punishment from above. Ben received a full protection-enchanted armor set for arriving late.
+The Kings were welcomed back with gifts: Guinnie received diamond boots for his historic two-trial winning streak, Buke received a diamond sword as the newly crowned Liquor King, JP received a diamond liquor crown as recognition of his spectacular drunkenness, and Seamus, having been forced to play sober due to circumstances, was stripped of an iron chestplate as punishment from above. Jagerbauhm received a full protection-enchanted armor set for arriving late.
 
 The investigation unfolded across multiple fronts. The Kings explored the observatory, where they discovered Fentmaxxer's true obsession: the Warden's egg and his plans to raise it as a weapon. A miniboss fight against Fentmaxxer and his illusionist forces followed. The Kings won, claiming netherite equipment as their reward and gaining information about the MAA's underground lair.
 
@@ -1794,7 +1794,7 @@ Notable items from this concept: Hazmat suit, Backtrac, Comms chip, Warp shard. 
 
 ## **Concept III: The Liquor King Trials**
 
-Run by Nathan. Twenty years forward in time, then four hundred and change via cryo, and back to when they left.
+Run by Seamus. Twenty years forward in time, then four hundred and change via cryo, and back to when they left.
 
 A new villager has prepared a special event to honor the 20th anniversary of the MAA's glorious defeat\!
 
@@ -1816,7 +1816,7 @@ Finally, the kings managed to kill Maximilian, escape his space station, and ret
 
 ## **Concept IV: A Walk on Owe Block**
 
-Run by Ben and Stephan. The Kings go to the city.
+Run by Jagerbauhm and Guinnie. The Kings go to the city.
 
 The Liquor Kings arrived in Owe Block carrying a book from the scholar Josiphus, ostensibly there to study the district's culture and relics. Wagwan, the sharp-eyed owner of the Stank Tank bar, clocked their presence immediately, sussed their individual personalities, and split them into two rival gang factions: Seamus Bonehardy and Jack Anqoak joined the Crimson Cutters (Krag's Irish-inflected blade fighters), while Guinnie, Buke, and Jameson Pilsner joined the Seaside Circus (Zara's Jamaican explosive-specialists).
 
@@ -1872,15 +1872,15 @@ Drake was tried and banished to Vodkonia. Plinket was sentenced to Rollo. Rump w
 
 ### **Individual Performance Summary**
 
-**Jagerbauhm (Ben)** — Pro-Providence, consistently sacrificed personal political reputation for Aleforge's wellbeing, closed the portal. MVP of the final sequence.
+**Jagerbauhm** — Pro-Providence, consistently sacrificed personal political reputation for Aleforge's wellbeing, closed the portal. MVP of the final sequence.
 
-**Seamus Bonehardy (Nathan)** — Pro-Aleforge, managed impossible situations without fully compromising his morals, crafted the best trade deals, got blackmailed by his own treasurer, won the mayoral election.
+**Seamus Bonehardy** — Pro-Aleforge, managed impossible situations without fully compromising his morals, crafted the best trade deals, got blackmailed by his own treasurer, won the mayoral election.
 
-**Jameson Pilsner (JP)** — Found Cumsock the goat in the sewers. Found Bluechew and Super Lube on Day 3. Died three times in the final battle, resurrected each time by Aleforge ale. Pro-Fenwick.
+**Jameson Pilsner** — Found Cumsock the goat in the sewers. Found Bluechew and Super Lube on Day 3. Died three times in the final battle, resurrected each time by Aleforge ale. Pro-Fenwick.
 
-**Steph 'Guinnie' O'Guinness (Stephan)** — Pro-Shanty Town, strongly pragmatic, found the Hoegaarden connection books, asked Susan Plinket what the recoil was on 'that thang' as his opening diplomatic move. Found her favorite flower later. Anti-Fenwick in policy.
+**Steph 'Guinnie' O'Guinness** — Pro-Shanty Town, strongly pragmatic, found the Hoegaarden connection books, asked Susan Plinket what the recoil was on 'that thang' as his opening diplomatic move. Found her favorite flower later. Anti-Fenwick in policy.
 
-**Buke (Luke)** — Pro-ale production above all else. Solved the portal problem intellectually. Helped Cheeks escape. Declined Rollo definitively. Buke died once. Named candidate for mayor as well.
+**Buke** — Pro-ale production above all else. Solved the portal problem intellectually. Helped Cheeks escape. Declined Rollo definitively. Buke died once. Named candidate for mayor as well.
 
 **Jack Anqoak** — Beat and robbed Wepple on Turn 9 for his entire ale supply. Founded Goldcoral Inc. on the back of his Concept III performance.
 
@@ -1890,7 +1890,7 @@ Drake was tried and banished to Vodkonia. Plinket was sentenced to Rollo. Rump w
 
 ## **Concept VI: Horror in Hoegaarden**
 
-Run by Ben. The Kings go into the deep dark.
+Run by Jagerbauhm. The Kings go into the deep dark.
 
 Ever since the Liquor Kings were tasked to retrieve ancient relics out of Owe Block, Jack Anqoak has been fascinated by the more mystical elements of this land. While the other Liquor Kings were going round for round with Rollo, Anqoak was doing what he loved, getting black out drunk in Hoegaarden Hall. In his studies, he stumbled across many histories of great heroes and tyrants of the past, wars and kingdoms, plagues and famines, none caught his attention like the life of The Guardian.
 
@@ -2190,11 +2190,11 @@ The young brewers of Aleforge present their first brew. This is a coming of age 
 
 ## **Anything for a Newport**
 
-*Attributed to Old Salty. A scathing ballad about Luke and JP's associations with Rollo.*
+*Attributed to Old Salty. A scathing ballad about Buke and JP's associations with Rollo.*
 
 *Oh, gather round, ye drunken sots, to hear Old Salty's tale,*
 
-*Of Luke and JP's filthy deeds that make the stout go stale\!*
+*Of Buke and JP's filthy deeds that make the stout go stale\!*
 
 *These Liquor Kings, now turned to Rollo's escorts,*
 
@@ -2202,7 +2202,7 @@ The young brewers of Aleforge present their first brew. This is a coming of age 
 
 *Oh, Rollo's arse, the Kings' disgrace, they've really hit a low\!*
 
-*Luke and Pilsner, ye filthy pricks, you didn't have to blow\!*
+*Buke and Pilsner, ye filthy pricks, you didn't have to blow\!*
 
 *From tavern floor to whorehouse door, ye shagged our twinkish lad,*
 
@@ -2912,7 +2912,7 @@ The young brewers of Aleforge present their first brew. This is a coming of age 
 
   - Sackbeard's Armor — JP
   - Sackbeard's Axe — JP
-  - Sackbeard's Dagger — Ben (Jagerbauhm)
+  - Sackbeard's Dagger — Jagerbauhm
 
 ## **Horror in Hoegaarden**
 
@@ -2929,7 +2929,7 @@ The young brewers of Aleforge present their first brew. This is a coming of age 
 ## **Open World / Unattributed to Concept**
 
   - Xi Jin Ping's Lucky Arrow — Jack
-  - Beast Soul — Nathan (Seamus)
+  - Beast Soul — Seamus (Seamus)
   - The Drifter's Call — Jack
   - Sackbeard's Cutlass — Lost to time during a fight between Buke and Jagerbauhm.
 

@@ -28,19 +28,19 @@ All text reproduced exactly as written in source documents
 
  First off the opening monologue and scene was unbelievable, i really had no idea what to expect even though i remembered you telling me the premise of one of the MAAs kids taking revenge i absolutely had no clue what that was going to look like. My spawn was in the server room and the first thing i found was a wrench, i used this wrench to open a trapdoor which took an embarrassingly long time and that led to the security office. Here i found my starting items and some emails which played a large role down the line. The server room had two additional rooms attached which i was not able to access at this time.
 
-I warped into the conference room where i found some gear and killed a guard. I learned some lore about the vip room but was not sure how to access it at this time. I warped to navigation where i met up with stephan and he just said bye and dipped without even looking around lol. But in the nav section combined with the conference lore i was able to piece together the basics of the situation and importantly the time which the game was taking place (cycle 93).  There was also another door i was unable to open here. 
+I warped into the conference room where i found some gear and killed a guard. I learned some lore about the vip room but was not sure how to access it at this time. I warped to navigation where i met up with guinnie and he just said bye and dipped without even looking around lol. But in the nav section combined with the conference lore i was able to piece together the basics of the situation and importantly the time which the game was taking place (cycle 93).  There was also another door i was unable to open here. 
 
-I followed stephan into crawlspace 1 but didnt know we could /crawl at this point so i left lol. I used the conference warp to crawlspace 2 and ran into ben and dimitri. I briefly showed up to engineering where i bumped into stephan and luke and we went back and opened the vip room together. Ben also happened to show up shortly after and jp had a generational crashout because he was still in his starting room at this point. 
+I followed guinnie into crawlspace 1 but didnt know we could /crawl at this point so i left lol. I used the conference warp to crawlspace 2 and ran into jagerbauhm and dimitri. I briefly showed up to engineering where i bumped into guinnie and buke and we went back and opened the vip room together. Jagerbauhm also happened to show up shortly after and jp had a generational crashout because he was still in his starting room at this point. 
 
 Jp walked out of his irl room walked by the place i was sitting and said he was going to kill himself then came back downstairs with a plate of reheated dominos Parmesan bread bites and a beer. 
 
-From the conference warp we went to the HR room and found a bunch of lore and finally met up with jp and got out of proxy chat. From here i believe we found the bussy module and the power source mechanisms. It was at this point my understanding of what was going on started to fail. From piecing together bits of lore, mainly from luke and Stephans books i was able to figure out two of the three passwords for doors (Pythagorus and Odysseus) but im not sure how they figured out Volatile. 
+From the conference warp we went to the HR room and found a bunch of lore and finally met up with jp and got out of proxy chat. From here i believe we found the bussy module and the power source mechanisms. It was at this point my understanding of what was going on started to fail. From piecing together bits of lore, mainly from buke and Guinnies books i was able to figure out two of the three passwords for doors (Pythagorus and Odysseus) but im not sure how they figured out Volatile. 
 
-Stephan and i went to the server room to try to solve a puzzle but i was too retarded and god himself told me to leave so ben could try, ben solved it but tbh i missed what the puzzle did for us lol. 
+Guinnie and i went to the server room to try to solve a puzzle but i was too retarded and god himself told me to leave so jagerbauhm could try, jagerbauhm solved it but tbh i missed what the puzzle did for us lol. 
 
-Stephen printed the correct keys and at this point for like 40 minutes i somehow forgot about the 3 locked doors i had encountered. I was hanging around in the bussy module and ben asked to borrow my backtrack which then proceeded to get passed around like a blunt in a nightmare rotation and miraculously was never returned to me. Eventually with a helpful hint from god and one of the emails from my starting room we were able to get back on track and opened up the server maintenance room and i actually dont remember what stephan found in there. 
+Guinnie printed the correct keys and at this point for like 40 minutes i somehow forgot about the 3 locked doors i had encountered. I was hanging around in the bussy module and jagerbauhm asked to borrow my backtrack which then proceeded to get passed around like a blunt in a nightmare rotation and miraculously was never returned to me. Eventually with a helpful hint from god and one of the emails from my starting room we were able to get back on track and opened up the server maintenance room and i actually dont remember what guinnie found in there. 
 
-From here we began entering the endgame, Luke opened up the navigation door i think and that gave us access to the flow controls and thankfully everyone else was able to understand how the system worked but i totally did not lol so i just followed luke around until we ended up in the engine room. We all hit the buttons and went into the throne room. Ben gave an inspiring speech and we walked into the final fight and i was certain it was going to be good for me. Unfortunately i was actually as close to the wither skeleton spawner as you could be, and was killed instantly before i even saw what was there. It was downhill from here. I spawned and would get 1-2 crits and die, i eventually found some more gear and we went up top to shut down the other modules, i of course died instantly from missing the jump and was naked from here on out, i punched max in the back one time and was immediately beheaded and thankfully luke clapped his cheeks like he said we would do in the beginning. 
+From here we began entering the endgame, Buke opened up the navigation door i think and that gave us access to the flow controls and thankfully everyone else was able to understand how the system worked but i totally did not lol so i just followed buke around until we ended up in the engine room. We all hit the buttons and went into the throne room. Jagerbauhm gave an inspiring speech and we walked into the final fight and i was certain it was going to be good for me. Unfortunately i was actually as close to the wither skeleton spawner as you could be, and was killed instantly before i even saw what was there. It was downhill from here. I spawned and would get 1-2 crits and die, i eventually found some more gear and we went up top to shut down the other modules, i of course died instantly from missing the jump and was naked from here on out, i punched max in the back one time and was immediately beheaded and thankfully buke clapped his cheeks like he said we would do in the beginning. 
 
 **Jameson Pilsner’s Report:**
 
@@ -74,11 +74,11 @@ I hear all my friends 1 by 1 escaping thier rooms.....fuck I'm dead last. I have
 
 FUCK I'm a fool, the liquor has gotten to me AGAIN.......(this is yet again the beginning of my decent) 
 
-I enter the ID and the door opens, and finally escape. I get Teleported to a long hallway, there's a financial and accounting department. I open another door at the end of the hallway with my ID code where I'm reunited with Luke. Fuck....he's got armor, a sword, and so much gear. How the hell do i have nothing? 
+I enter the ID and the door opens, and finally escape. I get Teleported to a long hallway, there's a financial and accounting department. I open another door at the end of the hallway with my ID code where I'm reunited with Buke. Fuck....he's got armor, a sword, and so much gear. How the hell do i have nothing? 
 
   
 
-Luke and I look around, there's an ender skeleton in a room that he kills for me. Together we teleport to the workshop. Hmmm. This room forsure has lots of improvement information. I enter the main office and immediately get killed my an ender skeleton. I'm back in the rec room......i have no warp crystals......no gear.....and no way to warp back in time before all my items despawn.....after a long wait....i get back to the work shop....finally....i search everywhere. I fins books on how to make L2 pass cards, how to upgrade weapons. I find food, lapis, warp crystal, bottles of enchantment and 3 balck pass cards. I try renaming them....but to what? I try naming it after the room i want to enter, "the engine room". 
+Buke and I look around, there's an ender skeleton in a room that he kills for me. Together we teleport to the workshop. Hmmm. This room forsure has lots of improvement information. I enter the main office and immediately get killed my an ender skeleton. I'm back in the rec room......i have no warp crystals......no gear.....and no way to warp back in time before all my items despawn.....after a long wait....i get back to the work shop....finally....i search everywhere. I fins books on how to make L2 pass cards, how to upgrade weapons. I find food, lapis, warp crystal, bottles of enchantment and 3 balck pass cards. I try renaming them....but to what? I try naming it after the room i want to enter, "the engine room". 
 
 Finally I've found something to complete. Some value i can add to the team. 
 
@@ -116,7 +116,7 @@ Finally......I'm reunited. It feels so good to be reunited with my friends. They
 
 It's funny really......how life has a way of being poetic in a way. There's things in life, i suppose I'll just never have.....sobriety perhaps. I'll yell and blame my friends.....but it was me that walked into that gas chamber. 
 
-I've filled my role at this point really. All hope has been lost. My team will find a way out of here.....I'll just stick close to them. And well....if I'm not gonna useful....maybe I'll just have a small drink. I always keep an emergency flasks of whisky stored up my ass. I proceed to drink.....ALOT....I wonder around.....hmm guess I'll make copies of Stephans keys. You never know. I follow and follow.....until. wait......the engineering door needs opened? I....i have a key\! I proudly proclaim that i have opened the engineering door and call everyone to my location. 
+I've filled my role at this point really. All hope has been lost. My team will find a way out of here.....I'll just stick close to them. And well....if I'm not gonna useful....maybe I'll just have a small drink. I always keep an emergency flasks of whisky stored up my ass. I proceed to drink.....ALOT....I wonder around.....hmm guess I'll make copies of Guinnies keys. You never know. I follow and follow.....until. wait......the engineering door needs opened? I....i have a key\! I proudly proclaim that i have opened the engineering door and call everyone to my location. 
 
 This is it, this is the beginning of my redemption. Everyone gets to engineering and I proceed to get no credit for opening the door. It's ok its ok......i stumbled across this is anyway. But my moment hasn't passed. I can still prove myself. I am the second one into the engine room and second one to find the throne room door. 
 
@@ -124,7 +124,7 @@ I can feel it......I can see my redemption on the horizon.
 
 Eventually everyone gets to the engine room, we enchant our gear. And enter the throne room. 
 
-I'll be there hero somehow. I know it. We enter in, Ben gives an inspired speech. I'll show my worth.........holy shit....oh no....fuck I'm dead again. Saying that we all got piped would be putting it lightly. Finally we defeat 2 layers of skeletons. We climb into the rafters. And low and behold 2 switches need to be turned off. 
+I'll be there hero somehow. I know it. We enter in, Jagerbauhm gives an inspired speech. I'll show my worth.........holy shit....oh no....fuck I'm dead again. Saying that we all got piped would be putting it lightly. Finally we defeat 2 layers of skeletons. We climb into the rafters. And low and behold 2 switches need to be turned off. 
 
 Idk why but I knew this was my moment to save my friends......There's a massive jump i need to make. With lava below. I don't hesitate for a second.....I run full speed ahead and leap with all my might.....AND I LAND IT....I TURN THE SWITCH OFF.......my friends go to make the final fight to get is free. 
 
@@ -363,7 +363,7 @@ Finally I got this door open, entering into a new hallway feels like some progre
 
   
 
-Starting to get the hang of things, I found some armor and a sword so I don't know what I'm up against, but I hear Ben's screams through the walls, so I guess I'll prepare for that. 
+Starting to get the hang of things, I found some armor and a sword so I don't know what I'm up against, but I hear Jagerbauhm's screams through the walls, so I guess I'll prepare for that. 
 
   
 
@@ -387,7 +387,7 @@ I may not be back to normal, but at least I get another chance.
 
 I ran back to get my stuff but I couldn't help but feel like every hallway looks the same. I need to find my things or I'm never going to get out of here.
 
-In my attempts to get back I ran into Stephan, armed and lubed, I thought this was the end. 
+In my attempts to get back I ran into Guinnie, armed and lubed, I thought this was the end. 
 
 He extended his arm out to me and I took it. I may not know where I am but at least I'm not alone. 
 
@@ -401,7 +401,7 @@ Part 2: Discovery
 
 \------------------
 
-Looking around with Stephan finally makes me feel like we have a chance.
+Looking around with Guinnie finally makes me feel like we have a chance.
 
 We found my stuff and also found Jack, it's starting to feel like I'm back at the cloister, but with much less beer, hopefully that will be rectified soon.
 
@@ -423,7 +423,7 @@ We're geared up, a warp menu available, the tables are definitely beginning to t
 
   
 
-Ben found his way to us in the VIP room and we all went to HRBIO. Reading through the endless pages of information is overwhelming, what I've gathered is that they love bussy in the future. 
+Jagerbauhm found his way to us in the VIP room and we all went to HRBIO. Reading through the endless pages of information is overwhelming, what I've gathered is that they love bussy in the future. 
 
   
 
@@ -431,11 +431,11 @@ JP finally found his way back to us\! But then he died. But then he found his wa
 
   
 
-Jack and Stephan keep warping back and forth and the button isn't working for me. I wonder where I can get one of those backtracks they keep talking about.
+Jack and Guinnie keep warping back and forth and the button isn't working for me. I wonder where I can get one of those backtracks they keep talking about.
 
-They're using it to try and find a computer? Ben somehow knows what they're talking about? 
+They're using it to try and find a computer? Jagerbauhm somehow knows what they're talking about? 
 
-Ben keeps typing out this binary so I guess I'll look it up - VOLATILE
+Jagerbauhm keeps typing out this binary so I guess I'll look it up - VOLATILE
 
   
 
@@ -467,7 +467,7 @@ I don't know what kind of "flow" I'm supposed to "control" in here but I'll send
 
   
 
-Stephan JP and Ben are in the engine room\! Jack and I need to find the bussy module before something goes wrong, we need to turn off the power now.
+Guinnie JP and Jagerbauhm are in the engine room\! Jack and I need to find the bussy module before something goes wrong, we need to turn off the power now.
 
   
 
@@ -481,7 +481,7 @@ Part 3: Revenge
 
 We sprinted through the hallway, I could hear Max's laugh faintly in the distance. If this is our last fight, I'm glad we're not going into it alone. 
 
-We chugged a beer, Ben gave a speech to us, we're ready to open the door.
+We chugged a beer, Jagerbauhm gave a speech to us, we're ready to open the door.
 
 .
 
@@ -497,7 +497,7 @@ We chugged a beer, Ben gave a speech to us, we're ready to open the door.
 
 First wave done, I couldn't believe how many guards there were, if hell is real that was the closest we'll ever get to it up here. The endless screams of those around me, death. After death. After death.
 
-But we made it through. Jack, Stephan, JP, and I ran the front lines while ben took out the guards one at a time.
+But we made it through. Jack, Guinnie, JP, and I ran the front lines while jagerbauhm took out the guards one at a time.
 
 On to the next phase.
 
@@ -515,7 +515,7 @@ Second wave done, my adrenaline is living at a constant spike but we're getting 
 
 This is it. 
 
-JP and Stephan flew to nearby levers to turn them off. We jumped down from the wall and met max where he's been hiding this whole time. All the rage from what he's put us through, and thinking about his ugly ass mom, I couldn't wait any longer. He has to be mine.
+JP and Guinnie flew to nearby levers to turn them off. We jumped down from the wall and met max where he's been hiding this whole time. All the rage from what he's put us through, and thinking about his ugly ass mom, I couldn't wait any longer. He has to be mine.
 
 As I sliced my sword through Max's head I couldn't help but feel relieved. Time to go home. 
 
@@ -577,13 +577,13 @@ Many of the doors are locked. I've learned that some rooms can be lit up with ye
 
 N/A PM
 
-Wandering alone. Feels endless. Maze-like. I heard something and swung my blue sword to cleave its head. Turned out to be Luke from the village. Alive. We didn’t say much—just nodded. Decided to stick together. Felt safer. It wasn’t just me anymore.
+Wandering alone. Feels endless. Maze-like. I heard something and swung my blue sword to cleave its head. Turned out to be Buke from the village. Alive. We didn’t say much—just nodded. Decided to stick together. Felt safer. It wasn’t just me anymore.
 
   
 
 8:44 PM
 
- Luke showed me his books and how to tell what time it was. Soon, I could hear my friends through the walls and we did everything to reach them. Soon we all started syncing up. I could feel it—something shifted. We moved like we knew what we were doing. We were surviving together. That was the first moment of hope I’d felt since arriving.
+ Buke showed me his books and how to tell what time it was. Soon, I could hear my friends through the walls and we did everything to reach them. Soon we all started syncing up. I could feel it—something shifted. We moved like we knew what we were doing. We were surviving together. That was the first moment of hope I’d felt since arriving.
 
  
 
@@ -629,7 +629,7 @@ If I can’t open doors, I can at least protect them. I will protect them.
 
 Next up was the server room. Way too many buttons. Couldn’t get my bearings. Might’ve been the ancient beer I found earlier.
 
-I tried to help. Messed it up. Ben was able to decipher the strange code.
+I tried to help. Messed it up. Jagerbauhm was able to decipher the strange code.
 
 We moved forward. That’s the strange thing about this place—failure doesn’t stick. If something doesn’t work, we try something else.
 
@@ -645,7 +645,7 @@ While everyone was at the flow control valves, I just… waited. Watching my cry
 
 11 PM
 
-Found a hazmat suit. Ugly thing, but it let me get through the irradiated sections near the valve controls. Luke and Jack were manning the control valve room. They opened up access to the engine room. That place is a furnace of noise, steam, and darkness.
+Found a hazmat suit. Ugly thing, but it let me get through the irradiated sections near the valve controls. Buke and Jack were manning the control valve room. They opened up access to the engine room. That place is a furnace of noise, steam, and darkness.
 
   
 
@@ -669,7 +669,7 @@ A long hallway. My skin crawled. Every step forward felt wrong. Like the ship di
 
 This was the end.. I write these words hoping no one ever finds this journal. That it will rot in this place, forgotten. Because if it’s lost… that means I lived to write something new.
 
-Ben tightened his armor. I charged my taser.
+Jagerbauhm tightened his armor. I charged my taser.
 
 JP—our missing friend—stood with us again, armed with all our spare gear.
 
@@ -1571,7 +1571,7 @@ Hey, I heard through the grapevine that the engine maintenance crew is getting s
 
  There i was, at the hoegaarden library with my good friends the liquor kings speaking with Jophisus. 
 
-Omg stephan stop vomiting while Jophisus is speaking. Stephan didn't listen, he just kept drinking and vomiting, a tale as old as time. Jophisus had a quest for us, and we were the perfect crew for the job, as long as it wasnt in….. “Owe Block,” Jophisus proudly proclaimed. Shit, i'm white. Nathan and luke have their white cheeks hanging out their pants. We will not survive a day there. None of the other liquor kings seemed to realize the danger, they were all used to fighting ancient powerful beasts and escaping space stations, but they were blissfully unaware of the true danger we were about to experience.
+Omg guinnie stop vomiting while Jophisus is speaking. Guinnie didn't listen, he just kept drinking and vomiting, a tale as old as time. Jophisus had a quest for us, and we were the perfect crew for the job, as long as it wasnt in….. “Owe Block,” Jophisus proudly proclaimed. Shit, i'm white. Seamus and buke have their white cheeks hanging out their pants. We will not survive a day there. None of the other liquor kings seemed to realize the danger, they were all used to fighting ancient powerful beasts and escaping space stations, but they were blissfully unaware of the true danger we were about to experience.
 
 Jophisus told us to go to a small island off the coast and meet with babu packo, a young jamaican and nigerian man who gave us our boats and set us on our way. My journal was filled with the names of relics hidden from the church of patmos which needed a safe home in the library. Another story of a group of white guys taking valuables from a predominantly black town and putting them in their museums. Fortunately for us, i was going to be black today. This was my plan, be so confident that i belong that the locals would have to assume they were wrong in thinking i'm white. 
 
@@ -1579,11 +1579,11 @@ In my first rap to Wagwan, a weeb sushi chef in Owe Block, i proudly proclaimed 
 
 Our first task, mining. I was brutalized by a few zombies in the mines but eventually just dug down and found diamonds. I was banded upppp. This dumbass british guy took 50% of my money and a slap on the ass and told me to get lost. There weren't even social programs or public transit so idk where all that money was going. 
 
-Then night fell, but it was not time for sleep. Those bastards in the other gang were creepin on our turf again and we had to put a stop to that, so i was told by our leader fin. I would die for him and i did. Being a Crimson Cutter put a new lens on my life, i was part of something, i was needed. Maybe gang violence isn't too bad after all. Then stephan shot me off a roof and i died of bullet wounds and gravity. Ig thats what you get for not wearing nike dunks in Owe Block. We lost the battle that night. 
+Then night fell, but it was not time for sleep. Those bastards in the other gang were creepin on our turf again and we had to put a stop to that, so i was told by our leader fin. I would die for him and i did. Being a Crimson Cutter put a new lens on my life, i was part of something, i was needed. Maybe gang violence isn't too bad after all. Then guinnie shot me off a roof and i died of bullet wounds and gravity. Ig thats what you get for not wearing nike dunks in Owe Block. We lost the battle that night. 
 
 In the morning we played chicken jockey, a local game about shooting white animals, a parable perhaps? Good thing everyone still thought i was black. After that it was back to mining, more diamonds thank goodness, shit another 50% tax, this guy stinks. I was able to find a lot of relics though, in between gang violence and all that. I also found some interesting books on foreign relations and payments going unpaid. 
 
-The next gang war i died almost immediately, it was down to just ben and Nathan on my side. Ben got shot too and it was just nathan left. He was no coward though, he stormed right in and killed luke, only to get gunned down by a couple of wannabe gangsters, jp and stephan. I hate them because they are blue and i am red. 
+The next gang war i died almost immediately, it was down to just jagerbauhm and Seamus on my side. Jagerbauhm got shot too and it was just seamus left. He was no coward though, he stormed right in and killed buke, only to get gunned down by a couple of wannabe gangsters, jp and guinnie. I hate them because they are blue and i am red. 
 
 Our quest was complete, the relics were obtained and displayed and it was time to go back to being a king. A king, the ruler above everyone, but not a part of the community. The privileged outsider. The lonely emperor forever gazing on a home he is unable to enter, the simple life of a farmer in Aleforge. A pirate spilling his grog in Shanty Town. The bustling traders of Rotto and the serenity in Fenwick. All of these are unattainable for a Liquor King but I caught a glimpse of that like on my walk in Owe Block. A fleeting glimpse of the simple life, often overlooked in pursuit of glory. Through all the forced manual labor, manipulative tax code and horrendous gang violence, there was a home. My time in Owe Block showed me the life I could never have, the life I should never want, and i will treasure that in my heart more than the relics i found or the money i made. 
 
@@ -1597,7 +1597,7 @@ A Walk on Owe Block: after action report
 
 It was a typical Tuesday night for me. I had just woken up from a hard day of drinking……I was wasted. I got up and did what I always do…….followed the scent of liquor. For me liquor is a divine being who guides me on my journey. Whenever I seek liquor..…adventure and triumph are soon to follow. Today was no different. 
 
-Found myself at Hoegaarden in a conference room \[don’t ask me which one, I could barely see a foot in front of me\]. I wasnt the only one tho…..my dear friends the liquor kings. Its a good day when I reunited with them. Stephan was already wasted like myself……the only difference is he couldn’t hold his liquor down. A great man that one is, and even better friend…..but such a lightweight. Buke and bootymane had their whole bare ass checks just hanging out the whole meeting. That combined with the liquor coursing through my veins……needless to say I was NOT paying attention to that meeting. 
+Found myself at Hoegaarden in a conference room \[don’t ask me which one, I could barely see a foot in front of me\]. I wasnt the only one tho…..my dear friends the liquor kings. Its a good day when I reunited with them. Guinnie was already wasted like myself……the only difference is he couldn’t hold his liquor down. A great man that one is, and even better friend…..but such a lightweight. Buke and bootymane had their whole bare ass checks just hanging out the whole meeting. That combined with the liquor coursing through my veins……needless to say I was NOT paying attention to that meeting. 
 
 Met a man by the name of Jophisus, he was a librarian or historian idk. He was going on about artifacts and books or something. I only caught one detail……we were headed to Owe Block. 
 
@@ -1609,7 +1609,7 @@ We sailed north to meet an ethnically ambiguous man by the name of Babu Packo. I
 
   
 
-I got a blue durag and was welcomed into a gang by the name "Seaside Circus”. I was with my fellow kings Buke and Stephan. As soon as that durag graced my scalp ... .I was no longer a great liquor king…..I was just a simple miner, standing before the mercy of Owe Block…..and Owe block is not forgiving. And those next few days proved that. My fellow Seasiders and I did good work in those mines. We watched out for each other, took care of each other. When one of us was up, we were all up. In the end that's what won us the gang wars. 
+I got a blue durag and was welcomed into a gang by the name "Seaside Circus”. I was with my fellow kings Buke and Guinnie. As soon as that durag graced my scalp ... .I was no longer a great liquor king…..I was just a simple miner, standing before the mercy of Owe Block…..and Owe block is not forgiving. And those next few days proved that. My fellow Seasiders and I did good work in those mines. We watched out for each other, took care of each other. When one of us was up, we were all up. In the end that's what won us the gang wars. 
 
 Three nights back to back we ran those streets, blickys in hand Nikes on foot. We had some serious losses but in the end we put those “Cutters” in their place. 
 
@@ -1731,11 +1731,11 @@ We get to Owe block. Rather, we enter into a warzone. I’d seen combat in the n
 
   
 
-Owe Block don’t run on rules. It runs on fear, pride, and bandanas. Every alley is a trap. Every corner got eyes. even their dogs and cats are strapped. Before I joined a crew we met up with WagWan who was like a blood hound, sniffing us to see if we had any weak, white genes in us that would compromise our stay. I hit him with a "brother" and did one of those cool handshakes. I think he respects me :) I joined up with the Seaside Circus, blue flag crew—loud, proud, and ready to pull triggers. First night? Zaar the Edgemaster gave us a warspeech and we set off to claim some souls... and we did brother, we did. We wrecked the rival gang. I got the last blinky shot on the whole lot of 'em. That moment stamped me. Then the second war came, and I got caught slippin'. Nathan and Ben ran a train on me and I left Luke out to dry. Painful lesson. You can’t drop your guard in Owe Block—not even for a second.
+Owe Block don’t run on rules. It runs on fear, pride, and bandanas. Every alley is a trap. Every corner got eyes. even their dogs and cats are strapped. Before I joined a crew we met up with WagWan who was like a blood hound, sniffing us to see if we had any weak, white genes in us that would compromise our stay. I hit him with a "brother" and did one of those cool handshakes. I think he respects me :) I joined up with the Seaside Circus, blue flag crew—loud, proud, and ready to pull triggers. First night? Zaar the Edgemaster gave us a warspeech and we set off to claim some souls... and we did brother, we did. We wrecked the rival gang. I got the last blinky shot on the whole lot of 'em. That moment stamped me. Then the second war came, and I got caught slippin'. Seamus and Jagerbauhm ran a train on me and I left Buke out to dry. Painful lesson. You can’t drop your guard in Owe Block—not even for a second.
 
   
 
-The mining trips were brutal. Digging in the dark in search for gold that Sexton Gobbler would take, what a life. Only died once though—fell through the floor into the void?—but I still climbed back up drippin' with diamonds. JP had my back, bought me gear, and we stayed strapped. Chicken Jockey? I went all in. Didn’t win, but I held my own. When the final fight came, we got an overwatch position on the Red snippers -- got an angle on Jack, dropped Ben, and Luke gave his life to hurt Nathan bad. JP and I stormed in and ended it clean. We claimed the turf. We earned it. Ya, had to drop some victory bars in the club that night. Not a rapper but did hit them with "Call me thanos cause I’ll snap your ass in 2..."
+The mining trips were brutal. Digging in the dark in search for gold that Sexton Gobbler would take, what a life. Only died once though—fell through the floor into the void?—but I still climbed back up drippin' with diamonds. JP had my back, bought me gear, and we stayed strapped. Chicken Jockey? I went all in. Didn’t win, but I held my own. When the final fight came, we got an overwatch position on the Red snippers -- got an angle on Jack, dropped Jagerbauhm, and Buke gave his life to hurt Seamus bad. JP and I stormed in and ended it clean. We claimed the turf. We earned it. Ya, had to drop some victory bars in the club that night. Not a rapper but did hit them with "Call me thanos cause I’ll snap your ass in 2..."
 
   
 
@@ -2239,7 +2239,7 @@ GDC Findings: We turn to the dark underbelly of Aleforge in our investigation. A
 
 **Rumors (SOA 4)**
 
-"I heard the blight was bc Luke didnt stroke it for 3 days" "I heard the veilwalkers cursed us" "I thought Pilsner pissed off some gods" "its those Owe Block \*\*\*\*s always causing trouble"
+"I heard the blight was bc Buke didnt stroke it for 3 days" "I heard the veilwalkers cursed us" "I thought Pilsner pissed off some gods" "its those Owe Block \*\*\*\*s always causing trouble"
 
 **Wepple vs Kings (SOA 4)**
 
@@ -2261,7 +2261,7 @@ The Time is Right. Begin the public hate. Lure the community to our point of vie
 
 **Rollos Thoughts (SOA 4)**
 
-Lets not get too ahead of ourselves here. Some of the other Liquor Kings are lookers too. Nathan is probably girthy af and ben looks like he could go to round 45. Maybe Ill have to try some other guys.
+Lets not get too ahead of ourselves here. Some of the other Liquor Kings are lookers too. Seamus is probably girthy af and jagerbauhm looks like he could go to round 45. Maybe Ill have to try some other guys.
 
 \-Rollo
 
@@ -2271,7 +2271,7 @@ In my personal investigation i have linked Gideon Drake to some older manuscript
 
 **GDC 5 (SOA 4)**
 
-GDC Findings:We turn our attention to the Liquor Kings. An unfortunate transcript has been found in which Ben is speaking with the late Dimitri, I quote now. "He (Dimitri) even gave me a massage after I told him Id molest him in the night" Dimitri, a disabled child, being threatened with molestation by a king.Disgusting.
+GDC Findings:We turn our attention to the Liquor Kings. An unfortunate transcript has been found in which Jagerbauhm is speaking with the late Dimitri, I quote now. "He (Dimitri) even gave me a massage after I told him Id molest him in the night" Dimitri, a disabled child, being threatened with molestation by a king.Disgusting.
 
 (there is a 10% chance this leaks to the public from here on out) (THE DIMITRI FILES ARE NOT PUBLIC AND RIGHT NOW ONLY THE LIQUOR KINGS AND MR. BBL ARE AWARE OF IT)
 
@@ -2417,7 +2417,7 @@ My Liquor Kings, there are traitors in your midst. How will you deal with them? 
 
 **Rollo Love Letter 2**
 
-My dearest luke. Pwese be my bowyfweind? Uwu?
+My dearest buke. Pwese be my bowyfweind? Uwu?
 
 Yes: accept
 
@@ -2566,7 +2566,7 @@ Lets move past these drunken kings and into an age of true democracy, where I wi
 
   
 GUINNIE’S SPEECH  
-Good folk of Aleforge, It is I, Steph O’Guinness—Guinnie, the ale-soaked scoundrel who bashed zombies with Rollo's bdsm wip and helped slam that Nethergate shut\! I want to shout out a few individuals. The Brewers of good ol Aleforge, you fill up our boozy heart, and Farmers, you are the soul of our beer, I’m here to make your vats and fields overflow with wheat so your families never go hungry. My fellow Liquor Kings—Seamus, Jaugerbomb, JamesonPilsner, buke, Jack\&coke— these are fine lads. Seamus’s trade deals kept coins clinking, Ben sealed that hellhole portal, JP found Cumsock the goat, Luke helped **cheeks in a time of need**, and Jack… well, he got us all together here didn't he. But unfortunately they’re all stuck chasing gold and glory, forgetting the tavern tunes that make Aleforge sing\!
+Good folk of Aleforge, It is I, Steph O’Guinness—Guinnie, the ale-soaked scoundrel who bashed zombies with Rollo's bdsm wip and helped slam that Nethergate shut\! I want to shout out a few individuals. The Brewers of good ol Aleforge, you fill up our boozy heart, and Farmers, you are the soul of our beer, I’m here to make your vats and fields overflow with wheat so your families never go hungry. My fellow Liquor Kings—Seamus, Jaugerbomb, JamesonPilsner, buke, Jack\&coke— these are fine lads. Seamus’s trade deals kept coins clinking, Jagerbauhm sealed that hellhole portal, JP found Cumsock the goat, Buke helped **cheeks in a time of need**, and Jack… well, he got us all together here didn't he. But unfortunately they’re all stuck chasing gold and glory, forgetting the tavern tunes that make Aleforge sing\!
 
 Let me lay out some of the changes I would enact if you were to elect me Governor. My **Grog Guzzle Gala policy** will entail Aleforge throws a biweekly bash where all ale’s 25% off, so Brewers, Pirates, and Farmers can drink away the blight blues— away with 29% grumpiness from the farmers\! I hope to bless the hard working farmers, miners and crasftmen with cheaper alcohol and pull in money for the brewers. my 2nd policy titled "**M.A.A. Mandatory Alcohol Antidote"** spits in the face of Plinket, God help her, and all the faces of the MAA as we will make everyone down three shots (vaccines) of grog, ale, or rum every two weeks to cure the sobriety’s curse and weed out anyone who rebels against alcohol. I'm sick and tired of these rebels trying to destroy the peace we have created. Traders, my **Gilded Grog Shacks** policy will be to set up coastal taverns for Rotto’s and providence traders, charging triple for them to settle on our docks just so they can sell their grog. WE NEED TO lower our bond debts. Craftsmen and Miners, my **Drunk Delivery** has you building an ale-powered balloon to ship barrels to Shanty Town, tripling our loot while giving Farmers free rides to sell wheat. Hold your applause And Farmers, the **Fenwick Fringe Fertile Fiesta** leases land around Fenwick for you to farm. lets leave Fenwick's woods alone. They have no desire to be apart of our culture and why should we force them too? I have no desire to work with them, but no desire to harm them either. Their magic leaks into our fields and that's fine with me. If not all of these are implemented, 1/2/3 will positively affect Aleforge.
 

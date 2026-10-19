@@ -28,7 +28,7 @@
     {"name": "Moby", "aliases": [], "obscurity": 4},
     {"name": "Brother Silas", "aliases": ["Silas"]},
     {"name": "Mickey", "aliases": ["Mickey of the Pipe Club"]},
-    {"name": "Jagerbauhm", "aliases": ["Jagerbaum", "Ben"], "count": ["re:(?i)\\bja[u]?gerb[a-z]*"], "obscurity": 2, "inferred": true,
+    {"name": "Jagerbauhm", "aliases": ["Jagerbaum"], "count": ["re:(?i)\\bja[u]?gerb[a-z]*"], "obscurity": 2, "inferred": true,
      "note": "Born in Shanty Town but raised in Providence until he ran off at seventeen.",
      "quote": "moved away to providence as refugees. Lived there until 16"},
     {"name": "Cheeks", "aliases": ["Cheekz"], "count": ["re:\\bCheekz?\\b"], "obscurity": 4, "inferred": true,

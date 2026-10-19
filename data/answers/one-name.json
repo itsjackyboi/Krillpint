@@ -8,19 +8,17 @@
  "answers": [
   {
    "name": "Buke",
-   "aliases": [
-    "Luke"
-   ],
+   "aliases": [],
    "mentions": {
-    "total": 100,
-    "compendium": 42,
+    "total": 96,
+    "compendium": 38,
     "records": 58
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run…"
+    "text": "…are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date, in order, are: The Drunken Trials (run by Guinnie),…"
    },
    "rank": 1,
    "percentile": 0.0,
@@ -53,20 +51,19 @@
     "Jagerbaugm",
     "Jagerbaumdani",
     "Jaugerbomb",
-    "Ben",
     "Drunken Angel",
     "Lager Duke"
    ],
    "mentions": {
-    "total": 70,
-    "compendium": 28,
-    "records": 42
+    "total": 73,
+    "compendium": 24,
+    "records": 49
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts…"
+    "text": "…previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date, in order, are:…"
    },
    "rank": 3,
    "percentile": 5.3,
@@ -127,7 +124,7 @@
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…after they broke free, with Luke landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his…"
+    "text": "…after they broke free, with Buke landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his…"
    },
    "rank": 6,
    "percentile": 13.2,

@@ -18,15 +18,15 @@
     "Jack and Coke"
    ],
    "mentions": {
-    "total": 142,
-    "compendium": 74,
+    "total": 139,
+    "compendium": 71,
     "records": 68
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson…"
+    "text": "…build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date,…"
    },
    "rank": 1,
    "percentile": 0.0,
@@ -39,20 +39,19 @@
     "Jagerbaugm",
     "Jagerbaumdani",
     "Jaugerbomb",
-    "Ben",
     "Drunken Angel",
     "Lager Duke"
    ],
    "mentions": {
-    "total": 70,
-    "compendium": 28,
-    "records": 42
+    "total": 73,
+    "compendium": 24,
+    "records": 49
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts…"
+    "text": "…previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date, in order, are:…"
    },
    "rank": 2,
    "percentile": 5.3,
@@ -72,7 +71,7 @@
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister Beast (run by Jack), The Liquor King Trials (run by Nathan),…"
+    "text": "…Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date, in order, are: The Drunken Trials (run by Guinnie), The Cloister Beast (run by Jack), The Liquor King Trials (run by Seamus),…"
    },
    "rank": 3,
    "percentile": 10.5,

@@ -29,13 +29,12 @@
   {
    "name": "Jagerbauhm",
    "aliases": [
-    "Jagerbaum",
-    "Ben"
+    "Jagerbaum"
    ],
    "mentions": {
-    "total": 44,
-    "compendium": 18,
-    "records": 26
+    "total": 73,
+    "compendium": 24,
+    "records": 49
    },
    "obscurity": 2,
    "inferred": true,

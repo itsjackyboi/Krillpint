@@ -14,15 +14,15 @@
     "Anqok"
    ],
    "mentions": {
-    "total": 142,
-    "compendium": 74,
+    "total": 139,
+    "compendium": 71,
     "records": 68
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson…"
+    "text": "…build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date,…"
    },
    "rank": 1,
    "percentile": 0.0,
@@ -33,19 +33,18 @@
    "aliases": [
     "Seamus",
     "Bonehardy",
-    "Nathan",
     "Bootymane"
    ],
    "mentions": {
-    "total": 116,
-    "compendium": 58,
-    "records": 58
+    "total": 126,
+    "compendium": 62,
+    "records": 64
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan),…"
+    "text": "…will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The…"
    },
    "rank": 2,
    "percentile": 3.6,
@@ -53,19 +52,17 @@
   },
   {
    "name": "Buke",
-   "aliases": [
-    "Luke"
-   ],
+   "aliases": [],
    "mentions": {
-    "total": 100,
-    "compendium": 42,
+    "total": 96,
+    "compendium": 38,
     "records": 58
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run…"
+    "text": "…are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date, in order, are: The Drunken Trials (run by Guinnie),…"
    },
    "rank": 3,
    "percentile": 7.1,
@@ -79,15 +76,15 @@
     "Pilsner"
    ],
    "mentions": {
-    "total": 98,
-    "compendium": 50,
+    "total": 94,
+    "compendium": 46,
     "records": 48
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister…"
+    "text": "…Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date, in order, are: The Drunken Trials (run by Guinnie), The Cloister Beast…"
    },
    "rank": 4,
    "percentile": 10.7,
@@ -97,46 +94,44 @@
    "name": "Guinnie",
    "aliases": [
     "Steph O'Guinness",
-    "Stephan",
     "Steph",
     "Guinne"
    ],
    "mentions": {
-    "total": 76,
-    "compendium": 30,
-    "records": 46
+    "total": 73,
+    "compendium": 26,
+    "records": 47
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order,…"
+    "text": "…players themselves are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date, in order, are: The Drunken Trials…"
    },
    "rank": 5,
-   "percentile": 14.3,
-   "score": 5
+   "percentile": 16.1,
+   "score": 6
   },
   {
    "name": "Jagerbauhm",
    "aliases": [
     "Jagerbaum",
-    "Jagerbaugm",
-    "Ben"
+    "Jagerbaugm"
    ],
    "mentions": {
-    "total": 70,
-    "compendium": 28,
-    "records": 42
+    "total": 73,
+    "compendium": 24,
+    "records": 49
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts…"
+    "text": "…previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date, in order, are:…"
    },
-   "rank": 6,
-   "percentile": 17.9,
-   "score": 8
+   "rank": 5,
+   "percentile": 16.1,
+   "score": 6
   },
   {
    "name": "Maximilian",
@@ -178,7 +173,7 @@
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…after they broke free, with Luke landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his…"
+    "text": "…after they broke free, with Buke landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his…"
    },
    "rank": 8,
    "percentile": 25.0,

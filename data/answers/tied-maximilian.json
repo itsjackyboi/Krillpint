@@ -8,19 +8,17 @@
  "answers": [
   {
    "name": "Buke",
-   "aliases": [
-    "Luke"
-   ],
+   "aliases": [],
    "mentions": {
-    "total": 100,
-    "compendium": 42,
+    "total": 96,
+    "compendium": 38,
     "records": 58
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run…"
+    "text": "…are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date, in order, are: The Drunken Trials (run by Guinnie),…"
    },
    "rank": 1,
    "percentile": 0.0,
@@ -63,7 +61,7 @@
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…after they broke free, with Luke landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his…"
+    "text": "…after they broke free, with Buke landing the final blow. MAMA was founded in his name. ### Dimitri The sole child survivor of a workforce revolt aboard Maximilian's space station. After his…"
    },
    "rank": 3,
    "percentile": 8.7,
@@ -83,7 +81,7 @@
    "inferred": false,
    "evidence": {
     "source": "Hoegaarden Hall of Records",
-    "text": "…luke around until we ended up in the engine room. We all hit the buttons and went into the throne room. Ben gave an inspiring speech and we walked into the final fight and i was certain it was…"
+    "text": "…buke around until we ended up in the engine room. We all hit the buttons and went into the throne room. Jagerbauhm gave an inspiring speech and we walked into the final fight and i was certain…"
    },
    "rank": 4,
    "percentile": 13.0,

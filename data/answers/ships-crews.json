@@ -13,15 +13,15 @@
     "Bonehardy"
    ],
    "mentions": {
-    "total": 116,
-    "compendium": 58,
-    "records": 58
+    "total": 126,
+    "compendium": 62,
+    "records": 64
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan),…"
+    "text": "…will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The…"
    },
    "rank": 1,
    "percentile": 0.0,
@@ -56,15 +56,15 @@
     "Pilsner"
    ],
    "mentions": {
-    "total": 91,
-    "compendium": 47,
+    "total": 88,
+    "compendium": 44,
     "records": 44
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order, are: The Drunken Trials (run by Stephan), The Cloister…"
+    "text": "…Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date, in order, are: The Drunken Trials (run by Guinnie), The Cloister Beast…"
    },
    "rank": 3,
    "percentile": 7.7,
@@ -97,15 +97,15 @@
     "Captain of the Shoals"
    ],
    "mentions": {
-    "total": 49,
-    "compendium": 21,
-    "records": 28
+    "total": 72,
+    "compendium": 26,
+    "records": 46
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts to date, in order,…"
+    "text": "…players themselves are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date, in order, are: The Drunken Trials…"
    },
    "rank": 5,
    "percentile": 15.4,
@@ -230,7 +230,7 @@
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…his life. ### Jack Anqoak (Jack) \"Oracle of Aleforge\" — Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick as a thief, though he preferred to describe himself as…"
+    "text": "…saved his life. ### Jack Anqoak \"Oracle of Aleforge\" — Goldcoral Incorporated / Ship: The Bastard's Requiem Jack Anqoak was known in Gyntonick as a thief, though he preferred to describe himself as…"
    },
    "rank": 11,
    "percentile": 40.4,
@@ -436,7 +436,7 @@
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…trails part 1 ### Steph 'Guinnie' O'Guinness (Stephan) The Bilgrats and Buttplugs / Ship: Jolly Rammer Welp guess this is me Heard o' Steph O'Guinness, have ye? Folks here call him Guinnie I…"
+    "text": "…liquor king trails part 1 ### Steph 'Guinnie' O'Guinness The Bilgrats and Buttplugs / Ship: Jolly Rammer Welp guess this is me Heard o' Steph O'Guinness, have ye? Folks here call him Guinnie I…"
    },
    "rank": 20,
    "percentile": 84.6,
@@ -457,7 +457,7 @@
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…(Guinnie) ### Seamus Bonehardy (Nathan) \"King of Kegs\" — The Barrel Breakers / Ship: The Alemaster's Mortar Backstory: I was born on a small island typically used for marooning pirates who had called…"
+    "text": "…Bootymane), Buke, Guinnie ### Seamus Bonehardy \"King of Kegs\" — The Barrel Breakers / Ship: The Alemaster's Mortar Backstory: I was born on a small island typically used for marooning pirates who had called…"
    },
    "rank": 20,
    "percentile": 84.6,
@@ -477,7 +477,7 @@
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…Bootymane, luke (Buke), Stephan (Guinnie) ### Seamus Bonehardy (Nathan) \"King of Kegs\" — The Barrel Breakers / Ship: The Alemaster's Mortar Backstory: I was born on a small island typically used for…"
+    "text": "…Seamus Bonehardy (and/or Bootymane), Buke, Guinnie ### Seamus Bonehardy \"King of Kegs\" — The Barrel Breakers / Ship: The Alemaster's Mortar Backstory: I was born on a small island typically used for…"
    },
    "rank": 20,
    "percentile": 84.6,
@@ -519,7 +519,7 @@
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…return home late to the liquor king trails part 1 ### Steph 'Guinnie' O'Guinness (Stephan) The Bilgrats and Buttplugs / Ship: Jolly Rammer Welp guess this is me Heard o' Steph O'Guinness, have…"
+    "text": "…only to return home late to the liquor king trails part 1 ### Steph 'Guinnie' O'Guinness The Bilgrats and Buttplugs / Ship: Jolly Rammer Welp guess this is me Heard o' Steph O'Guinness, have…"
    },
    "rank": 20,
    "percentile": 84.6,

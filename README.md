@@ -28,6 +28,5 @@ Python 3.9+, no dependencies. Serve the repo root with any static server to play
 
 - A repeat gap of 30 days needs 150 questions; there are 122, so each question currently sits out about 24 days before it repeats.
 - Questions may have as few as 18 answers (25 is the goal).
-- Players' real-life first names count as aliases for their Liquor Kings.
 - Real-world people only count in the "real-world figure" question.
 - Crude canon names are kept as written.

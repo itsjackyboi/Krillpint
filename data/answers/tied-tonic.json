@@ -14,15 +14,15 @@
     "Mayor Bonehardy"
    ],
    "mentions": {
-    "total": 116,
-    "compendium": 58,
-    "records": 58
+    "total": 126,
+    "compendium": 62,
+    "records": 64
    },
    "obscurity": 1,
    "inferred": false,
    "evidence": {
     "source": "Master Lore Compendium",
-    "text": "…will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan),…"
+    "text": "…will progress and build off the previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The…"
    },
    "rank": 1,
    "percentile": 0.0,
@@ -47,6 +47,31 @@
    "score": 1
   },
   {
+   "name": "Jagerbauhm",
+   "aliases": [
+    "Jagerbaum",
+    "Jagerbaugm",
+    "Jagerbaumdani",
+    "Jaugerbomb",
+    "Drunken Angel",
+    "Lager Duke"
+   ],
+   "mentions": {
+    "total": 73,
+    "compendium": 24,
+    "records": 49
+   },
+   "obscurity": 1,
+   "inferred": false,
+   "evidence": {
+    "source": "Master Lore Compendium",
+    "text": "…previous ones. The players themselves are the Liquor Kings: Seamus Bonehardy, Jack Anqoak, Jagerbauhm, Steph 'Guinnie' O'Guinness, Buke, Jameson Pilsner. The concepts to date, in order, are:…"
+   },
+   "rank": 3,
+   "percentile": 9.5,
+   "score": 3
+  },
+  {
    "name": "ClockHeart Tonic",
    "aliases": [
     "Clockheart",
@@ -65,32 +90,6 @@
    "evidence": {
     "source": "Master Lore Compendium",
     "text": "…home of the Drunken Trials. Known for it's fine ale and people. - Providence — The ordered, tonic-driven holy city on the cliffs. A strict theocracy ruled by Cardinal Addy, head of the Church…"
-   },
-   "rank": 3,
-   "percentile": 9.5,
-   "score": 3
-  },
-  {
-   "name": "Jagerbauhm",
-   "aliases": [
-    "Jagerbaum",
-    "Jagerbaugm",
-    "Jagerbaumdani",
-    "Jaugerbomb",
-    "Ben",
-    "Drunken Angel",
-    "Lager Duke"
-   ],
-   "mentions": {
-    "total": 70,
-    "compendium": 28,
-    "records": 42
-   },
-   "obscurity": 1,
-   "inferred": false,
-   "evidence": {
-    "source": "Master Lore Compendium",
-    "text": "…The players themselves are the Liquor Kings: Seamus Bonehardy (Nathan), Jack Anqoak (Jack), Jagerbauhm (Ben), Steph 'Guinnie' O'Guinness (Stephan), Buke (Luke), Jameson Pilsner (JP). The concepts…"
    },
    "rank": 4,
    "percentile": 14.3,
