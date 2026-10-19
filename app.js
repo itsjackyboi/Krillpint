@@ -6,7 +6,6 @@
   const CFG = window.DEEP_POUR_CONFIG || {};
   const TEST_MODE = Boolean(CFG.testMode) || location.hash === "#test";
   const STATE_PREFIX = "deep-pour:v1:";
-  const NAME_KEY = "deep-pour:name";
   const TEST_DATE_KEY = "deep-pour:test-date";
   const MAX_ATTEMPTS = 3; // first try + 2 retries
   const QUESTION_SECONDS = 25;
@@ -102,53 +101,11 @@
   const addDays = (iso, n) => new Date(toUTC(iso) + n * 864e5).toISOString().slice(0, 10);
   const prettyDate = (iso) => new Date(toUTC(iso)).toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short", timeZone: "UTC" });
 
-  /* ---------- deterministic daily lineup ---------- */
-  function fnv1a(str) {
-    let h = 0x811c9dc5;
-    for (let i = 0; i < str.length; i++) { h ^= str.charCodeAt(i); h = Math.imul(h, 0x01000193); }
-    return h >>> 0;
-  }
-  function mulberry32(seed) {
-    return () => {
-      seed = (seed + 0x6d2b79f5) | 0;
-      let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
-      t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
-      return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
-    };
-  }
-  function shuffle(arr, rng) {
-    for (let i = arr.length - 1; i > 0; i--) { const j = Math.floor(rng() * (i + 1)); [arr[i], arr[j]] = [arr[j], arr[i]]; }
-    return arr;
-  }
-
-  // Walks forward from the epoch so every day knows what ran before it.
-  // A category sits out for cooldownDays[tier] days after it runs.
-  const schedule = { days: [], lastUsed: {} };
+  /* ---------- daily lineup (precomputed by scripts/build.py) ---------- */
+  let schedule = null;
   function lineupFor(dayIndex) {
-    const { categories, slots, cooldownDays, epoch } = prompts;
-    const tiers = [...new Set(slots)];
-    while (schedule.days.length <= dayIndex) {
-      const d = schedule.days.length;
-      const rng = mulberry32(fnv1a(`deep-pour|${addDays(epoch, d)}`));
-      const lu = schedule.lastUsed;
-      const byTier = {};
-      for (const tier of tiers) {
-        const quota = slots.filter((s) => s === tier).length;
-        const fresh = (id) => lu[id] === undefined || d - lu[id] > (cooldownDays[tier] ?? 0);
-        let pool = shuffle(categories.filter((c) => c.difficulty === tier).map((c) => c.id), rng);
-        if (pool.length < quota) pool = pool.concat(shuffle(categories.map((c) => c.id).filter((id) => !pool.includes(id)), rng));
-        pool.sort((a, b) => {
-          const fa = fresh(a), fb = fresh(b);
-          if (fa !== fb) return fb - fa;
-          return fa ? 0 : (lu[a] ?? -1e9) - (lu[b] ?? -1e9);
-        });
-        byTier[tier] = pool.slice(0, quota);
-      }
-      const picks = slots.map((t) => byTier[t].shift());
-      picks.forEach((id) => { lu[id] = d; });
-      schedule.days.push(picks);
-    }
-    return schedule.days[dayIndex];
+    const days = schedule.days;
+    return days[dayIndex] || days[dayIndex % days.length]; // past the horizon: reuse, never crash
   }
 
   /* ---------- data ---------- */
@@ -202,7 +159,7 @@
   /* ---------- state ---------- */
   const stateKey = (date) => STATE_PREFIX + date;
   function freshState(date, picks) {
-    return { date, picks, started: false, idx: 0, results: [], misses: [0, 0, 0, 0, 0], clock: [], guesses: [[], [], [], [], []], done: false, posted: false };
+    return { date, picks, started: false, idx: 0, results: [], misses: [0, 0, 0, 0, 0], clock: [], guesses: [[], [], [], [], []], done: false };
   }
   function saveState() { store.set(stateKey(ctx.date), ctx.state); }
 
@@ -506,8 +463,7 @@
         </div>
         <pre class="share-preview" aria-label="Share preview">${esc(shareText())}</pre>
         <p class="countdown" id="countdown"></p>
-      </section>
-      <section class="card" aria-labelledby="lb-title" id="leaderboard"></section>`, "#sum-title");
+      </section>`, "#sum-title");
     main.querySelector("#sum-title").setAttribute("tabindex", "-1");
     main.querySelector("#sum-title").focus();
     sinkGauge(animate);
@@ -533,7 +489,6 @@
       }
     });
     startCountdown();
-    renderLeaderboard();
   }
 
   function startCountdown() {
@@ -550,133 +505,6 @@
     };
     tick();
     countdownTimer = setInterval(tick, 30000);
-  }
-
-  /* ---------- leaderboard (optional; the game never waits on it) ---------- */
-  const lb = { tab: "daily" };
-
-  async function lbFetch(params, body) {
-    const url = new URL(CFG.leaderboardUrl);
-    Object.entries(params || {}).forEach(([k, v]) => url.searchParams.set(k, v));
-    const ctl = new AbortController();
-    const timer = setTimeout(() => ctl.abort(), 8000);
-    try {
-      // text/plain keeps this a "simple" request, so Apps Script needs no CORS preflight.
-      const res = await fetch(url, body ? { method: "POST", body: JSON.stringify(body), signal: ctl.signal } : { signal: ctl.signal });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      return await res.json();
-    } finally {
-      clearTimeout(timer);
-    }
-  }
-
-  function cleanName(s) {
-    return String(s).replace(/[\u0000-\u001f\u007f]/g, "").replace(/\s+/g, " ").trim().slice(0, 24);
-  }
-
-  function renderLeaderboard() {
-    const box = $("#leaderboard");
-    if (!box) return;
-    if (!CFG.leaderboardUrl) {
-      box.innerHTML = `<h2 class="label" id="lb-title">Leaderboard</h2>
-        <p class="hint">The leaderboard isn't connected yet. Your result is saved on this device.</p>`;
-      return;
-    }
-    const name = store.get(NAME_KEY, "");
-    const canPost = ctx.isToday;
-    let postArea;
-    if (!canPost) {
-      postArea = `<p class="hint">Results from past dates can't be posted.</p>`;
-    } else if (!name) {
-      postArea = `
-        <form id="name-form" class="answer-form" novalidate>
-          <label for="lb-name">Display name for the leaderboard</label>
-          <div class="input-row">
-            <input type="text" id="lb-name" maxlength="24" autocomplete="nickname" placeholder="e.g. Old Salty">
-            <button type="submit" class="btn">Post my pour</button>
-          </div>
-          <p class="hint">Saved on this device. One post per name per day.</p>
-        </form>`;
-    } else {
-      postArea = `<p class="hint" id="post-status">${ctx.state.posted ? `Posted as <strong>${esc(name)}</strong>.` : `Posting as <strong>${esc(name)}</strong>…`}</p>`;
-    }
-    box.innerHTML = `
-      <h2 class="label" id="lb-title">Leaderboard</h2>
-      ${postArea}
-      <div class="tabs" role="tablist" aria-label="Leaderboard">
-        <button type="button" role="tab" id="tab-daily" aria-selected="${lb.tab === "daily"}" aria-controls="board-panel">Today</button>
-        <button type="button" role="tab" id="tab-alltime" aria-selected="${lb.tab === "alltime"}" aria-controls="board-panel">All time</button>
-      </div>
-      <div id="board-panel" role="tabpanel" class="board-wrap"><p class="hint">Loading…</p></div>`;
-
-    const nameForm = $("#name-form");
-    if (nameForm) {
-      nameForm.addEventListener("submit", (e) => {
-        e.preventDefault();
-        const n = cleanName($("#lb-name").value);
-        if (!n) { $("#lb-name").focus(); return; }
-        store.set(NAME_KEY, n);
-        renderLeaderboard();
-      });
-    }
-    $("#tab-daily").addEventListener("click", () => { lb.tab = "daily"; renderLeaderboard(); });
-    $("#tab-alltime").addEventListener("click", () => { lb.tab = "alltime"; renderLeaderboard(); });
-    main.querySelector(`#tab-${lb.tab}`).addEventListener("keydown", (e) => {
-      if (e.key === "ArrowRight" || e.key === "ArrowLeft") { lb.tab = lb.tab === "daily" ? "alltime" : "daily"; renderLeaderboard(); $(`#tab-${lb.tab}`).focus(); }
-    });
-
-    if (canPost && name && !ctx.state.posted) postResult(name); else loadBoard();
-  }
-
-  async function postResult(name) {
-    const status = $("#post-status");
-    const payload = {
-      action: "submit",
-      date: ctx.date,
-      name,
-      total: totalScore(ctx.state.results),
-      fathoms: fathomsFor(totalScore(ctx.state.results)),
-      scores: ctx.state.results.map((r) => r.score),
-      categories: ctx.picks,
-    };
-    try {
-      const res = await lbFetch(null, payload);
-      if (res.ok || res.error === "duplicate") {
-        ctx.state.posted = true;
-        saveState();
-        if (status) status.innerHTML = res.ok ? `Posted as <strong>${esc(name)}</strong>.` : `<strong>${esc(name)}</strong> already posted today. Only the first post counts.`;
-      } else {
-        throw new Error(res.error || "rejected");
-      }
-    } catch {
-      if (status) {
-        status.innerHTML = `Couldn't reach the leaderboard. Your pour is saved here. <button type="button" class="linklike" id="retry-post">Try again</button>`;
-        $("#retry-post").addEventListener("click", () => { status.textContent = "Posting…"; postResult(name); });
-      }
-    }
-    loadBoard();
-  }
-
-  async function loadBoard() {
-    const panel = $("#board-panel");
-    if (!panel) return;
-    const tab = lb.tab;
-    try {
-      const res = await lbFetch(tab === "daily" ? { action: "daily", date: ctx.date } : { action: "alltime" });
-      if (tab !== lb.tab || !$("#board-panel")) return;
-      const me = store.get(NAME_KEY, "");
-      const rows = (res.rows || []).slice(0, 50);
-      if (!rows.length) { panel.innerHTML = `<p class="hint">${tab === "daily" ? "No pours posted today yet." : "No pours posted yet."}</p>`; return; }
-      const head = tab === "daily"
-        ? `<tr><th scope="col">#</th><th scope="col">Name</th><th scope="col" class="r">Fathoms</th><th scope="col" class="r">Depth</th></tr>`
-        : `<tr><th scope="col">#</th><th scope="col">Name</th><th scope="col" class="r">Total</th><th scope="col" class="r">Avg</th><th scope="col" class="r">Days</th></tr>`;
-      const body = rows.map((r, i) => tab === "daily"
-        ? `<tr class="${r.name === me ? "me" : ""}"><td class="r">${i + 1}</td><td>${esc(r.name)}</td><td class="r">${esc(r.fathoms)}</td><td class="r">${esc(r.total)}</td></tr>`
-        : `<tr class="${r.name === me ? "me" : ""}"><td class="r">${i + 1}</td><td>${esc(r.name)}</td><td class="r">${esc(r.total)}</td><td class="r">${esc(r.avg)}</td><td class="r">${esc(r.games)}</td></tr>`).join("");
-      panel.innerHTML = `<table class="board"><thead>${head}</thead><tbody>${body}</tbody></table>`;
-    } catch {
-      if (tab === lb.tab && $("#board-panel")) panel.innerHTML = `<p class="hint">The leaderboard is unreachable right now. The game works without it.</p>`;
-    }
   }
 
   /* ---------- test tools ---------- */
@@ -701,7 +529,11 @@
   async function start() {
     try {
       if (!prompts) {
-        [prompts, lexicon] = await Promise.all([getJSON("data/prompts.json"), getJSON("data/lexicon.json").catch(() => ({}))]);
+        [prompts, schedule, lexicon] = await Promise.all([
+          getJSON("data/prompts.json"),
+          getJSON("data/schedule.json"),
+          getJSON("data/lexicon.json").catch(() => ({})),
+        ]);
       }
       const today = easternParts().iso;
       let date = today;

@@ -3,18 +3,7 @@
  "loreHash": "d19e69d88c25",
  "epoch": "2026-10-18",
  "timezone": "America/New_York",
- "slots": [
-  "easy",
-  "easy",
-  "medium",
-  "medium",
-  "hard"
- ],
- "cooldownDays": {
-  "medium": 1,
-  "easy": 2,
-  "hard": 1
- },
+ "repeatGap": 30,
  "minAnswers": 25,
  "categories": [
   {

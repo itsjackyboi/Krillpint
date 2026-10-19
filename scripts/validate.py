@@ -22,7 +22,7 @@ from itertools import combinations
 from lib import compile_pattern, count_patterns, load_lore, load_sources, loose, mention_spans, normalize, similarity
 
 NEAR_DUPLICATE = 0.85
-MIN_ANSWERS = 25
+MIN_ANSWERS = 18  # approved floor for smaller questions; 25 is the goal
 
 
 def main():

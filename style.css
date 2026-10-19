@@ -310,20 +310,6 @@ textarea.copy-fallback {
 }
 .countdown { margin: 0; font-family: var(--font-mono); font-size: var(--step--1); color: var(--muted); }
 
-/* Leaderboard */
-.tabs { display: flex; gap: 0.25rem; border-bottom: 1px solid var(--line); }
-.tabs button {
-  font: inherit; font-size: var(--step--1); font-family: var(--font-mono); letter-spacing: 0.05em;
-  background: none; border: 0; border-bottom: 2px solid transparent; color: var(--muted);
-  padding: 0.5rem 0.6rem; cursor: pointer; text-transform: uppercase;
-}
-.tabs button[aria-selected="true"] { color: var(--amber); border-bottom-color: var(--amber); }
-.board { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
-.board th, .board td { padding: 0.4rem 0.25rem; border-bottom: 1px solid rgba(234,166,74,0.1); text-align: left; }
-.board th { font-family: var(--font-mono); font-weight: 400; font-size: var(--step--1); color: var(--muted); }
-.board .r { text-align: right; font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
-.board tr.me td { color: var(--amber); }
-.board-wrap { overflow-x: auto; }
 .hint { margin: 0; color: var(--muted); font-size: var(--step--1); }
 
 /* Footer */

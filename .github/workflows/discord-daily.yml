@@ -1,0 +1,25 @@
+name: Daily Discord post
+
+on:
+  schedule:
+    - cron: "0 12 * * *" # 8:00 AM US Eastern during daylight time (UTC-4)
+    - cron: "0 13 * * *" # 8:00 AM US Eastern during standard time (UTC-5)
+  workflow_dispatch: # "Run workflow" button, for testing
+
+permissions:
+  contents: read
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Post today's link
+        run: python3 scripts/discord_post.py
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          SCHEDULE: ${{ github.event.schedule }}
