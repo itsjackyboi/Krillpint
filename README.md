@@ -9,6 +9,7 @@ Play: https://itsjackyboi.github.io/Krillpint/ (add `#test` to the URL for date 
 - **Canon** is only the two files in `lore/`.
 - **Questions** are hand-written in `scripts/source/*.json`: answers, aliases, mention-count patterns, an obscurity rating (1–5) and, for answers the lore only implies, an evidence quote. Letter questions and a few others are rule-based (`"derive"`) and pool their answers from the hand-written ones.
 - **Rarity** = mentions across both lore docs (fewer = rarer), nudged by the obscurity rating, ranked within the question and curved so obvious answers score near 0.
+- **Gems**: each question has one hand-picked gem. Landing it multiplies that answer's score by 1.5.
 - **Schedule**: one easy, one medium and one hard question a day plus two more, least recently used first. Days already played never change.
 
 ## Commands

@@ -9,6 +9,7 @@
   const TEST_DATE_KEY = "deep-pour:test-date";
   const MAX_ATTEMPTS = 3; // first try + 2 retries
   const QUESTION_SECONDS = 25;
+  const GEM_MULTIPLIER = 1.5;
   // One emoji per question in the share message, by the depth that answer reached.
   const LAYERS = [
     { min: 80, emoji: "💎" }, // rarest depths
@@ -194,7 +195,7 @@
       const r = ctx.state.results[i];
       const cls = [r ? "done" : "", r && !r.answer ? "miss" : "", !ctx.state.done && i === ctx.state.idx && ctx.state.started ? "current" : ""].join(" ").trim();
       const label = r ? `Pour ${i + 1}: ${r.score} depth` : `Pour ${i + 1}: not poured yet`;
-      return `<li class="${cls}" aria-label="${esc(label)}"><span class="fill" style="height:${r ? Math.max(4, r.score) : 0}%"></span><span class="num">${r ? r.score : i + 1}</span></li>`;
+      return `<li class="${cls}" aria-label="${esc(label)}"><span class="fill" style="height:${r ? Math.min(100, Math.max(4, r.score)) : 0}%"></span><span class="num">${r ? r.score : i + 1}</span></li>`;
     }).join("");
   }
 
@@ -204,6 +205,8 @@
       return `<span style="top:${v}%;transform:translateY(${shift})">${v}</span>`;
     }).join("");
     const bubbles = reduceMotion ? "" : [18, 46, 70].map((x, i) => `<span class="bubble" style="left:${x}%;animation-delay:${i * 1.1}s"></span>`).join("");
+    fromF = Math.min(100, fromF);
+    toF = Math.min(100, toF); // gem bonuses can push past the bottom of the glass
     return `<div class="gauge${fromF === 0 ? " from-top" : ""}" style="--from:${fromF}%;--to:${toF}%" aria-hidden="true">
       <div class="ticks">${ticks}</div>
       <div class="glass"><span class="ghost-mark"></span><span class="line"></span><span class="bob"></span>${bubbles}</div>
@@ -228,7 +231,7 @@
           <li>You get ${QUESTION_SECONDS} seconds per prompt, starting the moment it appears. Run out and it scores zero.</li>
           <li>Obvious answers barely count. The rarer your answer is in the lore, the deeper it scores.</li>
           <li>Miss, and you get two more tries. Then the pour scores zero.</li>
-          <li>Each prompt hides one gem. You'll only hear about it if you land it.</li>
+          <li>Each prompt hides one gem. Land it and that answer scores ${GEM_MULTIPLIER}×.</li>
         </ol>
         <p class="blurb">Today's pours: ${esc(lineup)}.</p>
         <div class="row"><button type="button" class="btn" id="start">Start pouring</button></div>
@@ -296,7 +299,7 @@
     if (ui.confirm) {
       $("#confirm-yes").addEventListener("click", () => {
         const a = ui.confirm.answer;
-        finalize({ status: "scored", answer: a.name, score: a.score, input: ui.confirm.input });
+        finalize({ status: "scored", answer: a.name, score: scoreFor(a, cat), input: ui.confirm.input });
       });
       $("#confirm-no").addEventListener("click", () => { ui.confirm = null; ui.message = ""; renderPrompt(); });
     }
@@ -328,6 +331,8 @@
     tick();
   }
 
+  const scoreFor = (answer, cat) => (answer.name === cat.gem ? Math.round(answer.score * GEM_MULTIPLIER) : answer.score);
+
   function submitAnswer(raw) {
     const i = ctx.state.idx;
     const cat = ctx.cats[i];
@@ -336,7 +341,7 @@
     ui.passArmed = false;
     const m = matchAnswer(input, cat);
     if (m.type === "empty") { ui.message = "Type an answer first."; renderPrompt(); return; }
-    if (m.type === "exact") { finalize({ status: "scored", answer: m.answer.name, score: m.answer.score, input }); return; }
+    if (m.type === "exact") { finalize({ status: "scored", answer: m.answer.name, score: scoreFor(m.answer, cat), input }); return; }
     if (m.type === "confirm") { ui.confirm = { answer: m.answer, name: m.answer.name, input }; ui.message = ""; renderPrompt(); announce(`Did you mean ${m.answer.name}?`); return; }
 
     const key = normalize(input);
@@ -381,7 +386,7 @@
       ? `<p class="your"><span class="name">${esc(r.input || answer.name)}</span></p>`
       : `<p class="your">${WHY[r.status] || "No answer."}</p>`;
     const callouts = [
-      hitGem ? `<p class="callout gem">★ You found the gem.</p>` : "",
+      hitGem ? `<p class="callout gem">★ You found the gem: ${GEM_MULTIPLIER}× depth</p>` : "",
       rarest ? `<p class="callout">One of the 5 rarest answers.</p>` : "",
     ].join("");
 
@@ -406,7 +411,7 @@
     main.querySelector("#reveal-title").focus();
     sinkGauge(animate);
     if (animate) countUp($("#score-num"), r.score);
-    announce(`${r.score} depth. Now at ${after} fathoms.${hitGem ? " You found the gem." : ""}${rarest ? " One of the 5 rarest answers." : ""}`);
+    announce(`${r.score} depth. Now at ${after} fathoms.${hitGem ? ` You found the gem: ${GEM_MULTIPLIER} times depth.` : ""}${rarest ? " One of the 5 rarest answers." : ""}`);
 
     $("#next").addEventListener("click", () => {
       ctx.state.idx = i + 1;
