@@ -1,10 +1,9 @@
 name: Daily Discord post
 
+# No schedule here: GitHub's cron runs hours late. A Claude scheduled task presses
+# "Run workflow" at 8:00 AM US Eastern instead.
 on:
-  schedule:
-    - cron: "0 12 * * *" # 8:00 AM US Eastern during daylight time (UTC-4)
-    - cron: "0 13 * * *" # 8:00 AM US Eastern during standard time (UTC-5)
-  workflow_dispatch: # "Run workflow" button, for testing
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -22,4 +21,3 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           SITE_URL: ${{ vars.SITE_URL }}
-          SCHEDULE: ${{ github.event.schedule }}

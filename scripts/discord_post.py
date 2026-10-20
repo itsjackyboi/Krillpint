@@ -1,13 +1,11 @@
 """Post today's DeepPint link to a Discord channel through a webhook.
 
-Run by .github/workflows/discord-daily.yml every morning. Two cron lines cover 8:00 AM
-US Eastern in both daylight and standard time; each run checks which one applies today
-and the other exits quietly, so the channel gets exactly one post.
+Run by .github/workflows/discord-daily.yml, which a Claude scheduled task starts at
+8:00 AM US Eastern every morning.
 
 Env:
   DISCORD_WEBHOOK_URL  the channel webhook (a GitHub Actions secret)
   SITE_URL             the game URL (optional; defaults to the GitHub Pages address)
-  SCHEDULE             the cron line that triggered the run (empty for manual runs)
 
 Usage: python3 scripts/discord_post.py [--dry-run]
 """
@@ -22,7 +20,6 @@ from zoneinfo import ZoneInfo
 from lib import DATA_DIR
 
 DEFAULT_URL = "https://itsjackyboi.github.io/Krillpint/"
-CRON_FOR_OFFSET = {-4: "0 12 * * *", -5: "0 13 * * *"}  # EDT, EST
 
 LINES = [
     "is poured. Five questions, 25 seconds each. How deep can you go?",
@@ -39,13 +36,6 @@ def main():
     tz = ZoneInfo(prompts["timezone"])
     epoch = dt.date.fromisoformat(prompts["epoch"])
     now = dt.datetime.now(tz)
-
-    schedule = os.environ.get("SCHEDULE", "").strip()
-    if schedule:
-        offset = int(now.utcoffset().total_seconds() // 3600)
-        if CRON_FOR_OFFSET.get(offset) != schedule:
-            print(f"Skipping: {schedule!r} is the other daylight-saving slot (UTC{offset:+d} today).")
-            return 0
 
     day = (now.date() - epoch).days
     url = os.environ.get("SITE_URL", "").strip() or DEFAULT_URL

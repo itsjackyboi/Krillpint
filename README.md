@@ -23,7 +23,7 @@ Python 3.9+, no dependencies. Serve the repo root with any static server to play
 
 ## Daily Discord post
 
-`.github/workflows/discord-daily.yml` posts the link at 8:00 AM US Eastern. It needs a repository secret `DISCORD_WEBHOOK_URL`. Run it by hand from the Actions tab to test.
+`.github/workflows/discord-daily.yml` posts the link. It has no schedule of its own (GitHub's cron runs hours late); a Claude scheduled task presses "Run workflow" at 8:00 AM US Eastern. It needs a repository secret `DISCORD_WEBHOOK_URL`.
 
 ## Assumptions
 
