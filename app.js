@@ -345,15 +345,19 @@
     };
   }
 
-  // One common and one deeper answer the player could have tried. Never the gem or anything as
-  // rare as the 5 rarest (answers are sorted most common first).
+  // One common and one deeper answer the player could have tried. The deeper one always beats the
+  // player's own answer. Never the gem or anything as rare as the 5 rarest (answers are sorted most
+  // common first).
   function suggestionsFor(cat, taken) {
     const floor = Math.min(...cat.answers.slice(-5).map((a) => a.score));
+    const mine = cat.answers.find((a) => a.name === taken)?.score ?? -1;
     const pool = cat.answers.filter((a) => a.score < floor && a.name !== cat.gem && a.name !== taken);
     const half = Math.ceil(pool.length / 2);
     const rand = seeded(`${ctx.date}|${cat.id}`);
     const pick = (list) => list[Math.floor(rand() * list.length)];
-    return [pick(pool.slice(0, half)), pick(pool.slice(half))].filter(Boolean);
+    const common = pick(pool.slice(0, half));
+    const deeper = pick(pool.slice(half).filter((a) => a.score > mine));
+    return [common, deeper].filter(Boolean);
   }
 
   function submitAnswer(raw) {
@@ -412,12 +416,17 @@
       hitGem ? `<p class="callout gem">★ You found the gem: ${GEM_MULTIPLIER}× depth</p>` : "",
       rarest ? `<p class="callout">One of the 5 rarest answers.</p>` : "",
     ].join("");
-    const tips = suggestionsFor(cat, r.answer);
-    const tipsHTML = tips.length
-      ? `<div class="tips"><p class="tips-label">You could also have said</p><ul>${tips
-          .map((a) => `<li><span class="name">${esc(a.name)}</span> <span class="d">${a.score} depth</span></li>`)
-          .join("")}</ul></div>`
-      : "";
+    // Once nothing showable beats the player's answer, a shallower tip is no help.
+    const suggested = suggestionsFor(cat, r.answer);
+    const topped = answer && suggested.length < 2;
+    const tips = topped ? [] : suggested;
+    const tipsHTML = topped
+      ? `<div class="tips"><p class="tips-label">Only the rarest answers go deeper than yours.</p></div>`
+      : tips.length
+        ? `<div class="tips"><p class="tips-label">You could also have said</p><ul>${tips
+            .map((a) => `<li><span class="name">${esc(a.name)}</span> <span class="d">${a.score} depth</span></li>`)
+            .join("")}</ul></div>`
+        : "";
 
     setView(`
       <section class="card" aria-labelledby="reveal-title">
