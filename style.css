@@ -277,6 +277,11 @@ input:focus-visible { border-color: var(--amber); outline-offset: 1px; }
 }
 .callout.gem { background: var(--gem); }
 
+.tips { border-top: 1px solid rgba(234,166,74,0.15); padding-top: 0.75rem; }
+.tips-label { margin: 0 0 0.35rem; font-family: var(--font-mono); font-size: var(--step--1); color: var(--muted); }
+.tips ul { margin: 0; padding: 0; list-style: none; display: grid; gap: 0.25rem; }
+.tips .d { white-space: nowrap; font-family: var(--font-mono); font-size: var(--step--1); color: var(--amber); margin-left: 0.4rem; }
+
 /* Question clock */
 .prompt-head { display: flex; justify-content: space-between; align-items: baseline; gap: 0.75rem; }
 .clock {

@@ -333,6 +333,29 @@
 
   const scoreFor = (answer, cat) => (answer.name === cat.gem ? Math.round(answer.score * GEM_MULTIPLIER) : answer.score);
 
+  // Seeded RNG so a reload shows the same suggestions.
+  function seeded(text) {
+    let h = 2166136261;
+    for (const ch of text) h = Math.imul(h ^ ch.charCodeAt(0), 16777619);
+    return () => {
+      h = (h + 0x6d2b79f5) | 0;
+      let t = Math.imul(h ^ (h >>> 15), 1 | h);
+      t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+      return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+    };
+  }
+
+  // One common and one deeper answer the player could have tried. Never the gem or anything as
+  // rare as the 5 rarest (answers are sorted most common first).
+  function suggestionsFor(cat, taken) {
+    const floor = Math.min(...cat.answers.slice(-5).map((a) => a.score));
+    const pool = cat.answers.filter((a) => a.score < floor && a.name !== cat.gem && a.name !== taken);
+    const half = Math.ceil(pool.length / 2);
+    const rand = seeded(`${ctx.date}|${cat.id}`);
+    const pick = (list) => list[Math.floor(rand() * list.length)];
+    return [pick(pool.slice(0, half)), pick(pool.slice(half))].filter(Boolean);
+  }
+
   function submitAnswer(raw) {
     const i = ctx.state.idx;
     const cat = ctx.cats[i];
@@ -389,6 +412,12 @@
       hitGem ? `<p class="callout gem">★ You found the gem: ${GEM_MULTIPLIER}× depth</p>` : "",
       rarest ? `<p class="callout">One of the 5 rarest answers.</p>` : "",
     ].join("");
+    const tips = suggestionsFor(cat, r.answer);
+    const tipsHTML = tips.length
+      ? `<div class="tips"><p class="tips-label">You could also have said</p><ul>${tips
+          .map((a) => `<li><span class="name">${esc(a.name)}</span> <span class="d">${a.score} depth</span></li>`)
+          .join("")}</ul></div>`
+      : "";
 
     setView(`
       <section class="card" aria-labelledby="reveal-title">
@@ -403,6 +432,7 @@
             <h2 class="sr-only" id="reveal-title">${r.score} depth. You are now at ${after} fathoms, ${esc(tierFor(after).name)}.</h2>
             ${yours}
             ${callouts}
+            ${tipsHTML}
           </div>
         </div>
         <div class="row"><button type="button" class="btn" id="next">${last ? "See your depth" : "Next pour"}</button></div>
@@ -411,7 +441,7 @@
     main.querySelector("#reveal-title").focus();
     sinkGauge(animate);
     if (animate) countUp($("#score-num"), r.score);
-    announce(`${r.score} depth. Now at ${after} fathoms.${hitGem ? ` You found the gem: ${GEM_MULTIPLIER} times depth.` : ""}${rarest ? " One of the 5 rarest answers." : ""}`);
+    announce(`${r.score} depth. Now at ${after} fathoms.${hitGem ? ` You found the gem: ${GEM_MULTIPLIER} times depth.` : ""}${rarest ? " One of the 5 rarest answers." : ""}${tips.length ? ` You could also have said ${tips.map((a) => a.name).join(" or ")}.` : ""}`);
 
     $("#next").addEventListener("click", () => {
       ctx.state.idx = i + 1;
