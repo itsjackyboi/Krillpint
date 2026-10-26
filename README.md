@@ -23,7 +23,7 @@ Python 3.9+, no dependencies. Serve the repo root with any static server to play
 
 ## Daily Discord post
 
-`.github/workflows/discord-daily.yml` posts the link. It has no schedule of its own (GitHub's cron runs hours late); a Claude scheduled task presses "Run workflow" at 8:00 AM US Eastern. It needs a repository secret `DISCORD_WEBHOOK_URL`.
+`.github/workflows/discord-daily.yml` posts one message with two cards: today's DeepPint link, then today's Pintland Tap link (the daily map game from the `itsjackyboi/base` repo, hosted on the server's Dynmap; its puzzle #1 was Oct 26, 2026, set as `TAP_EPOCH` in `scripts/discord_post.py`). Override the links with the `SITE_URL` and `TAP_URL` repository variables. It has no schedule of its own (GitHub's cron runs hours late); a Claude scheduled task presses "Run workflow" at 8:00 AM US Eastern. It needs a repository secret `DISCORD_WEBHOOK_URL`.
 
 ## Assumptions
 
