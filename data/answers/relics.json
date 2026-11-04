@@ -1,7 +1,7 @@
 {
  "id": "relics",
  "prompt": "Name a relic or magical artifact",
- "blurb": "Scarabs, glyphs, bells, cursed blades, and things best left in the vault.",
+ "blurb": "",
  "difficulty": "medium",
  "gem": "Dementing Scarab",
  "answerCount": 34,

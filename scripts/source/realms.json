@@ -1,7 +1,6 @@
 {
   "id": "realms",
   "prompt": "Name a town, nation or realm",
-  "blurb": "Settlements, empires, islands, and planes of existence you'd rather not visit.",
   "difficulty": "easy",
   "gem": "Name",
   "answers": [

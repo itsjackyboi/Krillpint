@@ -1,7 +1,7 @@
 {
  "id": "titled",
  "prompt": "Name a character known by a title (Sir, Lady, Captain…)",
- "blurb": "Use the title as part of the answer: Sister Bertha, not Bertha.",
+ "blurb": "",
  "difficulty": "medium",
  "gem": "Constable Jökulsson",
  "answerCount": 21,

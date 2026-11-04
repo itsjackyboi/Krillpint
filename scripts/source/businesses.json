@@ -1,7 +1,6 @@
 {
   "id": "businesses",
   "prompt": "Name a business or company",
-  "blurb": "Corporations, shops, papers and farms. Anyone selling something.",
   "difficulty": "medium",
   "gem": "Jui Vuitton",
   "answers": [

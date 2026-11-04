@@ -1,7 +1,6 @@
 {
   "id": "taverns",
   "prompt": "Name a tavern, bar or inn",
-  "blurb": "Anywhere a pint gets poured, on the Isles or on the road there.",
   "difficulty": "easy",
   "gem": "The Last Drop",
   "distinct": [["Sackbeard's Tavern", "The Taverna"]],

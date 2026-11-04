@@ -1,7 +1,6 @@
 {
   "id": "animal-kinds",
   "prompt": "Name a kind of animal mentioned in the lore",
-  "blurb": "Species, not names: goat, not CUMsock.",
   "difficulty": "easy",
   "gem": "Axolotl",
   "answers": [

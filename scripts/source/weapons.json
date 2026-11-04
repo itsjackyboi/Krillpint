@@ -1,7 +1,6 @@
 {
   "id": "weapons",
   "prompt": "Name a weapon",
-  "blurb": "Blades, blickys, cursed spears, and whatever else someone swung in anger.",
   "difficulty": "medium",
   "gem": "Wagwan's Whopper",
   "answers": [

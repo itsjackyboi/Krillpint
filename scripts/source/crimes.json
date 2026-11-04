@@ -1,7 +1,6 @@
 {
   "id": "crimes",
   "prompt": "Name a crime",
-  "blurb": "Embezzlement to apostasy, with a side of jaywalking.",
   "difficulty": "medium",
   "gem": "Jaywalking",
   "answers": [

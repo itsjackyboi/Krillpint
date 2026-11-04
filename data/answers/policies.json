@@ -1,7 +1,7 @@
 {
  "id": "policies",
  "prompt": "Name an Aleforge policy, law or campaign promise",
- "blurb": "Enacted by a mayor, passed by the Kings, or shouted from a campaign stage.",
+ "blurb": "",
  "difficulty": "hard",
  "gem": "Drunk Delivery",
  "answerCount": 37,

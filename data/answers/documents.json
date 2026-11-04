@@ -1,7 +1,7 @@
 {
  "id": "documents",
  "prompt": "Name a book, journal, letter or document",
- "blurb": "Anything written down: tomes, diaries, manuals, ledgers, love letters, ransom notes.",
+ "blurb": "",
  "difficulty": "hard",
  "gem": "Talent Acquisition strategy",
  "answerCount": 42,

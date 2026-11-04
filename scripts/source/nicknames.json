@@ -1,7 +1,6 @@
 {
   "id": "nicknames",
   "prompt": "Name a nickname, alias or epithet",
-  "blurb": "Titles, slurs, pseudonyms and pet names. Not the real name.",
   "difficulty": "medium",
   "gem": "Throbbin Hood",
   "answers": [

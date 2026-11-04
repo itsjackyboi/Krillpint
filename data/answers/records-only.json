@@ -1,7 +1,7 @@
 {
  "id": "records-only",
  "prompt": "Name a character who appears only in the Hall of Records",
- "blurb": "Never once named in the Master Lore Compendium. Only in the after-action reports and in-game books.",
+ "blurb": "",
  "difficulty": "hard",
  "gem": "Moby",
  "answerCount": 27,

@@ -1,7 +1,6 @@
 {
   "id": "writers",
   "prompt": "Name someone whose writing appears in the lore",
-  "blurb": "Reports, diaries, letters, songs, journals, HR complaints. If they wrote it down, they count.",
   "difficulty": "medium",
   "gem": "Jerry",
   "answers": [

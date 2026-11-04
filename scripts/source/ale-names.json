@@ -1,7 +1,6 @@
 {
   "id": "ale-names",
   "prompt": "Name something with \"Ale\" in its name",
-  "blurb": "Aleforge counts. So does anything else that has \"Ale\" in it.",
   "difficulty": "easy",
   "gem": "The Islands of Ale",
   "answers": [

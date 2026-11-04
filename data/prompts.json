@@ -9,7 +9,7 @@
   {
    "id": "afflictions",
    "prompt": "Name a curse, sickness or affliction",
-   "blurb": "What ails the Isles: rot, blight, curses, addictions and one very bad tummy ache.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Dreams that scream",
    "answerCount": 19
@@ -17,7 +17,7 @@
   {
    "id": "ale-names",
    "prompt": "Name something with \"Ale\" in its name",
-   "blurb": "Aleforge counts. So does anything else that has \"Ale\" in it.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "The Islands of Ale",
    "answerCount": 30
@@ -25,7 +25,7 @@
   {
    "id": "aleforge-founding",
    "prompt": "Name something from Aleforge's founding and early history",
-   "blurb": "Before the Middle Kings: the deity, the spring, the first offices and the first crowns.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "The flag of Aleforge",
    "answerCount": 24
@@ -33,7 +33,7 @@
   {
    "id": "aleforge-locals",
    "prompt": "Name an Aleforge local",
-   "blurb": "Anyone who lives or works in Aleforge, past or present. Not a Liquor King.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Salude Gonzalez",
    "answerCount": 39
@@ -41,7 +41,7 @@
   {
    "id": "aleforge-officials",
    "prompt": "Name an Aleforge official or office-holder",
-   "blurb": "Mayors, advisors, sheriffs, comptrollers, Color Guard captains. Past or present.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Bigbag-o Buttlube",
    "answerCount": 23
@@ -49,7 +49,7 @@
   {
    "id": "aleforge-spots",
    "prompt": "Name a place in Aleforge",
-   "blurb": "Buildings, streets and landmarks in the brewing capital of the Isles.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Witch Doctors Tower",
    "answerCount": 22
@@ -57,7 +57,7 @@
   {
    "id": "animal-kinds",
    "prompt": "Name a kind of animal mentioned in the lore",
-   "blurb": "Species, not names: goat, not CUMsock.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Axolotl",
    "answerCount": 24
@@ -65,7 +65,7 @@
   {
    "id": "animals",
    "prompt": "Name an animal from the lore",
-   "blurb": "Pets, mounts, mules, a worm named Clancy, and one very unlucky cow. Not monsters.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Clancy",
    "answerCount": 21
@@ -73,7 +73,7 @@
   {
    "id": "betrayers",
    "prompt": "Name someone who betrayed someone",
-   "blurb": "Mutineers, embezzlers, double agents, and one Veilwalker who broke her vow.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "The Lagendale militia",
    "answerCount": 19
@@ -81,7 +81,7 @@
   {
    "id": "beyond-isles",
    "prompt": "Name a place beyond the Pintland mainland",
-   "blurb": "Where the Kings came from, passed through, got frozen, or got banished to.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Poopwata Basin",
    "answerCount": 19
@@ -89,7 +89,7 @@
   {
    "id": "businesses",
    "prompt": "Name a business or company",
-   "blurb": "Corporations, shops, papers and farms. Anyone selling something.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Jui Vuitton",
    "answerCount": 26
@@ -97,7 +97,7 @@
   {
    "id": "calendar",
    "prompt": "Name a holiday, keg-day or season",
-   "blurb": "Anything on the Pintland calendar: the nine days of the Keg, the three seasons, or a feast.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Feast of the Eternal Keg",
    "answerCount": 30
@@ -105,7 +105,7 @@
   {
    "id": "colour-names",
    "prompt": "Name something with a colour in its name",
-   "blurb": "Red, gold, black, green, blue, amber, white, copper, ivory…",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Aldin Whiteknuckle",
    "answerCount": 23
@@ -113,7 +113,7 @@
   {
    "id": "concept-cloister-beast",
    "prompt": "Name something from the Cloister Beast concept",
-   "blurb": "The Kings return to Aleforge, the mayor goes missing, and a beast waits under the Cloister.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "The child behind the rock",
    "answerCount": 26
@@ -121,7 +121,7 @@
   {
    "id": "concept-hoegaarden",
    "prompt": "Name something from Horror in Hoegaarden",
-   "blurb": "Missing interns, a dungeon under a library, and the prison of the Rotted Soul.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "The rusted key",
    "answerCount": 34
@@ -129,7 +129,7 @@
   {
    "id": "concept-lkt",
    "prompt": "Name something from the Liquor King Trials",
-   "blurb": "Frozen by Maximilian, the Kings wake centuries later on his space station.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "CYCLICAL",
    "answerCount": 29
@@ -137,7 +137,7 @@
   {
    "id": "concept-owe-block",
    "prompt": "Name something from A Walk on Owe Block",
-   "blurb": "Gang wars, mining taxes, relic hunts and a corrupt Sexton in Providence's district city.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Chicken jockey",
    "answerCount": 37
@@ -145,7 +145,7 @@
   {
    "id": "concept-stewards",
    "prompt": "Name something from Stewards of Aleforge",
-   "blurb": "The Kings run Aleforge while Mayor Drake is away. It goes about as well as you'd expect.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Rollo's Love Letter",
    "answerCount": 35
@@ -153,7 +153,7 @@
   {
    "id": "concept-walk-of-shame",
    "prompt": "Name something from the Walk of Shame",
-   "blurb": "How six strangers met in Drycup Forest and made their way to the Pintland Isles.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Clancy",
    "answerCount": 34
@@ -161,7 +161,7 @@
   {
    "id": "creatures",
    "prompt": "Name a creature, beast or monster",
-   "blurb": "Great beasts, small sprites, and everything that chased the Kings through a dark hallway.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Jopsi",
    "answerCount": 29
@@ -169,7 +169,7 @@
   {
    "id": "crimes",
    "prompt": "Name a crime",
-   "blurb": "Embezzlement to apostasy, with a side of jaywalking.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Jaywalking",
    "answerCount": 24
@@ -177,7 +177,7 @@
   {
    "id": "cumstead",
    "prompt": "Name something tied to John Cum or the Cumstead",
-   "blurb": "The great wheat farm, the family behind it, and how it all went wrong.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Oinkers",
    "answerCount": 25
@@ -185,7 +185,7 @@
   {
    "id": "cursed-sites",
    "prompt": "Name a cursed, sacred or mysterious site",
-   "blurb": "Places that hum, whisper, swallow people, or should have stayed sealed.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "The Vanishing House",
    "answerCount": 24
@@ -193,7 +193,7 @@
   {
    "id": "dirty-names",
    "prompt": "Name a character whose name is a dirty joke",
-   "blurb": "People and animals only. You know the ones.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Skeet Budle",
    "answerCount": 34
@@ -201,7 +201,7 @@
   {
    "id": "documents",
    "prompt": "Name a book, journal, letter or document",
-   "blurb": "Anything written down: tomes, diaries, manuals, ledgers, love letters, ransom notes.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Talent Acquisition strategy",
    "answerCount": 42
@@ -209,7 +209,7 @@
   {
    "id": "drake-clues",
    "prompt": "Name a clue from the Gideon Drake investigation",
-   "blurb": "The letters, diaries, notes and findings the Kings dug up in Stewards of Aleforge.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "A message to MAMA",
    "answerCount": 33
@@ -217,7 +217,7 @@
   {
    "id": "drinks",
    "prompt": "Name a drink or brew",
-   "blurb": "Anything poured, chugged, tithed, or banned somewhere in the Isles.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Stormtide Ale",
    "answerCount": 28
@@ -225,7 +225,7 @@
   {
    "id": "drunken-trials",
    "prompt": "Name something tied to the Drunken Trials",
-   "blurb": "Aleforge's festival: its winners, its rules, its ale, and the people who tried to stop it.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Brannock the Drunk",
    "answerCount": 25
@@ -233,7 +233,7 @@
   {
    "id": "earth-figures",
    "prompt": "Name a real-world figure the lore mentions",
-   "blurb": "Aldridge Industries' VIPs and sponsors, puzzle passwords, and other names from Earth.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Otto Rohwedder",
    "answerCount": 18
@@ -241,7 +241,7 @@
   {
    "id": "events",
    "prompt": "Name a historical event or era",
-   "blurb": "Wars, dynasties, disasters, massacres, trials and one very unfortunate mute button.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Mute Gate",
    "answerCount": 29
@@ -249,7 +249,7 @@
   {
    "id": "factions",
    "prompt": "Name a faction, gang or organization",
-   "blurb": "Councils, cults, gangs, guilds, crews, and the occasional chess club.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Shot-Chess Association",
    "answerCount": 39
@@ -257,7 +257,7 @@
   {
    "id": "foods",
    "prompt": "Name a food",
-   "blurb": "Anything eaten in the lore, however unappetizing.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Sapgetti",
    "answerCount": 20
@@ -265,7 +265,7 @@
   {
    "id": "games",
    "prompt": "Name a game, contest or sport",
-   "blurb": "Ways the Isles compete, gamble, or settle things.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Tic-tac-toe",
    "answerCount": 20
@@ -273,7 +273,7 @@
   {
    "id": "gods-spirits",
    "prompt": "Name a god, spirit or supernatural being",
-   "blurb": "Deities, walkers, ghosts and the guardians of things that should stay buried.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Jopsi",
    "answerCount": 23
@@ -281,7 +281,7 @@
   {
    "id": "holidays",
    "prompt": "Name a holiday or festival",
-   "blurb": "Feasts, fasts and bar crawls. Not the days of the Keg or the seasons.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Feast of the Eternal Keg",
    "answerCount": 18
@@ -289,7 +289,7 @@
   {
    "id": "jobs",
    "prompt": "Name a job or trade someone in the lore has",
-   "blurb": "Brewers, bouncers, bards, wind farmers. The work, not the worker.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Wind farmer",
    "answerCount": 34
@@ -297,7 +297,7 @@
   {
    "id": "jp-list",
    "prompt": "Name a drink on Jameson Pilsner's list",
-   "blurb": "He'll drink anything on it. The one drink he won't touch doesn't count.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Vermouth",
    "answerCount": 18
@@ -305,7 +305,7 @@
   {
    "id": "killed-by-kings",
    "prompt": "Name someone or something the Liquor Kings killed",
-   "blurb": "On purpose, by accident, or by forgetting to open a cage.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Peg Butt",
    "answerCount": 20
@@ -313,7 +313,7 @@
   {
    "id": "king-buke",
    "prompt": "Name something tied to Buke",
-   "blurb": "No middle name, no last name. Found in a whiskey barrel; ended Maximilian.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Double blicky maneuver",
    "answerCount": 21
@@ -321,7 +321,7 @@
   {
    "id": "king-guinnie",
    "prompt": "Name something tied to Guinnie",
-   "blurb": "Deserter, bouncer, first winner of the Trials, and keeper of a worm named Clancy.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Little Homie",
    "answerCount": 30
@@ -329,7 +329,7 @@
   {
    "id": "king-items",
    "prompt": "Name an item a Liquor King has owned or found",
-   "blurb": "Crowns, relics, loot, lube. Anything that ended up in a King's pockets.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Richard Cumhardy's Seaman Eyeglass",
    "answerCount": 43
@@ -337,7 +337,7 @@
   {
    "id": "king-jack",
    "prompt": "Name something tied to Jack Anqoak",
-   "blurb": "The thief from Gyntonick: his family, his company, his ship and his soul.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Rum (his brother)",
    "answerCount": 25
@@ -345,7 +345,7 @@
   {
    "id": "king-jagerbauhm",
    "prompt": "Name something tied to Jagerbauhm",
-   "blurb": "The Drunken Angel from Shanty Town and Providence, who flew into a hell portal.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Iron golems",
    "answerCount": 22
@@ -353,7 +353,7 @@
   {
    "id": "king-jp",
    "prompt": "Name something tied to Jameson Pilsner",
-   "blurb": "JP: born in a whiskey-soaked field, sworn against IPAs, convicted of killing Peg Butt.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Max Trans",
    "answerCount": 26
@@ -361,7 +361,7 @@
   {
    "id": "king-seamus",
    "prompt": "Name something tied to Seamus Bonehardy",
-   "blurb": "His past, his ship, his crew, his campaign and his time in office.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Letters to his mother",
    "answerCount": 27
@@ -369,7 +369,7 @@
   {
    "id": "kings-before-six",
    "prompt": "Name a Liquor King who ruled before the Six",
-   "blurb": "Any crowned winner from the pre-history kings through Scipium Ofkra.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Beef",
    "answerCount": 30
@@ -377,7 +377,7 @@
   {
    "id": "lagendale",
    "prompt": "Name something from the history of Lagendale",
-   "blurb": "The lost empire under Hoegaarden: its people, places, rituals and relics.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Solen River",
    "answerCount": 28
@@ -385,7 +385,7 @@
   {
    "id": "landmarks",
    "prompt": "Name a mountain, forest, body of water or desert",
-   "blurb": "The natural lay of the land, from the Breakback range to the eleven seas.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Callus Peaks",
    "answerCount": 22
@@ -537,7 +537,7 @@
   {
    "id": "liquor-kings",
    "prompt": "Name a Liquor King",
-   "blurb": "Any era: the Six, or any crowned winner of the Drunken Trials.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Beef",
    "answerCount": 36
@@ -545,7 +545,7 @@
   {
    "id": "named-after",
    "prompt": "Name something named after a person",
-   "blurb": "Sackbeard's this, Wagwan's that: anything that carries someone's name.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Moby's TNT crew",
    "answerCount": 40
@@ -553,7 +553,7 @@
   {
    "id": "named-once",
    "prompt": "Name something mentioned exactly once in all the lore",
-   "blurb": "One mention across both documents. Anything else scores zero.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "The underground tummy ache",
    "answerCount": 426
@@ -561,7 +561,7 @@
   {
    "id": "nicknames",
    "prompt": "Name a nickname, alias or epithet",
-   "blurb": "Titles, slurs, pseudonyms and pet names. Not the real name.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Throbbin Hood",
    "answerCount": 39
@@ -569,7 +569,7 @@
   {
    "id": "numbers",
    "prompt": "Name a number that matters in the lore",
-   "blurb": "Council seats, pints chugged, days in a Keg. Type the number.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "23",
    "answerCount": 30
@@ -577,7 +577,7 @@
   {
    "id": "ode-to-the-six",
    "prompt": "Name something mentioned in \"Ode to the Six\"",
-   "blurb": "Seamus's drunken ballad of the Kings' whole story. Anything it names counts.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Dragons of ink",
    "answerCount": 29
@@ -585,7 +585,7 @@
   {
    "id": "one-name",
    "prompt": "Name a character who goes by only one name",
-   "blurb": "No surname, no title. Just the one word.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Head",
    "answerCount": 39
@@ -609,7 +609,7 @@
   {
    "id": "pirates",
    "prompt": "Name a pirate",
-   "blurb": "Captains, crews, mutineers and retired cliff-dwellers. If they sailed for plunder, they count.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "The lone captain",
    "answerCount": 22
@@ -617,7 +617,7 @@
   {
    "id": "place-cloister",
    "prompt": "Name something tied to the Cloister",
-   "blurb": "The old monks' hall above a beast's prison and a door to hell.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "The wizard's curse",
    "answerCount": 20
@@ -625,7 +625,7 @@
   {
    "id": "place-factory",
    "prompt": "Name something tied to the Factory",
-   "blurb": "Orchenk Manufactory, where the Nethergate tore open and never closed.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Mutated experiments",
    "answerCount": 20
@@ -633,7 +633,7 @@
   {
    "id": "place-gilded-tankard",
    "prompt": "Name something tied to the Gilded Tankard",
-   "blurb": "Aleforge's great inn and brewery, home of the Drunken Trials' ale.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Names etched in the walls",
    "answerCount": 20
@@ -641,7 +641,7 @@
   {
    "id": "place-hoegaarden",
    "prompt": "Name something tied to Hoegaarden Library",
-   "blurb": "The oldest library in the Isles, and what's buried beneath it.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Presentation room B",
    "answerCount": 23
@@ -649,7 +649,7 @@
   {
    "id": "place-mystic",
    "prompt": "Name something tied to New Haven, the Shrines or the beast skeletons",
-   "blurb": "The amethyst network nobody fully understands yet.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "The toothed skull",
    "answerCount": 22
@@ -657,7 +657,7 @@
   {
    "id": "place-shanty-town",
    "prompt": "Name something tied to Shanty Town",
-   "blurb": "The pirate cliff town built from wrecks, bones and grog.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "La-Di-Da Street",
    "answerCount": 27
@@ -665,7 +665,7 @@
   {
    "id": "policies",
    "prompt": "Name an Aleforge policy, law or campaign promise",
-   "blurb": "Enacted by a mayor, passed by the Kings, or shouted from a campaign stage.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Drunk Delivery",
    "answerCount": 37
@@ -673,7 +673,7 @@
   {
    "id": "providence-people",
    "prompt": "Name someone from Providence or Owe Block",
-   "blurb": "Tonic-drinking clergy, shopkeepers, gang bosses and the people who run from them.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Aberama Bong",
    "answerCount": 25
@@ -681,7 +681,7 @@
   {
    "id": "providence-spots",
    "prompt": "Name a place in Providence or Owe Block",
-   "blurb": "Spires, streets, shops, mines and the burger joint under a crooked manor.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Bucket's Burgers",
    "answerCount": 23
@@ -689,7 +689,7 @@
   {
    "id": "punishments",
    "prompt": "Name a punishment or sentence",
-   "blurb": "Exile, jail, sobriety, or worse: becoming Rollo's girlfriend.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Extra kitchen duty",
    "answerCount": 21
@@ -697,7 +697,7 @@
   {
    "id": "ranks-titles",
    "prompt": "Name a rank, title or office",
-   "blurb": "From Providence's church ladder to the Bellows Nation's brew-right. The title, not the person.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Kalifart",
    "answerCount": 30
@@ -705,7 +705,7 @@
   {
    "id": "realms",
    "prompt": "Name a town, nation or realm",
-   "blurb": "Settlements, empires, islands, and planes of existence you'd rather not visit.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Name",
    "answerCount": 22
@@ -713,7 +713,7 @@
   {
    "id": "records-only",
    "prompt": "Name a character who appears only in the Hall of Records",
-   "blurb": "Never once named in the Master Lore Compendium. Only in the after-action reports and in-game books.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Moby",
    "answerCount": 27
@@ -721,7 +721,7 @@
   {
    "id": "relics",
    "prompt": "Name a relic or magical artifact",
-   "blurb": "Scarabs, glyphs, bells, cursed blades, and things best left in the vault.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Dementing Scarab",
    "answerCount": 34
@@ -729,7 +729,7 @@
   {
    "id": "roto-bellows",
    "prompt": "Name something from Roto Kaiishi or the Southern Bellows Nation",
-   "blurb": "The floating free market and the fog-wrapped nation of terrible IPAs.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Blowish",
    "answerCount": 25
@@ -737,7 +737,7 @@
   {
    "id": "sackbeard",
    "prompt": "Name something tied to Sackbeard",
-   "blurb": "His ships, his crew, his kills, his loot, his songs and his betrayal.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Baby kraken",
    "answerCount": 26
@@ -745,7 +745,7 @@
   {
    "id": "scholars-mystics",
    "prompt": "Name a scholar, mystic or holy figure",
-   "blurb": "Prophets, priests, witches, oracles, librarians and the occasional mage with a telescope.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Aldric Pen",
    "answerCount": 26
@@ -753,7 +753,7 @@
   {
    "id": "ships-crews",
    "prompt": "Name a ship, crew or sea captain",
-   "blurb": "Hulls, sky ships, submarines, the crews aboard them, and whoever's at the wheel.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "The Bellboy's Boner",
    "answerCount": 27
@@ -761,7 +761,7 @@
   {
    "id": "songs",
    "prompt": "Name a song, poem or chant",
-   "blurb": "Ballads, anthems, campaign songs, lullabies and freestyle bars from the Isles.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Hush Now, Love",
    "answerCount": 19
@@ -769,7 +769,7 @@
   {
    "id": "station-crew",
    "prompt": "Name someone aboard Maximilian's space station",
-   "blurb": "Crew, captives, or the master himself. From the Liquor King Trials.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Fulbert",
    "answerCount": 29
@@ -777,7 +777,7 @@
   {
    "id": "station-gear",
    "prompt": "Name a piece of gear or tech from Maximilian's space station",
-   "blurb": "Keycards, suits, consoles and contraptions from the Liquor King Trials.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Fuse Reset Rod",
    "answerCount": 28
@@ -785,7 +785,7 @@
   {
    "id": "station-rooms",
    "prompt": "Name a room or section of Maximilian's space station",
-   "blurb": "Where the Kings woke up, crawled around, died repeatedly, and finally fought Max.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Bussy module",
    "answerCount": 27
@@ -793,7 +793,7 @@
   {
    "id": "taverns",
    "prompt": "Name a tavern, bar or inn",
-   "blurb": "Anywhere a pint gets poured, on the Isles or on the road there.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "The Last Drop",
    "answerCount": 19
@@ -801,7 +801,7 @@
   {
    "id": "the-departed",
    "prompt": "Name a character who has died",
-   "blurb": "Murdered, executed, forgotten in a cage, or poisoned by drink.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Geoffrey Dingle",
    "answerCount": 35
@@ -809,7 +809,7 @@
   {
    "id": "the-epithets",
    "prompt": "Name a character known as \"the something\"",
-   "blurb": "Brannock the Drunk, Vlad the Kisser: a name with a title tacked on the end.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Wendell the Democrator",
    "answerCount": 22
@@ -817,7 +817,7 @@
   {
    "id": "tied-gideon",
    "prompt": "Name something tied to Gideon Drake",
-   "blurb": "The Bastard Veil: first mate, mayor, murderer, exile.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Exotic rum",
    "answerCount": 28
@@ -825,7 +825,7 @@
   {
    "id": "tied-maa",
    "prompt": "Name something tied to the MAA or MAMA",
-   "blurb": "The prohibitionists, their massacre, and the movement that rose from it.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "The power to sober",
    "answerCount": 20
@@ -833,7 +833,7 @@
   {
    "id": "tied-maximilian",
    "prompt": "Name something tied to Maximilian",
-   "blurb": "The MAA orphan who made a deal with the devil and built a hell in orbit.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Armor of cursed bone",
    "answerCount": 24
@@ -841,7 +841,7 @@
   {
    "id": "tied-patmos",
    "prompt": "Name something tied to the Church of Patmos",
-   "blurb": "Providence's religion: its ranks, rites, holidays and missionaries.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Unknownism",
    "answerCount": 26
@@ -849,7 +849,7 @@
   {
    "id": "tied-pour-eternal",
    "prompt": "Name something tied to the Pour Eternal legend",
-   "blurb": "Shanty Town's tale of a cursed cask and six scattered maps.",
+   "blurb": "",
    "difficulty": "hard",
    "gem": "Powdered gold",
    "answerCount": 19
@@ -857,7 +857,7 @@
   {
    "id": "tied-rollo",
    "prompt": "Name something tied to Rollo",
-   "blurb": "The Gilded Tankard's tavern hand, his Newports and his many, many exes.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "The ick",
    "answerCount": 19
@@ -865,7 +865,7 @@
   {
    "id": "tied-thatcher",
    "prompt": "Name something tied to Thomas Thatcher",
-   "blurb": "Aleforge's beloved mayor, and the Kings' most famous mistake.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Variable brewers tax",
    "answerCount": 19
@@ -873,7 +873,7 @@
   {
    "id": "tied-tonic",
    "prompt": "Name something tied to ClockHeart Tonic",
-   "blurb": "Providence's holy, sleepless, much-smuggled drink.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "The Hangover bell",
    "answerCount": 22
@@ -881,7 +881,7 @@
   {
    "id": "tied-wepple",
    "prompt": "Name something tied to Glub Tuppus Wepple",
-   "blurb": "The Gilded Tankard's gruff, gambling brewmaster.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "A fateful tourist",
    "answerCount": 21
@@ -889,7 +889,7 @@
   {
    "id": "titled",
    "prompt": "Name a character known by a title (Sir, Lady, Captain…)",
-   "blurb": "Use the title as part of the answer: Sister Bertha, not Bertha.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Constable Jökulsson",
    "answerCount": 21
@@ -897,7 +897,7 @@
   {
    "id": "traded-goods",
    "prompt": "Name something bought, sold or traded",
-   "blurb": "Exports, imports, contraband and currency of the Isles.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Wolendi wind",
    "answerCount": 29
@@ -905,7 +905,7 @@
   {
    "id": "tradesfolk",
    "prompt": "Name a merchant, barkeep or tradesman",
-   "blurb": "Anyone who sells, pours, farms, paints, or otherwise works for a living.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Keg Minster",
    "answerCount": 35
@@ -913,7 +913,7 @@
   {
    "id": "travel",
    "prompt": "Name a way to get around",
-   "blurb": "Ships, sky ships, gliders, submarines, horses, warps and one ale-powered balloon.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "The stolen rowboat",
    "answerCount": 22
@@ -921,7 +921,7 @@
   {
    "id": "underground",
    "prompt": "Name something underground",
-   "blurb": "Cellars, catacombs, caves, mines and things that are best left buried.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "The demonic altar",
    "answerCount": 20
@@ -929,7 +929,7 @@
   {
    "id": "veilwalker-lore",
    "prompt": "Name something tied to the Veilwalkers",
-   "blurb": "Their home, their customs, their kin, their curses and the people who crossed them.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Spiritweed",
    "answerCount": 29
@@ -937,7 +937,7 @@
   {
    "id": "villains",
    "prompt": "Name a villain or antagonist",
-   "blurb": "Anyone or anything that set out to ruin the Kings, the Isles, or at least their night.",
+   "blurb": "",
    "difficulty": "easy",
    "gem": "Gilligan Rape",
    "answerCount": 25
@@ -945,7 +945,7 @@
   {
    "id": "ways-died",
    "prompt": "Name a way someone died",
-   "blurb": "How the dead got that way: traps, gas leaks, lava, brewing accidents, a horse fire.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Brewing accident",
    "answerCount": 19
@@ -953,7 +953,7 @@
   {
    "id": "weapons",
    "prompt": "Name a weapon",
-   "blurb": "Blades, blickys, cursed spears, and whatever else someone swung in anger.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Wagwan's Whopper",
    "answerCount": 24
@@ -961,7 +961,7 @@
   {
    "id": "wearables",
    "prompt": "Name something you can wear",
-   "blurb": "Armor, crowns, durags, suits, scarves, and one cloak of human skin.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "The blue yarmulke",
    "answerCount": 24
@@ -969,7 +969,7 @@
   {
    "id": "women",
    "prompt": "Name a woman from the lore",
-   "blurb": "Queens, witches, mothers, crew, and the occasional head of a terrorist group.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Maria Telkes",
    "answerCount": 18
@@ -977,7 +977,7 @@
   {
    "id": "writers",
    "prompt": "Name someone whose writing appears in the lore",
-   "blurb": "Reports, diaries, letters, songs, journals, HR complaints. If they wrote it down, they count.",
+   "blurb": "",
    "difficulty": "medium",
    "gem": "Jerry",
    "answerCount": 32

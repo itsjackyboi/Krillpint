@@ -1,7 +1,6 @@
 {
   "id": "the-departed",
   "prompt": "Name a character who has died",
-  "blurb": "Murdered, executed, forgotten in a cage, or poisoned by drink.",
   "difficulty": "easy",
   "gem": "Geoffrey Dingle",
   "distinct": [["Scab Plindor I", "Scab Plindor II"]],

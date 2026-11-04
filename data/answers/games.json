@@ -1,7 +1,7 @@
 {
  "id": "games",
  "prompt": "Name a game, contest or sport",
- "blurb": "Ways the Isles compete, gamble, or settle things.",
+ "blurb": "",
  "difficulty": "medium",
  "gem": "Tic-tac-toe",
  "answerCount": 20,

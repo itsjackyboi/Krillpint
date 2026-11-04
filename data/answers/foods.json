@@ -1,7 +1,7 @@
 {
  "id": "foods",
  "prompt": "Name a food",
- "blurb": "Anything eaten in the lore, however unappetizing.",
+ "blurb": "",
  "difficulty": "medium",
  "gem": "Sapgetti",
  "answerCount": 20,

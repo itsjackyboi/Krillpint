@@ -1,7 +1,6 @@
 {
   "id": "kings-before-six",
   "prompt": "Name a Liquor King who ruled before the Six",
-  "blurb": "Any crowned winner from the pre-history kings through Scipium Ofkra.",
   "difficulty": "hard",
   "gem": "Beef",
   "distinct": [["Scab Plindor I", "Scab Plindor II"]],

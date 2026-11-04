@@ -1,7 +1,6 @@
 {
   "id": "one-name",
   "prompt": "Name a character who goes by only one name",
-  "blurb": "No surname, no title. Just the one word.",
   "difficulty": "medium",
   "gem": "Head",
   "answers": [

@@ -276,7 +276,7 @@
         </div>
         <div class="clock-bar" aria-hidden="true"><span id="clock-bar" style="width:${(secondsLeft(i) / QUESTION_SECONDS) * 100}%"></span></div>
         <h2 class="prompt" id="prompt-title">${esc(cat.prompt)}</h2>
-        <p class="blurb">${esc(cat.blurb)}</p>
+        ${cat.blurb ? `<p class="blurb">${esc(cat.blurb)}</p>` : ""}
         <form class="answer-form" id="answer-form" autocomplete="off" novalidate>
           <label for="answer">Your answer</label>
           <div class="input-row">

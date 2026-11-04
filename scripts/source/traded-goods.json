@@ -1,7 +1,6 @@
 {
   "id": "traded-goods",
   "prompt": "Name something bought, sold or traded",
-  "blurb": "Exports, imports, contraband and currency of the Isles.",
   "difficulty": "medium",
   "gem": "Wolendi wind",
   "distinct": [["Grog", "Cheap grog"]],

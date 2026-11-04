@@ -1,7 +1,7 @@
 {
  "id": "jobs",
  "prompt": "Name a job or trade someone in the lore has",
- "blurb": "Brewers, bouncers, bards, wind farmers. The work, not the worker.",
+ "blurb": "",
  "difficulty": "medium",
  "gem": "Wind farmer",
  "answerCount": 34,

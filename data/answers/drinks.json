@@ -1,7 +1,7 @@
 {
  "id": "drinks",
  "prompt": "Name a drink or brew",
- "blurb": "Anything poured, chugged, tithed, or banned somewhere in the Isles.",
+ "blurb": "",
  "difficulty": "easy",
  "gem": "Stormtide Ale",
  "answerCount": 28,

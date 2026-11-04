@@ -1,7 +1,7 @@
 {
  "id": "numbers",
  "prompt": "Name a number that matters in the lore",
- "blurb": "Council seats, pints chugged, days in a Keg. Type the number.",
+ "blurb": "",
  "difficulty": "hard",
  "gem": "23",
  "answerCount": 30,

@@ -1,7 +1,6 @@
 {
   "id": "events",
   "prompt": "Name a historical event or era",
-  "blurb": "Wars, dynasties, disasters, massacres, trials and one very unfortunate mute button.",
   "difficulty": "medium",
   "gem": "Mute Gate",
   "answers": [

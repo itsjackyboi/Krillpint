@@ -1,7 +1,7 @@
 {
  "id": "landmarks",
  "prompt": "Name a mountain, forest, body of water or desert",
- "blurb": "The natural lay of the land, from the Breakback range to the eleven seas.",
+ "blurb": "",
  "difficulty": "medium",
  "gem": "Callus Peaks",
  "answerCount": 22,

@@ -1,7 +1,6 @@
 {
   "id": "foods",
   "prompt": "Name a food",
-  "blurb": "Anything eaten in the lore, however unappetizing.",
   "difficulty": "medium",
   "gem": "Sapgetti",
   "distinct": [["Fish", "Fish guts"]],

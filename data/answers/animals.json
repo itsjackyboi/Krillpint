@@ -1,7 +1,7 @@
 {
  "id": "animals",
  "prompt": "Name an animal from the lore",
- "blurb": "Pets, mounts, mules, a worm named Clancy, and one very unlucky cow. Not monsters.",
+ "blurb": "",
  "difficulty": "easy",
  "gem": "Clancy",
  "answerCount": 21,

@@ -1,7 +1,6 @@
 {
   "id": "calendar",
   "prompt": "Name a holiday, keg-day or season",
-  "blurb": "Anything on the Pintland calendar: the nine days of the Keg, the three seasons, or a feast.",
   "difficulty": "medium",
   "gem": "Feast of the Eternal Keg",
   "answers": [
